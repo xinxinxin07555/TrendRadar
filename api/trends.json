@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T22:18:10.393915+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2025-12-31T23:18:51.914216+08:00",
+  "total_titles_processed": 1892,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 23时18分]"
         },
         {
           "title": "江苏卫视跨年演唱会",
@@ -29,11 +29,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            10
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时18分]"
+        },
+        {
+          "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%A7%80%E5%97%A8%E7%BF%BB%E5%85%A8%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时18分]"
+          "time_info": "[21时31分 ~ 23时18分]"
         },
         {
           "title": "张杰跨年演唱会直播",
@@ -59,17 +72,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时16分 ~ 21时31分]"
-        },
-        {
-          "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
-          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%A7%80%E5%97%A8%E7%BF%BB%E5%85%A8%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时18分]"
         },
         {
           "title": "周深演唱会",
