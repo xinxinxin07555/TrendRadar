@@ -1,99 +1,33 @@
 {
-  "generated_at": "2025-12-31T23:18:51.914216+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2026-01-01T00:22:59.771021+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "湖南卫视跨年演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=16&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            16,
-            2,
-            1,
-            29,
-            7,
-            4
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 23时18分]"
-        },
-        {
-          "title": "江苏卫视跨年演唱会",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时37分 ~ 23时18分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%A7%80%E5%97%A8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时31分 ~ 23时18分]"
-        },
-        {
-          "title": "张杰跨年演唱会直播",
-          "url": "https://www.douyin.com/hot/2353303",
-          "source": "抖音",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时31分]"
-        },
-        {
-          "title": "邓紫棋跨年演唱会",
-          "url": "https://www.douyin.com/hot/2353143",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时31分]"
-        },
-        {
-          "title": "周深演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "跨年演唱会不能没有张家人",
-          "url": "https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%AE%B6%E4%BA%BA&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "time_info": "00时22分"
         }
       ]
     }
