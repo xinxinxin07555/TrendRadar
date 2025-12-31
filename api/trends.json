@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T18:19:57.246801+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2025-12-31T19:17:04.375228+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "湖南卫视跨年演唱会",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 07时25分]"
+        },
+        {
+          "title": "张杰跨年演唱会直播",
+          "url": "https://www.douyin.com/hot/2353303",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
+        },
+        {
+          "title": "邓紫棋跨年演唱会",
+          "url": "https://www.douyin.com/hot/2353143",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 19时17分]"
         },
         {
           "title": "周深演唱会",
