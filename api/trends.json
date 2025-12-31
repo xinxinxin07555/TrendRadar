@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T21:31:46.036391+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2025-12-31T22:18:10.393915+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,24 @@
             2,
             1,
             29,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 22时18分]"
+        },
+        {
+          "title": "江苏卫视跨年演唱会",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时37分 ~ 22时18分]"
         },
         {
           "title": "张杰跨年演唱会直播",
@@ -48,27 +61,15 @@
           "time_info": "[19时16分 ~ 21时31分]"
         },
         {
-          "title": "江苏卫视跨年演唱会",
-          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时31分]"
-        },
-        {
           "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%A7%80%E5%97%A8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时18分]"
         },
         {
           "title": "周深演唱会",
@@ -88,7 +89,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         }
