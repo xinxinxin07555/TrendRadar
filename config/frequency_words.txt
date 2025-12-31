@@ -8,6 +8,9 @@ gemini
 chatgpt
 openai
 
+技术
+开发
+
 金价
 
 黄金
