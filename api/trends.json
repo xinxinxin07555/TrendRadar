@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-01T11:48:21.713804+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-01-01T12:45:45.676319+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀",
       "match_count": 5,
       "titles": [
+        {
+          "title": "终于轮到我看跨年演唱会",
+          "url": "https://www.douyin.com/hot/2353201",
+          "source": "抖音",
+          "ranks": [
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 12时45分]"
+        },
         {
           "title": "湖南卫视跨年演唱会",
           "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=12&Refer=top",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "终于轮到我看跨年演唱会",
-          "url": "https://www.douyin.com/hot/2353201",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时25分]"
         },
         {
           "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
