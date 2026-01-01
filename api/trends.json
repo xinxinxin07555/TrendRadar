@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T00:22:56.467668+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-02T01:17:43.933599+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "陶喆：终于等到了我的华语乐“檀”",
+          "url": "https://www.douyin.com/hot/2354285",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
           "title": "张艺兴跨年演唱会舞台4K饭拍",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B04K%E9%A5%AD%E6%8B%8D",
           "source": "bilibili 热搜",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "陶喆：终于等到了我的华语乐“檀”",
-          "url": "https://www.douyin.com/hot/2354285",
-          "source": "抖音",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
