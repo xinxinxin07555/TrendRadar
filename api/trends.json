@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-01T17:22:24.783650+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-01-01T18:20:35.385177+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀",
       "match_count": 8,
       "titles": [
+        {
+          "title": "张艺兴跨年演唱会舞台4K饭拍",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B04K%E9%A5%AD%E6%8B%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            25,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 18时20分]"
+        },
         {
           "title": "终于轮到我看跨年演唱会",
           "url": "https://www.douyin.com/hot/2353201",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时25分 ~ 16时26分]"
-        },
-        {
-          "title": "张艺兴跨年演唱会舞台4K饭拍",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E8%89%BA%E5%85%B4%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B04K%E9%A5%AD%E6%8B%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 17时22分]"
         },
         {
           "title": "湖南卫视跨年演唱会",
@@ -81,6 +82,18 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
+          "title": "陶喆：终于等到了我的华语乐“檀”",
+          "url": "https://www.douyin.com/hot/2354285",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时20分]"
+        },
+        {
           "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E7%A7%80%E5%97%A8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "百度热搜",
@@ -90,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "陶喆：终于等到了我的华语乐“檀”",
-          "url": "https://www.douyin.com/hot/2354285",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         }
       ]
     }
