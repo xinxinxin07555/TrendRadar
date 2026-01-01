@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T22:17:55.683162+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2026-01-01T23:19:13.595182+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 22时17分]"
+          "appearance_count": 11,
+          "time_info": "[14时29分 ~ 23时19分]"
         },
         {
           "title": "张韶涵欧若拉唤醒青春",
@@ -44,11 +44,12 @@
             19,
             27,
             29,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[09时29分 ~ 23时19分]"
         },
         {
           "title": "陶喆：终于等到了我的华语乐“檀”",
@@ -59,11 +60,12 @@
             28,
             27,
             25,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时22分 ~ 22时17分]"
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时19分]"
         },
         {
           "title": "终于轮到我看跨年演唱会",
@@ -79,6 +81,18 @@
           "time_info": "[01时16分 ~ 15时21分]"
         },
         {
+          "title": "四川卫视新年演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E6%96%B0%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时19分]"
+        },
+        {
           "title": "如何评价湖南卫视 2026 年跨年演唱会？",
           "url": "https://www.zhihu.com/question/1989637642535605763",
           "source": "知乎",
@@ -90,18 +104,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时25分 ~ 16时26分]"
-        },
-        {
-          "title": "四川卫视新年演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E6%96%B0%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时37分 ~ 22时17分]"
         },
         {
           "title": "湖南卫视跨年演唱会",
