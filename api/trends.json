@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T18:20:35.385177+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-01-01T19:16:32.746086+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 18时20分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 19时16分]"
         },
         {
           "title": "终于轮到我看跨年演唱会",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时25分 ~ 16时26分]"
+        },
+        {
+          "title": "陶喆：终于等到了我的华语乐“檀”",
+          "url": "https://www.douyin.com/hot/2354285",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "湖南卫视跨年演唱会",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "陶喆：终于等到了我的华语乐“檀”",
-          "url": "https://www.douyin.com/hot/2354285",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时20分]"
         },
         {
           "title": "湖南卫视跨年演唱会开场秀嗨翻全场",
