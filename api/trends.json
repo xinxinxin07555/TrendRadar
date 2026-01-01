@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:32:38.967374+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-01-01T22:17:55.683162+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 22时17分]"
         },
         {
           "title": "张韶涵欧若拉唤醒青春",
@@ -49,6 +49,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时29分 ~ 17时22分]"
+        },
+        {
+          "title": "陶喆：终于等到了我的华语乐“檀”",
+          "url": "https://www.douyin.com/hot/2354285",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28,
+            27,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 22时17分]"
         },
         {
           "title": "终于轮到我看跨年演唱会",
@@ -77,30 +92,16 @@
           "time_info": "[13时25分 ~ 16时26分]"
         },
         {
-          "title": "陶喆：终于等到了我的华语乐“檀”",
-          "url": "https://www.douyin.com/hot/2354285",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28,
-            27,
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 21时32分]"
-        },
-        {
           "title": "四川卫视新年演唱会",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E6%96%B0%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时17分]"
         },
         {
           "title": "湖南卫视跨年演唱会",
@@ -154,7 +155,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
