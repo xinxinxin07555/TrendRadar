@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:17:35.928227+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-01-02T06:17:50.751808+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             24,
             23,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "张艺兴跨年演唱会舞台4K饭拍",
@@ -26,22 +27,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "张韶涵王铮亮联手献唱原神",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E8%81%94%E6%89%8B%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 06时17分]"
         },
         {
           "title": "张韶涵欧若拉唤醒青春",
