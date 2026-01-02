@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T06:18:27.557285+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-03T07:17:26.764780+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 07时17分]"
         },
         {
           "title": "汪苏泷 我们",
