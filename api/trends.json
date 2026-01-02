@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T16:26:05.127269+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-02T17:22:36.153914+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,17 @@
           "time_info": "[11时28分 ~ 13时23分]"
         },
         {
+          "title": "陶喆檀健次合唱效果拉满",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%88%E5%94%B1%E6%95%88%E6%9E%9C%E6%8B%89%E6%BB%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 17时22分]"
+        },
+        {
           "title": "朝鲜举行新年庆祝演出",
           "url": "https://www.toutiao.com/trending/7589497676971720755/",
           "source": "今日头条",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 14时31分]"
-        },
-        {
-          "title": "陶喆檀健次合唱效果拉满",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%88%E5%94%B1%E6%95%88%E6%9E%9C%E6%8B%89%E6%BB%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "华晨宇 Per哥也来祝大家元旦快乐",
