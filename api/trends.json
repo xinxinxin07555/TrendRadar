@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:16:51.621722+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-01-02T20:36:08.095854+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -115,6 +115,18 @@
           "time_info": "[14时29分 ~ 18时19分]"
         },
         {
+          "title": "跨年在家看了场张杰演唱会",
+          "url": "https://www.douyin.com/hot/2355153",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时36分]"
+        },
+        {
           "title": "周深高音夯爆了",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%AB%98%E9%9F%B3%E5%A4%AF%E7%88%86%E4%BA%86",
           "source": "bilibili 热搜",
@@ -166,17 +178,6 @@
           "source": "微博",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "跨年在家看了场张杰演唱会",
-          "url": "https://www.douyin.com/hot/2355153",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
