@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T22:18:59.335818+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-01-02T23:19:43.200347+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
@@ -90,6 +90,18 @@
           "time_info": "[02时26分 ~ 09时23分]"
         },
         {
+          "title": "跨年在家看了场张杰演唱会",
+          "url": "https://www.douyin.com/hot/2355153",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 23时19分]"
+        },
+        {
           "title": "金正恩携家人出席新年庆祝演出",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%AE%B6%E4%BA%BA%E5%87%BA%E5%B8%AD%E6%96%B0%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%BC%94%E5%87%BA",
           "source": "bilibili 热搜",
@@ -113,18 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时29分 ~ 18时19分]"
-        },
-        {
-          "title": "跨年在家看了场张杰演唱会",
-          "url": "https://www.douyin.com/hot/2355153",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时36分]"
         },
         {
           "title": "周深高音夯爆了",
