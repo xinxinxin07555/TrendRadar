@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:22:31.917849+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-01-02T16:26:05.127269+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "陶喆：终于等到了我的华语乐“檀”",
@@ -53,6 +53,18 @@
           "time_info": "[09时23分 ~ 14时31分]"
         },
         {
+          "title": "锐评张韶涵王铮亮原神舞台",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E5%8E%9F%E7%A5%9E%E8%88%9E%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时26分]"
+        },
+        {
           "title": "张韶涵王铮亮联手献唱原神",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E8%81%94%E6%89%8B%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E",
           "source": "bilibili 热搜",
@@ -79,17 +91,6 @@
           "time_info": "[11时28分 ~ 13时23分]"
         },
         {
-          "title": "锐评张韶涵王铮亮原神舞台",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E5%8E%9F%E7%A5%9E%E8%88%9E%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时31分]"
-        },
-        {
           "title": "朝鲜举行新年庆祝演出",
           "url": "https://www.toutiao.com/trending/7589497676971720755/",
           "source": "今日头条",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 14时31分]"
+        },
+        {
+          "title": "陶喆檀健次合唱效果拉满",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%88%E5%94%B1%E6%95%88%E6%9E%9C%E6%8B%89%E6%BB%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
         },
         {
           "title": "华晨宇 Per哥也来祝大家元旦快乐",
