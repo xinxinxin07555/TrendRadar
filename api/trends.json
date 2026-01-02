@@ -1,29 +1,42 @@
 {
-  "generated_at": "2026-01-03T00:22:11.500769+08:00",
-  "total_titles_processed": 320,
+  "generated_at": "2026-01-03T01:17:08.846965+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "华晨宇南宁演唱会",
+          "url": "https://www.douyin.com/hot/2355580",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时17分]"
+        },
+        {
+          "title": "金正恩携家人出席新年庆祝演出",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%AE%B6%E4%BA%BA%E5%87%BA%E5%B8%AD%E6%96%B0%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%BC%94%E5%87%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
+        },
         {
           "title": "汪苏泷 我们",
           "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%88%91%E4%BB%AC&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
-        },
-        {
-          "title": "华晨宇南宁演唱会",
-          "url": "https://www.douyin.com/hot/2355580",
-          "source": "抖音",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
