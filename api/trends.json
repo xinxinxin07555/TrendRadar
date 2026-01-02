@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T03:13:09.811392+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-01-03T04:20:09.502855+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 03时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 04时20分]"
         },
         {
           "title": "金正恩携家人出席新年庆祝演出",
