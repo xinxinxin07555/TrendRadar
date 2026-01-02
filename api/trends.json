@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T18:19:19.167043+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-01-02T19:16:51.621722+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,18 @@
           "time_info": "[14时29分 ~ 16时26分]"
         },
         {
+          "title": "陶喆檀健次合唱效果拉满",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%88%E5%94%B1%E6%95%88%E6%9E%9C%E6%8B%89%E6%BB%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
           "title": "张韶涵王铮亮联手献唱原神",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%8E%8B%E9%93%AE%E4%BA%AE%E8%81%94%E6%89%8B%E7%8C%AE%E5%94%B1%E5%8E%9F%E7%A5%9E",
           "source": "bilibili 热搜",
@@ -103,15 +115,16 @@
           "time_info": "[14时29分 ~ 18时19分]"
         },
         {
-          "title": "陶喆檀健次合唱效果拉满",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%88%E5%94%B1%E6%95%88%E6%9E%9C%E6%8B%89%E6%BB%A1",
+          "title": "周深高音夯爆了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%AB%98%E9%9F%B3%E5%A4%AF%E7%88%86%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 17时22分]"
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时16分]"
         },
         {
           "title": "朝鲜举行新年庆祝演出",
@@ -148,24 +161,13 @@
           "time_info": "02时26分"
         },
         {
-          "title": "周深高音夯爆了",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%AB%98%E9%9F%B3%E5%A4%AF%E7%88%86%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "汪苏泷快把歌手2026首发凑齐了",
           "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BF%AB%E6%8A%8A%E6%AD%8C%E6%89%8B2026%E9%A6%96%E5%8F%91%E5%87%91%E9%BD%90%E4%BA%86&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -176,7 +178,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
