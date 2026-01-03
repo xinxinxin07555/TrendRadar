@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T16:23:53.932494+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-03T17:18:07.284727+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时21分 ~ 06时18分]"
         },
         {
+          "title": "周深周传雄终于合唱冬天的秘密了",
+          "url": "https://www.douyin.com/hot/2355899",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 17时18分]"
+        },
+        {
           "title": "金正恩携家人出席新年庆祝演出",
           "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%AE%B6%E4%BA%BA%E5%87%BA%E5%B8%AD%E6%96%B0%E5%B9%B4%E5%BA%86%E7%A5%9D%E6%BC%94%E5%87%BA",
           "source": "bilibili 热搜",
@@ -35,15 +47,16 @@
           "time_info": "[01时16分 ~ 11时21分]"
         },
         {
-          "title": "周深周传雄终于合唱冬天的秘密了",
-          "url": "https://www.douyin.com/hot/2355899",
-          "source": "抖音",
+          "title": "华晨宇演唱会告别火星乐园",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%8A%E5%88%AB%E7%81%AB%E6%98%9F%E4%B9%90%E5%9B%AD",
+          "source": "bilibili 热搜",
           "ranks": [
-            30
+            27,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时27分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时18分]"
         },
         {
           "title": "汪苏泷 我们",
@@ -88,17 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
-        },
-        {
-          "title": "华晨宇演唱会告别火星乐园",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%8A%E5%88%AB%E7%81%AB%E6%98%9F%E4%B9%90%E5%9B%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "跨年在家看了场张杰演唱会",
