@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T07:17:26.764780+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-01-03T09:18:54.802335+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "华晨宇南宁演唱会",
@@ -27,11 +27,12 @@
           "ranks": [
             25,
             11,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 07时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 09时18分]"
         },
         {
           "title": "汪苏泷 我们",
@@ -43,6 +44,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 00时22分]"
+        },
+        {
+          "title": "钟祥市文旅局回应“涉毒艺人参加演出”：机构已将其从演出名单中移除",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32292703",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "黄龄王赫野合唱大东北我的家乡",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%BE%84%E7%8E%8B%E8%B5%AB%E9%87%8E%E5%90%88%E5%94%B1%E5%A4%A7%E4%B8%9C%E5%8C%97%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "汪峰巡演仍在继续",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B3%B0%E5%B7%A1%E6%BC%94%E4%BB%8D%E5%9C%A8%E7%BB%A7%E7%BB%AD%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     }
