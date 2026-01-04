@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:46:53.132870+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-01-04T13:23:44.973496+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时40分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时40分 ~ 13时23分]"
         },
         {
           "title": "如何看待张杰不顾粉丝反对，在演唱会上与谢娜大秀恩爱？",
@@ -55,8 +56,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时23分]"
         },
         {
           "title": "周深地球没有你演唱会直拍",
@@ -122,7 +123,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
         }
