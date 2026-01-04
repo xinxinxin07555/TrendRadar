@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-04T13:23:44.973496+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-01-04T14:28:11.433891+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "网传周深白鹿下车敖瑞鹏翟子路补位",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%91%A8%E6%B7%B1%E7%99%BD%E9%B9%BF%E4%B8%8B%E8%BD%A6%E6%95%96%E7%91%9E%E9%B9%8F%E7%BF%9F%E5%AD%90%E8%B7%AF%E8%A1%A5%E4%BD%8D%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 14时28分]"
+        },
+        {
+          "title": "如何看待张杰不顾粉丝反对，在演唱会上与谢娜大秀恩爱？",
+          "url": "https://www.zhihu.com/question/1989856269885020055",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时28分]"
+        },
         {
           "title": "刘宇宁告别音乐缘计划",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%91%8A%E5%88%AB%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23&t=31&band_rank=30&Refer=top",
@@ -48,18 +71,6 @@
           "time_info": "[09时40分 ~ 13时23分]"
         },
         {
-          "title": "如何看待张杰不顾粉丝反对，在演唱会上与谢娜大秀恩爱？",
-          "url": "https://www.zhihu.com/question/1989856269885020055",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 13时23分]"
-        },
-        {
           "title": "周深地球没有你演唱会直拍",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E5%9C%B0%E7%90%83%E6%B2%A1%E6%9C%89%E4%BD%A0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%8B%8D",
           "source": "bilibili 热搜",
@@ -82,6 +93,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "顾客穿脏演出服退款 商家被迫销毁",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A9%BF%E8%84%8F%E6%BC%94%E5%87%BA%E6%9C%8D%E9%80%80%E6%AC%BE+%E5%95%86%E5%AE%B6%E8%A2%AB%E8%BF%AB%E9%94%80%E6%AF%81",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时28分]"
         },
         {
           "title": "何炅 我慢慢等到蔡依林的那一天",
@@ -115,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        },
-        {
-          "title": "顾客穿脏演出服退款 商家被迫销毁",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E7%A9%BF%E8%84%8F%E6%BC%94%E5%87%BA%E6%9C%8D%E9%80%80%E6%AC%BE+%E5%95%86%E5%AE%B6%E8%A2%AB%E8%BF%AB%E9%94%80%E6%AF%81",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
         }
       ]
     }
