@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T22:16:35.647113+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-01-04T23:17:18.304487+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时48分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[11时48分 ~ 23时17分]"
         },
         {
           "title": "梁静茹厦门演唱会现场",
@@ -52,11 +52,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时16分]"
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时17分]"
         },
         {
           "title": "刘宇宁告别音乐缘计划",
