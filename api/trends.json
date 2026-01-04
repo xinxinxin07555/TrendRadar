@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T16:23:58.719751+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-01-04T17:17:42.817800+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时48分 ~ 17时17分]"
         },
         {
           "title": "网传周深白鹿下车敖瑞鹏翟子路补位",
@@ -31,15 +31,18 @@
           "time_info": "[14时27分 ~ 14时28分]"
         },
         {
-          "title": "录完综艺总裁父亲主动向女儿道歉",
-          "url": "https://s.weibo.com/weibo?q=%E5%BD%95%E5%AE%8C%E7%BB%BC%E8%89%BA%E6%80%BB%E8%A3%81%E7%88%B6%E4%BA%B2%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E5%84%BF%E9%81%93%E6%AD%89&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "梁静茹厦门演唱会现场",
+          "url": "https://www.douyin.com/hot/2356406",
+          "source": "抖音",
           "ranks": [
-            2
+            24,
+            27,
+            25,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 17时17分]"
         },
         {
           "title": "刘宇宁告别音乐缘计划",
@@ -69,17 +72,16 @@
           "time_info": "[00时21分 ~ 03时14分]"
         },
         {
-          "title": "梁静茹厦门演唱会现场",
-          "url": "https://www.douyin.com/hot/2356406",
-          "source": "抖音",
+          "title": "录完综艺总裁父亲主动向女儿道歉",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%95%E5%AE%8C%E7%BB%BC%E8%89%BA%E6%80%BB%E8%A3%81%E7%88%B6%E4%BA%B2%E4%B8%BB%E5%8A%A8%E5%90%91%E5%A5%B3%E5%84%BF%E9%81%93%E6%AD%89&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            24,
-            27,
-            25
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 13时23分]"
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 17时17分]"
         },
         {
           "title": "周深地球没有你演唱会直拍",
@@ -92,6 +94,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 07时17分]"
+        },
+        {
+          "title": "林俊杰恋爱以后，出歌的质量与速度会和周杰伦一样吗？",
+          "url": "https://www.zhihu.com/question/1989105978457683662",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 17时17分]"
         },
         {
           "title": "8K全景视角打开华晨宇演唱会",
@@ -140,15 +153,16 @@
           "time_info": "[15时20分 ~ 16时23分]"
         },
         {
-          "title": "林俊杰恋爱以后，出歌的质量与速度会和周杰伦一样吗？",
-          "url": "https://www.zhihu.com/question/1989105978457683662",
-          "source": "知乎",
+          "title": "周深一个跨年唱了98首歌",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%B9%B4%E5%94%B1%E4%BA%8698%E9%A6%96%E6%AD%8C&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            14,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时20分 ~ 16时23分]"
+          "time_info": "[16时23分 ~ 17时17分]"
         },
         {
           "title": "王源说今年有全原创专辑",
@@ -160,17 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时14分]"
-        },
-        {
-          "title": "周深一个跨年唱了98首歌",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%B9%B4%E5%94%B1%E4%BA%8698%E9%A6%96%E6%AD%8C&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "孟子义回应周深周传雄合唱",
