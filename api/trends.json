@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T04:20:25.453275+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-05T05:16:45.032094+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "如何看待张杰不顾粉丝反对，在演唱会上与谢娜大秀恩爱？",
@@ -32,6 +32,20 @@
           "time_info": "[00时20分 ~ 04时20分]"
         },
         {
+          "title": "如何看待邓紫棋的科幻小说《启示路》入选银河奖最佳原创图书票选名单？",
+          "url": "https://www.zhihu.com/question/1990782273268777014",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时16分]"
+        },
+        {
           "title": "那英2026演唱会官宣",
           "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B12026%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 03时14分]"
-        },
-        {
-          "title": "如何看待邓紫棋的科幻小说《启示路》入选银河奖最佳原创图书票选名单？",
-          "url": "https://www.zhihu.com/question/1990782273268777014",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时20分]"
         },
         {
           "title": "孟子义回应周深周传雄合唱",
@@ -75,9 +76,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
         },
         {
           "title": "梁静茹厦门演唱会现场",
