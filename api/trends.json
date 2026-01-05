@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T04:22:49.747283+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-01-06T05:18:43.746032+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             17,
             13,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时18分]"
         },
         {
           "title": "王源客厅狂欢跨年演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%A2%E5%8E%85%E7%8B%82%E6%AC%A2%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 05时18分]"
         }
       ]
     }
