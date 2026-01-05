@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T09:29:41.541758+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-01-05T11:54:00.531263+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             12,
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 09时29分]"
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 11时54分]"
         },
         {
           "title": "歌剧老师评江苏跨年演唱会",
@@ -32,11 +33,12 @@
           "ranks": [
             10,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时54分]"
         },
         {
           "title": "如何看待张杰不顾粉丝反对，在演唱会上与谢娜大秀恩爱？",
