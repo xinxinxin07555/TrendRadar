@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T14:34:32.789928+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-01-05T15:26:46.194897+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -25,8 +25,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时15分 ~ 14时34分]"
+          "appearance_count": 15,
+          "time_info": "[01时15分 ~ 15时26分]"
         },
         {
           "title": "歌剧老师评江苏跨年演唱会",
@@ -82,6 +82,19 @@
           "time_info": "[04时20分 ~ 07时18分]"
         },
         {
+          "title": "那英2026演唱会官宣",
+          "url": "https://www.douyin.com/hot/2357520",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 15时26分]"
+        },
+        {
           "title": "孟子义回应周深周传雄合唱",
           "url": "https://www.douyin.com/hot/2356825",
           "source": "抖音",
@@ -103,18 +116,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 06时17分]"
-        },
-        {
-          "title": "那英2026演唱会官宣",
-          "url": "https://www.douyin.com/hot/2357520",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 14时34分]"
         },
         {
           "title": "40套演出服被家长退回28套 部分剪标",
