@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T15:26:46.194897+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-01-05T16:29:15.954102+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -22,11 +22,12 @@
             2,
             1,
             6,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时15分 ~ 15时26分]"
+          "appearance_count": 17,
+          "time_info": "[01时15分 ~ 16时29分]"
         },
         {
           "title": "歌剧老师评江苏跨年演唱会",
@@ -70,6 +71,19 @@
           "time_info": "[00时20分 ~ 03时14分]"
         },
         {
+          "title": "那英2026演唱会官宣",
+          "url": "https://www.douyin.com/hot/2357520",
+          "source": "抖音",
+          "ranks": [
+            28,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 16时29分]"
+        },
+        {
           "title": "纯人声陶喆檀健次版荷塘月色",
           "url": "https://search.bilibili.com/all?keyword=%E7%BA%AF%E4%BA%BA%E5%A3%B0%E9%99%B6%E5%96%86%E6%AA%80%E5%81%A5%E6%AC%A1%E7%89%88%E8%8D%B7%E5%A1%98%E6%9C%88%E8%89%B2",
           "source": "bilibili 热搜",
@@ -80,19 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时20分 ~ 07时18分]"
-        },
-        {
-          "title": "那英2026演唱会官宣",
-          "url": "https://www.douyin.com/hot/2357520",
-          "source": "抖音",
-          "ranks": [
-            28,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时55分 ~ 15时26分]"
         },
         {
           "title": "孟子义回应周深周传雄合唱",
