@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T05:18:43.746032+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-01-06T06:18:53.992717+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时18分]"
         },
         {
           "title": "王源客厅狂欢跨年演唱会",
@@ -31,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时18分]"
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时18分]"
         }
       ]
     }
