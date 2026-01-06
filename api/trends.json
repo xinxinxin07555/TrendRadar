@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T06:19:01.717925+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2026-01-07T07:18:29.268120+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             15,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 06时19分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 07时18分]"
         },
         {
           "title": "微博网友年度喜爱综艺",
