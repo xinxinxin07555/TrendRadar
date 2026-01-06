@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T12:37:54.436188+08:00",
-  "total_titles_processed": 1105,
+  "generated_at": "2026-01-06T13:23:32.644534+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[00时24分 ~ 07时18分]"
         },
         {
+          "title": "马上评｜邓紫棋入选银河奖：当代社会的共同体文化与传播悖论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32317415",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时23分]"
+        },
+        {
           "title": "王源客厅狂欢跨年演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%A2%E5%8E%85%E7%8B%82%E6%AC%A2%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -33,17 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时18分]"
-        },
-        {
-          "title": "马上评｜邓紫棋入选银河奖：当代社会的共同体文化与传播悖论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32317415",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时37分]"
         },
         {
           "title": "这种爱情至今为止内娱都没有演出来",
