@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T15:23:44.138081+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-01-07T16:26:50.319099+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时22分 ~ 15时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时22分 ~ 16时26分]"
         },
         {
           "title": "周深香港演唱会",
@@ -85,6 +85,18 @@
           "time_info": "[12时38分 ~ 13时23分]"
         },
         {
+          "title": "王源演唱会 防狼喷雾",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%20%E9%98%B2%E7%8B%BC%E5%96%B7%E9%9B%BE&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时26分]"
+        },
+        {
           "title": "王鹤棣DPARTY演唱会",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3DPARTY%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -97,15 +109,16 @@
           "time_info": "[12时38分 ~ 13时23分]"
         },
         {
-          "title": "王源演唱会 防狼喷雾",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%20%E9%98%B2%E7%8B%BC%E5%96%B7%E9%9B%BE&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "终于等到Tank开演唱会了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0Tank%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            28,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时23分 ~ 16时26分]"
         },
         {
           "title": "吴克群时隔四个月又去广西百色了",
@@ -117,17 +130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "终于等到Tank开演唱会了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0Tank%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时23分"
         }
       ]
     }
