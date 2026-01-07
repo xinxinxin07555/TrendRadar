@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T06:18:56.001338+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-01-08T07:18:43.967623+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 07时18分]"
         },
         {
           "title": "刘宇宁六块腹肌隐藏款",
@@ -28,7 +28,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
