@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T21:39:29.449787+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2026-01-08T22:23:22.708225+08:00",
+  "total_titles_processed": 2067,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[19时18分 ~ 21时39分]"
         },
         {
+          "title": "周深你驾驶证该换了",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%BD%A0%E9%A9%BE%E9%A9%B6%E8%AF%81%E8%AF%A5%E6%8D%A2%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时23分]"
+        },
+        {
           "title": "陶喆巡演官宣",
           "url": "https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -45,18 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时22分 ~ 14时31分]"
-        },
-        {
-          "title": "周深你驾驶证该换了",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%BD%A0%E9%A9%BE%E9%A9%B6%E8%AF%81%E8%AF%A5%E6%8D%A2%E4%BA%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时39分]"
         },
         {
           "title": "刘宇宁 男人最好的医美就是医美",
