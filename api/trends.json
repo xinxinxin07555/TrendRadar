@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T05:19:16.668411+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-01-10T06:19:24.538802+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             26,
             13,
             12,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "周兴哲黄霄雲用音乐打开房间",
@@ -32,11 +33,12 @@
             20,
             22,
             27,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 05时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "吴克群在广西剪完橘子又砍甘蔗",
@@ -45,11 +47,12 @@
           "ranks": [
             27,
             25,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时19分]"
         },
         {
           "title": "张信哲白小白致未来的你我",
