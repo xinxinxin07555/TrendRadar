@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T06:19:24.538802+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-01-10T07:18:47.080832+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             13,
             12,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时18分]"
         },
         {
           "title": "周兴哲黄霄雲用音乐打开房间",
@@ -34,11 +35,12 @@
             22,
             27,
             17,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时18分]"
         },
         {
           "title": "吴克群在广西剪完橘子又砍甘蔗",
@@ -51,8 +53,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 07时18分]"
         },
         {
           "title": "张信哲白小白致未来的你我",
@@ -61,11 +63,12 @@
           "ranks": [
             30,
             27,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 05时19分]"
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时18分]"
         },
         {
           "title": "邓紫棋破亚洲单巡纪录",
