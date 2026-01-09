@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T14:29:54.699977+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-01-09T15:23:43.370971+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "吴克群吃果剪果两不误",
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 15时23分]"
         },
         {
           "title": "刘宇宁称巡演成都站有小惊喜",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 06时19分]"
+        },
+        {
+          "title": "如何评价综艺《再见爱人 5》「全员下车」的大结局？和你预期的一样吗？",
+          "url": "https://www.zhihu.com/question/1992590439308624927",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     }
