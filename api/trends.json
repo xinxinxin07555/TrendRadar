@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T00:26:16.743411+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-10T01:21:36.188462+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,36 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E5%85%B4%E5%93%B2%E9%BB%84%E9%9C%84%E9%9B%B2%E7%94%A8%E9%9F%B3%E4%B9%90%E6%89%93%E5%BC%80%E6%88%BF%E9%97%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "吴克群在广西剪完橘子又砍甘蔗",
+          "url": "https://www.douyin.com/hot/2362179",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "王心凌穿了500条珠链在身上",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E7%A9%BF%E4%BA%86500%E6%9D%A1%E7%8F%A0%E9%93%BE%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 01时21分]"
         },
         {
           "title": "邓紫棋破亚洲单巡纪录",
@@ -24,28 +49,6 @@
           "source": "微博",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时26分]"
-        },
-        {
-          "title": "吴克群在广西剪完橘子又砍甘蔗",
-          "url": "https://www.douyin.com/hot/2362179",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时26分]"
-        },
-        {
-          "title": "王心凌穿了500条珠链在身上",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E7%A9%BF%E4%BA%86500%E6%9D%A1%E7%8F%A0%E9%93%BE%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
