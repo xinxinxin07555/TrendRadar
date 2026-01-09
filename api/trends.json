@@ -1,23 +1,38 @@
 {
-  "generated_at": "2026-01-10T02:28:39.804308+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-01-10T03:19:26.867958+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "王心凌穿了500条珠链在身上",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E7%A9%BF%E4%BA%86500%E6%9D%A1%E7%8F%A0%E9%93%BE%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            27,
+            26,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
+        },
         {
           "title": "周兴哲黄霄雲用音乐打开房间",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E5%85%B4%E5%93%B2%E9%BB%84%E9%9C%84%E9%9B%B2%E7%94%A8%E9%9F%B3%E4%B9%90%E6%89%93%E5%BC%80%E6%88%BF%E9%97%B4",
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "吴克群在广西剪完橘子又砍甘蔗",
@@ -29,21 +44,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "王心凌穿了500条珠链在身上",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E7%A9%BF%E4%BA%86500%E6%9D%A1%E7%8F%A0%E9%93%BE%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "邓紫棋破亚洲单巡纪录",
@@ -63,9 +65,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "张信哲白小白致未来的你我",
+          "url": "https://www.douyin.com/hot/2362207",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         }
       ]
     }
