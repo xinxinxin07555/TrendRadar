@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:32:37.021377+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-01-10T13:19:54.114452+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 12时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 13时19分]"
         },
         {
           "title": "TF家族荣耀之战演唱会官宣",
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时19分]"
         },
         {
           "title": "张信哲白小白致未来的你我",
@@ -83,6 +83,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时19分 ~ 09时21分]"
+        },
+        {
+          "title": "F4成都演唱会",
+          "url": "https://www.douyin.com/hot/2362269",
+          "source": "抖音",
+          "ranks": [
+            26,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 13时19分]"
         },
         {
           "title": "如何评价综艺《再见爱人 5》第十三期（最终抉择篇）？",
@@ -106,18 +119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时26分]"
-        },
-        {
-          "title": "F4成都演唱会",
-          "url": "https://www.douyin.com/hot/2362269",
-          "source": "抖音",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时32分]"
         },
         {
           "title": "欧阳娣娣是怎么说服刘宇宁的",
