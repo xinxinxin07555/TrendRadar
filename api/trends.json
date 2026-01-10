@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T22:16:57.870972+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-01-10T23:17:49.123537+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 23时17分]"
         },
         {
           "title": "F4成都演唱会",
@@ -55,11 +55,12 @@
             13,
             14,
             25,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 22时16分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 23时17分]"
         },
         {
           "title": "吴克群在广西剪完橘子又砍甘蔗",
@@ -119,6 +120,18 @@
           "time_info": "[14时26分 ~ 16时23分]"
         },
         {
+          "title": "陈楚生深圳演唱会",
+          "url": "https://www.douyin.com/hot/2363557",
+          "source": "抖音",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 23时17分]"
+        },
+        {
           "title": "如何评价综艺《再见爱人 5》第十三期（最终抉择篇）？",
           "url": "https://www.zhihu.com/question/1992579045603419764",
           "source": "知乎",
@@ -140,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时26分]"
-        },
-        {
-          "title": "陈楚生深圳演唱会",
-          "url": "https://www.douyin.com/hot/2363557",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时27分]"
         },
         {
           "title": "TF四代综艺首秀镜头",
@@ -181,7 +183,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时16分"
         },
