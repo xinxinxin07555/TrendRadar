@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T19:16:36.985358+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-01-11T20:35:17.576565+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             12,
             13,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时23分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[13时23分 ~ 20时35分]"
         },
         {
           "title": "韩红演唱会嘉宾许嵩",
