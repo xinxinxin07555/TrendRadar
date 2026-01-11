@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T16:23:23.598034+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-01-11T17:18:52.438034+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时17分 ~ 16时23分]"
+          "appearance_count": 13,
+          "time_info": "[06时17分 ~ 17时18分]"
         },
         {
           "title": "周兴哲黄霄雲用音乐打开房间",
@@ -59,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 17时18分]"
         },
         {
           "title": "刘宇宁成都不吃火锅的原因",
