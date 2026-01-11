@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T09:31:17.653645+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-01-11T11:48:36.282513+08:00",
+  "total_titles_processed": 648,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             29,
             28,
             22,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时17分 ~ 09时31分]"
+          "appearance_count": 6,
+          "time_info": "[06时17分 ~ 11时48分]"
         },
         {
           "title": "刘宇宁成都不吃火锅的原因",
