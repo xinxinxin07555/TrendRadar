@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T20:35:17.576565+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-01-11T21:29:00.842112+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "燕云十六声周年特别演出",
@@ -19,8 +19,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时23分 ~ 20时35分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 21时29分]"
         },
         {
           "title": "韩红演唱会嘉宾许嵩",
@@ -80,6 +80,17 @@
           "time_info": "[09时30分 ~ 09时31分]"
         },
         {
+          "title": "郭富城演唱会现场和粉丝斗舞",
+          "url": "https://www.toutiao.com/trending/7593329191752548394/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
           "title": "坤音2026家族演唱会",
           "url": "https://s.weibo.com/weibo?q=%E5%9D%A4%E9%9F%B32026%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -89,6 +100,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时18分 ~ 18时19分]"
+        },
+        {
+          "title": "2026开年刘宇宁让我吃这么好",
+          "url": "https://s.weibo.com/weibo?q=2026%E5%BC%80%E5%B9%B4%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E6%88%91%E5%90%83%E8%BF%99%E4%B9%88%E5%A5%BD&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "刘宇宁掐脖摇返场",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%8E%90%E8%84%96%E6%91%87%E8%BF%94%E5%9C%BA&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
+        },
+        {
+          "title": "王翊恩南京演唱会",
+          "url": "https://www.douyin.com/hot/2364223",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "F4成都演唱会",
