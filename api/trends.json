@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T14:28:11.304184+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-01-11T15:19:31.881437+08:00",
+  "total_titles_processed": 837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩红演唱会嘉宾许嵩",
@@ -20,8 +20,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时17分 ~ 14时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时17分 ~ 15时19分]"
         },
         {
           "title": "周兴哲黄霄雲用音乐打开房间",
@@ -61,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时19分]"
         },
         {
           "title": "刘宇宁成都不吃火锅的原因",
@@ -85,6 +85,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 00时21分]"
+        },
+        {
+          "title": "Amy姐说林俊杰前任美商很高",
+          "url": "https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E8%AF%B4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%89%8D%E4%BB%BB%E7%BE%8E%E5%95%86%E5%BE%88%E9%AB%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "一个班学生集体退货演出服",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%8F%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E6%BC%94%E5%87%BA%E6%9C%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     }
