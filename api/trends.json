@@ -1,184 +1,55 @@
 {
-  "generated_at": "2026-01-11T23:17:48.377454+08:00",
-  "total_titles_processed": 1408,
+  "generated_at": "2026-01-12T00:21:25.832232+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
           "title": "燕云十六声周年特别演出",
           "url": "https://search.bilibili.com/all?keyword=%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0%E5%91%A8%E5%B9%B4%E7%89%B9%E5%88%AB%E6%BC%94%E5%87%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12,
-            13,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时23分 ~ 22时17分]"
-        },
-        {
-          "title": "韩红演唱会嘉宾许嵩",
-          "url": "https://www.douyin.com/hot/2363821",
-          "source": "抖音",
-          "ranks": [
-            29,
-            28,
-            22,
-            23,
-            25,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时17分 ~ 18时19分]"
-        },
-        {
-          "title": "周兴哲黄霄雲用音乐打开房间",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E5%85%B4%E5%93%B2%E9%BB%84%E9%9C%84%E9%9B%B2%E7%94%A8%E9%9F%B3%E4%B9%90%E6%89%93%E5%BC%80%E6%88%BF%E9%97%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            18,
-            28,
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
-          "title": "陈楚生深圳演唱会",
-          "url": "https://www.douyin.com/hot/2363557",
-          "source": "抖音",
+          "title": "王心凌制服的神",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E5%88%B6%E6%9C%8D%E7%9A%84%E7%A5%9E&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            22,
-            23,
-            26,
-            25,
-            28
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "张云雷济南演唱会",
+          "url": "https://www.douyin.com/hot/2364682",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
         },
         {
           "title": "郭富城演唱会现场和粉丝斗舞",
           "url": "https://www.toutiao.com/trending/7593329191752548394/",
           "source": "今日头条",
           "ranks": [
-            17,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时28分 ~ 23时17分]"
-        },
-        {
-          "title": "刘宇宁成都不吃火锅的原因",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%88%90%E9%83%BD%E4%B8%8D%E5%90%83%E7%81%AB%E9%94%85%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
-        },
-        {
-          "title": "坤音2026家族演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E5%9D%A4%E9%9F%B32026%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 18时19分]"
-        },
-        {
-          "title": "2026开年刘宇宁让我吃这么好",
-          "url": "https://s.weibo.com/weibo?q=2026%E5%BC%80%E5%B9%B4%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E6%88%91%E5%90%83%E8%BF%99%E4%B9%88%E5%A5%BD&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "刘宇宁掐脖摇返场",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%8E%90%E8%84%96%E6%91%87%E8%BF%94%E5%9C%BA&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "王翊恩南京演唱会",
-          "url": "https://www.douyin.com/hot/2364223",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "F4成都演唱会",
-          "url": "https://www.douyin.com/hot/2362269",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
-        },
-        {
-          "title": "华晨宇说不化妆上台值得尊重",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E4%B8%8D%E5%8C%96%E5%A6%86%E4%B8%8A%E5%8F%B0%E5%80%BC%E5%BE%97%E5%B0%8A%E9%87%8D&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "Amy姐说林俊杰前任美商很高",
-          "url": "https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E8%AF%B4%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%89%8D%E4%BB%BB%E7%BE%8E%E5%95%86%E5%BE%88%E9%AB%98%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "一个班学生集体退货演出服",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%8F%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E6%BC%94%E5%87%BA%E6%9C%8D%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
+          "time_info": "00时21分"
         }
       ]
     }
