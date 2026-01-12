@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T17:30:59.006989+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-01-12T18:23:07.488213+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "燕云十六声周年特别演出",
@@ -43,8 +43,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时27分 ~ 17时30分]"
+          "appearance_count": 9,
+          "time_info": "[13时27分 ~ 18时23分]"
         },
         {
           "title": "蔡依林演唱会被举报",
@@ -81,6 +81,17 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "蔡依林演唱会含宗教元素被举报，舞台设计被部分网友指控太诡异，如何评价其创意？这场争议究竟会如何收场？",
+          "url": "https://www.zhihu.com/question/1993969956631573132",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
+        },
+        {
           "title": "刘宇宁这完全是going",
           "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E5%AE%8C%E5%85%A8%E6%98%AFgoing&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -101,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "周杰伦宣布以球员身份参加澳网",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%AE%A3%E5%B8%83%E4%BB%A5%E7%90%83%E5%91%98%E8%BA%AB%E4%BB%BD%E5%8F%82%E5%8A%A0%E6%BE%B3%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "蔡依林演唱会主办方已启动法律程序",
