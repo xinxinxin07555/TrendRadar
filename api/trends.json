@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T18:23:07.488213+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-01-12T19:18:44.812280+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,29 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "蔡依林演唱会含宗教元素被举报，舞台设计被部分网友指控太诡异，如何评价其创意？这场争议究竟会如何收场？",
+          "url": "https://www.zhihu.com/question/1993969956631573132",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
+          "title": "周杰伦宣布以球员身份参加澳网",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%AE%A3%E5%B8%83%E4%BB%A5%E7%90%83%E5%91%98%E8%BA%AB%E4%BB%BD%E5%8F%82%E5%8A%A0%E6%BE%B3%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "王翊恩南京演唱会",
           "url": "https://www.douyin.com/hot/2364223",
           "source": "抖音",
@@ -81,17 +104,6 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
-          "title": "蔡依林演唱会含宗教元素被举报，舞台设计被部分网友指控太诡异，如何评价其创意？这场争议究竟会如何收场？",
-          "url": "https://www.zhihu.com/question/1993969956631573132",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
-        },
-        {
           "title": "刘宇宁这完全是going",
           "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E5%AE%8C%E5%85%A8%E6%98%AFgoing&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -112,17 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
-          "title": "周杰伦宣布以球员身份参加澳网",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%AE%A3%E5%B8%83%E4%BB%A5%E7%90%83%E5%91%98%E8%BA%AB%E4%BB%BD%E5%8F%82%E5%8A%A0%E6%BE%B3%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "蔡依林演唱会主办方已启动法律程序",
