@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T16:28:35.590118+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-01-12T17:30:59.006989+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时21分 ~ 09时27分]"
         },
         {
+          "title": "蔡依林方回应演唱会被举报",
+          "url": "https://www.douyin.com/hot/2364963",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 17时30分]"
+        },
+        {
           "title": "蔡依林演唱会被举报",
           "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "蔡依林方回应演唱会被举报",
-          "url": "https://www.douyin.com/hot/2364963",
-          "source": "抖音",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 16时28分]"
         },
         {
           "title": "王翊恩南京演唱会",
