@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T02:29:43.758530+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-13T03:19:47.071024+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "蔡依林大巨蛋演唱会亏损超7千万",
@@ -30,8 +31,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时19分]"
         },
         {
           "title": "郭富城演唱会现场和粉丝斗舞",
