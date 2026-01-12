@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:40:58.616520+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2026-01-12T22:23:43.302761+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "燕云十六声周年特别演出",
@@ -82,6 +82,18 @@
           "time_info": "[18时22分 ~ 19时18分]"
         },
         {
+          "title": "汪苏泷花车版还给你一些孤单",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%8A%B1%E8%BD%A6%E7%89%88%E8%BF%98%E7%BB%99%E4%BD%A0%E4%B8%80%E4%BA%9B%E5%AD%A4%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 22时23分]"
+        },
+        {
           "title": "王翊恩南京演唱会",
           "url": "https://www.douyin.com/hot/2364223",
           "source": "抖音",
@@ -103,18 +115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时26分 ~ 09时27分]"
-        },
-        {
-          "title": "汪苏泷花车版还给你一些孤单",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%8A%B1%E8%BD%A6%E7%89%88%E8%BF%98%E7%BB%99%E4%BD%A0%E4%B8%80%E4%BA%9B%E5%AD%A4%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时40分]"
         },
         {
           "title": "刘宇宁这完全是going",
@@ -159,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "蔡依林大巨蛋演唱会亏损超7千万",
+          "url": "https://www.douyin.com/hot/2365408",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "王心凌制服的神",
