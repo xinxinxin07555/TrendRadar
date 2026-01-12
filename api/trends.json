@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T13:28:11.785479+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-12T14:32:33.188697+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,18 @@
           "time_info": "[09时26分 ~ 09时27分]"
         },
         {
+          "title": "蔡依林方回应演唱会被举报",
+          "url": "https://www.douyin.com/hot/2364963",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时32分]"
+        },
+        {
           "title": "王翊恩南京演唱会",
           "url": "https://www.douyin.com/hot/2364223",
           "source": "抖音",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时20分]"
-        },
-        {
-          "title": "蔡依林方回应演唱会被举报",
-          "url": "https://www.douyin.com/hot/2364963",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "杨丞琳汪苏泷 古早偶像剧味",
