@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T07:15:22.764204+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-01-13T09:20:37.330258+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             27,
             21,
             28,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 09时20分]"
         },
         {
           "title": "蔡依林大巨蛋演唱会亏损超7千万",
