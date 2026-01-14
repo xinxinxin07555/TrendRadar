@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:22:20.781401+08:00",
-  "total_titles_processed": 1687,
+  "generated_at": "2026-01-14T19:19:26.602257+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,18 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
+          "title": "周杰伦澳网一轮游",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
           "title": "张杰带着全新战歌又来了",
           "url": "https://www.douyin.com/hot/2366819",
           "source": "抖音",
@@ -48,26 +60,28 @@
           "time_info": "[09时26分 ~ 14时30分]"
         },
         {
-          "title": "周杰伦澳网一轮游",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
           "title": "周杰伦“一球制胜”没碰到球",
           "url": "https://www.douyin.com/hot/2367578",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
+          "title": "黄霄雲要举报声生不息节目组",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%9C%84%E9%9B%B2%E8%A6%81%E4%B8%BE%E6%8A%A5%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E8%8A%82%E7%9B%AE%E7%BB%84&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "周杰伦澳网",
@@ -82,6 +96,30 @@
           "time_info": "[17时26分 ~ 18时22分]"
         },
         {
+          "title": "周杰伦澳网表演赛光速淘汰",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E8%A1%A8%E6%BC%94%E8%B5%9B%E5%85%89%E9%80%9F%E6%B7%98%E6%B1%B0",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
+          "title": "周杰伦澳网一轮游",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
+        },
+        {
           "title": "周杰伦一球制胜没碰到球",
           "url": "https://www.douyin.com/hot/2367578",
           "source": "抖音",
@@ -91,39 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
-        },
-        {
-          "title": "周杰伦澳网表演赛光速淘汰",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E8%A1%A8%E6%BC%94%E8%B5%9B%E5%85%89%E9%80%9F%E6%B7%98%E6%B1%B0",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "黄霄雲要举报声生不息节目组",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%9C%84%E9%9B%B2%E8%A6%81%E4%B8%BE%E6%8A%A5%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E8%8A%82%E7%9B%AE%E7%BB%84&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
-        },
-        {
-          "title": "周杰伦澳网一轮游",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "王源在星穹下狂奔实体专辑",
