@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T11:45:44.133066+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-01-14T12:44:49.483579+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时26分 ~ 11时45分]"
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 12时44分]"
         },
         {
           "title": "王源在星穹下狂奔实体专辑",
@@ -52,7 +53,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         }
