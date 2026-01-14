@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T00:27:34.594337+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-15T01:25:44.401809+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时25分]"
         },
         {
           "title": "周杰伦赛后回应",
           "url": "https://www.douyin.com/hot/2367838",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
-        },
-        {
-          "title": "周杰伦澳网一轮游",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时25分]"
         },
         {
           "title": "周杰伦“一球制胜”没碰到球",
@@ -46,6 +36,17 @@
           "source": "抖音",
           "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时25分]"
+        },
+        {
+          "title": "周杰伦澳网一轮游",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
