@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T22:23:10.195274+08:00",
-  "total_titles_processed": 2126,
+  "generated_at": "2026-01-14T23:23:19.456108+08:00",
+  "total_titles_processed": 2227,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "张杰继逆战后又一全新战歌",
@@ -30,8 +30,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时23分]"
+        },
+        {
+          "title": "周杰伦澳网一轮游",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 23时23分]"
         },
         {
           "title": "2025有3000场大型营业性演出",
@@ -45,20 +59,6 @@
           "time_info": "[00时28分 ~ 01时25分]"
         },
         {
-          "title": "周杰伦澳网一轮游",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 22时23分]"
-        },
-        {
           "title": "周杰伦澳网表演赛光速淘汰",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E8%A1%A8%E6%BC%94%E8%B5%9B%E5%85%89%E9%80%9F%E6%B7%98%E6%B1%B0",
           "source": "百度热搜",
@@ -68,8 +68,21 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 23时23分]"
+        },
+        {
+          "title": "周杰伦“一球制胜”没碰到球",
+          "url": "https://www.douyin.com/hot/2367578",
+          "source": "抖音",
+          "ranks": [
+            4,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 23时23分]"
         },
         {
           "title": "张杰带着全新战歌又来了",
@@ -84,19 +97,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时26分 ~ 14时30分]"
-        },
-        {
-          "title": "周杰伦“一球制胜”没碰到球",
-          "url": "https://www.douyin.com/hot/2367578",
-          "source": "抖音",
-          "ranks": [
-            4,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 21时39分]"
         },
         {
           "title": "周杰伦澳网一轮游",
@@ -145,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "周杰伦赛后回应",
+          "url": "https://www.douyin.com/hot/2367838",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "澳网一球制胜赛：周杰伦止步首轮",
