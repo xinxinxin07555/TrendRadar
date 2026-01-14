@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T02:29:53.759695+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-01-15T03:18:02.785872+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "周杰伦赛后回应",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 03时18分]"
         },
         {
           "title": "周杰伦“一球制胜”没碰到球",
@@ -48,11 +48,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E4%B8%80%E8%BD%AE%E6%B8%B8",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时18分]"
         }
       ]
     }
