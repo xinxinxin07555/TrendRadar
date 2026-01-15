@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T02:32:59.421944+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-01-16T03:23:05.474946+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "抖音",
           "ranks": [
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时23分]"
         },
         {
           "title": "等到了周杰伦的澳网幕后vlog",
           "url": "https://www.douyin.com/hot/2369027",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 03时23分]"
         }
       ]
     }
