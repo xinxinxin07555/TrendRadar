@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T21:38:39.046359+08:00",
-  "total_titles_processed": 2061,
+  "generated_at": "2026-01-15T22:22:47.004841+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,22 @@
           "time_info": "[00时26分 ~ 09时22分]"
         },
         {
+          "title": "张杰新歌暴风少年上线",
+          "url": "https://www.douyin.com/hot/2368345",
+          "source": "抖音",
+          "ranks": [
+            25,
+            18,
+            17,
+            21,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时29分 ~ 22时22分]"
+        },
+        {
           "title": "周杰伦“一球制胜”没碰到球",
           "url": "https://www.douyin.com/hot/2367578",
           "source": "抖音",
@@ -63,20 +79,18 @@
           "time_info": "[00时26分 ~ 15时23分]"
         },
         {
-          "title": "张杰新歌暴风少年上线",
-          "url": "https://www.douyin.com/hot/2368345",
-          "source": "抖音",
+          "title": "周杰伦澳网国籍标示中国",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E5%9B%BD%E7%B1%8D%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            25,
-            18,
-            17,
             21,
-            20,
-            19
+            12,
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时22分]"
         },
         {
           "title": "周杰伦澳网一轮游",
@@ -102,19 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时21分 ~ 20时39分]"
-        },
-        {
-          "title": "周杰伦澳网国籍标示中国",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E5%9B%BD%E7%B1%8D%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时38分]"
         },
         {
           "title": "香港文体旅局局长发文感谢周深",
