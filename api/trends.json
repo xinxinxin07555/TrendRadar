@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T11:28:55.243470+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-01-15T12:38:42.778540+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             24,
             23,
             29,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 11时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时38分]"
         },
         {
           "title": "周杰伦澳网一球制胜表演赛首秀，被对手一记 ACE 球直接秒杀，如何评价他此轮表现？",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 11时28分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 12时38分]"
         },
         {
           "title": "周杰伦澳网一轮游",
