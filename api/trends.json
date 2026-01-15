@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T19:18:29.634904+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2026-01-15T20:39:44.703142+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 20时39分]"
         },
         {
           "title": "周杰伦赛后回应",
@@ -70,11 +70,12 @@
             25,
             18,
             17,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 20时39分]"
         },
         {
           "title": "周杰伦澳网一轮游",
@@ -87,6 +88,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 03时18分]"
+        },
+        {
+          "title": "周杰伦澳网国籍标示中国",
+          "url": "https://www.toutiao.com/trending/7595166400764755974/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时39分]"
         },
         {
           "title": "香港文体旅局局长发文感谢周深",
@@ -102,26 +116,15 @@
         },
         {
           "title": "周杰伦澳网国籍标示中国",
-          "url": "https://www.toutiao.com/trending/7595166400764755974/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时18分]"
-        },
-        {
-          "title": "周杰伦澳网国籍标示中国",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E5%9B%BD%E7%B1%8D%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "张杰一件羽绒服穿了快10年",
