@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T03:23:05.474946+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-01-16T04:22:34.910681+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时22分]"
         },
         {
           "title": "等到了周杰伦的澳网幕后vlog",
@@ -29,8 +29,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时22分]"
         }
       ]
     }
