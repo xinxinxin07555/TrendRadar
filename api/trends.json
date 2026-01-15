@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T20:39:44.703142+08:00",
-  "total_titles_processed": 1958,
+  "generated_at": "2026-01-15T21:38:39.046359+08:00",
+  "total_titles_processed": 2061,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,12 @@
             18,
             17,
             21,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 20时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 21时38分]"
         },
         {
           "title": "周杰伦澳网一轮游",
@@ -103,6 +104,19 @@
           "time_info": "[18时21分 ~ 20时39分]"
         },
         {
+          "title": "周杰伦澳网国籍标示中国",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E5%9B%BD%E7%B1%8D%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时38分]"
+        },
+        {
           "title": "香港文体旅局局长发文感谢周深",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%96%87%E4%BD%93%E6%97%85%E5%B1%80%E5%B1%80%E9%95%BF%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E5%91%A8%E6%B7%B1%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -113,18 +127,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时23分 ~ 14时29分]"
-        },
-        {
-          "title": "周杰伦澳网国籍标示中国",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E5%9B%BD%E7%B1%8D%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时39分]"
         },
         {
           "title": "张杰一件羽绒服穿了快10年",
