@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:29:43.280739+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-01-15T15:23:53.506853+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/1994123144861017478",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时23分]"
         },
         {
           "title": "周杰伦赛后回应",
@@ -56,8 +57,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 12时38分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 15时23分]"
         },
         {
           "title": "周杰伦澳网一轮游",
@@ -88,11 +89,12 @@
           "url": "https://www.douyin.com/hot/2368345",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时23分]"
         },
         {
           "title": "刘宇宁街头港风大片",
