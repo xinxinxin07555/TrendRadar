@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:21:50.945809+08:00",
-  "total_titles_processed": 1745,
+  "generated_at": "2026-01-15T19:18:29.634904+08:00",
+  "total_titles_processed": 1843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "文旅共生数字赋能催热演出市场",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[09时22分 ~ 19时18分]"
         },
         {
           "title": "周杰伦赛后回应",
@@ -69,11 +69,12 @@
           "ranks": [
             25,
             18,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时29分 ~ 18时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时18分]"
         },
         {
           "title": "周杰伦澳网一轮游",
@@ -104,11 +105,23 @@
           "url": "https://www.toutiao.com/trending/7595166400764755974/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时18分]"
+        },
+        {
+          "title": "周杰伦澳网国籍标示中国",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BE%B3%E7%BD%91%E5%9B%BD%E7%B1%8D%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "19时18分"
         },
         {
           "title": "张杰一件羽绒服穿了快10年",
