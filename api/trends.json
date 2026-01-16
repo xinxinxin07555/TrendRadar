@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T09:24:34.905708+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-01-16T11:28:14.268311+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 09时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 11时28分]"
         },
         {
           "title": "周杰伦澳网国籍标示中国",
@@ -55,7 +55,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
         }
