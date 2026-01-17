@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T03:14:28.751516+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-01-18T04:19:33.011708+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "王鹤棣演唱会给我香迷糊了",
@@ -26,11 +26,12 @@
           "ranks": [
             4,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "王鹤棣澳门演唱会",
@@ -41,8 +42,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "颜人中济南演唱会",
@@ -54,8 +55,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 04时19分]"
         },
         {
           "title": "李宇春南京演唱会",
@@ -63,22 +64,24 @@
           "source": "抖音",
           "ranks": [
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 03时14分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 04时19分]"
         },
         {
           "title": "叶世荣合肥演唱会",
           "url": "https://www.douyin.com/hot/2370676",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时19分]"
         }
       ]
     }
