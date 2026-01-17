@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:18:34.914216+08:00",
-  "total_titles_processed": 1192,
+  "generated_at": "2026-01-17T18:18:38.654656+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://www.douyin.com/hot/2370631",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时18分]"
         },
         {
           "title": "芒果综艺年初年尾都有珠玉",
