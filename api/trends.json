@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:23:13.812969+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-17T17:18:34.914216+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             15,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 16时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时20分 ~ 17时18分]"
         },
         {
           "title": "吴克群摇人帮NPC如花圆梦",
@@ -29,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 16时23分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 17时18分]"
         },
         {
           "title": "芒果综艺年初年尾都有珠玉",
@@ -61,11 +62,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%90%A7%E4%BA%9A%E8%BD%A9%E5%92%8C%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%9A%84%E8%88%9E%E5%8F%B0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时18分]"
         },
         {
           "title": "周杰伦澳网一轮游单曲",
