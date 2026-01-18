@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T13:21:50.419467+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-01-18T14:27:30.352162+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "王鹤棣演唱会",
@@ -61,6 +61,19 @@
           "time_info": "[00时20分 ~ 05时16分]"
         },
         {
+          "title": "周杰伦47岁了",
+          "url": "https://www.douyin.com/hot/2371350",
+          "source": "抖音",
+          "ranks": [
+            28,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时44分 ~ 14时27分]"
+        },
+        {
           "title": "李宇春南京演唱会",
           "url": "https://www.douyin.com/hot/2370682",
           "source": "抖音",
@@ -74,16 +87,16 @@
           "time_info": "[02时24分 ~ 04时19分]"
         },
         {
-          "title": "周杰伦47岁了",
-          "url": "https://www.douyin.com/hot/2371350",
-          "source": "抖音",
+          "title": "赵樱子称孟子义上综艺要感谢她",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E7%A7%B0%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8A%E7%BB%BC%E8%89%BA%E8%A6%81%E6%84%9F%E8%B0%A2%E5%A5%B9%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
-            28,
-            21
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时44分 ~ 13时21分]"
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 14时27分]"
         },
         {
           "title": "叶世荣合肥演唱会",
@@ -96,17 +109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时19分]"
-        },
-        {
-          "title": "赵樱子称孟子义上综艺要感谢她",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E7%A7%B0%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8A%E7%BB%BC%E8%89%BA%E8%A6%81%E6%84%9F%E8%B0%A2%E5%A5%B9%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         },
         {
           "title": "周杰伦47岁了",
@@ -148,7 +150,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         },
@@ -159,9 +161,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        },
+        {
+          "title": "周杰伦请的奶茶",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B7%E7%9A%84%E5%A5%B6%E8%8C%B6&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "周杰伦47岁生日",
