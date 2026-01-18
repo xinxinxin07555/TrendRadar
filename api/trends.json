@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T21:27:29.645945+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-01-18T22:16:54.526395+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -72,11 +72,12 @@
             19,
             20,
             25,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时18分 ~ 21时27分]"
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 22时16分]"
         },
         {
           "title": "颜人中济南演唱会",
