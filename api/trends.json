@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T17:18:57.248255+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-18T18:19:17.189732+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,25 @@
           "ranks": [
             28,
             21,
-            22
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 18时19分]"
+        },
+        {
+          "title": "白小白把音综变成对抗路综艺",
+          "url": "https://www.douyin.com/hot/2371701",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时44分 ~ 14时27分]"
+          "time_info": "[15时18分 ~ 18时19分]"
         },
         {
           "title": "李宇春南京演唱会",
@@ -110,18 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时19分]"
-        },
-        {
-          "title": "白小白把音综变成对抗路综艺",
-          "url": "https://www.douyin.com/hot/2371701",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 17时18分]"
         },
         {
           "title": "孟子义第一个综艺",
