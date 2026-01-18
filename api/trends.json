@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T16:23:49.914407+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-01-18T17:18:57.248255+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -112,6 +112,18 @@
           "time_info": "[03时14分 ~ 04时19分]"
         },
         {
+          "title": "白小白把音综变成对抗路综艺",
+          "url": "https://www.douyin.com/hot/2371701",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 17时18分]"
+        },
+        {
           "title": "孟子义第一个综艺",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%BB%BC%E8%89%BA%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -162,7 +174,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -187,17 +199,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
-        },
-        {
-          "title": "白小白把音综变成对抗路综艺",
-          "url": "https://www.douyin.com/hot/2371701",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "周杰伦请的奶茶",
