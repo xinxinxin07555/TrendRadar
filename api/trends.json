@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T19:15:37.970194+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-01-18T20:34:47.903157+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时44分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 20时34分]"
         },
         {
           "title": "颜人中济南演唱会",
@@ -83,11 +83,12 @@
             26,
             28,
             19,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 20时34分]"
         },
         {
           "title": "李宇春南京演唱会",
