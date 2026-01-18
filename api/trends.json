@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:16:54.526395+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-01-18T23:17:14.860198+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,24 @@
           "time_info": "[00时20分 ~ 09时29分]"
         },
         {
+          "title": "白小白把音综变成对抗路综艺",
+          "url": "https://www.douyin.com/hot/2371701",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28,
+            19,
+            20,
+            25,
+            27,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时18分 ~ 23时17分]"
+        },
+        {
           "title": "周杰伦47岁了",
           "url": "https://www.douyin.com/hot/2371350",
           "source": "抖音",
@@ -61,23 +79,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时44分 ~ 21时27分]"
-        },
-        {
-          "title": "白小白把音综变成对抗路综艺",
-          "url": "https://www.douyin.com/hot/2371701",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28,
-            19,
-            20,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 22时16分]"
         },
         {
           "title": "颜人中济南演唱会",
