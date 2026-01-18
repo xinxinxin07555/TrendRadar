@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T00:21:45.058778+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-19T01:16:04.622792+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2371701",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         },
         {
           "title": "颜人中济南演唱会",
@@ -26,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时16分]"
         }
       ]
     }
