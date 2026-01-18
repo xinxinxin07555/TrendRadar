@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T01:16:04.622792+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2026-01-19T02:24:33.556596+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "颜人中济南演唱会",
+          "url": "https://www.douyin.com/hot/2371271",
+          "source": "抖音",
+          "ranks": [
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
           "title": "白小白把音综变成对抗路综艺",
           "url": "https://www.douyin.com/hot/2371701",
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "颜人中济南演唱会",
-          "url": "https://www.douyin.com/hot/2371271",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时24分]"
         }
       ]
     }
