@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T00:25:37.606098+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-20T01:22:48.483100+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时22分]"
         },
         {
           "title": "搞邪教吸运?蔡依林惨遭封杀",
@@ -26,8 +26,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时22分]"
         }
       ]
     }
