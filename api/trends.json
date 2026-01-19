@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T21:43:35.133260+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2026-01-19T22:25:06.409382+08:00",
+  "total_titles_processed": 1769,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             14,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时27分 ~ 21时43分]"
+          "appearance_count": 9,
+          "time_info": "[15时27分 ~ 22时25分]"
         },
         {
           "title": "颜人中济南演唱会",
@@ -78,6 +79,17 @@
           "time_info": "[03时14分 ~ 05时17分]"
         },
         {
+          "title": "周杰伦昆凌 生理性喜欢",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%20%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时25分]"
+        },
+        {
           "title": "镖人友情演出惠英红",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%E5%8F%8B%E6%83%85%E6%BC%94%E5%87%BA%E6%83%A0%E8%8B%B1%E7%BA%A2%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时49分]"
-        },
-        {
-          "title": "周杰伦昆凌 生理性喜欢",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%20%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         }
       ]
     }
