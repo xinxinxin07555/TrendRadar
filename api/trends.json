@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T18:25:39.099613+08:00",
-  "total_titles_processed": 1394,
+  "generated_at": "2026-01-19T19:20:43.363006+08:00",
+  "total_titles_processed": 1484,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "搞邪教吸运?蔡依林惨遭封杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349334&amp;topic_name=%E6%90%9E%E9%82%AA%E6%95%99%E5%90%B8%E8%BF%90%3F%E8%94%A1%E4%BE%9D%E6%9E%97%E6%83%A8%E9%81%AD%E5%B0%81%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            11,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 19时20分]"
         },
         {
           "title": "颜人中济南演唱会",
@@ -47,20 +62,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 18时25分]"
-        },
-        {
-          "title": "搞邪教吸运?蔡依林惨遭封杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349334&amp;topic_name=%E6%90%9E%E9%82%AA%E6%95%99%E5%90%B8%E8%BF%90%3F%E8%94%A1%E4%BE%9D%E6%9E%97%E6%83%A8%E9%81%AD%E5%B0%81%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            11,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 18时25分]"
         },
         {
           "title": "王鹤棣澳门演唱会",
