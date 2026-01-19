@@ -1,106 +1,33 @@
 {
-  "generated_at": "2026-01-19T23:24:03.172621+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2026-01-20T00:25:37.606098+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "搞邪教吸运?蔡依林惨遭封杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349334&amp;topic_name=%E6%90%9E%E9%82%AA%E6%95%99%E5%90%B8%E8%BF%90%3F%E8%94%A1%E4%BE%9D%E6%9E%97%E6%83%A8%E9%81%AD%E5%B0%81%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            30,
-            11,
-            13,
-            14,
-            16,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时27分 ~ 23时24分]"
-        },
-        {
-          "title": "白小白把音综变成对抗路综艺",
-          "url": "https://www.douyin.com/hot/2371701",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            20,
-            18,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时17分]"
-        },
         {
           "title": "周杰伦昆凌 生理性喜欢",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%20%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时43分 ~ 23时24分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         },
         {
-          "title": "颜人中济南演唱会",
-          "url": "https://www.douyin.com/hot/2371271",
-          "source": "抖音",
+          "title": "搞邪教吸运?蔡依林惨遭封杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349334&amp;topic_name=%E6%90%9E%E9%82%AA%E6%95%99%E5%90%B8%E8%BF%90%3F%E8%94%A1%E4%BE%9D%E6%9E%97%E6%83%A8%E9%81%AD%E5%B0%81%E6%9D%80",
+          "source": "贴吧",
           "ranks": [
-            25,
-            18,
-            22
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时20分]"
-        },
-        {
-          "title": "何老师不小心口误华晨宇的反应",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E8%80%81%E5%B8%88%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%8F%A3%E8%AF%AF%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 18时25分]"
-        },
-        {
-          "title": "王鹤棣澳门演唱会",
-          "url": "https://www.douyin.com/hot/2371136",
-          "source": "抖音",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 05时17分]"
-        },
-        {
-          "title": "镖人友情演出惠英红",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%E5%8F%8B%E6%83%85%E6%BC%94%E5%87%BA%E6%83%A0%E8%8B%B1%E7%BA%A2%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 12时49分]"
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     }
