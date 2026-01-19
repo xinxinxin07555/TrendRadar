@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T20:42:39.664636+08:00",
-  "total_titles_processed": 1606,
+  "generated_at": "2026-01-19T21:43:35.133260+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "白小白把音综变成对抗路综艺",
@@ -33,11 +33,12 @@
             13,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时27分 ~ 20时42分]"
+          "appearance_count": 7,
+          "time_info": "[15时27分 ~ 21时43分]"
         },
         {
           "title": "颜人中济南演唱会",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时48分 ~ 12时49分]"
+        },
+        {
+          "title": "周杰伦昆凌 生理性喜欢",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%20%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     }
