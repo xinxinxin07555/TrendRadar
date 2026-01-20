@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:27:39.795584+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-01-20T14:32:23.746401+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             26,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时32分]"
         },
         {
           "title": "周杰伦昆凌 生理性喜欢",
@@ -62,7 +63,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
