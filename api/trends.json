@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T19:22:00.634175+08:00",
-  "total_titles_processed": 1704,
+  "generated_at": "2026-01-20T20:43:07.112820+08:00",
+  "total_titles_processed": 1812,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             29,
             30,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时30分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[17时30分 ~ 20时43分]"
         },
         {
           "title": "韩国美食综艺成中国“硬核宣传片”",
