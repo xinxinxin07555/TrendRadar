@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:42:04.168455+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-01-20T12:43:28.431520+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时43分]"
         },
         {
           "title": "周杰伦昆凌 生理性喜欢",
@@ -36,11 +37,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E6%80%BB%E7%9B%B4%E4%BA%86%E5%8D%8A%E8%BE%88%E5%AD%90%E7%9A%84%E8%85%B0%E4%B8%8A%E7%BB%BC%E8%89%BA%E5%BC%AF%E4%BA%86%E4%BA%94%E6%AC%A1&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时41分 ~ 12时43分]"
         },
         {
           "title": "刘宇宁录春晚被逗红温了",
