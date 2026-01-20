@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T07:18:58.711270+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-01-20T09:23:26.187991+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
@@ -8,23 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "搞邪教吸运?蔡依林惨遭封杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349334&amp;topic_name=%E6%90%9E%E9%82%AA%E6%95%99%E5%90%B8%E8%BF%90%3F%E8%94%A1%E4%BE%9D%E6%9E%97%E6%83%A8%E9%81%AD%E5%B0%81%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时23分]"
+        },
+        {
           "title": "周杰伦昆凌 生理性喜欢",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%20%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时18分]"
-        },
-        {
-          "title": "搞邪教吸运?蔡依林惨遭封杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349334&amp;topic_name=%E6%90%9E%E9%82%AA%E6%95%99%E5%90%B8%E8%BF%90%3F%E8%94%A1%E4%BE%9D%E6%9E%97%E6%83%A8%E9%81%AD%E5%B0%81%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 9,
