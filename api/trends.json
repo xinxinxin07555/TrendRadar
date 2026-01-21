@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T02:39:02.960340+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-01-22T03:28:28.666963+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             20,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 02时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 03时28分]"
         },
         {
           "title": "你是刘宪华那他是谁",
