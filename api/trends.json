@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T06:22:48.928614+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-01-22T07:22:50.937860+08:00",
+  "total_titles_processed": 711,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时22分]"
         },
         {
           "title": "你是刘宪华那他是谁",
@@ -34,6 +34,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 05时26分]"
+        },
+        {
+          "title": "刘宪华和暮光之城男主同框",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E5%92%8C%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%E7%94%B7%E4%B8%BB%E5%90%8C%E6%A1%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 07时22分]"
         },
         {
           "title": "王源实体专辑在星穹下狂奔",
@@ -56,17 +68,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 02时39分]"
-        },
-        {
-          "title": "刘宪华和暮光之城男主同框",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E5%92%8C%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%E7%94%B7%E4%B8%BB%E5%90%8C%E6%A1%86&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
         }
       ]
     }
