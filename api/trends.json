@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T01:53:49.868929+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-22T02:39:02.960340+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "李幼斌演出老年人的孤独感",
@@ -13,11 +13,24 @@
           "source": "抖音",
           "ranks": [
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时53分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 02时39分]"
+        },
+        {
+          "title": "你是刘宪华那他是谁",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E6%98%AF%E5%88%98%E5%AE%AA%E5%8D%8E%E9%82%A3%E4%BB%96%E6%98%AF%E8%B0%81&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 02时39分]"
         },
         {
           "title": "王源实体专辑在星穹下狂奔",
@@ -31,15 +44,15 @@
           "time_info": "[01时52分 ~ 01时53分]"
         },
         {
-          "title": "你是刘宪华那他是谁",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E6%98%AF%E5%88%98%E5%AE%AA%E5%8D%8E%E9%82%A3%E4%BB%96%E6%98%AF%E8%B0%81&t=31&band_rank=28&Refer=top",
+          "title": "芒果综艺上这张嘴借我年终述职用",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E7%BB%BC%E8%89%BA%E4%B8%8A%E8%BF%99%E5%BC%A0%E5%98%B4%E5%80%9F%E6%88%91%E5%B9%B4%E7%BB%88%E8%BF%B0%E8%81%8C%E7%94%A8&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时52分 ~ 01时53分]"
+          "time_info": "[02时38分 ~ 02时39分]"
         },
         {
           "title": "刘宪华和暮光之城男主同框",
