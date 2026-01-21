@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:29:06.915895+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-01-21T17:31:39.500229+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 16时29分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时31分]"
         },
         {
           "title": "张杰跨年含金量还在提高",
