@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T02:29:31.549857+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-01-24T03:23:16.556545+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "张杰成都演唱会",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "黄子韬徐艺洋去看王鹤棣演唱会了",
@@ -48,7 +49,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
         }
