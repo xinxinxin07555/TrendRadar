@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T18:22:42.291161+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-01-23T19:19:40.217665+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "王玉雯把猥琐劲儿给演出来了",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "苏有朋黄霄雲爱让人像小孩",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%8F%E6%9C%89%E6%9C%8B%E9%BB%84%E9%9C%84%E9%9B%B2%E7%88%B1%E8%AE%A9%E4%BA%BA%E5%83%8F%E5%B0%8F%E5%AD%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }
