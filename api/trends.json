@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-01-23T22:23:15.882707+08:00",
-  "total_titles_processed": 2141,
+  "generated_at": "2026-01-23T23:23:12.622675+08:00",
+  "total_titles_processed": 2246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "张杰不再参加任何需要投票的活动",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%B8%8D%E5%86%8D%E5%8F%82%E5%8A%A0%E4%BB%BB%E4%BD%95%E9%9C%80%E8%A6%81%E6%8A%95%E7%A5%A8%E7%9A%84%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时22分 ~ 23时23分]"
+        },
+        {
+          "title": "张杰成都演唱会",
+          "url": "https://www.douyin.com/hot/2377559",
+          "source": "抖音",
+          "ranks": [
+            24,
+            26,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时40分 ~ 23时23分]"
+        },
         {
           "title": "王玉雯把猥琐劲儿给演出来了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%8A%8A%E7%8C%A5%E7%90%90%E5%8A%B2%E5%84%BF%E7%BB%99%E6%BC%94%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=4&Refer=top",
@@ -18,19 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 11时40分]"
-        },
-        {
-          "title": "张杰成都演唱会",
-          "url": "https://www.douyin.com/hot/2377559",
-          "source": "抖音",
-          "ranks": [
-            24,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时40分 ~ 22时23分]"
         },
         {
           "title": "就这样和张杰擦肩而过了",
