@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T02:26:24.768943+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-01-25T03:15:25.317054+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 03时15分]"
         },
         {
           "title": "周震南演唱会没有舞台",
@@ -27,9 +27,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
         }
       ]
     }
