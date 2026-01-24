@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T04:19:34.578576+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-25T05:16:39.711771+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "周震南演唱会没有舞台",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B2%A1%E6%9C%89%E8%88%9E%E5%8F%B0&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 05时16分]"
         }
       ]
     }
