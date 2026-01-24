@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T14:28:31.860300+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-01-24T15:18:23.982643+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,18 @@
           "time_info": "[00时26分 ~ 13时19分]"
         },
         {
+          "title": "Angelababy好久没录综艺了",
+          "url": "https://s.weibo.com/weibo?q=%23Angelababy%E5%A5%BD%E4%B9%85%E6%B2%A1%E5%BD%95%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时18分]"
+        },
+        {
           "title": "张杰送黄金",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E9%80%81%E9%BB%84%E9%87%91&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -58,17 +70,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "Angelababy好久没录综艺了",
-          "url": "https://s.weibo.com/weibo?q=%23Angelababy%E5%A5%BD%E4%B9%85%E6%B2%A1%E5%BD%95%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         },
         {
           "title": "官方回应黄霄雲公益演出被卖票",
