@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T20:35:22.184748+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-01-24T21:29:46.266758+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B2%A1%E6%9C%89%E8%88%9E%E5%8F%B0&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时29分]"
         },
         {
           "title": "黄子韬徐艺洋去看王鹤棣演唱会了",
@@ -58,6 +59,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 13时19分]"
+        },
+        {
+          "title": "邢菲出道十年后首档常驻综艺",
+          "url": "https://s.weibo.com/weibo?q=%E9%82%A2%E8%8F%B2%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4%E5%90%8E%E9%A6%96%E6%A1%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时29分]"
         },
         {
           "title": "不知道 王赫野一点也不曼妙",
@@ -92,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "邢菲出道十年后首档常驻综艺",
-          "url": "https://s.weibo.com/weibo?q=%E9%82%A2%E8%8F%B2%E5%87%BA%E9%81%93%E5%8D%81%E5%B9%B4%E5%90%8E%E9%A6%96%E6%A1%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "官方回应黄霄雲公益演出被卖票",
