@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T21:29:46.266758+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-01-24T22:17:52.590596+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时29分]"
+          "appearance_count": 3,
+          "time_info": "[20时35分 ~ 22时17分]"
         },
         {
           "title": "黄子韬徐艺洋去看王鹤棣演唱会了",
