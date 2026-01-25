@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T21:32:02.853890+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-01-25T22:17:23.434495+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[02时26分 ~ 05时16分]"
         },
         {
+          "title": "张学友婉拒四大天王合体",
+          "url": "https://www.toutiao.com/trending/7598976919287336491/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时17分]"
+        },
+        {
           "title": "大家对央视歌唱类综艺节目《中国唱将》给予怎样的评价？该节目有哪些亮点和遗憾？",
           "url": "https://www.zhihu.com/question/1968047491762090860",
           "source": "知乎",
@@ -59,15 +71,16 @@
           "time_info": "[18时19分 ~ 20时36分]"
         },
         {
-          "title": "张学友婉拒四大天王合体",
-          "url": "https://www.toutiao.com/trending/7598976919287336491/",
+          "title": "张学友回应欠债传闻：没有借钱习惯",
+          "url": "https://www.toutiao.com/trending/7599225306609745963/",
           "source": "今日头条",
           "ranks": [
-            7
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[21时31分 ~ 22时17分]"
         },
         {
           "title": "可是妈妈张杰不是别的黄毛",
@@ -80,17 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 19时16分]"
-        },
-        {
-          "title": "张学友回应欠债传闻：没有借钱习惯",
-          "url": "https://www.toutiao.com/trending/7599225306609745963/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "张韶涵演唱会上飙粤语",
