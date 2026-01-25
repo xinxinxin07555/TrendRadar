@@ -1,22 +1,35 @@
 {
-  "generated_at": "2026-01-26T00:22:28.478464+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-26T01:16:41.880260+08:00",
+  "total_titles_processed": 347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "华晨宇弃票",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%BC%83%E7%A5%A8&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "张学友婉拒“四大天王”合体",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A9%89%E6%8B%92%E2%80%9C%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E2%80%9D%E5%90%88%E4%BD%93",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时16分]"
         },
         {
           "title": "张学友婉拒四大天王合体",
@@ -24,17 +37,6 @@
           "source": "今日头条",
           "ranks": [
             20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "张学友婉拒“四大天王”合体",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A9%89%E6%8B%92%E2%80%9C%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E2%80%9D%E5%90%88%E4%BD%93",
-          "source": "百度热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,6 +52,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "张杰走到升降台发现升降台提前下去",
+          "url": "https://www.toutiao.com/trending/7598555608438964265/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "张学友回应欠债传闻：没有借钱习惯",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%9B%9E%E5%BA%94%E6%AC%A0%E5%80%BA%E4%BC%A0%E9%97%BB%EF%BC%9A%E6%B2%A1%E6%9C%89%E5%80%9F%E9%92%B1%E4%B9%A0%E6%83%AF",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     }
