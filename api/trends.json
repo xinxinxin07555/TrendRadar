@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T18:24:09.439174+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-01-26T19:19:34.662521+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时31分 ~ 18时24分]"
+          "appearance_count": 12,
+          "time_info": "[13时31分 ~ 19时19分]"
         },
         {
           "title": "张学友婉拒“四大天王”合体",
@@ -115,6 +115,17 @@
           "time_info": "[14时33分 ~ 15时26分]"
         },
         {
+          "title": "如何评价黄霄雲二专第二首《娃儿！莫怕》？",
+          "url": "https://www.zhihu.com/question/1998911965930751405",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "李幼斌演出了老人的病耻感",
           "url": "https://www.douyin.com/hot/2378935",
           "source": "抖音",
@@ -137,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时25分 ~ 15时26分]"
-        },
-        {
-          "title": "如何评价黄霄雲二专第二首《娃儿！莫怕》？",
-          "url": "https://www.zhihu.com/question/1998911965930751405",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
         },
         {
           "title": "周渝民一家三口看王心凌演唱会",
