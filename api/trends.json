@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-27T02:31:33.684565+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-27T03:22:11.547926+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "华晨宇殷秀梅手挽手下班",
           "url": "https://www.toutiao.com/trending/7598714763627216934/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "BLACKPINK三巡",
@@ -28,8 +29,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "张学友捐款130万元",
@@ -39,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
         },
         {
           "title": "张学友演唱会花篮变善款",
@@ -48,11 +49,23 @@
           "source": "抖音",
           "ranks": [
             27,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时31分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时22分]"
+        },
+        {
+          "title": "刘宇宁好事马上发生",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%A5%BD%E4%BA%8B%E9%A9%AC%E4%B8%8A%E5%8F%91%E7%94%9F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 03时22分]"
         },
         {
           "title": "BLACKPINK演唱会转场",
@@ -61,7 +74,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
         }
