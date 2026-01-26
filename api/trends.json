@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T20:41:43.613844+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-01-26T21:42:46.065424+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时31分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[13时31分 ~ 21时42分]"
         },
         {
           "title": "张学友婉拒“四大天王”合体",
