@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-26T16:29:11.463521+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-01-26T17:32:04.030608+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 16,
       "titles": [
+        {
+          "title": "张学友捐款130万元",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%8D%90%E6%AC%BE130%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时31分 ~ 17时32分]"
+        },
         {
           "title": "张学友婉拒“四大天王”合体",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A9%89%E6%8B%92%E2%80%9C%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E2%80%9D%E5%90%88%E4%BD%93",
@@ -22,18 +34,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时18分]"
-        },
-        {
-          "title": "张学友捐款130万元",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%8D%90%E6%AC%BE130%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时31分 ~ 16时29分]"
         },
         {
           "title": "张学友回应欠债传闻：没有借钱习惯",
