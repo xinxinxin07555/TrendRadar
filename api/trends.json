@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T04:23:37.878124+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-01-27T05:21:52.057924+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,32 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "张学友捐款130万元",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%8D%90%E6%AC%BE130%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时21分]"
+        },
+        {
+          "title": "张学友演唱会花篮变善款",
+          "url": "https://www.douyin.com/hot/2379891",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 05时21分]"
         },
         {
           "title": "BLACKPINK三巡",
@@ -28,30 +52,6 @@
             19,
             18,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时23分]"
-        },
-        {
-          "title": "张学友捐款130万元",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E6%8D%90%E6%AC%BE130%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时23分]"
-        },
-        {
-          "title": "张学友演唱会花篮变善款",
-          "url": "https://www.douyin.com/hot/2379891",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28,
-            26
           ],
           "is_new": false,
           "appearance_count": 6,
