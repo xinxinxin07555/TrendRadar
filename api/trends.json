@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T19:19:34.662521+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-01-26T20:41:43.613844+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
@@ -77,6 +77,17 @@
           "time_info": "[14时33分 ~ 16时29分]"
         },
         {
+          "title": "如何评价黄霄雲二专第二首《娃儿！莫怕》？",
+          "url": "https://www.zhihu.com/question/1998911965930751405",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 20时41分]"
+        },
+        {
           "title": "张学友婉拒四大天王合体",
           "url": "https://www.toutiao.com/trending/7598976919287336491/",
           "source": "今日头条",
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 15时26分]"
-        },
-        {
-          "title": "如何评价黄霄雲二专第二首《娃儿！莫怕》？",
-          "url": "https://www.zhihu.com/question/1998911965930751405",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时23分 ~ 19时19分]"
         },
         {
           "title": "李幼斌演出了老人的病耻感",
