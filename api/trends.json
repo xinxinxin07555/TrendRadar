@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T03:22:11.547926+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-27T04:23:37.878124+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "BLACKPINK三巡",
@@ -26,11 +26,12 @@
           "ranks": [
             25,
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "张学友捐款130万元",
@@ -40,8 +41,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "张学友演唱会花篮变善款",
@@ -53,8 +54,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时23分]"
         },
         {
           "title": "刘宇宁好事马上发生",
