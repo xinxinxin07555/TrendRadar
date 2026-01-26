@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T00:31:33.546373+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-27T01:28:23.931101+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时28分]"
         },
         {
           "title": "张学友捐款130万元",
@@ -26,30 +26,32 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时28分]"
         },
         {
           "title": "BLACKPINK三巡",
           "url": "https://s.weibo.com/weibo?q=BLACKPINK%E4%B8%89%E5%B7%A1&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时28分]"
         },
         {
           "title": "张学友演唱会花篮变善款",
           "url": "https://www.douyin.com/hot/2379891",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时28分]"
         }
       ]
     }
