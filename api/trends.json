@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T00:27:32.507880+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-28T01:26:54.992104+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "内娱至今无一人塌房的全女综艺",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%87%B3%E4%BB%8A%E6%97%A0%E4%B8%80%E4%BA%BA%E5%A1%8C%E6%88%BF%E7%9A%84%E5%85%A8%E5%A5%B3%E7%BB%BC%E8%89%BA&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时26分]"
+        },
+        {
           "title": "周深逃脱不了身高梗",
           "url": "https://www.toutiao.com/trending/7598970315833622570/",
           "source": "今日头条",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "内娱至今无一人塌房的全女综艺",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E8%87%B3%E4%BB%8A%E6%97%A0%E4%B8%80%E4%BA%BA%E5%A1%8C%E6%88%BF%E7%9A%84%E5%85%A8%E5%A5%B3%E7%BB%BC%E8%89%BA&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
