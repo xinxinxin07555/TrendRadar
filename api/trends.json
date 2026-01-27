@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T02:35:14.423148+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-01-28T03:24:55.373107+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时27分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时27分 ~ 03时24分]"
         },
         {
           "title": "Jennie香港演唱会哭了",
@@ -26,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 03时24分]"
         },
         {
           "title": "周深逃脱不了身高梗",
