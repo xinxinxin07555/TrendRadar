@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:41:55.712408+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-01-27T21:44:51.961828+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
           "ranks": [
             30,
             11,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 21时44分]"
         },
         {
           "title": "测评142岁白头到老演唱会",
