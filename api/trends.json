@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:21:12.106970+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-28T07:20:04.015686+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             26,
             23,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "Jennie香港演唱会哭了",
