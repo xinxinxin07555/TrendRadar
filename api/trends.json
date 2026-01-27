@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T01:26:54.992104+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-28T02:35:14.423148+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "微博",
           "ranks": [
             26,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时35分]"
+        },
+        {
+          "title": "Jennie香港演唱会哭了",
+          "url": "https://www.douyin.com/hot/2381447",
+          "source": "抖音",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时35分]"
         },
         {
           "title": "周深逃脱不了身高梗",
@@ -25,17 +38,6 @@
           "source": "今日头条",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "Jennie香港演唱会哭了",
-          "url": "https://www.douyin.com/hot/2381447",
-          "source": "抖音",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
