@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T12:44:50.053512+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-01-27T13:25:14.485036+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,18 @@
           "time_info": "[00时31分 ~ 04时23分]"
         },
         {
+          "title": "测评142岁白头到老演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8B%E8%AF%84142%E5%B2%81%E7%99%BD%E5%A4%B4%E5%88%B0%E8%80%81%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 13时25分]"
+        },
+        {
           "title": "刘宇宁好事马上发生",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%A5%BD%E4%BA%8B%E9%A9%AC%E4%B8%8A%E5%8F%91%E7%94%9F%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -73,6 +85,18 @@
           "time_info": "[03时21分 ~ 06时19分]"
         },
         {
+          "title": "浙江对2025年大型演唱会及音乐节进行奖补，奖金最高100万元",
+          "url": "https://wallstreetcn.com/livenews/3044442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时25分]"
+        },
+        {
           "title": "BLACKPINK演唱会转场",
           "url": "https://www.douyin.com/hot/2380505",
           "source": "抖音",
@@ -83,17 +107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 11时45分]"
-        },
-        {
-          "title": "浙江对2025年大型演唱会及音乐节进行奖补，奖金最高100万元",
-          "url": "https://wallstreetcn.com/livenews/3044442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "疑似王赫野尺度最大的一次",
@@ -116,17 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "测评142岁白头到老演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B5%8B%E8%AF%84142%E5%B2%81%E7%99%BD%E5%A4%B4%E5%88%B0%E8%80%81%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     }
