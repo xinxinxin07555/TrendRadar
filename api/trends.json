@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T14:32:32.995437+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-01-28T15:24:21.201267+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,23 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时25分 ~ 15时24分]"
+        },
+        {
+          "title": "周杰伦发文认输：1比2输给吴尊",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8F%91%E6%96%87%E8%AE%A4%E8%BE%93%EF%BC%9A1%E6%AF%942%E8%BE%93%E7%BB%99%E5%90%B4%E5%B0%8A",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            28,
+            17,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时25分 ~ 14时32分]"
+          "time_info": "[11时43分 ~ 15时24分]"
         },
         {
           "title": "Jennie香港演唱会哭了",
@@ -45,20 +60,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "周杰伦发文认输：1比2输给吴尊",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8F%91%E6%96%87%E8%AE%A4%E8%BE%93%EF%BC%9A1%E6%AF%942%E8%BE%93%E7%BB%99%E5%90%B4%E5%B0%8A",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 14时32分]"
         },
         {
           "title": "刘宇宁也太会摇了吧",
@@ -111,7 +112,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
