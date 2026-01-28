@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:42:13.358327+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-01-28T13:26:19.243217+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 13时26分]"
         },
         {
           "title": "Jennie香港演唱会哭了",
@@ -52,11 +52,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时26分]"
         },
         {
           "title": "刘宇宁也太会摇了吧",
