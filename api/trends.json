@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T16:28:38.501849+08:00",
-  "total_titles_processed": 1482,
+  "generated_at": "2026-01-28T17:32:18.117526+08:00",
+  "total_titles_processed": 1591,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             1,
-            4
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 16时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时25分 ~ 17时32分]"
         },
         {
           "title": "内娱至今无一人塌房的全女综艺",
