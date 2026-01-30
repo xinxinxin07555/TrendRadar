@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T18:31:35.141258+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-01-30T19:26:29.342139+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时31分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 19时26分]"
         },
         {
           "title": "王赫野黄霄雲离开我的依赖",
@@ -52,11 +52,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时26分]"
         },
         {
           "title": "偶遇王俊凯周杰伦吃火锅",
