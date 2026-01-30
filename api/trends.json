@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T20:47:25.842136+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2026-01-30T21:54:28.648824+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "ranks": [
             20,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 20时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时34分 ~ 21时54分]"
         },
         {
           "title": "王赫野黄霄雲离开我的依赖",
@@ -55,22 +56,24 @@
             22,
             24,
             21,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时35分 ~ 20时47分]"
+          "appearance_count": 5,
+          "time_info": "[17时35分 ~ 21时54分]"
         },
         {
           "title": "周杰伦王俊凯观赛澳网",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%A7%82%E8%B5%9B%E6%BE%B3%E7%BD%91%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 21时54分]"
         },
         {
           "title": "偶遇王俊凯周杰伦吃火锅",
