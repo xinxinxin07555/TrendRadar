@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:43:42.512729+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2026-01-30T15:38:40.797541+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%A2%81%E5%A8%85%E7%BB%B4%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%94%90%E4%BA%BA%E8%A1%97%E5%81%B6%E9%81%87%E5%91%A8%E6%B7%B1&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 15时38分]"
         },
         {
           "title": "偶遇王俊凯周杰伦吃火锅",
