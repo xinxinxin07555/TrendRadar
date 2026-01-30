@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T17:35:49.184850+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-01-30T18:31:35.141258+08:00",
+  "total_titles_processed": 1661,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,24 @@
           "url": "https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%81%A2%E5%A4%8D%E6%BC%94%E5%87%BA+%E5%AE%98%E5%AE%A3%E5%A4%9A%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时31分]"
+        },
+        {
+          "title": "王赫野黄霄雲离开我的依赖",
+          "url": "https://www.douyin.com/hot/2384250",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时35分]"
+          "time_info": "[17时35分 ~ 18时31分]"
         },
         {
           "title": "偶遇王俊凯周杰伦吃火锅",
@@ -66,17 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "王赫野黄霄雲离开我的依赖",
-          "url": "https://www.douyin.com/hot/2384250",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时35分"
         },
         {
           "title": "舒淇 张学友梦女",
