@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T09:43:21.551227+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2026-01-31T12:04:07.044987+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             28,
             27,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 09时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 12时04分]"
         },
         {
           "title": "王赫野黄霄雲离开我的依赖",
@@ -30,7 +31,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         },
@@ -52,7 +53,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
         }
