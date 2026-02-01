@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T22:23:49.448706+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-02-01T23:21:45.475621+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "Lady Gaga东京演唱会突然暂停表演，发声谴责",
@@ -27,11 +27,12 @@
             9,
             13,
             12,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 22时23分]"
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 23时21分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -41,8 +42,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 23时21分]"
+        },
+        {
+          "title": "黄霄雲巡演深圳收官站全程直拍",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%9C%84%E9%9B%B2%E5%B7%A1%E6%BC%94%E6%B7%B1%E5%9C%B3%E6%94%B6%E5%AE%98%E7%AB%99%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%8B%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            22,
+            23,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时21分]"
         },
         {
           "title": "如何评价 2026 年 1 月 31 日黄霄雲宇宙无敌号巡演深圳场？",
@@ -59,18 +75,29 @@
           "time_info": "[04时22分 ~ 07时20分]"
         },
         {
-          "title": "黄霄雲巡演深圳收官站全程直拍",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%9C%84%E9%9B%B2%E5%B7%A1%E6%BC%94%E6%B7%B1%E5%9C%B3%E6%94%B6%E5%AE%98%E7%AB%99%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%8B%8D",
-          "source": "bilibili 热搜",
+          "title": "于文文演唱会上突然晕倒",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            22,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
+          "title": "张韶涵把精灵气质拿捏得死死的",
+          "url": "https://www.douyin.com/hot/2385937",
+          "source": "抖音",
+          "ranks": [
             23,
-            21
+            25,
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 23时21分]"
         },
         {
           "title": "成都凤凰山足球场变演唱会，全场打灯合唱《流星雨》，球迷组织声明反对足球过度娱乐化，如何看待这样的行为？",
@@ -96,19 +123,6 @@
           "time_info": "[00时23分 ~ 03时19分]"
         },
         {
-          "title": "张韶涵把精灵气质拿捏得死死的",
-          "url": "https://www.douyin.com/hot/2385937",
-          "source": "抖音",
-          "ranks": [
-            23,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时36分]"
-        },
-        {
           "title": "曝于文文在演唱会上晕倒",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%BA%8E%E6%96%87%E6%96%87%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%99%95%E5%80%92",
           "source": "百度热搜",
@@ -126,7 +140,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -140,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
+        },
+        {
+          "title": "于文文看视频已经很不舒服了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E7%9C%8B%E8%A7%86%E9%A2%91%E5%B7%B2%E7%BB%8F%E5%BE%88%E4%B8%8D%E8%88%92%E6%9C%8D%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
