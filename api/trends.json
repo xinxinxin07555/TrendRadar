@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T02:31:23.549875+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-02-02T03:22:54.405190+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "于文文演出晕倒 被用担架抬离送医",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "于文文方报平安",
@@ -62,8 +62,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "张韶涵把精灵气质拿捏得死死的",
@@ -72,11 +72,12 @@
           "ranks": [
             20,
             22,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "黄霄雲巡演深圳收官站全程直拍",
@@ -85,11 +86,12 @@
           "ranks": [
             30,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         },
         {
           "title": "黄霄雲演唱会唱了golden",
@@ -101,8 +103,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时22分]"
         }
       ]
     }
