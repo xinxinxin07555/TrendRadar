@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T05:20:53.027576+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-02T06:21:47.354224+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "于文文演出晕倒 被用担架抬离送医",
@@ -50,11 +50,12 @@
           "ranks": [
             6,
             8,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "于文文方报平安",
@@ -66,8 +67,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "黄霄雲巡演深圳收官站全程直拍",
@@ -78,11 +79,27 @@
             23,
             24,
             26,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "张韶涵把精灵气质拿捏得死死的",
+          "url": "https://www.douyin.com/hot/2385937",
+          "source": "抖音",
+          "ranks": [
+            20,
+            22,
+            24,
+            17,
             25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "time_info": "[00时25分 ~ 06时21分]"
         },
         {
           "title": "黄霄雲演唱会唱了golden",
@@ -97,20 +114,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 04时23分]"
-        },
-        {
-          "title": "张韶涵把精灵气质拿捏得死死的",
-          "url": "https://www.douyin.com/hot/2385937",
-          "source": "抖音",
-          "ranks": [
-            20,
-            22,
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时22分]"
         }
       ]
     }
