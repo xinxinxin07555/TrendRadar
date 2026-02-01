@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T04:23:28.852089+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-02-02T05:20:53.027576+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时20分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -26,20 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
-        },
-        {
-          "title": "于文文演出晕倒 被用担架抬离送医",
-          "url": "https://www.toutiao.com/trending/7601326166783361033/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时20分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -48,11 +36,25 @@
           "ranks": [
             7,
             6,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时20分]"
+        },
+        {
+          "title": "于文文演出晕倒 被用担架抬离送医",
+          "url": "https://www.toutiao.com/trending/7601326166783361033/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时20分]"
         },
         {
           "title": "于文文方报平安",
@@ -64,8 +66,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时20分]"
         },
         {
           "title": "黄霄雲巡演深圳收官站全程直拍",
