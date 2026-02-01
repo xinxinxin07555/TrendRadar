@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T14:56:54.154236+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2026-02-01T15:36:47.852160+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时36分]"
         },
         {
           "title": "张杰五天抽了25克黄金",
