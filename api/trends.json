@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T22:02:19.999392+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-02-02T22:53:45.423056+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,22 @@
           "time_info": "[00时25分 ~ 14时02分]"
         },
         {
+          "title": "周杰伦陈奕迅王俊凯聚餐合照",
+          "url": "https://www.douyin.com/hot/2386860",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29,
+            27,
+            23,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时47分 ~ 22时53分]"
+        },
+        {
           "title": "于文文演出晕倒 被用担架抬离送医",
           "url": "https://www.toutiao.com/trending/7601326166783361033/",
           "source": "今日头条",
@@ -76,21 +92,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时25分 ~ 07时22分]"
-        },
-        {
-          "title": "周杰伦陈奕迅王俊凯聚餐合照",
-          "url": "https://www.douyin.com/hot/2386860",
-          "source": "抖音",
-          "ranks": [
-            26,
-            29,
-            27,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时47分 ~ 22时02分]"
         },
         {
           "title": "黄霄雲巡演深圳收官站全程直拍",
