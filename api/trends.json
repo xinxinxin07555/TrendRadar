@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T18:41:43.911535+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-02-02T19:34:12.858266+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -124,6 +124,34 @@
           "time_info": "[14时02分 ~ 17时44分]"
         },
         {
+          "title": "于文文回应舞台上晕倒",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E5%9B%9E%E5%BA%94%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 19时34分]"
+        },
+        {
+          "title": "周杰伦陈奕迅王俊凯聚餐合照",
+          "url": "https://www.douyin.com/hot/2386860",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时47分 ~ 19时34分]"
+        },
+        {
           "title": "黄霄雲演唱会唱了golden",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%9C%84%E9%9B%B2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E4%BA%86golden",
           "source": "bilibili 热搜",
@@ -149,32 +177,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时47分 ~ 18时41分]"
-        },
-        {
-          "title": "于文文回应舞台上晕倒",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E5%9B%9E%E5%BA%94%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%99%95%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时41分]"
-        },
-        {
-          "title": "周杰伦陈奕迅王俊凯聚餐合照",
-          "url": "https://www.douyin.com/hot/2386860",
-          "source": "抖音",
-          "ranks": [
-            26,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时44分]"
         },
         {
           "title": "王俊凯周杰伦ins合照",
@@ -273,7 +275,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
