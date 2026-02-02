@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-02-02T07:22:18.397830+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-02T09:53:56.213421+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "于文文演唱会上突然晕倒",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时22分]"
-        },
         {
           "title": "于文文演唱会晕倒",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%99%95%E5%80%92%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 09时53分]"
+        },
+        {
+          "title": "于文文演唱会上突然晕倒",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 09时53分]"
         },
         {
           "title": "于文文演唱会晕倒",
@@ -38,11 +40,12 @@
             7,
             6,
             10,
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 09时53分]"
         },
         {
           "title": "于文文演出晕倒 被用担架抬离送医",
@@ -120,13 +123,46 @@
           "time_info": "[00时25分 ~ 04时23分]"
         },
         {
+          "title": "吴克群帮忙救场于文文",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%BF%99%E6%95%91%E5%9C%BA%E4%BA%8E%E6%96%87%E6%96%87%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "于文文方报平安",
+          "url": "https://www.toutiao.com/trending/7602047913681882634/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
+          "title": "周杰伦晒与王俊凯合照",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%90%88%E7%85%A7&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "钟意也来听黄霄雲演唱会了",
           "url": "https://www.douyin.com/hot/2386269",
           "source": "抖音",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
