@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T20:53:30.076204+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-02-02T22:02:19.999392+08:00",
+  "total_titles_processed": 1662,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,21 @@
           "time_info": "[00时25分 ~ 07时22分]"
         },
         {
+          "title": "周杰伦陈奕迅王俊凯聚餐合照",
+          "url": "https://www.douyin.com/hot/2386860",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29,
+            27,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时47分 ~ 22时02分]"
+        },
+        {
           "title": "黄霄雲巡演深圳收官站全程直拍",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%9C%84%E9%9B%B2%E5%B7%A1%E6%BC%94%E6%B7%B1%E5%9C%B3%E6%94%B6%E5%AE%98%E7%AB%99%E5%85%A8%E7%A8%8B%E7%9B%B4%E6%8B%8D",
           "source": "bilibili 热搜",
@@ -108,21 +123,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 07时22分]"
-        },
-        {
-          "title": "周杰伦陈奕迅王俊凯聚餐合照",
-          "url": "https://www.douyin.com/hot/2386860",
-          "source": "抖音",
-          "ranks": [
-            26,
-            29,
-            27,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时47分 ~ 20时53分]"
         },
         {
           "title": "陈奕迅获奖100万 张学友获奖50万",
