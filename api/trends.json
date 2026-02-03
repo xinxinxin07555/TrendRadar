@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T00:49:18.848010+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-04T01:52:06.475095+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E9%9F%B6%E6%B6%B5MV%E6%8B%8D%E5%87%BA%E4%BA%86%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%B4%A9%E6%BA%83",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时52分]"
         },
         {
           "title": "吴克群请环卫大姐们吃饭还发红包",
           "url": "https://www.toutiao.com/trending/7602288071186825267/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 01时52分]"
         }
       ]
     }
