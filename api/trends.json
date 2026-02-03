@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:32:44.081623+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-02-03T20:53:38.348376+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             17,
             22,
             12,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 19时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 20时53分]"
         },
         {
           "title": "吴克群喊你下乡买年菜",
