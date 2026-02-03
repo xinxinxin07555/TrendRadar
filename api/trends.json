@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:37:05.044207+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-02-03T17:38:16.730468+08:00",
+  "total_titles_processed": 1425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             8,
             13,
             17,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 16时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 17时38分]"
+        },
+        {
+          "title": "吴克群喊你下乡买年菜",
+          "url": "https://www.douyin.com/hot/2388326",
+          "source": "抖音",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时36分 ~ 17时38分]"
         },
         {
           "title": "徐怀钰要来无锡开演唱会了",
@@ -31,17 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
-          "title": "吴克群喊你下乡买年菜",
-          "url": "https://www.douyin.com/hot/2388326",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 16时37分]"
         }
       ]
     }
