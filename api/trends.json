@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T05:31:53.632868+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-02-04T06:27:22.105291+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 05时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 06时27分]"
         },
         {
           "title": "吴克群请环卫大姐们吃饭还发红包",
@@ -44,8 +44,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时32分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 06时27分]"
         }
       ]
     }
