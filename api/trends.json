@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T17:38:16.730468+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-02-03T18:37:20.776136+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             17,
             22,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时48分 ~ 18时37分]"
         },
         {
           "title": "吴克群喊你下乡买年菜",
@@ -28,11 +29,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时38分]"
+          "appearance_count": 4,
+          "time_info": "[16时36分 ~ 18时37分]"
         },
         {
           "title": "徐怀钰要来无锡开演唱会了",
