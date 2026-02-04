@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T22:02:28.394851+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2026-02-04T23:40:17.836772+08:00",
+  "total_titles_processed": 2111,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,31 @@
           "time_info": "[18时35分 ~ 19时31分]"
         },
         {
+          "title": "周杰伦是不是再也无法重拾荣光了?",
+          "url": "https://www.zhihu.com/question/1976186741984621658",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时40分]"
+        },
+        {
+          "title": "肖战 演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时40分]"
+        },
+        {
           "title": "曝王心凌吴克群同回家",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -62,29 +87,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时09分 ~ 15时42分]"
-        },
-        {
-          "title": "周杰伦是不是再也无法重拾荣光了?",
-          "url": "https://www.zhihu.com/question/1976186741984621658",
-          "source": "知乎",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时02分]"
-        },
-        {
-          "title": "肖战 演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 22时02分]"
         },
         {
           "title": "吴克群请环卫大姐们吃饭还发红包",
