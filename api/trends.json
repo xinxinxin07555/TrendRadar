@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T12:09:53.551079+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-02-04T13:45:42.798155+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,18 @@
           "time_info": "[00时49分 ~ 01时52分]"
         },
         {
+          "title": "曝王心凌吴克群同回家",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时45分]"
+        },
+        {
           "title": "2025演唱会推荐TOP10",
           "url": "https://s.weibo.com/weibo?q=%232025%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8E%A8%E8%8D%90TOP10%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -61,24 +73,13 @@
           "time_info": "07时26分"
         },
         {
-          "title": "曝王心凌吴克群同回家",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "王心凌方回应和吴克群同回家",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%96%B9%E5%9B%9E%E5%BA%94%E5%92%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         }
