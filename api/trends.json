@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T14:46:19.516541+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-04T15:42:48.943345+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,19 @@
           "time_info": "[03时44分 ~ 14时46分]"
         },
         {
+          "title": "曝王心凌吴克群同回家",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时42分]"
+        },
+        {
           "title": "吴克群请环卫大姐们吃饭还发红包",
           "url": "https://www.toutiao.com/trending/7602288071186825267/",
           "source": "今日头条",
@@ -49,18 +62,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时49分 ~ 01时52分]"
-        },
-        {
-          "title": "曝王心凌吴克群同回家",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "2025演唱会推荐TOP10",
