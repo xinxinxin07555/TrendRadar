@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T00:43:10.581266+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T01:43:38.264621+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1976186741984621658",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时43分]"
         },
         {
           "title": "肖战 演唱会",
           "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时43分]"
         }
       ]
     }
