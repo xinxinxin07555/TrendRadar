@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T13:45:42.798155+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-02-04T14:46:19.516541+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "ranks": [
             29,
             28,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时44分 ~ 12时09分]"
+          "appearance_count": 8,
+          "time_info": "[03时44分 ~ 14时46分]"
         },
         {
           "title": "吴克群请环卫大姐们吃饭还发红包",
@@ -58,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 13时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 14时46分]"
         },
         {
           "title": "2025演唱会推荐TOP10",
