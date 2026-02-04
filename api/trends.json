@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T02:44:12.177088+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-02-05T03:37:35.513543+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             16,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 02时44分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时37分]"
         },
         {
           "title": "周杰伦是不是再也无法重拾荣光了?",
