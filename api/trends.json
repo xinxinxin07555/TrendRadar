@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:36:11.448722+08:00",
-  "total_titles_processed": 1679,
+  "generated_at": "2026-02-04T19:31:48.582015+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E4%BA%BA%E6%9B%BF%E9%99%88%E6%A5%9A%E7%94%9F%E5%AE%98%E5%AE%A3%E4%BA%86%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 19时31分]"
         },
         {
           "title": "曝王心凌吴克群同回家",
