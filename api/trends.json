@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T22:52:11.137339+08:00",
-  "total_titles_processed": 2104,
+  "generated_at": "2026-02-06T23:37:43.371942+08:00",
+  "total_titles_processed": 2181,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B9%B8%E8%BF%90%E8%A7%82%E4%BC%97%E9%BB%84%E9%9C%84%E9%9B%B2%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时37分]"
         },
         {
           "title": "与周杰伦合拍新春大片",
