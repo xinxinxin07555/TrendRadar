@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T19:31:59.230888+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-02-06T20:53:17.856127+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 20时53分]"
         },
         {
           "title": "与周杰伦合拍新春大片",
