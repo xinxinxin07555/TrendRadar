@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T17:39:46.531434+08:00",
-  "total_titles_processed": 1563,
+  "generated_at": "2026-02-06T18:36:36.018833+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 18时36分]"
+        },
+        {
+          "title": "大麦老总给汪苏泷颁奖时跪倒",
+          "url": "https://www.toutiao.com/trending/7603535674642186276/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时36分]"
         },
         {
           "title": "与周杰伦合拍新春大片",
@@ -66,17 +79,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "大麦老总给汪苏泷颁奖时跪倒",
-          "url": "https://www.toutiao.com/trending/7603535674642186276/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
         },
         {
           "title": "白鹿刘宇宁 内娱同桌",
