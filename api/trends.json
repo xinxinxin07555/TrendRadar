@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T03:21:53.867221+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-02-08T04:23:33.711021+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,26 @@
           "ranks": [
             23,
             21,
-            22
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 04时23分]"
+        },
+        {
+          "title": "金玟庭演唱会solo中文填词",
+          "url": "https://www.douyin.com/hot/2393318",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30,
+            26,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时26分 ~ 03时21分]"
+          "time_info": "[00时26分 ~ 04时23分]"
         },
         {
           "title": "白鹿穿高定录综艺",
@@ -31,19 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "金玟庭演唱会solo中文填词",
-          "url": "https://www.douyin.com/hot/2393318",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 03时21分]"
         },
         {
           "title": "王嘉尔刘雨昕MMAM舞台国际水准",
