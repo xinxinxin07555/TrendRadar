@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T19:21:36.372138+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-02-08T20:42:11.946980+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金玟庭演唱会solo中文填词",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时37分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[15时37分 ~ 20时42分]"
         },
         {
           "title": "梁源发文怼吴克群",
@@ -89,6 +89,17 @@
           "time_info": "[13时01分 ~ 15时37分]"
         },
         {
+          "title": "新闻周刊丨吴克群，另一种影响力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 20时42分]"
+        },
+        {
           "title": "吴克群菜地拍卖会",
           "url": "https://www.douyin.com/hot/2393325",
           "source": "抖音",
@@ -124,6 +135,17 @@
           "time_info": "[18时23分 ~ 18时24分]"
         },
         {
+          "title": "吴克群帮农民卖掉3万斤菜",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
           "title": "王嘉尔刘雨昕MMAM舞台国际水准",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%88%98%E9%9B%A8%E6%98%95MMAM%E8%88%9E%E5%8F%B0%E5%9B%BD%E9%99%85%E6%B0%B4%E5%87%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -133,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        },
-        {
-          "title": "新闻周刊丨吴克群，另一种影响力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "孙楠黄霄雲合唱再见深海",
