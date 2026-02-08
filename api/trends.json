@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T01:24:25.261381+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-02-09T02:32:50.024945+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%AE%98%E5%AE%A3%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时32分]"
         },
         {
           "title": "吴克群帮农民卖掉3万斤菜",
@@ -24,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "吴克群用视频为普通人“写诗”",
@@ -38,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "新闻周刊丨吴克群，另一种影响力",
