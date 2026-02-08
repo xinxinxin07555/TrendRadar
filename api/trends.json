@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T07:27:24.296343+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-02-08T10:11:59.295348+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金玟庭演唱会solo中文填词",
@@ -19,8 +19,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 10时11分]"
         },
         {
           "title": "aespa香港演唱会",
@@ -58,6 +58,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "孙楠黄霄雲合唱再见深海",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AD%99%E6%A5%A0%E9%BB%84%E9%9C%84%E9%9B%B2%E5%90%88%E5%94%B1%E5%86%8D%E8%A7%81%E6%B7%B1%E6%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "吴克群菜地拍卖会",
+          "url": "https://www.douyin.com/hot/2393325",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时11分"
         }
       ]
     }
