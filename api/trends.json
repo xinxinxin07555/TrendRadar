@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T22:25:26.262898+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-02-08T23:23:43.424591+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "吴克群用视频为普通人“写诗”",
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时37分 ~ 22时25分]"
+          "appearance_count": 12,
+          "time_info": "[15时37分 ~ 23时23分]"
         },
         {
           "title": "金玟庭演唱会solo中文填词",
@@ -49,6 +49,18 @@
           "time_info": "[13时01分 ~ 17时28分]"
         },
         {
+          "title": "新闻周刊丨吴克群，另一种影响力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时21分 ~ 23时23分]"
+        },
+        {
           "title": "华晨宇脖子上的唇印",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%94%87%E5%8D%B0&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -76,27 +88,17 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
-          "title": "新闻周刊丨吴克群，另一种影响力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 22时25分]"
-        },
-        {
           "title": "吴克群帮农民卖掉3万斤菜",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 22时25分]"
+          "appearance_count": 4,
+          "time_info": "[21时42分 ~ 23时23分]"
         },
         {
           "title": "吴克群帮农民卖掉3万斤菜",
@@ -178,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "张杰演唱会现场官宣鸟巢",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%AE%98%E5%AE%A3%E9%B8%9F%E5%B7%A2%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "演唱会背痛包 偶像比粉丝先认出对方",
