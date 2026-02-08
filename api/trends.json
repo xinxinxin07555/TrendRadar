@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T15:37:45.993842+08:00",
-  "total_titles_processed": 846,
+  "generated_at": "2026-02-08T16:29:55.890061+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,24 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时29分]"
+        },
+        {
+          "title": "华晨宇脖子上的唇印",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%94%87%E5%8D%B0&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 16时29分]"
         },
         {
           "title": "吴克群帮农民卖掉3万斤菜",
@@ -75,17 +88,6 @@
           "time_info": "[10时11分 ~ 14时03分]"
         },
         {
-          "title": "华晨宇脖子上的唇印",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%94%87%E5%8D%B0&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时37分]"
-        },
-        {
           "title": "白鹿穿高定录综艺",
           "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%A9%BF%E9%AB%98%E5%AE%9A%E5%BD%95%E7%BB%BC%E8%89%BA%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -104,9 +106,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时29分]"
         },
         {
           "title": "王嘉尔刘雨昕MMAM舞台国际水准",
@@ -148,7 +150,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
         }
