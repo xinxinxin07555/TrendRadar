@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-08T20:42:11.946980+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-02-08T21:43:09.491339+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "吴克群用视频为普通人“写诗”",
+          "url": "https://www.douyin.com/hot/2393881",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时37分 ~ 21时43分]"
+        },
         {
           "title": "金玟庭演唱会solo中文填词",
           "url": "https://www.douyin.com/hot/2393318",
@@ -21,17 +32,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 15时37分]"
-        },
-        {
-          "title": "吴克群用视频为普通人“写诗”",
-          "url": "https://www.douyin.com/hot/2393881",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时37分 ~ 20时42分]"
         },
         {
           "title": "梁源发文怼吴克群",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时31分]"
+        },
+        {
+          "title": "吴克群帮农民卖掉3万斤菜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "梁源吴克群因点评《棱角》发生冲突",
