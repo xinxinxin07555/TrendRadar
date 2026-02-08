@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T21:43:09.491339+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-02-08T22:25:26.262898+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时37分 ~ 21时43分]"
+          "appearance_count": 11,
+          "time_info": "[15时37分 ~ 22时25分]"
         },
         {
           "title": "金玟庭演唱会solo中文填词",
@@ -76,6 +76,29 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
+          "title": "新闻周刊丨吴克群，另一种影响力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 22时25分]"
+        },
+        {
+          "title": "吴克群帮农民卖掉3万斤菜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时25分]"
+        },
+        {
           "title": "吴克群帮农民卖掉3万斤菜",
           "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -87,17 +110,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 15时37分]"
-        },
-        {
-          "title": "新闻周刊丨吴克群，另一种影响力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时42分]"
         },
         {
           "title": "吴克群菜地拍卖会",
@@ -122,17 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "吴克群帮农民卖掉3万斤菜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "梁源吴克群因点评《棱角》发生冲突",
