@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-08T23:23:43.424591+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-02-09T00:26:58.909710+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 17,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "吴克群帮农民卖掉3万斤菜",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
         {
           "title": "吴克群用视频为普通人“写诗”",
           "url": "https://www.douyin.com/hot/2393881",
@@ -15,204 +26,30 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时37分 ~ 23时23分]"
-        },
-        {
-          "title": "金玟庭演唱会solo中文填词",
-          "url": "https://www.douyin.com/hot/2393318",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            26,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 15时37分]"
-        },
-        {
-          "title": "梁源发文怼吴克群",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%BA%90%E5%8F%91%E6%96%87%E6%80%BC%E5%90%B4%E5%85%8B%E7%BE%A4%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12,
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时28分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "新闻周刊丨吴克群，另一种影响力",
           "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 23时23分]"
-        },
-        {
-          "title": "华晨宇脖子上的唇印",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%84%96%E5%AD%90%E4%B8%8A%E7%9A%84%E5%94%87%E5%8D%B0&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 17时28分]"
-        },
-        {
-          "title": "aespa香港演唱会",
-          "url": "https://www.douyin.com/hot/2393189",
-          "source": "抖音",
-          "ranks": [
-            23,
-            21,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时23分]"
-        },
-        {
-          "title": "吴克群帮农民卖掉3万斤菜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 23时23分]"
-        },
-        {
-          "title": "吴克群帮农民卖掉3万斤菜",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时37分]"
-        },
-        {
-          "title": "吴克群菜地拍卖会",
-          "url": "https://www.douyin.com/hot/2393325",
-          "source": "抖音",
-          "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 14时03分]"
-        },
-        {
-          "title": "白鹿穿高定录综艺",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%A9%BF%E9%AB%98%E5%AE%9A%E5%BD%95%E7%BB%BC%E8%89%BA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "梁源吴克群因点评《棱角》发生冲突",
-          "url": "https://www.toutiao.com/trending/7603577013651226675/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
-        },
-        {
-          "title": "吴克群帮农民卖掉3万斤菜",
-          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
-        },
-        {
-          "title": "王嘉尔刘雨昕MMAM舞台国际水准",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%88%98%E9%9B%A8%E6%98%95MMAM%E8%88%9E%E5%8F%B0%E5%9B%BD%E9%99%85%E6%B0%B4%E5%87%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
         },
         {
-          "title": "孙楠黄霄雲合唱再见深海",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AD%99%E6%A5%A0%E9%BB%84%E9%9C%84%E9%9B%B2%E5%90%88%E5%94%B1%E5%86%8D%E8%A7%81%E6%B7%B1%E6%B5%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "张杰演唱会现场官宣鸟巢",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%AE%98%E5%AE%A3%E9%B8%9F%E5%B7%A2%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "演唱会背痛包 偶像比粉丝先认出对方",
-          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E8%83%8C%E7%97%9B%E5%8C%85%20%E5%81%B6%E5%83%8F%E6%AF%94%E7%B2%89%E4%B8%9D%E5%85%88%E8%AE%A4%E5%87%BA%E5%AF%B9%E6%96%B9&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "李佳薇黄霄雲合唱最美的太阳",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87%E9%BB%84%E9%9C%84%E9%9B%B2%E5%90%88%E5%94%B1%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A4%AA%E9%98%B3",
-          "source": "bilibili 热搜",
+          "title": "吴克群帮农民卖掉3万斤菜",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时37分"
+          "time_info": "00时26分"
         }
       ]
     }
