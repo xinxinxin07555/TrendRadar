@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T19:52:50.529507+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-02-09T21:02:06.709201+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             18,
             16,
             14,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 19时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 21时02分]"
         },
         {
           "title": "华晨宇拿下三块地",
