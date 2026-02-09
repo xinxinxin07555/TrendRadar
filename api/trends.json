@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T21:02:06.709201+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-02-09T22:49:14.382185+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
@@ -92,11 +92,12 @@
           "ranks": [
             23,
             22,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 18时00分]"
+          "appearance_count": 6,
+          "time_info": "[15时56分 ~ 22时49分]"
         },
         {
           "title": "新闻周刊丨吴克群，另一种影响力",
