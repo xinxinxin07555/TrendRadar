@@ -1,147 +1,33 @@
 {
-  "generated_at": "2026-02-09T23:53:51.825801+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-02-10T01:50:48.021912+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "吴克群帮农民卖掉3万斤菜",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            12,
-            9,
-            8,
-            23,
-            18,
-            16,
-            14,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时26分 ~ 21时02分]"
-        },
         {
           "title": "华晨宇拿下三块地",
           "url": "https://www.toutiao.com/trending/7604510188414500890/",
           "source": "今日头条",
           "ranks": [
-            12,
-            13,
-            16,
-            15,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 19时52分]"
-        },
-        {
-          "title": "吴克群用视频为普通人“写诗”",
-          "url": "https://www.douyin.com/hot/2393881",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 12时26分]"
-        },
-        {
-          "title": "张杰官宣世界巡回演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%AE%98%E5%AE%A3%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            8,
-            10,
-            19,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 07时28分]"
-        },
-        {
-          "title": "华晨宇宣布告别演唱会租地模式",
-          "url": "https://www.douyin.com/hot/2394625",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 23时53分]"
-        },
-        {
-          "title": "乐评人梁源发文怼吴克群，此前两人在音综《有歌第二季》现场起争执，双方分歧是什么？乐评的边界又在哪里？",
-          "url": "https://www.zhihu.com/question/2003798777622913519",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时46分]"
-        },
-        {
-          "title": "新闻周刊丨吴克群，另一种影响力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32560729",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时24分]"
-        },
-        {
-          "title": "BLACKPINK预告照",
-          "url": "https://s.weibo.com/weibo?q=BLACKPINK%E9%A2%84%E5%91%8A%E7%85%A7&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "01时50分"
         },
         {
-          "title": "BTS免费开演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23BTS%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=27&Refer=top",
+          "title": "吴克群说做自媒体拍吃喝很无聊",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E8%AF%B4%E5%81%9A%E8%87%AA%E5%AA%92%E4%BD%93%E6%8B%8D%E5%90%83%E5%96%9D%E5%BE%88%E6%97%A0%E8%81%8A%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "吴克群帮农民卖掉3万斤菜",
-          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%96%E6%8E%893%E4%B8%87%E6%96%A4%E8%8F%9C",
-          "source": "百度热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时26分"
+          "time_info": "01时50分"
         },
         {
           "title": "吴克群重庆24小时年夜饭接力",
@@ -150,9 +36,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "01时50分"
         }
       ]
     }
