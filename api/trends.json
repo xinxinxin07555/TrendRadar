@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T06:33:40.306985+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-02-10T07:34:48.000800+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             22,
             16,
             14,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时50分 ~ 06时33分]"
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 07时34分]"
         },
         {
           "title": "华晨宇宣布告别演唱会租地模式",
