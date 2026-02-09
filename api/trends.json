@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T16:46:16.028230+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-02-09T18:00:20.382941+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             23,
             18,
             16,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 18时00分]"
         },
         {
           "title": "吴克群用视频为普通人“写诗”",
@@ -54,6 +55,20 @@
           "time_info": "[01时24分 ~ 07时28分]"
         },
         {
+          "title": "华晨宇拿下三块地",
+          "url": "https://www.toutiao.com/trending/7604510188414500890/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时25分 ~ 18时00分]"
+        },
+        {
           "title": "乐评人梁源发文怼吴克群，此前两人在音综《有歌第二季》现场起争执，双方分歧是什么？乐评的边界又在哪里？",
           "url": "https://www.zhihu.com/question/2003798777622913519",
           "source": "知乎",
@@ -68,17 +83,17 @@
           "time_info": "[12时25分 ~ 16时46分]"
         },
         {
-          "title": "华晨宇拿下三块地",
-          "url": "https://www.toutiao.com/trending/7604510188414500890/",
-          "source": "今日头条",
+          "title": "华晨宇宣布告别演唱会租地模式",
+          "url": "https://www.douyin.com/hot/2394625",
+          "source": "抖音",
           "ranks": [
-            12,
-            13,
-            16
+            23,
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时25分 ~ 16时46分]"
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 18时00分]"
         },
         {
           "title": "新闻周刊丨吴克群，另一种影响力",
@@ -90,18 +105,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时24分]"
-        },
-        {
-          "title": "华晨宇宣布告别演唱会租地模式",
-          "url": "https://www.douyin.com/hot/2394625",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 16时46分]"
         },
         {
           "title": "BLACKPINK预告照",
