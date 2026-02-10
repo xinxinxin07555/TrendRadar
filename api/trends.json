@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T21:06:18.689198+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-02-10T22:56:28.895651+08:00",
+  "total_titles_processed": 1738,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时01分 ~ 21时06分]"
+          "appearance_count": 8,
+          "time_info": "[15时01分 ~ 22时56分]"
         },
         {
           "title": "薛之谦万兽之王演唱会官宣",
