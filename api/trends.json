@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T19:50:49.445539+08:00",
-  "total_titles_processed": 1488,
+  "generated_at": "2026-02-10T21:06:18.689198+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 19时50分]"
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 21时06分]"
         },
         {
           "title": "薛之谦万兽之王演唱会官宣",
@@ -28,11 +28,12 @@
             4,
             7,
             8,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 19时50分]"
+          "appearance_count": 6,
+          "time_info": "[16时02分 ~ 21时06分]"
         },
         {
           "title": "华晨宇拿下三块地",
