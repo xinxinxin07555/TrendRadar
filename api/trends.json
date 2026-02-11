@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:46:19.728520+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-11T19:42:59.644354+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[00时04分 ~ 06时37分]"
         },
         {
+          "title": "国台办回应吴克群帮菜农卖3万斤蔬菜",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E8%8F%9C%E5%86%9C%E5%8D%963%E4%B8%87%E6%96%A4%E8%94%AC%E8%8F%9C",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            7,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时54分 ~ 19时42分]"
+        },
+        {
           "title": "爆肝100小时解读华晨宇",
           "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E8%82%9D100%E5%B0%8F%E6%97%B6%E8%A7%A3%E8%AF%BB%E5%8D%8E%E6%99%A8%E5%AE%87",
           "source": "bilibili 热搜",
@@ -33,19 +47,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时12分 ~ 07时36分]"
-        },
-        {
-          "title": "国台办回应吴克群帮菜农卖3万斤蔬菜",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E8%8F%9C%E5%86%9C%E5%8D%963%E4%B8%87%E6%96%A4%E8%94%AC%E8%8F%9C",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 18时46分]"
         },
         {
           "title": "国台办回应吴克群帮农民卖3万斤菜",
@@ -111,7 +112,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
