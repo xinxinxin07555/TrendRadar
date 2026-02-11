@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T02:58:53.302143+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-12T03:56:39.402007+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时56分]"
         },
         {
           "title": "周深忘词",
@@ -27,8 +27,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时56分]"
         }
       ]
     }
