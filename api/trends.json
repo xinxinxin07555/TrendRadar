@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T13:01:09.277069+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-02-11T14:12:18.696407+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华晨宇宣布拿下三块地，建立含演出餐饮住宿的演唱会乐园，实现从租赁场地到自建基地升级，怎样看待这种模式？",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时00分 ~ 13时01分]"
+        },
+        {
+          "title": "国台办回应吴克群帮农民卖3万斤菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B8%AE%E5%86%9C%E6%B0%91%E5%8D%963%E4%B8%87%E6%96%A4%E8%8F%9C%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "张杰给100多名员工发超万元红包",
