@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T01:19:45.736209+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T02:58:53.302143+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时58分]"
         },
         {
           "title": "周深忘词",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E5%BF%98%E8%AF%8D&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时58分]"
         }
       ]
     }
