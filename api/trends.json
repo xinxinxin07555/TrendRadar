@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T06:27:02.977134+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-12T07:29:48.214890+08:00",
+  "total_titles_processed": 670,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2287576",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时29分]"
         },
         {
           "title": "周深忘词",
@@ -25,11 +26,12 @@
           "ranks": [
             22,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时29分]"
         },
         {
           "title": "刘宇宁湖南春晚扑通扑通",
