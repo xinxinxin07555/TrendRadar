@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T16:42:09.205104+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-02-12T17:45:17.758812+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,20 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
+          "title": "ILLIT NewJeans",
+          "url": "https://s.weibo.com/weibo?q=ILLIT%20NewJeans&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            12,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时03分 ~ 17时45分]"
+        },
+        {
           "title": "李健 春晚",
           "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%20%E6%98%A5%E6%99%9A&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时23分 ~ 14时03分]"
-        },
-        {
-          "title": "ILLIT NewJeans",
-          "url": "https://s.weibo.com/weibo?q=ILLIT%20NewJeans&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时03分 ~ 16时42分]"
         },
         {
           "title": "刘宇宁湖南春晚扑通扑通",
