@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T18:42:45.986349+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2026-02-12T19:38:05.446615+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -77,11 +77,13 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%A7%A3%E9%94%81%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B0%86%E5%86%9B%E4%BB%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            26,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时38分]"
         },
         {
           "title": "刘宇宁湖南春晚扑通扑通",
