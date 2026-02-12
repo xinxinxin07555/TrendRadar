@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:50:26.947064+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-12T16:42:09.205104+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "source": "微博",
           "ranks": [
             25,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 15时50分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 16时42分]"
         },
         {
           "title": "刘宇宁湖南春晚扑通扑通",
