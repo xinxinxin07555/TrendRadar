@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T22:14:31.836543+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2026-02-12T23:50:18.117916+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 22时14分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 23时50分]"
         },
         {
           "title": "火树直播揭秘综艺内幕",
