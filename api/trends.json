@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:38:05.446615+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-02-12T21:01:51.367244+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "歌手华晨宇“跨界”至地产圈 拿下云南三宗地打造“火星乐园2.0”",
@@ -84,6 +84,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时42分 ~ 19时38分]"
+        },
+        {
+          "title": "火树直播揭秘综艺内幕",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E6%A0%91%E7%9B%B4%E6%92%AD%E6%8F%AD%E7%A7%98%E7%BB%BC%E8%89%BA%E5%86%85%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "周深一个人就是交响乐团",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%BA%A4%E5%93%8D%E4%B9%90%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         },
         {
           "title": "刘宇宁湖南春晚扑通扑通",
