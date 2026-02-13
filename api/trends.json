@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T18:37:07.987227+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-02-13T19:30:14.451949+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             30,
             28,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时58分 ~ 18时37分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 19时30分]"
         },
         {
           "title": "吴克群变身“吴克穷”",
