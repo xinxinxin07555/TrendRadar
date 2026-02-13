@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T03:40:58.402901+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-14T04:34:58.070687+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=lolm%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%91%8A%E7%99%BD%E6%B0%94%E7%90%83%E7%9A%AE%E8%82%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 00时42分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 04时34分]"
         },
         {
           "title": "王俊凯周杰伦到底还有多少合照",
