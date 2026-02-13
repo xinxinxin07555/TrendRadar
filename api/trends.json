@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T06:30:29.354152+08:00",
-  "total_titles_processed": 569,
+  "generated_at": "2026-02-14T07:28:27.019191+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 07时28分]"
         },
         {
           "title": "王俊凯周杰伦到底还有多少合照",
@@ -37,11 +37,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%98%9F%E9%93%81%E5%81%9A%E6%88%90%E7%BB%BC%E8%89%BA%E5%A5%94%E8%B7%91%E5%90%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 07时28分]"
         }
       ]
     }
