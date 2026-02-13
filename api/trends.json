@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T04:34:58.070687+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-02-14T05:32:33.202188+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            30
+            30,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 05时32分]"
         },
         {
           "title": "王俊凯周杰伦到底还有多少合照",
