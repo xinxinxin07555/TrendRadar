@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-15T12:22:43.217401+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-02-15T13:55:06.827437+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "胡夏河南春晚献唱《敢问路在何方》",
+          "url": "https://www.toutiao.com/trending/7606702762832412699/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
         {
           "title": "张杰 春晚",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E6%98%A5%E6%99%9A&t=31&band_rank=25&Refer=top",
@@ -26,7 +37,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
         }
