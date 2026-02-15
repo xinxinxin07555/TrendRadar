@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T04:22:50.946002+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-16T05:21:45.833751+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             24,
             26,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 05时21分]"
         },
         {
           "title": "周深郎朗辽宁春晚同台演出",
@@ -29,11 +30,12 @@
             28,
             25,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时21分]"
         }
       ]
     }
