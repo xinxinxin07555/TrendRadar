@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T17:51:33.186358+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-02-16T18:46:04.175921+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,18 @@
           "time_info": "14时05分"
         },
         {
+          "title": "李健时隔13年回归春晚",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E6%97%B6%E9%9A%9413%E5%B9%B4%E5%9B%9E%E5%BD%92%E6%98%A5%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 18时46分]"
+        },
+        {
           "title": "周深郎朗是对我耳朵最好的人",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%83%8E%E6%9C%97%E6%98%AF%E5%AF%B9%E6%88%91%E8%80%B3%E6%9C%B5%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -61,25 +73,13 @@
           "time_info": "[12时23分 ~ 12时24分]"
         },
         {
-          "title": "李健时隔13年回归春晚",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%E6%97%B6%E9%9A%9413%E5%B9%B4%E5%9B%9E%E5%BD%92%E6%98%A5%E6%99%9A",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时43分 ~ 17时51分]"
-        },
-        {
           "title": "汪苏泷你这红包给我一个",
           "url": "https://www.douyin.com/hot/2402957",
           "source": "抖音",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
