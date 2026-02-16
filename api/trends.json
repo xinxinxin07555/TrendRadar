@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:46:04.175921+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-02-16T19:38:40.786257+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            24
+            24,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时43分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时43分 ~ 19时38分]"
         },
         {
           "title": "周深郎朗是对我耳朵最好的人",
