@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-16T09:53:30.676068+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-02-16T12:24:11.678506+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "周深郎朗辽宁春晚同台演出",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%83%8E%E6%9C%97%E8%BE%BD%E5%AE%81%E6%98%A5%E6%99%9A%E5%90%8C%E5%8F%B0%E6%BC%94%E5%87%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            25,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 12时24分]"
+        },
         {
           "title": "周深 小品天赋",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%20%E5%B0%8F%E5%93%81%E5%A4%A9%E8%B5%8B&t=31&band_rank=6&Refer=top",
@@ -23,19 +38,15 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "周深郎朗辽宁春晚同台演出",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%83%8E%E6%9C%97%E8%BE%BD%E5%AE%81%E6%98%A5%E6%99%9A%E5%90%8C%E5%8F%B0%E6%BC%94%E5%87%BA",
+          "title": "周深郎朗是对我耳朵最好的人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E9%83%8E%E6%9C%97%E6%98%AF%E5%AF%B9%E6%88%91%E8%80%B3%E6%9C%B5%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            28,
-            25,
-            19,
-            17,
-            16
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时21分]"
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 12时24分]"
         },
         {
           "title": "周深郎朗是对我耳朵最好的人",
@@ -44,7 +55,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         },
@@ -55,7 +66,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
         }
