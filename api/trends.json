@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T04:27:30.570935+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-02-17T05:26:33.218042+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             18,
             19,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时26分]"
         },
         {
           "title": "李健人间共鸣唱心里了",
@@ -28,11 +29,12 @@
           "ranks": [
             19,
             13,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时26分]"
         },
         {
           "title": "魏晨刘宇宁白色国风少年",
@@ -43,11 +45,25 @@
             26,
             23,
             20,
-            18
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 05时26分]"
+        },
+        {
+          "title": "张杰唱驭风歌杀回春晚",
+          "url": "https://www.douyin.com/hot/2403456",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时27分]"
+          "time_info": "[01时36分 ~ 05时26分]"
         },
         {
           "title": "李健温情献唱人间共鸣",
@@ -63,19 +79,6 @@
           "time_info": "[00时39分 ~ 04时27分]"
         },
         {
-          "title": "张杰唱驭风歌杀回春晚",
-          "url": "https://www.douyin.com/hot/2403456",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 04时27分]"
-        },
-        {
           "title": "和周深一起呼唤吉量小马",
           "url": "https://search.bilibili.com/all?keyword=%E5%92%8C%E5%91%A8%E6%B7%B1%E4%B8%80%E8%B5%B7%E5%91%BC%E5%94%A4%E5%90%89%E9%87%8F%E5%B0%8F%E9%A9%AC",
           "source": "bilibili 热搜",
@@ -84,8 +87,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时26分]"
         },
         {
           "title": "张杰把国画中的马唱活了",
