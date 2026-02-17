@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T02:54:20.819733+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-02-18T03:45:30.448240+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             16,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 02时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时45分]"
         },
         {
           "title": "刘宇宁一首歌唱尽人间思念",
@@ -39,7 +40,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         }
