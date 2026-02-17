@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T03:45:30.448240+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-18T04:34:06.911270+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             17,
             16,
             11,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 04时34分]"
+        },
+        {
+          "title": "周深温柔嗓音把四季唱进心里",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%B8%A9%E6%9F%94%E5%97%93%E9%9F%B3%E6%8A%8A%E5%9B%9B%E5%AD%A3%E5%94%B1%E8%BF%9B%E5%BF%83%E9%87%8C",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 04时34分]"
         },
         {
           "title": "刘宇宁一首歌唱尽人间思念",
@@ -32,17 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 02时54分]"
-        },
-        {
-          "title": "周深温柔嗓音把四季唱进心里",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E6%B8%A9%E6%9F%94%E5%97%93%E9%9F%B3%E6%8A%8A%E5%9B%9B%E5%AD%A3%E5%94%B1%E8%BF%9B%E5%BF%83%E9%87%8C",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时54分"
         }
       ]
     }
