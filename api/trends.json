@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T15:05:36.611489+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-17T16:42:29.942745+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,24 @@
           "time_info": "[00时39分 ~ 09时51分]"
         },
         {
+          "title": "张杰唱驭风歌杀回春晚",
+          "url": "https://www.douyin.com/hot/2403456",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            17,
+            18,
+            13,
+            20,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[01时36分 ~ 16时42分]"
+        },
+        {
           "title": "李健人间共鸣唱心里了",
           "url": "https://www.douyin.com/hot/2403328",
           "source": "抖音",
@@ -38,23 +56,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时39分 ~ 14时01分]"
-        },
-        {
-          "title": "张杰唱驭风歌杀回春晚",
-          "url": "https://www.douyin.com/hot/2403456",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            17,
-            18,
-            13,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时36分 ~ 15时05分]"
         },
         {
           "title": "和周深一起呼唤吉量小马",
@@ -84,8 +85,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时05分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 16时42分]"
         },
         {
           "title": "魏晨刘宇宁合唱许我再少年",
@@ -114,8 +115,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 09时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时39分 ~ 16时42分]"
         },
         {
           "title": "张杰把国画中的马唱活了",
@@ -172,7 +173,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
