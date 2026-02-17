@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T05:33:05.481627+08:00",
-  "total_titles_processed": 583,
+  "generated_at": "2026-02-18T06:29:24.645377+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             11,
             13,
             18,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时29分]"
         },
         {
           "title": "周深温柔嗓音把四季唱进心里",
