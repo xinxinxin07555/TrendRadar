@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T09:51:31.167035+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-02-17T12:18:08.077423+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "李健一开口我仿佛被净化了",
@@ -36,8 +36,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 12时18分]"
         },
         {
           "title": "张杰唱驭风歌杀回春晚",
@@ -48,11 +48,12 @@
             26,
             17,
             18,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时36分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[01时36分 ~ 12时18分]"
         },
         {
           "title": "魏晨刘宇宁白色国风少年",
@@ -67,8 +68,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时39分 ~ 09时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 12时18分]"
         },
         {
           "title": "和周深一起呼唤吉量小马",
@@ -82,6 +83,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时36分 ~ 09时51分]"
+        },
+        {
+          "title": "魏晨刘宇宁合唱许我再少年",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AD%8F%E6%99%A8%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E5%94%B1%E8%AE%B8%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            26,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时36分 ~ 12时18分]"
         },
         {
           "title": "李健温情献唱人间共鸣",
@@ -98,21 +114,6 @@
           "time_info": "[00时39分 ~ 09时51分]"
         },
         {
-          "title": "魏晨刘宇宁合唱许我再少年",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AD%8F%E6%99%A8%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E5%94%B1%E8%AE%B8%E6%88%91%E5%86%8D%E5%B0%91%E5%B9%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22,
-            26,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 09时51分]"
-        },
-        {
           "title": "张杰把国画中的马唱活了",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E6%8A%8A%E5%9B%BD%E7%94%BB%E4%B8%AD%E7%9A%84%E9%A9%AC%E5%94%B1%E6%B4%BB%E4%BA%86",
           "source": "bilibili 热搜",
@@ -124,6 +125,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时38分 ~ 04时27分]"
+        },
+        {
+          "title": "如何评价李健在 2026 年春晚演唱的歌曲《人间共鸣》？",
+          "url": "https://www.zhihu.com/question/2006842212898533885",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "如何评价 2026 年春晚周深领衔演唱的歌曲表演《吉量》？",
