@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T03:45:51.922493+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-02-19T04:36:08.380860+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA%20%E5%AF%B9%E5%90%B4%E4%BA%AC%E9%BB%91%E8%BD%ACBLACKPINK&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 04时36分]"
         },
         {
           "title": "唱少年这块还得是张杰",
@@ -26,11 +27,12 @@
             13,
             14,
             23,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 03时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 04时36分]"
         },
         {
           "title": "如何看待 2026 央视春晚周深演唱的歌曲《吉量》？",
