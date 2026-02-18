@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T19:37:07.696675+08:00",
-  "total_titles_processed": 1533,
+  "generated_at": "2026-02-18T20:57:54.169226+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "唱少年这块还得是张杰",
@@ -21,11 +21,12 @@
             14,
             12,
             22,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时55分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[00时55分 ~ 20时57分]"
         },
         {
           "title": "演出后台卫生巾",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 12时21分]"
+        },
+        {
+          "title": "李健 媚眼抛给瞎子看",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%20%E5%AA%9A%E7%9C%BC%E6%8A%9B%E7%BB%99%E7%9E%8E%E5%AD%90%E7%9C%8B&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "和周深一起呼唤吉量小马",
