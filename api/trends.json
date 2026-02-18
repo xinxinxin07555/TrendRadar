@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T18:41:30.636404+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-02-18T19:37:07.696675+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 18时41分]"
+          "appearance_count": 22,
+          "time_info": "[00时55分 ~ 19时37分]"
         },
         {
           "title": "演出后台卫生巾",
@@ -33,11 +33,12 @@
           "source": "微博",
           "ranks": [
             19,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时43分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时43分 ~ 19时37分]"
         },
         {
           "title": "周深温柔嗓音把四季唱进心里",
@@ -81,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
