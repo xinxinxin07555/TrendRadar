@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T01:55:51.046095+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-02-19T02:50:47.506610+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时50分]"
         },
         {
           "title": "唱少年这块还得是张杰",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 01时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 02时50分]"
         },
         {
           "title": "如何看待 2026 央视春晚周深演唱的歌曲《吉量》？",
