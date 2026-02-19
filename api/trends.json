@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T13:57:43.617861+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-19T15:00:25.290396+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             15,
             21,
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时59分 ~ 13时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 15时00分]"
         },
         {
           "title": "如何看待 2026 央视春晚周深演唱的歌曲《吉量》？",
