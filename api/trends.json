@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:00:25.290396+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-02-19T15:54:14.736423+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "镖人 对吴京黑转BLACKPINK",
@@ -35,8 +35,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时59分 ~ 15时00分]"
+          "appearance_count": 18,
+          "time_info": "[00时59分 ~ 15时54分]"
         },
         {
           "title": "如何看待 2026 央视春晚周深演唱的歌曲《吉量》？",
@@ -48,6 +48,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时59分 ~ 03时45分]"
+        },
+        {
+          "title": "张杰说徐梦桃是中国的骄傲",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%AF%B4%E5%BE%90%E6%A2%A6%E6%A1%83%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%AA%84%E5%82%B2%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         }
       ]
     }
