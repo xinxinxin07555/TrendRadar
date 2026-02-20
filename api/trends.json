@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T20:53:04.419898+08:00",
-  "total_titles_processed": 1605,
+  "generated_at": "2026-02-20T22:00:08.727535+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
             14,
             29,
             22,
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时48分 ~ 20时53分]"
+          "appearance_count": 27,
+          "time_info": "[00时48分 ~ 22时00分]"
         },
         {
           "title": "周深牵起的是团圆",
