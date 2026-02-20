@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T13:52:23.312843+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-20T14:53:07.866847+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 13时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 14时53分]"
         },
         {
           "title": "周深牵起的是团圆",
@@ -47,11 +47,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E8%AF%B4illit%E5%83%8Fnewjeans%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 14时53分]"
         }
       ]
     }
