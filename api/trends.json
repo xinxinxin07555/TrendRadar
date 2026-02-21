@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T06:20:18.794073+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-02-22T07:21:36.768511+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时21分]"
         },
         {
           "title": "如何评价湖北省文旅厅认定那艺娜（翟革英）为劣迹艺人，叫停其演出？",
           "url": "https://www.zhihu.com/question/2008437078631940159",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 07时21分]"
         },
         {
           "title": "去看idle演唱会的明星",
