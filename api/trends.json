@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T01:22:56.699873+08:00",
-  "total_titles_processed": 339,
+  "generated_at": "2026-02-22T02:31:04.763358+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王传君录综艺崩溃爆哭",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             24,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "如何评价湖北省文旅厅认定那艺娜（翟革英）为劣迹艺人，叫停其演出？",
@@ -27,8 +28,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
+        },
+        {
+          "title": "去看idle演唱会的明星",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E7%9C%8Bidle%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时22分]"
+          "time_info": "[02时30分 ~ 02时31分]"
         }
       ]
     }
