@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:27:10.846709+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-21T17:27:34.531405+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 16时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 17时27分]"
         },
         {
           "title": "如何评价湖北省文旅厅认定那艺娜（翟革英）为劣迹艺人，叫停其演出？",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 17时27分]"
         },
         {
           "title": "王源开门接财神",
@@ -51,11 +51,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时27分]"
         }
       ]
     }
