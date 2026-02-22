@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T16:28:32.851377+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-02-22T17:28:17.025148+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             25,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时49分 ~ 15时34分]"
+          "appearance_count": 5,
+          "time_info": "[13时49分 ~ 17时28分]"
         },
         {
           "title": "汪峰女友森林北带娃拜师学书法",
