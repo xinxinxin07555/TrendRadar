@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T07:21:36.768511+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-02-22T09:52:25.252343+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             24,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 09时52分]"
         },
         {
           "title": "如何评价湖北省文旅厅认定那艺娜（翟革英）为劣迹艺人，叫停其演出？",
