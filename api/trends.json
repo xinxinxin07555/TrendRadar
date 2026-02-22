@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:42:10.828803+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-02-22T22:23:39.115399+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "url": "https://www.douyin.com/hot/2408923",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时41分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时41分 ~ 22时23分]"
         },
         {
           "title": "去看idle演唱会的明星",
