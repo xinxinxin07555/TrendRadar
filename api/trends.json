@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T01:24:00.655156+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-02-23T02:31:39.797990+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             14,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "李昀锐看宋雨琦演唱会第一视角",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 02时31分]"
         }
       ]
     }
