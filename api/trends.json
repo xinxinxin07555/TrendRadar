@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T18:47:14.506106+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-02-23T19:38:40.917562+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 19时38分]"
         },
         {
           "title": "李克勤演唱会用捞网收红包",
