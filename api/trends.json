@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T18:45:01.264370+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-02-24T19:39:03.640043+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时10分 ~ 17时49分]"
+        },
+        {
+          "title": "张杰谢娜一起滑雪",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E4%B8%80%E8%B5%B7%E6%BB%91%E9%9B%AA%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 19时39分]"
         },
         {
           "title": "芒果搞钱综艺要来了",
@@ -42,17 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时10分 ~ 14时59分]"
-        },
-        {
-          "title": "张杰谢娜一起滑雪",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E4%B8%80%E8%B5%B7%E6%BB%91%E9%9B%AA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "刘宇宁新剧教科书级暧昧避嫌",
