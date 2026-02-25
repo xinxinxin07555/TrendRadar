@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T06:31:02.201690+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-02-26T07:26:12.308658+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,19 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "周深为什么要把工作强度安排这么大啊？",
-          "url": "https://www.zhihu.com/question/2009756110744204067",
-          "source": "知乎",
+          "title": "蔡依林布拉格广场改编版MV",
+          "url": "https://search.bilibili.com/all?keyword=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B8%83%E6%8B%89%E6%A0%BC%E5%B9%BF%E5%9C%BA%E6%94%B9%E7%BC%96%E7%89%88MV",
+          "source": "bilibili 热搜",
           "ranks": [
-            17,
-            15,
-            14
+            27,
+            23,
+            21,
+            20,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时26分]"
         },
         {
           "title": "单依纯演唱会二巡官宣",
@@ -32,18 +34,17 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时31分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时26分]"
         },
         {
-          "title": "蔡依林布拉格广场改编版MV",
-          "url": "https://search.bilibili.com/all?keyword=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B8%83%E6%8B%89%E6%A0%BC%E5%B9%BF%E5%9C%BA%E6%94%B9%E7%BC%96%E7%89%88MV",
-          "source": "bilibili 热搜",
+          "title": "周深为什么要把工作强度安排这么大啊？",
+          "url": "https://www.zhihu.com/question/2009756110744204067",
+          "source": "知乎",
           "ranks": [
-            27,
-            23,
-            21,
-            20
+            17,
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
