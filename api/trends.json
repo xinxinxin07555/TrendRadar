@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:24:33.308905+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2026-02-25T20:58:11.809709+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "张杰暴风少年新春版",
@@ -40,11 +40,12 @@
           "ranks": [
             22,
             21,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 20时24分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时58分]"
         },
         {
           "title": "蔡依林布拉格广场改编版MV",
@@ -52,11 +53,47 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时47分 ~ 20时58分]"
+        },
+        {
+          "title": "单依纯演唱会二巡官宣",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%B7%A1%E5%AE%98%E5%AE%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 20时58分]"
+        },
+        {
+          "title": "张杰发未成年人保护法",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E5%8F%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 20时58分]"
+        },
+        {
+          "title": "陶喆最终五站官宣",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%E6%9C%80%E7%BB%88%E4%BA%94%E7%AB%99%E5%AE%98%E5%AE%A3&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时47分 ~ 20时24分]"
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "谢娜张杰晒的都是孩子背影",
@@ -81,35 +118,13 @@
           "time_info": "09时53分"
         },
         {
-          "title": "张杰发未成年人保护法",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E5%8F%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E6%B3%95&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
-          "title": "单依纯演唱会二巡官宣",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%B7%A1%E5%AE%98%E5%AE%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时24分"
-        },
-        {
           "title": "周杰伦杭州演唱会抢票",
           "url": "https://www.douyin.com/hot/2411423",
           "source": "抖音",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
         },
