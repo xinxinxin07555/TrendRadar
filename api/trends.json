@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T01:24:20.336270+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-26T03:39:58.081696+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://www.zhihu.com/question/2009756110744204067",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时39分]"
         },
         {
           "title": "单依纯演唱会二巡官宣",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%8C%E5%B7%A1%E5%AE%98%E5%AE%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时39分]"
         },
         {
           "title": "蔡依林布拉格广场改编版MV",
           "url": "https://search.bilibili.com/all?keyword=%E8%94%A1%E4%BE%9D%E6%9E%97%E5%B8%83%E6%8B%89%E6%A0%BC%E5%B9%BF%E5%9C%BA%E6%94%B9%E7%BC%96%E7%89%88MV",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 03时39分]"
         }
       ]
     }
