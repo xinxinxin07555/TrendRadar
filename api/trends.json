@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T04:32:44.561896+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-02-26T05:33:32.173622+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时33分]"
         },
         {
           "title": "单依纯演唱会二巡官宣",
@@ -27,11 +27,12 @@
           "ranks": [
             24,
             20,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时33分]"
         },
         {
           "title": "蔡依林布拉格广场改编版MV",
@@ -40,11 +41,12 @@
           "ranks": [
             27,
             23,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 05时33分]"
         }
       ]
     }
