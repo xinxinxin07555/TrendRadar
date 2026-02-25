@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T15:08:54.207357+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-02-25T16:44:14.721459+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "张杰暴风少年新春版",
@@ -34,6 +34,17 @@
           "time_info": "[13时59分 ~ 15时08分]"
         },
         {
+          "title": "谢娜张杰晒的都是孩子背影",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E6%99%92%E7%9A%84%E9%83%BD%E6%98%AF%E5%AD%A9%E5%AD%90%E8%83%8C%E5%BD%B1%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时43分 ~ 16时44分]"
+        },
+        {
           "title": "年轻人流行「重新养父母」，陪妈妈运动、帮爸爸抢演唱会门票，反映出什么心态？这和传统的「孝顺」区别在哪？",
           "url": "https://www.zhihu.com/question/2008914211531616746",
           "source": "知乎",
@@ -51,7 +62,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时08分"
         }
