@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T20:58:53.941067+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2026-02-26T22:12:03.984083+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,19 @@
           "time_info": "[12时14分 ~ 17时45分]"
         },
         {
+          "title": "林俊杰方文山合作逐玉主题曲",
+          "url": "https://www.douyin.com/hot/2412556",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 22时12分]"
+        },
+        {
           "title": "林俊杰作曲方文山作词",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%BD%9C%E6%9B%B2%E6%96%B9%E6%96%87%E5%B1%B1%E4%BD%9C%E8%AF%8D%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -94,19 +107,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时45分 ~ 19时38分]"
-        },
-        {
-          "title": "林俊杰方文山合作逐玉主题曲",
-          "url": "https://www.douyin.com/hot/2412556",
-          "source": "抖音",
-          "ranks": [
-            21,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时42分 ~ 20时58分]"
         },
         {
           "title": "逐玉请来了林俊杰唱OST",
