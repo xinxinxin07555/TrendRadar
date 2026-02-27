@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T05:27:07.565016+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-02-28T06:20:26.306293+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             14,
             13,
             8,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时20分]"
         },
         {
           "title": "BLACKPINK新歌上线",
@@ -33,8 +34,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 05时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 06时20分]"
         }
       ]
     }
