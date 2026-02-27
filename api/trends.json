@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T13:50:10.219299+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-02-27T14:49:33.373044+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 14时49分]"
         },
         {
           "title": "BLACKPINK 回归",
@@ -39,22 +39,24 @@
           "source": "微博",
           "ranks": [
             18,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时47分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时47分 ~ 14时49分]"
         },
         {
           "title": "BLACKPINK GO MV",
           "url": "https://s.weibo.com/weibo?q=BLACKPINK%20GO%20MV&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 14时49分]"
         }
       ]
     }
