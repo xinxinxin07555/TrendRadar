@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T09:47:57.024687+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-02-27T12:11:26.494675+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时55分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 12时11分]"
         },
         {
           "title": "BLACKPINK 回归",
@@ -29,7 +29,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
