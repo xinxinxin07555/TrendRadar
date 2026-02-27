@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T20:52:49.427241+08:00",
-  "total_titles_processed": 1805,
+  "generated_at": "2026-02-27T21:59:24.138732+08:00",
+  "total_titles_processed": 1923,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             7,
-            22
+            22,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时49分 ~ 20时52分]"
+          "appearance_count": 10,
+          "time_info": "[13时49分 ~ 21时59分]"
         },
         {
           "title": "林俊杰方文山合作逐玉主题曲",
@@ -36,17 +37,6 @@
           "time_info": "[00时55分 ~ 12时11分]"
         },
         {
-          "title": "林俊杰回复张凌赫",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%A4%8D%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "BLACKPINK新歌上线",
           "url": "https://www.douyin.com/hot/2413302",
           "source": "抖音",
@@ -54,11 +44,24 @@
             29,
             22,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 21时59分]"
+        },
+        {
+          "title": "林俊杰回复张凌赫",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%A4%8D%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时59分]"
         },
         {
           "title": "BLACKPINK 回归",
