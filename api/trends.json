@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T21:59:24.138732+08:00",
-  "total_titles_processed": 1923,
+  "generated_at": "2026-02-27T22:42:27.603454+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             7,
             22,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时49分 ~ 21时59分]"
+          "appearance_count": 11,
+          "time_info": "[13时49分 ~ 22时42分]"
         },
         {
           "title": "林俊杰方文山合作逐玉主题曲",
@@ -48,8 +49,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 21时59分]"
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 22时42分]"
         },
         {
           "title": "林俊杰回复张凌赫",
