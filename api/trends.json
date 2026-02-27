@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T06:20:26.306293+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-28T07:22:03.586553+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "BLACKPINK新歌MV",
@@ -18,11 +18,12 @@
             13,
             8,
             5,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时22分]"
         },
         {
           "title": "BLACKPINK新歌上线",
@@ -34,8 +35,19 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时37分 ~ 06时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时22分]"
+        },
+        {
+          "title": "周杰伦田馥甄事件复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%94%B0%E9%A6%A5%E7%94%84%E4%BA%8B%E4%BB%B6%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         }
       ]
     }
