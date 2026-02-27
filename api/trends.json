@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T17:37:56.465470+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2026-02-27T18:34:38.820281+08:00",
+  "total_titles_processed": 1601,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时49分 ~ 17时37分]"
+          "appearance_count": 7,
+          "time_info": "[13时49分 ~ 18时34分]"
         },
         {
           "title": "林俊杰方文山合作逐玉主题曲",
@@ -65,11 +65,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时43分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[15时43分 ~ 18时34分]"
         },
         {
           "title": "林俊杰逐玉主题曲我先用",
@@ -89,7 +90,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
