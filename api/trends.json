@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T18:34:38.820281+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-02-27T19:31:31.657460+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=BLACKPINK%E6%96%B0%E6%AD%8CMV",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时49分 ~ 18时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时49分 ~ 19时31分]"
         },
         {
           "title": "林俊杰方文山合作逐玉主题曲",
@@ -77,11 +78,12 @@
           "url": "https://www.douyin.com/hot/2413429",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[16时37分 ~ 19时31分]"
         },
         {
           "title": "周杰伦田馥甄事件复盘",
