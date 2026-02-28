@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T18:20:59.356099+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-02-28T19:17:54.188306+08:00",
+  "total_titles_processed": 1759,
   "failed_sources": [],
   "trends": [
     {
@@ -80,11 +80,12 @@
           "ranks": [
             7,
             8,
-            27
+            27,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时17分]"
         },
         {
           "title": "周杰伦田馥甄事件复盘",
