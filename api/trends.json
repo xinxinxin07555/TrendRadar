@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:34:20.572882+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-02-28T15:24:26.361180+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             18,
             19,
             4,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 14时34分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 15时24分]"
         },
         {
           "title": "BLACKPINK新歌上线",
@@ -47,11 +48,12 @@
           "ranks": [
             7,
             16,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 15时24分]"
         },
         {
           "title": "韩国人评BLACKPINK新歌",
