@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T13:31:57.357804+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-02-28T14:34:20.572882+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -24,8 +24,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 13时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 14时34分]"
         },
         {
           "title": "BLACKPINK新歌上线",
@@ -37,8 +37,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 14时34分]"
         },
         {
           "title": "BLACKPINK新歌锐评",
@@ -50,8 +50,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 14时34分]"
         },
         {
           "title": "韩国人评BLACKPINK新歌",
@@ -60,11 +60,12 @@
           "ranks": [
             20,
             15,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 14时34分]"
         },
         {
           "title": "周杰伦田馥甄事件复盘",
