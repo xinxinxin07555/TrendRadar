@@ -1,102 +1,22 @@
 {
-  "generated_at": "2026-02-28T23:19:52.615678+08:00",
-  "total_titles_processed": 2155,
+  "generated_at": "2026-03-01T00:23:01.681176+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "BLACKPINK新歌MV",
-          "url": "https://search.bilibili.com/all?keyword=BLACKPINK%E6%96%B0%E6%AD%8CMV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            16,
-            14,
-            13,
-            8,
-            5,
-            18,
-            19,
-            4,
-            21,
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 16时25分]"
-        },
-        {
-          "title": "BLACKPINK新歌上线",
-          "url": "https://www.douyin.com/hot/2413302",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 16时25分]"
-        },
         {
           "title": "韩国人评BLACKPINK新歌",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%AF%84BLACKPINK%E6%96%B0%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            15,
-            14,
-            9,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时52分 ~ 17时23分]"
-        },
-        {
-          "title": "BLACKPINK新歌锐评",
-          "url": "https://search.bilibili.com/all?keyword=BLACKPINK%E6%96%B0%E6%AD%8C%E9%94%90%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            16,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时52分 ~ 15时24分]"
-        },
-        {
-          "title": "孟子义李昀锐综艺",
-          "url": "https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E7%BB%BC%E8%89%BA&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            8,
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时17分]"
-        },
-        {
-          "title": "周杰伦田馥甄事件复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%94%B0%E9%A6%A5%E7%94%84%E4%BA%8B%E4%BB%B6%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
