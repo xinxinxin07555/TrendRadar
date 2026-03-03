@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-03T21:58:39.188347+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-03-03T22:45:21.738648+08:00",
+  "total_titles_processed": 2101,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "刘宇宁魏晨 舞台走位",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E9%AD%8F%E6%99%A8%20%E8%88%9E%E5%8F%B0%E8%B5%B0%E4%BD%8D&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时58分 ~ 22时45分]"
+        },
         {
           "title": "如何评价谢娜公开喊话薛之谦，要求其为《吐槽大会》言论向张杰道歉？具体怎么回事？",
           "url": "https://www.zhihu.com/question/2012103679465977269",
@@ -19,15 +31,26 @@
           "time_info": "[13时46分 ~ 14时46分]"
         },
         {
-          "title": "刘宇宁魏晨 舞台走位",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E9%AD%8F%E6%99%A8%20%E8%88%9E%E5%8F%B0%E8%B5%B0%E4%BD%8D&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "魏晨刘宇宁再度同台合唱《无名之花》",
+          "url": "https://www.baidu.com/s?wd=%E9%AD%8F%E6%99%A8%E5%88%98%E5%AE%87%E5%AE%81%E5%86%8D%E5%BA%A6%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1%E3%80%8A%E6%97%A0%E5%90%8D%E4%B9%8B%E8%8A%B1%E3%80%8B",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时58分"
+          "time_info": "22时45分"
+        },
+        {
+          "title": "编曲人曝周杰伦将发新专辑",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BC%96%E6%9B%B2%E4%BA%BA%E6%9B%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B0%86%E5%8F%91%E6%96%B0%E4%B8%93%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "人大代表：湖北今年演唱会很多",
@@ -52,13 +75,24 @@
           "time_info": "16时37分"
         },
         {
+          "title": "陆虎胡夏白举纲唱响“同窗情谊”",
+          "url": "https://www.baidu.com/s?wd=%E9%99%86%E8%99%8E%E8%83%A1%E5%A4%8F%E7%99%BD%E4%B8%BE%E7%BA%B2%E5%94%B1%E5%93%8D%E2%80%9C%E5%90%8C%E7%AA%97%E6%83%85%E8%B0%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "周深梦见你好听",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%A2%A6%E8%A7%81%E4%BD%A0%E5%A5%BD%E5%90%AC%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
