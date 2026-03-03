@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T02:42:52.820938+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-04T03:38:09.520803+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E9%AD%8F%E6%99%A8%20%E8%88%9E%E5%8F%B0%E8%B5%B0%E4%BD%8D&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时38分]"
         },
         {
           "title": "魏晨刘宇宁再度同台合唱《无名之花》",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时38分]"
         },
         {
           "title": "陆虎胡夏白举纲唱响“同窗情谊”",
@@ -37,8 +38,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时44分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时38分]"
         },
         {
           "title": "编曲人曝周杰伦将发新专辑",
