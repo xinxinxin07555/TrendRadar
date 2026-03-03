@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T01:41:45.957856+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-03-04T02:42:52.820938+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "魏晨刘宇宁再度同台合唱《无名之花》",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "陆虎胡夏白举纲唱响“同窗情谊”",
@@ -37,19 +37,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "编曲人曝周杰伦将发新专辑",
           "url": "https://search.bilibili.com/all?keyword=%E7%BC%96%E6%9B%B2%E4%BA%BA%E6%9B%9D%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B0%86%E5%8F%91%E6%96%B0%E4%B8%93%E8%BE%91",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 02时42分]"
         },
         {
           "title": "华晨宇好稳",
