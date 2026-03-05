@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T03:24:16.954323+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-03-06T04:36:25.120959+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时36分]"
         },
         {
           "title": "周杰伦 这个月给我等着",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时36分]"
         }
       ]
     }
