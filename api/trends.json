@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T20:54:04.096870+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-03-05T22:02:17.036969+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时46分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[14时46分 ~ 22时02分]"
         },
         {
           "title": "周杰伦 这个月给我等着",
@@ -39,11 +39,12 @@
             29,
             24,
             30,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时46分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[14时46分 ~ 22时02分]"
         },
         {
           "title": "张杰演唱会抢票",
