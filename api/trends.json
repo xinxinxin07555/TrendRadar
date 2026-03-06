@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T20:47:21.332330+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-06T21:53:38.508750+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "周杰伦 田馥甄",
@@ -33,6 +33,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 07时50分]"
+        },
+        {
+          "title": "张予曦毕雯珺 综艺",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%AF%95%E9%9B%AF%E7%8F%BA%20%E7%BB%BC%E8%89%BA&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "林俊杰空降逐玉直播间",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%A9%BA%E9%99%8D%E9%80%90%E7%8E%89%E7%9B%B4%E6%92%AD%E9%97%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         }
       ]
     }
