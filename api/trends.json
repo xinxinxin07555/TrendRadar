@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T09:51:28.644366+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2026-03-06T12:08:22.451061+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%94%B0%E9%A6%A5%E7%94%84",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 12时08分]"
         },
         {
           "title": "周杰伦 这个月给我等着",
