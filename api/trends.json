@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T01:19:19.157303+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-03-08T02:29:40.759482+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "微博",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时29分]"
         },
         {
           "title": "颜人中福州演唱会",
           "url": "https://www.douyin.com/hot/2422530",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 02时29分]"
         }
       ]
     }
