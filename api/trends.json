@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T15:29:56.548543+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-03-08T16:27:56.524074+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
           "ranks": [
             23,
             17,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时09分 ~ 15时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时09分 ~ 16时27分]"
         },
         {
           "title": "颜人中福州演唱会",
