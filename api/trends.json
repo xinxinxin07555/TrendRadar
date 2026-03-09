@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T06:25:52.055148+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-03-10T07:25:34.052741+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "周杰伦感情史全盘点",
@@ -35,8 +35,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时54分 ~ 06时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时54分 ~ 07时25分]"
         },
         {
           "title": "五月天成团29周年演唱会官宣",
@@ -53,6 +53,19 @@
           "time_info": "[00时54分 ~ 03时39分]"
         },
         {
+          "title": "周深回应OST劳模",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94OST%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时38分 ~ 07时25分]"
+        },
+        {
           "title": "周深1天官宣8场演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B11%E5%A4%A9%E5%AE%98%E5%AE%A38%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 02时47分]"
-        },
-        {
-          "title": "周深回应OST劳模",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94OST%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时38分 ~ 06时25分]"
         },
         {
           "title": "周深演唱会",
