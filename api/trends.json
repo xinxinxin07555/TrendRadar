@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-03-10T02:47:42.775119+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-03-10T03:39:15.457076+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "五月天成团29周年演唱会官宣",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E5%9B%A229%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时39分]"
+        },
+        {
+          "title": "周深官宣2026巡回演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E5%AE%98%E5%AE%A32026%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时39分]"
+        },
+        {
+          "title": "周杰伦感情史全盘点",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E6%83%85%E5%8F%B2%E5%85%A8%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 03时39分]"
+        },
         {
           "title": "周深1天官宣8场演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B11%E5%A4%A9%E5%AE%98%E5%AE%A38%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
@@ -20,43 +62,15 @@
           "time_info": "[00时54分 ~ 02时47分]"
         },
         {
-          "title": "五月天成团29周年演唱会官宣",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E5%9B%A229%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=8&Refer=top",
+          "title": "周深回应OST劳模",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94OST%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8,
-            7,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 02时47分]"
-        },
-        {
-          "title": "周深官宣2026巡回演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E5%AE%98%E5%AE%A32026%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 02时47分]"
-        },
-        {
-          "title": "周杰伦感情史全盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%84%9F%E6%83%85%E5%8F%B2%E5%85%A8%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 02时47分]"
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 03时39分]"
         }
       ]
     }
