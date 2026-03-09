@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T22:05:24.009918+08:00",
-  "total_titles_processed": 1827,
+  "generated_at": "2026-03-09T23:56:29.407270+08:00",
+  "total_titles_processed": 1958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "周杰伦感情史全盘点",
@@ -26,8 +26,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时23分 ~ 22时05分]"
+          "appearance_count": 26,
+          "time_info": "[00时23分 ~ 23时56分]"
         },
         {
           "title": "周深官宣2026巡回演唱会",
@@ -42,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时51分 ~ 22时05分]"
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 23时56分]"
         },
         {
           "title": "周深1天官宣8场演唱会",
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 22时05分]"
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 23时56分]"
         },
         {
           "title": "汪苏泷演唱会",
@@ -150,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
+          "title": "五月天成团29周年演唱会官宣",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%88%90%E5%9B%A229%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "周深官宣2026巡回演唱会",
