@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T16:40:41.505481+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-09T17:46:03.126067+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,25 @@
             17,
             12,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 16时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 17时46分]"
+        },
+        {
+          "title": "周深官宣2026巡回演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E5%AE%98%E5%AE%A32026%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            25,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 17时46分]"
         },
         {
           "title": "汪苏泷演唱会",
@@ -40,6 +54,18 @@
           "time_info": "[04时22分 ~ 06时20分]"
         },
         {
+          "title": "周深发了194个啊",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E5%8F%91%E4%BA%86194%E4%B8%AA%E5%95%8A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时46分]"
+        },
+        {
           "title": "何秋亊LIVE演唱会舞台",
           "url": "https://www.douyin.com/hot/2423529",
           "source": "抖音",
@@ -51,18 +77,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时20分 ~ 09时52分]"
-        },
-        {
-          "title": "周深官宣2026巡回演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E5%AE%98%E5%AE%A32026%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时51分 ~ 16时40分]"
         },
         {
           "title": "周杰伦温州",
@@ -130,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
-        },
-        {
-          "title": "周深发了194个啊",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E5%8F%91%E4%BA%86194%E4%B8%AA%E5%95%8A&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         }
       ]
     }
