@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T04:31:14.178157+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-03-10T05:31:18.293759+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             19,
             13,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 04时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "周杰伦感情史全盘点",
@@ -34,8 +35,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 04时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 05时31分]"
         },
         {
           "title": "五月天成团29周年演唱会官宣",
@@ -68,11 +69,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94OST%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 03时39分]"
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 05时31分]"
         },
         {
           "title": "周深演唱会",
