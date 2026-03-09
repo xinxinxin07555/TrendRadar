@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T01:45:10.354283+08:00",
-  "total_titles_processed": 392,
+  "generated_at": "2026-03-10T02:47:42.775119+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 02时47分]"
         },
         {
           "title": "五月天成团29周年演唱会官宣",
@@ -25,11 +25,12 @@
           "source": "微博",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 02时47分]"
         },
         {
           "title": "周深官宣2026巡回演唱会",
@@ -37,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 02时47分]"
         },
         {
           "title": "周杰伦感情史全盘点",
@@ -49,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 01时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 02时47分]"
         }
       ]
     }
