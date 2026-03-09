@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-09T20:55:58.761377+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-03-09T22:05:24.009918+08:00",
+  "total_titles_processed": 1827,
   "failed_sources": [],
   "trends": [
     {
@@ -22,11 +22,12 @@
             18,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时23分 ~ 20时55分]"
+          "appearance_count": 25,
+          "time_info": "[00时23分 ~ 22时05分]"
         },
         {
           "title": "周深官宣2026巡回演唱会",
@@ -37,22 +38,24 @@
             25,
             18,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时51分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[15时51分 ~ 22时05分]"
         },
         {
           "title": "周深1天官宣8场演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B11%E5%A4%A9%E5%AE%98%E5%AE%A38%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 22时05分]"
         },
         {
           "title": "汪苏泷演唱会",
