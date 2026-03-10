@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T17:40:49.234257+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-03-10T18:36:24.119162+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             19,
             21,
             29,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时54分 ~ 16时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 18时36分]"
         },
         {
           "title": "五月天成团29周年演唱会官宣",
@@ -57,6 +58,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 03时39分]"
+        },
+        {
+          "title": "游客在西双版纳遇综艺录制被清场",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E9%81%87%E7%BB%BC%E8%89%BA%E5%BD%95%E5%88%B6%E8%A2%AB%E6%B8%85%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 18时36分]"
         },
         {
           "title": "周深回应OST劳模",
@@ -82,20 +97,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 02时47分]"
-        },
-        {
-          "title": "游客在西双版纳遇综艺录制被清场",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E9%81%87%E7%BB%BC%E8%89%BA%E5%BD%95%E5%88%B6%E8%A2%AB%E6%B8%85%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            6,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时43分 ~ 17时40分]"
         },
         {
           "title": "周深演唱会",
@@ -139,7 +140,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         }
