@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T04:31:14.474624+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-03-11T05:27:54.022452+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 05时27分]"
         },
         {
           "title": "周杰伦江语晨完整考古",
@@ -27,11 +27,12 @@
             30,
             25,
             22,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时27分]"
         },
         {
           "title": "周杰伦新专辑时间",
