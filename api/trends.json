@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T07:25:34.052741+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-03-10T09:45:10.539619+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             19,
             13,
             12,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 07时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 09时45分]"
         },
         {
           "title": "周杰伦感情史全盘点",
@@ -32,11 +33,12 @@
             23,
             22,
             16,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 07时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 09时45分]"
         },
         {
           "title": "五月天成团29周年演唱会官宣",
