@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:31:50.659198+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2026-03-10T20:54:18.245727+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "周深官宣2026巡回演唱会",
@@ -43,8 +43,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时54分 ~ 18时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时54分 ~ 20时54分]"
         },
         {
           "title": "五月天成团29周年演唱会官宣",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时07分 ~ 13时43分]"
+        },
+        {
+          "title": "blackpink的周冠宇",
+          "url": "https://s.weibo.com/weibo?q=blackpink%E7%9A%84%E5%91%A8%E5%86%A0%E5%AE%87&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "汪峰要开演唱会了",
