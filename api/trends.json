@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T02:43:19.215360+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-11T03:45:18.532238+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 03时45分]"
+        },
+        {
+          "title": "周杰伦江语晨完整考古",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%AE%8C%E6%95%B4%E8%80%83%E5%8F%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            25,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时05分 ~ 02时43分]"
+          "time_info": "[01时43分 ~ 03时45分]"
         },
         {
           "title": "周杰伦新专辑时间",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时43分]"
-        },
-        {
-          "title": "周杰伦江语晨完整考古",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%AE%8C%E6%95%B4%E8%80%83%E5%8F%A4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时43分]"
         },
         {
           "title": "周深官宣2026巡回演唱会",
