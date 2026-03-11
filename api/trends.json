@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T15:42:00.300395+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-03-11T16:37:25.412883+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -22,11 +22,12 @@
             15,
             19,
             18,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时43分 ~ 15时42分]"
+          "appearance_count": 17,
+          "time_info": "[01时43分 ~ 16时37分]"
         },
         {
           "title": "原来这些爆火的文案都是王源写的",
