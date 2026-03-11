@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T19:32:05.807020+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2026-03-11T20:53:43.127135+08:00",
+  "total_titles_processed": 1853,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时35分 ~ 19时32分]"
+          "appearance_count": 5,
+          "time_info": "[18时35分 ~ 20时53分]"
         },
         {
           "title": "周杰伦新专辑时间",
