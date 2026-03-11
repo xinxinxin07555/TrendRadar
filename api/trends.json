@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T18:36:06.504505+08:00",
-  "total_titles_processed": 1642,
+  "generated_at": "2026-03-11T19:32:05.807020+08:00",
+  "total_titles_processed": 1741,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时43分 ~ 18时36分]"
+          "appearance_count": 22,
+          "time_info": "[01时43分 ~ 19时32分]"
         },
         {
           "title": "原来这些爆火的文案都是王源写的",
@@ -44,6 +44,18 @@
           "time_info": "[00时05分 ~ 07时25分]"
         },
         {
+          "title": "周杰伦新专发片记者会时间",
+          "url": "https://www.douyin.com/hot/2426669",
+          "source": "抖音",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时35分 ~ 19时32分]"
+        },
+        {
           "title": "周杰伦新专辑时间",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E6%97%B6%E9%97%B4&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时05分 ~ 01时43分]"
-        },
-        {
-          "title": "周杰伦新专发片记者会时间",
-          "url": "https://www.douyin.com/hot/2426669",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "周深官宣2026巡回演唱会",
