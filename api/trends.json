@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T22:02:46.654426+08:00",
-  "total_titles_processed": 1948,
+  "generated_at": "2026-03-12T23:56:29.116942+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "周杰伦新专发片记者会时间",
@@ -51,6 +51,18 @@
           "time_info": "[12时11分 ~ 13时49分]"
         },
         {
+          "title": "乃万演唱会取消",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时56分]"
+        },
+        {
           "title": "黄婷婷解约后首个综艺",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%A9%B7%E5%A9%B7%E8%A7%A3%E7%BA%A6%E5%90%8E%E9%A6%96%E4%B8%AA%E7%BB%BC%E8%89%BA&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -73,15 +85,26 @@
           "time_info": "03时40分"
         },
         {
-          "title": "乃万演唱会取消",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "周杰伦官宣3月24日发布新专辑",
+          "url": "https://www.douyin.com/hot/2428320",
+          "source": "抖音",
           "ranks": [
-            13
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时56分"
+        },
+        {
+          "title": "陈赫录综艺全身紫外线过敏",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%BD%95%E7%BB%BC%E8%89%BA%E5%85%A8%E8%BA%AB%E7%B4%AB%E5%A4%96%E7%BA%BF%E8%BF%87%E6%95%8F%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "论周杰伦都爱过哪些人",
@@ -90,7 +113,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
