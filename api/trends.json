@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T09:47:10.125570+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-03-12T12:12:06.369171+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周杰伦新专发片记者会时间",
@@ -37,6 +37,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时47分 ~ 07时34分]"
+        },
+        {
+          "title": "周杰伦江语晨完整考古",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%AE%8C%E6%95%B4%E8%80%83%E5%8F%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "薛之谦万兽之王巡回演唱会",
