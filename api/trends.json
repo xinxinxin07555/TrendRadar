@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T12:12:06.369171+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-03-12T13:49:08.918167+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B1%9F%E8%AF%AD%E6%99%A8%E5%AE%8C%E6%95%B4%E8%80%83%E5%8F%A4",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 13时49分]"
         },
         {
           "title": "薛之谦万兽之王巡回演唱会",
