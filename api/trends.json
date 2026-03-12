@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:34:29.192096+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-03-12T09:47:10.125570+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             26,
             24,
             25,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 09时47分]"
         },
         {
           "title": "刘晓艳想邀请肖战上旅行综艺",
@@ -55,7 +56,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         }
