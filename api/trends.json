@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T01:48:47.774100+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-03-13T02:49:16.999339+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 02时49分]"
         },
         {
           "title": "周杰伦官宣3月24日发布新专辑",
@@ -27,8 +28,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 01时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时56分 ~ 02时49分]"
         }
       ]
     }
