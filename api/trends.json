@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T06:22:37.862584+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-03-13T07:26:10.438549+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             16,
             15,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时26分]"
         },
         {
           "title": "周杰伦官宣3月24日发布新专辑",
@@ -30,8 +31,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时26分]"
         },
         {
           "title": "论周杰伦都爱过哪些人",
