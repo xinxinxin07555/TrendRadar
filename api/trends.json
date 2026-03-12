@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T20:53:33.706783+08:00",
-  "total_titles_processed": 1849,
+  "generated_at": "2026-03-12T22:02:46.654426+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "周杰伦新专发片记者会时间",
@@ -71,6 +71,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "乃万演唱会取消",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "论周杰伦都爱过哪些人",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%83%BD%E7%88%B1%E8%BF%87%E5%93%AA%E4%BA%9B%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "周杰伦说新专辑没写三四年",
