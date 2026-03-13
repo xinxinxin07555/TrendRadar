@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T07:26:10.438549+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-03-13T09:49:01.096675+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "url": "https://www.douyin.com/hot/2428320",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时56分 ~ 09时49分]"
         },
         {
           "title": "论周杰伦都爱过哪些人",
