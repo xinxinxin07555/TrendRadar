@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T06:22:30.298397+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-03-15T07:25:18.488636+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             29,
             28,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时33分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[02时33分 ~ 07时25分]"
         },
         {
           "title": "我怎么没在商场偶遇过周杰伦",
