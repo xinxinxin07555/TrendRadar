@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T16:32:09.757275+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-03-14T17:29:36.935150+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时33分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时29分]"
         },
         {
           "title": "周深毛遂自荐演唱主题曲",
