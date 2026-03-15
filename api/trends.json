@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T03:26:13.900734+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-03-16T04:25:49.343317+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             21,
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时25分]"
         },
         {
           "title": "孙燕姿演唱会",
@@ -28,22 +29,24 @@
           "ranks": [
             19,
             17,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 04时25分]"
         },
         {
           "title": "刘宇宁快把自己送出去了",
           "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E9%80%81%E5%87%BA%E5%8E%BB%E4%BA%86&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 04时25分]"
         },
         {
           "title": "院人喜人看黄子弘凡演唱会",
