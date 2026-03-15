@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-15T22:28:17.297652+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-03-15T23:27:07.428497+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "春晚与周深同台女孩靠输血维持生命",
@@ -22,6 +22,18 @@
           "time_info": "[02时33分 ~ 10时02分]"
         },
         {
+          "title": "陈粒成都演唱会退场好有生命力",
+          "url": "https://www.douyin.com/hot/2431731",
+          "source": "抖音",
+          "ranks": [
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时44分 ~ 23时27分]"
+        },
+        {
           "title": "李宇春演唱会新造型亮相",
           "url": "https://www.toutiao.com/trending/7617292105492512806/",
           "source": "今日头条",
@@ -34,16 +46,26 @@
           "time_info": "[19时23分 ~ 20时44分]"
         },
         {
-          "title": "陈粒成都演唱会退场好有生命力",
-          "url": "https://www.douyin.com/hot/2431731",
-          "source": "抖音",
+          "title": "院人喜人看黄子弘凡演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%A2%E4%BA%BA%E5%96%9C%E4%BA%BA%E7%9C%8B%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            25,
-            22
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时44分 ~ 22时28分]"
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
+        },
+        {
+          "title": "李宇春吴青峰都哭了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E5%90%B4%E9%9D%92%E5%B3%B0%E9%83%BD%E5%93%AD%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时27分]"
         },
         {
           "title": "我怎么没在商场偶遇过周杰伦",
@@ -74,7 +96,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
