@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T19:24:15.349282+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-03-15T20:44:19.259887+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.toutiao.com/trending/7617292105492512806/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时44分]"
         },
         {
           "title": "我怎么没在商场偶遇过周杰伦",
