@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T05:25:15.644360+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-03-16T06:24:10.995617+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             21,
             18,
             17,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 06时24分]"
         },
         {
           "title": "孙燕姿演唱会",
@@ -42,11 +43,12 @@
           "source": "微博",
           "ranks": [
             26,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[03时25分 ~ 06时24分]"
         },
         {
           "title": "院人喜人看黄子弘凡演唱会",
