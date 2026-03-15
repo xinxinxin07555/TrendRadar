@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-16T00:28:52.376354+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-16T01:25:45.671672+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "陈粒成都演唱会退场好有生命力",
+          "url": "https://www.douyin.com/hot/2431731",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时25分]"
+        },
         {
           "title": "院人喜人看黄子弘凡演唱会",
           "url": "https://s.weibo.com/weibo?q=%E9%99%A2%E4%BA%BA%E5%96%9C%E4%BA%BA%E7%9C%8B%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=16&Refer=top",
@@ -19,15 +31,15 @@
           "time_info": "00时28分"
         },
         {
-          "title": "陈粒成都演唱会退场好有生命力",
-          "url": "https://www.douyin.com/hot/2431731",
-          "source": "抖音",
+          "title": "孙燕姿演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时25分"
         }
       ]
     }
