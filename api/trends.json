@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T02:34:34.071650+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-03-16T03:26:13.900734+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "陈粒成都演唱会退场好有生命力",
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             21,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时28分 ~ 02时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 03时26分]"
         },
         {
           "title": "孙燕姿演唱会",
@@ -26,11 +27,23 @@
           "source": "微博",
           "ranks": [
             19,
-            17
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 03时26分]"
+        },
+        {
+          "title": "刘宇宁快把自己送出去了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%BF%AB%E6%8A%8A%E8%87%AA%E5%B7%B1%E9%80%81%E5%87%BA%E5%8E%BB%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时34分]"
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "院人喜人看黄子弘凡演唱会",
