@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T04:35:35.128287+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-03-17T05:36:41.743149+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时36分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             14,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 04时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 05时36分]"
         },
         {
           "title": "侯明昊官宣属于我们的演唱会",
