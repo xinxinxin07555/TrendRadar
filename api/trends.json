@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T15:12:34.418138+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-03-16T16:53:13.230498+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,36 @@
           "source": "微博",
           "ranks": [
             11,
-            14
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 16时53分]"
+        },
+        {
+          "title": "恩情难忘,乃琳演唱会感谢鸣潮",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351866&amp;topic_name=%E6%81%A9%E6%83%85%E9%9A%BE%E5%BF%98%2C%E4%B9%83%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E6%84%9F%E8%B0%A2%E9%B8%A3%E6%BD%AE",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时12分]"
+          "time_info": "[15时12分 ~ 16时53分]"
+        },
+        {
+          "title": "凤凰传奇杭州演唱会",
+          "url": "https://www.douyin.com/hot/2432398",
+          "source": "抖音",
+          "ranks": [
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 16时53分]"
         },
         {
           "title": "王俊凯 演唱会",
@@ -74,17 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "恩情难忘,乃琳演唱会感谢鸣潮",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351866&amp;topic_name=%E6%81%A9%E6%83%85%E9%9A%BE%E5%BF%98%2C%E4%B9%83%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E6%84%9F%E8%B0%A2%E9%B8%A3%E6%BD%AE",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         },
         {
           "title": "院人喜人看黄子弘凡演唱会",
@@ -104,7 +118,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -115,18 +129,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "凤凰传奇杭州演唱会",
-          "url": "https://www.douyin.com/hot/2432398",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
