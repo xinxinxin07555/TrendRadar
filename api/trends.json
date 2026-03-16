@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T21:04:18.427855+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-03-16T22:57:01.694373+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时57分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
@@ -47,11 +47,12 @@
             23,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时12分 ~ 21时04分]"
+          "appearance_count": 9,
+          "time_info": "[15时12分 ~ 22时57分]"
         },
         {
           "title": "刘宇宁回应黄子韬道歉",
@@ -100,11 +101,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时44分 ~ 21时04分]"
+          "appearance_count": 5,
+          "time_info": "[19时44分 ~ 22时57分]"
         },
         {
           "title": "王俊凯 演唱会",
