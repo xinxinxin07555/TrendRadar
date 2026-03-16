@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T00:04:39.530169+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-17T01:58:28.344559+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时58分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
           "url": "https://www.douyin.com/hot/2432398",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时58分]"
         },
         {
           "title": "侯明昊官宣属于我们的演唱会",
@@ -37,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时58分]"
         }
       ]
     }
