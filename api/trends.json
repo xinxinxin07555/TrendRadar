@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T17:54:00.947555+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-03-17T18:49:27.929064+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             19,
             21,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时04分 ~ 17时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时04分 ~ 18时49分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
@@ -53,24 +54,25 @@
           "time_info": "[00时04分 ~ 13时58分]"
         },
         {
+          "title": "周杰伦：今晚0点准备",
+          "url": "https://www.douyin.com/hot/2433741",
+          "source": "抖音",
+          "ranks": [
+            21,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 18时49分]"
+        },
+        {
           "title": "周杰伦说今晚0点准备",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E4%BB%8A%E6%99%9A0%E7%82%B9%E5%87%86%E5%A4%87%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 17时54分]"
-        },
-        {
-          "title": "周杰伦：今晚0点准备",
-          "url": "https://www.douyin.com/hot/2433741",
-          "source": "抖音",
-          "ranks": [
-            21,
-            14
           ],
           "is_new": false,
           "appearance_count": 3,
