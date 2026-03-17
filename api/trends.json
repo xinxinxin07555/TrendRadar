@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T13:58:07.623819+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-03-17T15:05:07.809394+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时04分 ~ 15时05分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
