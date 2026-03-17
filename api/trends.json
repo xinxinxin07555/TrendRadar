@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T21:04:33.712358+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2026-03-17T22:53:25.331198+08:00",
+  "total_titles_processed": 1984,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时48分 ~ 21时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时48分 ~ 22时53分]"
         },
         {
           "title": "侯明昊官宣属于我们的演唱会",
@@ -86,7 +86,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时04分"
         }
