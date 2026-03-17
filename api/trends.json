@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T09:51:43.312665+08:00",
-  "total_titles_processed": 890,
+  "generated_at": "2026-03-17T12:16:25.062309+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351866&amp;topic_name=%E6%81%A9%E6%83%85%E9%9A%BE%E5%BF%98%2C%E4%B9%83%E7%90%B3%E6%BC%94%E5%94%B1%E4%BC%9A%E6%84%9F%E8%B0%A2%E9%B8%A3%E6%BD%AE",
           "source": "贴吧",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 09时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 12时16分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
@@ -40,11 +41,12 @@
           "url": "https://www.douyin.com/hot/2432781",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 12时16分]"
         }
       ]
     }
