@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T18:49:27.929064+08:00",
-  "total_titles_processed": 1624,
+  "generated_at": "2026-03-17T19:42:13.527937+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             21,
             25,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 18时49分]"
+          "appearance_count": 20,
+          "time_info": "[00时04分 ~ 19时42分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
@@ -41,6 +42,19 @@
           "time_info": "[00时04分 ~ 09时51分]"
         },
         {
+          "title": "周杰伦：今晚0点准备",
+          "url": "https://www.douyin.com/hot/2433741",
+          "source": "抖音",
+          "ranks": [
+            21,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时48分 ~ 19时42分]"
+        },
+        {
           "title": "侯明昊官宣属于我们的演唱会",
           "url": "https://www.douyin.com/hot/2432781",
           "source": "抖音",
@@ -52,19 +66,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时04分 ~ 13时58分]"
-        },
-        {
-          "title": "周杰伦：今晚0点准备",
-          "url": "https://www.douyin.com/hot/2433741",
-          "source": "抖音",
-          "ranks": [
-            21,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时48分 ~ 18时49分]"
         },
         {
           "title": "周杰伦说今晚0点准备",
