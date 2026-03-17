@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:05:07.809394+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-03-17T16:48:33.153290+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "恩情难忘,乃琳演唱会感谢鸣潮",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时04分 ~ 15时05分]"
+          "appearance_count": 15,
+          "time_info": "[00时04分 ~ 16时48分]"
         },
         {
           "title": "凤凰传奇杭州演唱会",
@@ -49,6 +50,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时04分 ~ 13时58分]"
+        },
+        {
+          "title": "周杰伦：今晚0点准备",
+          "url": "https://www.douyin.com/hot/2433741",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
+          "title": "周杰伦说今晚0点准备",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E4%BB%8A%E6%99%9A0%E7%82%B9%E5%87%86%E5%A4%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
         }
       ]
     }
