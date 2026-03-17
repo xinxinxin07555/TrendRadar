@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T04:35:49.959750+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-03-18T05:35:35.865046+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[01时56分 ~ 05时35分]"
         },
         {
           "title": "周杰伦预热新专辑",
@@ -26,11 +26,12 @@
             17,
             12,
             19,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时35分]"
         },
         {
           "title": "周杰伦：今晚0点准备",
