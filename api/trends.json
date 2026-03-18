@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T16:43:50.136740+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-03-18T17:51:15.203556+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时56分 ~ 16时43分]"
+          "appearance_count": 17,
+          "time_info": "[01时56分 ~ 17时51分]"
         },
         {
           "title": "周杰伦预热新专辑",
@@ -48,8 +48,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时50分 ~ 16时43分]"
+          "appearance_count": 4,
+          "time_info": "[15时50分 ~ 17时51分]"
+        },
+        {
+          "title": "周杰伦首支 MV 预告正式公开，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2017294561639100445",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时23分 ~ 17时51分]"
         },
         {
           "title": "周杰伦发的什么花",
@@ -62,17 +73,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时55分 ~ 14时02分]"
-        },
-        {
-          "title": "周杰伦首支 MV 预告正式公开，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2017294561639100445",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 16时43分]"
         },
         {
           "title": "周杰伦新歌预告",
