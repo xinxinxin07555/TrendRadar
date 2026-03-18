@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T17:51:15.203556+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-03-18T18:49:49.011902+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             4,
             16,
             22,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时56分 ~ 17时51分]"
+          "appearance_count": 18,
+          "time_info": "[01时56分 ~ 18时49分]"
         },
         {
           "title": "周杰伦预热新专辑",
@@ -45,11 +46,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352009&amp;topic_name=%E7%BB%9D%21%E6%BC%94%E5%87%BA%E6%9C%8D%E5%90%8A%E7%89%8C%E5%A0%AA%E7%A7%B0%E5%B7%A8%E6%97%A0%E9%9C%B8",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时50分 ~ 17时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时50分 ~ 18时49分]"
         },
         {
           "title": "周杰伦首支 MV 预告正式公开，你有哪些期待？",
@@ -59,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时23分 ~ 18时49分]"
         },
         {
           "title": "周杰伦发的什么花",
