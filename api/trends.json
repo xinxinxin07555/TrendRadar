@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T03:09:41.019079+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-03-19T04:33:26.609722+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 03时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 04时33分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 03时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 04时33分]"
         },
         {
           "title": "库克指了指李宇春欢呼鼓掌",
@@ -37,11 +38,12 @@
           "ranks": [
             18,
             15,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时11分 ~ 03时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时11分 ~ 04时33分]"
         },
         {
           "title": "周杰伦太阳之子最新预告",
@@ -49,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时33分]"
         },
         {
           "title": "BTS演出强制韩国上班族用年假",
@@ -61,11 +64,12 @@
           "source": "微博",
           "ranks": [
             15,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时33分]"
         },
         {
           "title": "库克说李宇春是改变世界的人",
@@ -73,22 +77,24 @@
           "source": "微博",
           "ranks": [
             23,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时33分]"
         },
         {
           "title": "汪苏泷西雅图演唱会座无虚席，这对华语音乐「出海」有何意义？",
           "url": "https://www.zhihu.com/question/2016586072256184891",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 04时33分]"
         }
       ]
     }
