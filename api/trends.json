@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T15:50:39.785125+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-03-18T16:43:50.136740+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时56分 ~ 15时50分]"
+          "appearance_count": 15,
+          "time_info": "[01时56分 ~ 16时43分]"
         },
         {
           "title": "周杰伦预热新专辑",
@@ -47,9 +47,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时50分 ~ 16时43分]"
         },
         {
           "title": "周杰伦发的什么花",
@@ -64,6 +64,17 @@
           "time_info": "[09时55分 ~ 14时02分]"
         },
         {
+          "title": "周杰伦首支 MV 预告正式公开，你有哪些期待？",
+          "url": "https://www.zhihu.com/question/2017294561639100445",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时23分 ~ 16时43分]"
+        },
+        {
           "title": "周杰伦新歌预告",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E9%A2%84%E5%91%8A&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -76,27 +87,17 @@
           "time_info": "[07时29分 ~ 09时56分]"
         },
         {
-          "title": "周杰伦首支 MV 预告正式公开，你有哪些期待？",
-          "url": "https://www.zhihu.com/question/2017294561639100445",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时23分 ~ 15时50分]"
-        },
-        {
           "title": "周杰伦新专辑太阳之子",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
             7,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时50分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时43分]"
         },
         {
           "title": "周杰伦：今晚0点准备",
@@ -127,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
