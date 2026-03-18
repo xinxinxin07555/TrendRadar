@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T05:32:40.519208+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2026-03-19T06:30:36.121670+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "绝!演出服吊牌堪称巨无霸",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时30分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -25,11 +25,12 @@
           "ranks": [
             15,
             14,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 05时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 06时30分]"
         },
         {
           "title": "周杰伦太阳之子最新预告",
@@ -41,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时30分]"
         },
         {
           "title": "库克指了指李宇春欢呼鼓掌",
@@ -52,11 +53,25 @@
             18,
             15,
             21,
-            23
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 06时30分]"
+        },
+        {
+          "title": "汪苏泷西雅图演唱会座无虚席，这对华语音乐「出海」有何意义？",
+          "url": "https://www.zhihu.com/question/2016586072256184891",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时11分 ~ 04时33分]"
+          "time_info": "[01时59分 ~ 06时30分]"
         },
         {
           "title": "库克说李宇春是改变世界的人",
@@ -65,23 +80,12 @@
           "ranks": [
             23,
             26,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时32分]"
-        },
-        {
-          "title": "汪苏泷西雅图演唱会座无虚席，这对华语音乐「出海」有何意义？",
-          "url": "https://www.zhihu.com/question/2016586072256184891",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 05时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时30分]"
         },
         {
           "title": "BTS演出强制韩国上班族用年假",
@@ -95,6 +99,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时59分 ~ 04时33分]"
+        },
+        {
+          "title": "刘宇宁鞠躬退场直到升降台落下",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E9%9E%A0%E8%BA%AC%E9%80%80%E5%9C%BA%E7%9B%B4%E5%88%B0%E5%8D%87%E9%99%8D%E5%8F%B0%E8%90%BD%E4%B8%8B&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 06时30分]"
         }
       ]
     }
