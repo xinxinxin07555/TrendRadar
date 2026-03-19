@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T22:08:08.700884+08:00",
-  "total_titles_processed": 2037,
+  "generated_at": "2026-03-19T23:52:59.877062+08:00",
+  "total_titles_processed": 2143,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
             18,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时11分 ~ 22时08分]"
+          "appearance_count": 23,
+          "time_info": "[00时11分 ~ 23时52分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -68,8 +69,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时45分 ~ 22时08分]"
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 23时52分]"
         },
         {
           "title": "库克指了指李宇春欢呼鼓掌",
