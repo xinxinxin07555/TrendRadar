@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T20:57:31.846852+08:00",
-  "total_titles_processed": 1921,
+  "generated_at": "2026-03-19T22:08:08.700884+08:00",
+  "total_titles_processed": 2037,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时11分 ~ 20时57分]"
+          "appearance_count": 22,
+          "time_info": "[00时11分 ~ 22时08分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -57,6 +57,21 @@
           "time_info": "[00时11分 ~ 13时56分]"
         },
         {
+          "title": "周杰伦新歌预告像连续剧",
+          "url": "https://www.douyin.com/hot/2435979",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20,
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 22时08分]"
+        },
+        {
           "title": "库克指了指李宇春欢呼鼓掌",
           "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E6%8C%87%E4%BA%86%E6%8C%87%E6%9D%8E%E5%AE%87%E6%98%A5%E6%AC%A2%E5%91%BC%E9%BC%93%E6%8E%8C",
           "source": "百度热搜",
@@ -71,21 +86,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时11分 ~ 07时28分]"
-        },
-        {
-          "title": "周杰伦新歌预告像连续剧",
-          "url": "https://www.douyin.com/hot/2435979",
-          "source": "抖音",
-          "ranks": [
-            16,
-            20,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 20时57分]"
         },
         {
           "title": "库克说李宇春是改变世界的人",
