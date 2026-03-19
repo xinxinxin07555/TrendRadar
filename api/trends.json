@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T05:32:47.372623+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-20T06:25:08.289618+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时25分]"
         },
         {
           "title": "周杰伦新歌预告像连续剧",
@@ -29,11 +29,12 @@
             20,
             23,
             26,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时25分]"
         },
         {
           "title": "绝!演出服吊牌堪称巨无霸",
@@ -43,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时25分]"
         }
       ]
     }
