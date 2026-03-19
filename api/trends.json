@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:34:08.186549+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2026-03-19T20:57:31.846852+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             17,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时11分 ~ 19时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 20时57分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -72,6 +73,21 @@
           "time_info": "[00时11分 ~ 07时28分]"
         },
         {
+          "title": "周杰伦新歌预告像连续剧",
+          "url": "https://www.douyin.com/hot/2435979",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20,
+            18,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时45分 ~ 20时57分]"
+        },
+        {
           "title": "库克说李宇春是改变世界的人",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E8%AF%B4%E6%9D%8E%E5%AE%87%E6%98%A5%E6%98%AF%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E7%9A%84%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -97,20 +113,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时59分 ~ 06时30分]"
-        },
-        {
-          "title": "周杰伦新歌预告像连续剧",
-          "url": "https://www.douyin.com/hot/2435979",
-          "source": "抖音",
-          "ranks": [
-            16,
-            20,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时45分 ~ 19时34分]"
         },
         {
           "title": "演唱会恐怖游轮",
