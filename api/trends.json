@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T07:28:44.159402+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-03-19T09:56:40.523145+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352009&amp;topic_name=%E7%BB%9D%21%E6%BC%94%E5%87%BA%E6%9C%8D%E5%90%8A%E7%89%8C%E5%A0%AA%E7%A7%B0%E5%B7%A8%E6%97%A0%E9%9C%B8",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时56分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -27,11 +28,12 @@
             14,
             21,
             17,
-            26
+            26,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时56分]"
         },
         {
           "title": "周杰伦太阳之子最新预告",
@@ -40,11 +42,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时59分 ~ 07时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 09时56分]"
         },
         {
           "title": "库克指了指李宇春欢呼鼓掌",
