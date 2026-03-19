@@ -1,28 +1,12 @@
 {
-  "generated_at": "2026-03-19T18:37:36.382234+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-03-19T19:34:08.186549+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "绝!演出服吊牌堪称巨无霸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352009&amp;topic_name=%E7%BB%9D%21%E6%BC%94%E5%87%BA%E6%9C%8D%E5%90%8A%E7%89%8C%E5%A0%AA%E7%A7%B0%E5%B7%A8%E6%97%A0%E9%9C%B8",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7,
-            13,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 18时37分]"
-        },
         {
           "title": "周杰伦太阳之子最新预告",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E6%9C%80%E6%96%B0%E9%A2%84%E5%91%8A",
@@ -37,6 +21,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时59分 ~ 12时22分]"
+        },
+        {
+          "title": "绝!演出服吊牌堪称巨无霸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352009&amp;topic_name=%E7%BB%9D%21%E6%BC%94%E5%87%BA%E6%9C%8D%E5%90%8A%E7%89%8C%E5%A0%AA%E7%A7%B0%E5%B7%A8%E6%97%A0%E9%9C%B8",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            13,
+            17,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时11分 ~ 19时34分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -98,6 +99,20 @@
           "time_info": "[01时59分 ~ 06时30分]"
         },
         {
+          "title": "周杰伦新歌预告像连续剧",
+          "url": "https://www.douyin.com/hot/2435979",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 19时34分]"
+        },
+        {
           "title": "演唱会恐怖游轮",
           "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%94%B1%E4%BC%9A%E6%81%90%E6%80%96%E6%B8%B8%E8%BD%AE&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -123,19 +138,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时59分 ~ 07时28分]"
-        },
-        {
-          "title": "周杰伦新歌预告像连续剧",
-          "url": "https://www.douyin.com/hot/2435979",
-          "source": "抖音",
-          "ranks": [
-            16,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时37分]"
         },
         {
           "title": "周杰伦新专 圣诞星",
@@ -176,6 +178,18 @@
           "time_info": "[15时45分 ~ 17时40分]"
         },
         {
+          "title": "AI盛行 周杰伦坚持手搓",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9B%9B%E8%A1%8C%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9D%9A%E6%8C%81%E6%89%8B%E6%90%93&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 19时34分]"
+        },
+        {
           "title": "实探Apple50周年演唱会",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8E%A2Apple50%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -212,15 +226,15 @@
           "time_info": "[13时56分 ~ 14时55分]"
         },
         {
-          "title": "AI盛行 周杰伦坚持手搓",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9B%9B%E8%A1%8C%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9D%9A%E6%8C%81%E6%89%8B%E6%90%93&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "周杰伦新专辑MV花费超1700万元",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91MV%E8%8A%B1%E8%B4%B9%E8%B6%851700%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            14
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "周杰伦新专辑已开启预售 40元起售",
