@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T09:56:40.523145+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-03-19T12:22:56.767512+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,27 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 12时22分]"
+        },
+        {
+          "title": "周杰伦太阳之子最新预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E6%9C%80%E6%96%B0%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            5,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时59分 ~ 12时22分]"
         },
         {
           "title": "薛之谦万兽之王演唱会",
@@ -32,22 +48,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 09时56分]"
-        },
-        {
-          "title": "周杰伦太阳之子最新预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E6%9C%80%E6%96%B0%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时59分 ~ 09时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 12时22分]"
         },
         {
           "title": "库克指了指李宇春欢呼鼓掌",
