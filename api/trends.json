@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T01:52:29.035140+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-03-20T02:54:20.229294+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%A2%84%E5%91%8A%E7%AC%AC3%E5%BC%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时54分]"
         },
         {
           "title": "周杰伦新歌预告像连续剧",
           "url": "https://www.douyin.com/hot/2435979",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时54分]"
         },
         {
           "title": "绝!演出服吊牌堪称巨无霸",
@@ -37,8 +39,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时52分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 02时54分]"
         }
       ]
     }
