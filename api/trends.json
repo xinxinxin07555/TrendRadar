@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T07:27:39.019252+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-03-20T09:51:02.949734+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时51分]"
         },
         {
           "title": "周杰伦新歌预告像连续剧",
@@ -31,22 +32,24 @@
             26,
             18,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时51分]"
         },
         {
           "title": "绝!演出服吊牌堪称巨无霸",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352009&amp;topic_name=%E7%BB%9D%21%E6%BC%94%E5%87%BA%E6%9C%8D%E5%90%8A%E7%89%8C%E5%A0%AA%E7%A7%B0%E5%B7%A8%E6%97%A0%E9%9C%B8",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 09时51分]"
         }
       ]
     }
