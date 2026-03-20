@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T03:36:22.078032+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-03-21T04:29:05.027504+08:00",
+  "total_titles_processed": 537,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             20,
             8,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "周杰伦太阳之子预告第四弹",
@@ -28,11 +29,12 @@
           "ranks": [
             11,
             15,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "周杰伦新歌续写",
@@ -41,11 +43,12 @@
           "ranks": [
             21,
             17,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "谢霆锋深圳演唱会",
@@ -57,8 +60,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "周杰伦开始晚上八点发预告了",
@@ -67,11 +70,12 @@
           "ranks": [
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 03时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 04时29分]"
         },
         {
           "title": "周杰伦藏最深的师妹",
@@ -79,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时36分]"
+          "appearance_count": 4,
+          "time_info": "[02时43分 ~ 04时29分]"
         }
       ]
     }
