@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-21T01:34:12.088533+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-03-21T02:43:30.909081+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "薛之谦广州演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
+        },
         {
           "title": "周杰伦太阳之子预告第四弹",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%A2%84%E5%91%8A%E7%AC%AC%E5%9B%9B%E5%BC%B9",
@@ -16,20 +29,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
-        },
-        {
-          "title": "薛之谦广州演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "周杰伦新歌续写",
@@ -40,8 +41,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "谢霆锋深圳演唱会",
@@ -52,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
         },
         {
           "title": "周杰伦开始晚上八点发预告了",
@@ -61,11 +62,23 @@
           "source": "抖音",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 01时34分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 02时43分]"
+        },
+        {
+          "title": "周杰伦藏最深的师妹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%97%8F%E6%9C%80%E6%B7%B1%E7%9A%84%E5%B8%88%E5%A6%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     }
