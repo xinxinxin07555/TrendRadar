@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T19:29:40.391818+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2026-03-20T20:53:25.791463+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周杰伦太阳之子预告第3弹",
@@ -18,11 +18,12 @@
             9,
             22,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 19时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 20时53分]"
         },
         {
           "title": "周杰伦新歌预告像连续剧",
@@ -70,6 +71,18 @@
           "time_info": "[12时12分 ~ 16时37分]"
         },
         {
+          "title": "薛之谦广州演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时53分]"
+        },
+        {
           "title": "实探Apple50周年演唱会",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8E%A2Apple50%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -81,6 +94,17 @@
           "time_info": "[14时50分 ~ 14时51分]"
         },
         {
+          "title": "周杰伦藏最深的师妹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%97%8F%E6%9C%80%E6%B7%B1%E7%9A%84%E5%B8%88%E5%A6%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "张杰鸟巢站加场",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E7%AB%99%E5%8A%A0%E5%9C%BA%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -90,17 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "薛之谦广州演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
         }
       ]
     }
