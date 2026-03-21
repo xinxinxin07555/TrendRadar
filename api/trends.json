@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T20:41:00.892786+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-03-21T21:40:44.013722+08:00",
+  "total_titles_processed": 1477,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时39分 ~ 20时41分]"
+          "appearance_count": 26,
+          "time_info": "[00时39分 ~ 21时40分]"
         },
         {
           "title": "周杰伦太阳之子预告第四弹",
@@ -132,11 +132,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时21分 ~ 20时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时40分]"
         },
         {
           "title": "刘宇宁出席上海迪士尼生日庆典",
