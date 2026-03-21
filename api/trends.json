@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T17:29:20.845151+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-03-21T18:23:47.693034+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
             25,
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 18时23分]"
         },
         {
           "title": "周杰伦太阳之子预告第四弹",
@@ -75,11 +76,12 @@
             18,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时39分 ~ 17时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时39分 ~ 18时23分]"
         },
         {
           "title": "薛之谦广州演唱会",
@@ -105,8 +107,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时26分 ~ 18时23分]"
         },
         {
           "title": "周杰伦藏最深的师妹",
