@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:29:09.454116+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-03-21T17:29:20.845151+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 16时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 17时29分]"
         },
         {
           "title": "周杰伦太阳之子预告第四弹",
@@ -74,11 +74,12 @@
             20,
             18,
             26,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时39分 ~ 16时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时39分 ~ 17时29分]"
         },
         {
           "title": "薛之谦广州演唱会",
@@ -96,6 +97,18 @@
           "time_info": "[00时39分 ~ 04时29分]"
         },
         {
+          "title": "粉丝奔赴、演出焕新，上海迪士尼十周年庆典启幕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32801697",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 17时29分]"
+        },
+        {
           "title": "周杰伦藏最深的师妹",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%97%8F%E6%9C%80%E6%B7%B1%E7%9A%84%E5%B8%88%E5%A6%B9",
           "source": "bilibili 热搜",
@@ -107,18 +120,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 04时29分]"
-        },
-        {
-          "title": "粉丝奔赴、演出焕新，上海迪士尼十周年庆典启幕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801697",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时45分]"
         },
         {
           "title": "刘宇宁出席上海迪士尼生日庆典",
