@@ -1,190 +1,22 @@
 {
-  "generated_at": "2026-03-21T23:23:06.239849+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-03-22T00:26:00.560858+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "周杰伦新歌续写",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E7%BB%AD%E5%86%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            17,
-            23,
-            19,
-            28,
-            27,
-            15,
-            29,
-            25,
-            10,
-            9,
-            6,
-            7,
-            20,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时39分 ~ 23时23分]"
-        },
-        {
-          "title": "周杰伦太阳之子预告第四弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%A2%84%E5%91%8A%E7%AC%AC%E5%9B%9B%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            16,
-            10,
-            17,
-            19,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时39分 ~ 09时45分]"
-        },
-        {
-          "title": "谢霆锋深圳演唱会",
-          "url": "https://www.douyin.com/hot/2437809",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            24,
-            20,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 12时03分]"
-        },
-        {
-          "title": "周杰伦开始晚上八点发预告了",
-          "url": "https://www.douyin.com/hot/2437978",
-          "source": "抖音",
-          "ranks": [
-            22,
-            23,
-            24,
-            25,
-            20,
-            18,
-            26,
-            27,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时39分 ~ 22时24分]"
-        },
-        {
-          "title": "薛之谦广州演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            20,
-            8,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 04时29分]"
-        },
-        {
-          "title": "粉丝奔赴、演出焕新，上海迪士尼十周年庆典启幕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32801697",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 20时41分]"
-        },
-        {
-          "title": "周杰伦藏最深的师妹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%97%8F%E6%9C%80%E6%B7%B1%E7%9A%84%E5%B8%88%E5%A6%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时43分 ~ 04时29分]"
-        },
-        {
-          "title": "黄霄雲 莫挨老子",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%9C%84%E9%9B%B2%20%E8%8E%AB%E6%8C%A8%E8%80%81%E5%AD%90&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时21分 ~ 21时40分]"
-        },
         {
           "title": "周杰伦太阳之子预告第五弹",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%A2%84%E5%91%8A%E7%AC%AC%E4%BA%94%E5%BC%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时24分 ~ 23时23分]"
-        },
-        {
-          "title": "刘宇宁出席上海迪士尼生日庆典",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%87%BA%E5%B8%AD%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%94%9F%E6%97%A5%E5%BA%86%E5%85%B8%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时25分]"
-        },
-        {
-          "title": "我用AI盲猜周杰伦新歌",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E7%9B%B2%E7%8C%9C%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "周杰伦新专辑前瞻预测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%89%8D%E7%9E%BB%E9%A2%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
+          "time_info": "[00时25分 ~ 00时26分]"
         }
       ]
     }
