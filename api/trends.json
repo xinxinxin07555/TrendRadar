@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T06:21:19.383328+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-03-22T07:22:02.653123+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "周杰伦的预告片发到了奥菲莉亚",
@@ -31,19 +31,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时22分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[03时22分 ~ 07时22分]"
         },
         {
           "title": "周杰伦新专辑前瞻预测",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%89%8D%E7%9E%BB%E9%A2%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 05时22分]"
+          "appearance_count": 4,
+          "time_info": "[05时21分 ~ 07时22分]"
         },
         {
           "title": "言承旭演唱会提词器标注情绪提示",
