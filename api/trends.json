@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T22:24:35.938471+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2026-03-21T23:23:06.239849+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             6,
             7,
             20,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时39分 ~ 22时24分]"
+          "appearance_count": 29,
+          "time_info": "[00时39分 ~ 23时23分]"
         },
         {
           "title": "周杰伦太阳之子预告第四弹",
@@ -141,6 +142,18 @@
           "time_info": "[19时21分 ~ 21时40分]"
         },
         {
+          "title": "周杰伦太阳之子预告第五弹",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%A2%84%E5%91%8A%E7%AC%AC%E4%BA%94%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时23分]"
+        },
+        {
           "title": "刘宇宁出席上海迪士尼生日庆典",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%87%BA%E5%B8%AD%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%94%9F%E6%97%A5%E5%BA%86%E5%85%B8%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -161,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "周杰伦太阳之子预告第五弹",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%A2%84%E5%91%8A%E7%AC%AC%E4%BA%94%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "周杰伦新专辑前瞻预测",
