@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:38:45.243476+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-03-21T15:32:05.858182+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
@@ -21,11 +21,12 @@
             15,
             29,
             25,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时32分]"
         },
         {
           "title": "周杰伦太阳之子预告第四弹",
@@ -71,11 +72,12 @@
             25,
             20,
             18,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时32分]"
         },
         {
           "title": "薛之谦广州演唱会",
