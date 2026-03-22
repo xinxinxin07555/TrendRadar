@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-22T21:42:19.751919+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-03-22T22:25:17.973836+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "歌迷吐槽很多演唱会像「恐怖游轮」，歌单、互动高度重复，看 N 场像看同一场，怎样看待这种演唱会的模式？",
@@ -83,11 +83,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时42分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时25分]"
         },
         {
           "title": "周杰伦恋情时间线盘点",
@@ -112,6 +113,17 @@
           "time_info": "[02时31分 ~ 02时32分]"
         },
         {
+          "title": "终于在周杰伦mv预告里看到正脸",
+          "url": "https://www.douyin.com/hot/2439980",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "周杰伦新歌续写",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E7%BB%AD%E5%86%99",
           "source": "bilibili 热搜",
@@ -129,7 +141,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -151,7 +163,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         }
