@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T14:47:01.213618+08:00",
-  "total_titles_processed": 872,
+  "generated_at": "2026-03-22T15:37:17.525663+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             29,
             25,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时22分 ~ 14时47分]"
+          "appearance_count": 15,
+          "time_info": "[03时22分 ~ 15时37分]"
         },
         {
           "title": "周杰伦太阳之子预告第五弹",
@@ -45,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 14时47分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 15时37分]"
         },
         {
           "title": "海来阿木哈尔滨演唱会",
