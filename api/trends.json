@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-22T17:29:52.400915+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-03-22T18:24:27.451102+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 9,
       "titles": [
+        {
+          "title": "歌迷吐槽很多演唱会像「恐怖游轮」，歌单、互动高度重复，看 N 场像看同一场，怎样看待这种演唱会的模式？",
+          "url": "https://www.zhihu.com/question/2017996609326114753",
+          "source": "知乎",
+          "ranks": [
+            19,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 18时24分]"
+        },
         {
           "title": "周杰伦的预告片发到了奥菲莉亚",
           "url": "https://www.douyin.com/hot/2439070",
@@ -17,11 +29,12 @@
             25,
             21,
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时22分 ~ 16时31分]"
+          "appearance_count": 17,
+          "time_info": "[03时22分 ~ 18时24分]"
         },
         {
           "title": "周杰伦太阳之子预告第五弹",
@@ -36,18 +49,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 07时22分]"
-        },
-        {
-          "title": "歌迷吐槽很多演唱会像「恐怖游轮」，歌单、互动高度重复，看 N 场像看同一场，怎样看待这种演唱会的模式？",
-          "url": "https://www.zhihu.com/question/2017996609326114753",
-          "source": "知乎",
-          "ranks": [
-            19,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 17时29分]"
         },
         {
           "title": "海来阿木哈尔滨演唱会",
