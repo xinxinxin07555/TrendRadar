@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T02:32:48.254908+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-03-23T03:23:22.378884+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "终于在周杰伦mv预告里看到正脸",
@@ -28,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "蔡依林长沙演唱会万人合唱绝了",
@@ -38,11 +39,12 @@
           "ranks": [
             29,
             22,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 03时23分]"
         },
         {
           "title": "薛之谦演唱会",
@@ -53,8 +55,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 03时23分]"
         }
       ]
     }
