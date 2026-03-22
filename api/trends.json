@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T22:25:17.973836+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-03-22T23:23:25.485021+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -66,6 +66,19 @@
           "time_info": "[09时56分 ~ 19时21分]"
         },
         {
+          "title": "周杰伦太阳之子最终预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时23分]"
+        },
+        {
           "title": "周杰伦新专辑前瞻预测",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%89%8D%E7%9E%BB%E9%A2%84%E6%B5%8B",
           "source": "bilibili 热搜",
@@ -78,17 +91,15 @@
           "time_info": "[05时21分 ~ 07时22分]"
         },
         {
-          "title": "周杰伦太阳之子最终预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
+          "title": "终于在周杰伦mv预告里看到正脸",
+          "url": "https://www.douyin.com/hot/2439980",
+          "source": "抖音",
           "ranks": [
-            7,
-            9,
-            10
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时25分]"
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时23分]"
         },
         {
           "title": "周杰伦恋情时间线盘点",
@@ -111,17 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 02时32分]"
-        },
-        {
-          "title": "终于在周杰伦mv预告里看到正脸",
-          "url": "https://www.douyin.com/hot/2439980",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时25分"
         },
         {
           "title": "周杰伦新歌续写",
