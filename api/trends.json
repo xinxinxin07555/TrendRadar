@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T12:29:14.946883+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-03-23T14:09:52.093887+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             11,
             12,
             10,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 12时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 14时09分]"
         },
         {
           "title": "蔡依林长沙演唱会万人合唱绝了",
@@ -72,22 +73,24 @@
           "url": "https://www.zhihu.com/question/2018650888789517079",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 14时09分]"
         },
         {
           "title": "蔡依林真吃上酱板鸭了",
           "url": "https://www.douyin.com/hot/2440286",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 12时29分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时09分]"
         },
         {
           "title": "海来阿木哈尔滨演唱会",
