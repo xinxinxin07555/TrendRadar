@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T04:35:40.544430+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-03-24T05:34:23.917905+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             17,
             19,
             18,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时34分]"
         },
         {
           "title": "韩国人怎么看BTS光化门演唱会",
@@ -32,19 +33,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时57分 ~ 04时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 05时34分]"
         },
         {
           "title": "周杰伦太阳之子最终预告",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E6%9C%80%E7%BB%88%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 05时34分]"
         }
       ]
     }
