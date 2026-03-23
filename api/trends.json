@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T22:19:13.190757+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2026-03-23T23:58:10.670460+08:00",
+  "total_titles_processed": 1829,
   "failed_sources": [],
   "trends": [
     {
@@ -104,26 +104,28 @@
           "time_info": "[01时22分 ~ 05时23分]"
         },
         {
-          "title": "韩国人怎么看BTS光化门演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8BBTS%E5%85%89%E5%8C%96%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 22时19分]"
-        },
-        {
           "title": "周杰伦新专辑太阳之子",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[22时18分 ~ 23时58分]"
+        },
+        {
+          "title": "韩国人怎么看BTS光化门演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8BBTS%E5%85%89%E5%8C%96%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时18分 ~ 23时58分]"
         },
         {
           "title": "鸣潮大型演唱会",
