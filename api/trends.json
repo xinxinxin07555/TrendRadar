@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T07:25:13.260442+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-03-23T09:57:26.207042+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周杰伦太阳之子最终预告",
@@ -16,11 +16,12 @@
             13,
             10,
             15,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时57分]"
         },
         {
           "title": "终于在周杰伦mv预告里看到正脸",
@@ -30,11 +31,12 @@
             14,
             11,
             12,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时57分]"
         },
         {
           "title": "蔡依林长沙演唱会万人合唱绝了",
@@ -75,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 07时25分]"
+        },
+        {
+          "title": "言承旭演唱会提词器曝光，有「眼眶微红、深吸口气」等情绪指令引热议，如何看待此事？你介意这种舞台剧本吗？",
+          "url": "https://www.zhihu.com/question/2018650888789517079",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时57分"
         }
       ]
     }
