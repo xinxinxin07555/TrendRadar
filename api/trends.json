@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T14:09:52.093887+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-03-23T16:02:28.515262+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             12,
             10,
             13,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时26分 ~ 14时09分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 16时02分]"
         },
         {
           "title": "蔡依林长沙演唱会万人合唱绝了",
@@ -55,6 +56,19 @@
           "time_info": "[00时26分 ~ 05时23分]"
         },
         {
+          "title": "言承旭演唱会提词器曝光，有「眼眶微红、深吸口气」等情绪指令引热议，如何看待此事？你介意这种舞台剧本吗？",
+          "url": "https://www.zhihu.com/question/2018650888789517079",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 16时02分]"
+        },
+        {
           "title": "薛之谦演唱会",
           "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -69,28 +83,17 @@
           "time_info": "[01时22分 ~ 05时23分]"
         },
         {
-          "title": "言承旭演唱会提词器曝光，有「眼眶微红、深吸口气」等情绪指令引热议，如何看待此事？你介意这种舞台剧本吗？",
-          "url": "https://www.zhihu.com/question/2018650888789517079",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 14时09分]"
-        },
-        {
           "title": "蔡依林真吃上酱板鸭了",
           "url": "https://www.douyin.com/hot/2440286",
           "source": "抖音",
           "ranks": [
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 16时02分]"
         },
         {
           "title": "海来阿木哈尔滨演唱会",
