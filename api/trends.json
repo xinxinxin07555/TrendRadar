@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T03:55:27.030778+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-03-25T04:38:55.190474+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时38分]"
         },
         {
           "title": "如何评价周杰伦新专辑《太阳之子》？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时38分]"
         },
         {
           "title": "周杰伦新歌口碑",
@@ -38,11 +38,12 @@
           "ranks": [
             15,
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时38分]"
         },
         {
           "title": "周杰伦太阳之子MV上线",
@@ -53,8 +54,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时38分]"
         },
         {
           "title": "锐评周杰伦新歌MV",
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时38分]"
         },
         {
           "title": "周杰伦史上最贵MV",
@@ -74,11 +75,12 @@
           "ranks": [
             16,
             29,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时38分]"
         },
         {
           "title": "周杰伦新专辑",
@@ -86,11 +88,12 @@
           "source": "微博",
           "ranks": [
             9,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时38分]"
         },
         {
           "title": "周杰伦太阳之子MV",
@@ -102,8 +105,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时38分]"
         },
         {
           "title": "如何评价周杰伦 2026 新专辑第二首歌《淘金小镇》？",
