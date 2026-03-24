@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T19:43:50.199969+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2026-03-24T21:04:30.159128+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "周杰伦太阳之子MV上线",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时58分 ~ 19时43分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 21时04分]"
         },
         {
           "title": "周杰伦史上最贵MV",
@@ -26,11 +26,12 @@
             7,
             2,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时58分 ~ 19时43分]"
+          "appearance_count": 10,
+          "time_info": "[13时58分 ~ 21时04分]"
         },
         {
           "title": "如何评价周杰伦《太阳之子》的最新 MV？",
@@ -41,11 +42,12 @@
             3,
             8,
             13,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时06分 ~ 19时43分]"
+          "appearance_count": 9,
+          "time_info": "[15时06分 ~ 21时04分]"
         },
         {
           "title": "周杰伦太阳之子MV",
@@ -54,11 +56,24 @@
           "ranks": [
             4,
             8,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时06分 ~ 21时04分]"
+        },
+        {
+          "title": "锐评周杰伦新歌MV",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8CMV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时06分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[16时47分 ~ 21时04分]"
         },
         {
           "title": "周杰伦太阳之子最终预告",
@@ -94,18 +109,6 @@
           "time_info": "[00时57分 ~ 09时49分]"
         },
         {
-          "title": "锐评周杰伦新歌MV",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8CMV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时47分 ~ 19时43分]"
-        },
-        {
           "title": "周杰伦新专辑太阳之子",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -129,8 +132,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时06分 ~ 21时04分]"
+        },
+        {
+          "title": "周杰伦新专辑《太阳之子》MV上线",
+          "url": "https://www.toutiao.com/trending/7619950761497247790/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时06分 ~ 18时49分]"
+          "time_info": "[16时47分 ~ 21时04分]"
         },
         {
           "title": "周杰伦新歌",
@@ -145,18 +160,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时58分 ~ 16时48分]"
-        },
-        {
-          "title": "周杰伦新专辑《太阳之子》MV上线",
-          "url": "https://www.toutiao.com/trending/7619950761497247790/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时47分 ~ 19时43分]"
         },
         {
           "title": "周杰伦太阳之子MV",
@@ -202,9 +205,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "周杰伦新歌口碑",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%8F%A3%E7%A2%91&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "张杰每天消耗几千卡路里",
