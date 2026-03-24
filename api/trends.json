@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T06:27:18.297622+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-25T07:29:24.337016+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时29分]"
         },
         {
           "title": "如何评价周杰伦新专辑《太阳之子》？",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 07时29分]"
         },
         {
           "title": "周杰伦新歌口碑",
@@ -40,11 +40,12 @@
             4,
             5,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时29分]"
         },
         {
           "title": "周杰伦太阳之子MV上线",
@@ -55,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时29分]"
         },
         {
           "title": "锐评周杰伦新歌MV",
@@ -66,8 +67,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时29分]"
         },
         {
           "title": "周杰伦史上最贵MV",
@@ -79,24 +80,12 @@
             27,
             25,
             22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 06时27分]"
-        },
-        {
-          "title": "周杰伦新专辑",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
             23,
-            30
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 06时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 07时29分]"
         },
         {
           "title": "周杰伦太阳之子MV",
@@ -108,6 +97,19 @@
             16,
             17,
             19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 07时29分]"
+        },
+        {
+          "title": "周杰伦新专辑",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            23,
+            30
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -126,22 +128,23 @@
           "time_info": "[02时58分 ~ 03时55分]"
         },
         {
+          "title": "单依纯演唱会逃跑失败",
+          "url": "https://www.douyin.com/hot/2442381",
+          "source": "抖音",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 07时29分]"
+        },
+        {
           "title": "周杰伦新专辑《太阳之子》MV上线",
           "url": "https://www.toutiao.com/trending/7619950761497247790/",
           "source": "今日头条",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时54分]"
-        },
-        {
-          "title": "单依纯演唱会逃跑失败",
-          "url": "https://www.douyin.com/hot/2442381",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
