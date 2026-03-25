@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T19:40:25.798398+08:00",
-  "total_titles_processed": 1772,
+  "generated_at": "2026-03-25T21:02:44.507658+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "如何评价周杰伦新专辑《太阳之子》？",
@@ -132,6 +132,19 @@
           "time_info": "[12时19分 ~ 19时40分]"
         },
         {
+          "title": "周杰伦新歌从夯到拉排名",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时59分 ~ 21时02分]"
+        },
+        {
           "title": "周杰伦新专辑从夯到拉",
           "url": "https://www.douyin.com/hot/2442677",
           "source": "抖音",
@@ -175,28 +188,33 @@
           "time_info": "[01时54分 ~ 06时27分]"
         },
         {
+          "title": "跟UP主参加周杰伦新歌首映会",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9FUP%E5%8F%82%E5%8A%A0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E9%A6%96%E6%98%A0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10,
+            21,
+            28,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 21时02分]"
+        },
+        {
           "title": "从夯到拉锐评周杰伦新专",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时40分]"
-        },
-        {
-          "title": "周杰伦新歌从夯到拉排名",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时59分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时02分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -211,21 +229,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时54分 ~ 15时09分]"
-        },
-        {
-          "title": "跟UP主参加周杰伦新歌首映会",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9FUP%E5%8F%82%E5%8A%A0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E9%A6%96%E6%98%A0%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            10,
-            21,
-            28,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 19时40分]"
         },
         {
           "title": "华晨宇火星乐园2.0真的来了",
@@ -245,11 +248,34 @@
           "ranks": [
             4,
             27,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 21时02分]"
+        },
+        {
+          "title": "周杰伦新专升key版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E5%8D%87key%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "薛之谦演唱会 视角",
+          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%A7%86%E8%A7%92&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "宋雨琦周深缺席奔跑吧",
@@ -261,6 +287,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
+        },
+        {
+          "title": "周杰伦新歌MV拍了半部西方绘画史",
+          "url": "https://www.douyin.com/hot/2442645",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 21时02分]"
+        },
+        {
+          "title": "华晨宇演唱会卷到2.0了",
+          "url": "https://www.douyin.com/hot/2443275",
+          "source": "抖音",
+          "ranks": [
+            29,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 21时02分]"
+        },
+        {
+          "title": "耳帝评价周杰伦新专辑",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时02分]"
         },
         {
           "title": "周杰伦新歌口碑",
@@ -276,54 +342,17 @@
           "time_info": "[09时54分 ~ 13时59分]"
         },
         {
-          "title": "周杰伦新歌MV拍了半部西方绘画史",
-          "url": "https://www.douyin.com/hot/2442645",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时40分]"
-        },
-        {
-          "title": "华晨宇演唱会卷到2.0了",
-          "url": "https://www.douyin.com/hot/2443275",
-          "source": "抖音",
-          "ranks": [
-            29,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时40分]"
-        },
-        {
-          "title": "耳帝评价周杰伦新专辑",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%E8%AF%84%E4%BB%B7%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时40分]"
-        },
-        {
           "title": "从音乐制作的角度出发，如何评价周杰伦《太阳之子》这张专辑？",
           "url": "https://www.zhihu.com/question/2019951270736213192",
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 21时02分]"
         },
         {
           "title": "如何评价周杰伦 2026 新专辑第二首歌《淘金小镇》？",
@@ -406,6 +435,17 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
+          "title": "深度解读周杰伦背后的资本哲学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%83%8C%E5%90%8E%E7%9A%84%E8%B5%84%E6%9C%AC%E5%93%B2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "盘点周杰伦经典MV",
           "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%8F%E5%85%B8MV",
           "source": "bilibili 热搜",
@@ -459,6 +499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "偶遇纪凌尘 看来综艺里不是演的",
+          "url": "https://s.weibo.com/weibo?q=%E5%81%B6%E9%81%87%E7%BA%AA%E5%87%8C%E5%B0%98%20%E7%9C%8B%E6%9D%A5%E7%BB%BC%E8%89%BA%E9%87%8C%E4%B8%8D%E6%98%AF%E6%BC%94%E7%9A%84&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
