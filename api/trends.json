@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T09:55:07.292145+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-03-25T12:19:22.069485+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价周杰伦新专辑《太阳之子》？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 09时55分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 12时19分]"
         },
         {
           "title": "周杰伦新专辑花式改编",
@@ -67,11 +67,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时04分 ~ 09时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 12时19分]"
         },
         {
           "title": "周杰伦史上最贵MV",
@@ -125,11 +126,24 @@
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时19分]"
+        },
+        {
+          "title": "周杰伦新歌口碑",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%8F%A3%E7%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 12时19分]"
         },
         {
           "title": "如何评价周杰伦 2026 新专辑第二首歌《淘金小镇》？",
@@ -154,17 +168,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 07时29分]"
-        },
-        {
-          "title": "周杰伦新歌口碑",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%8F%A3%E7%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 09时55分]"
         },
         {
           "title": "周杰伦新专辑“情怀杀”",
@@ -211,6 +214,50 @@
           "time_info": "[09时54分 ~ 09时55分]"
         },
         {
+          "title": "如何评价周杰伦新歌MV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8CMV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "盘点周杰伦经典MV",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%8F%E5%85%B8MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "周杰伦《太阳之子》新专辑你最爱哪一首？",
+          "url": "https://www.zhihu.com/question/2019934974090949844",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "周杰伦新专辑从夯到拉",
+          "url": "https://www.douyin.com/hot/2442677",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "如何评价周杰伦《太阳之子》的最新 MV？",
           "url": "https://www.zhihu.com/question/2019769399599477553",
           "source": "知乎",
@@ -220,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "周杰伦 歌词",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%AD%8C%E8%AF%8D&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "比周杰伦新歌先来的是网友二创",
