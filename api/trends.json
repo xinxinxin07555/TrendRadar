@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T15:09:01.060545+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-03-25T16:45:47.065015+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何评价周杰伦新专辑《太阳之子》？",
@@ -74,8 +74,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 15时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 16时45分]"
         },
         {
           "title": "周杰伦史上最贵MV",
@@ -150,15 +150,15 @@
           "time_info": "[15时08分 ~ 15时09分]"
         },
         {
-          "title": "跟UP主参加周杰伦新歌首映会",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9FUP%E5%8F%82%E5%8A%A0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E9%A6%96%E6%98%A0%E4%BC%9A",
+          "title": "周杰伦新专辑全专大测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时09分"
+          "time_info": "16时45分"
         },
         {
           "title": "如何评价周杰伦新歌MV",
@@ -167,11 +167,38 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时09分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时45分]"
+        },
+        {
+          "title": "周杰伦新专辑从夯到拉",
+          "url": "https://www.douyin.com/hot/2442677",
+          "source": "抖音",
+          "ranks": [
+            20,
+            23,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时45分]"
+        },
+        {
+          "title": "跟UP主参加周杰伦新歌首映会",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B7%9FUP%E5%8F%82%E5%8A%A0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E9%A6%96%E6%98%A0%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 16时45分]"
         },
         {
           "title": "周杰伦新歌口碑",
@@ -187,19 +214,6 @@
           "time_info": "[09时54分 ~ 13时59分]"
         },
         {
-          "title": "周杰伦新专辑从夯到拉",
-          "url": "https://www.douyin.com/hot/2442677",
-          "source": "抖音",
-          "ranks": [
-            20,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 15时09分]"
-        },
-        {
           "title": "周杰伦新歌从夯到拉排名",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D",
           "source": "百度热搜",
@@ -207,8 +221,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 15时09分]"
+          "appearance_count": 4,
+          "time_info": "[13时59分 ~ 16时45分]"
         },
         {
           "title": "如何评价周杰伦 2026 新专辑第二首歌《淘金小镇》？",
