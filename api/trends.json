@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T03:45:18.147610+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-03-26T04:36:21.640139+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时36分]"
         },
         {
           "title": "周杰伦新歌MV拍了半部西方绘画史",
@@ -31,8 +31,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时36分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -42,8 +42,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时36分]"
         },
         {
           "title": "歌剧老师锐评周杰伦MV",
@@ -51,11 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             25,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时36分]"
         },
         {
           "title": "华晨宇演唱会卷到2.0了",
@@ -63,11 +64,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时36分]"
         },
         {
           "title": "跟UP主参加周杰伦新歌首映会",
@@ -77,11 +79,12 @@
             26,
             23,
             29,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时07分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时07分 ~ 04时36分]"
         },
         {
           "title": "周杰伦太阳之子铠甲勇士版",
@@ -90,11 +93,12 @@
           "ranks": [
             27,
             25,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 03时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 04时36分]"
         },
         {
           "title": "周杰伦新专辑全专大测评",
