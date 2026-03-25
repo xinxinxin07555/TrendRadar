@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T02:52:59.623119+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-03-26T03:45:18.147610+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时45分]"
         },
         {
           "title": "周杰伦新歌MV拍了半部西方绘画史",
@@ -26,11 +27,12 @@
           "ranks": [
             13,
             14,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时45分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -40,8 +42,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时45分]"
         },
         {
           "title": "歌剧老师锐评周杰伦MV",
@@ -52,19 +54,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时45分]"
         },
         {
           "title": "华晨宇演唱会卷到2.0了",
           "url": "https://www.douyin.com/hot/2443275",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时45分]"
         },
         {
           "title": "跟UP主参加周杰伦新歌首映会",
@@ -73,11 +76,12 @@
           "ranks": [
             26,
             23,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 03时45分]"
         },
         {
           "title": "周杰伦太阳之子铠甲勇士版",
@@ -85,11 +89,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            25
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 03时45分]"
+        },
+        {
+          "title": "周杰伦新专辑全专大测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时52分]"
+          "time_info": "[02时52分 ~ 03时45分]"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
@@ -101,17 +117,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "周杰伦新专辑全专大测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
         }
       ]
     }
