@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T06:33:06.726978+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-03-26T07:31:46.561134+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "歌剧老师锐评周杰伦MV",
@@ -29,8 +29,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "华晨宇演唱会卷到2.0了",
@@ -40,11 +40,12 @@
             21,
             19,
             18,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 07时31分]"
         },
         {
           "title": "从夯到拉锐评周杰伦新专",
@@ -53,11 +54,28 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 05时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时07分 ~ 07时31分]"
+        },
+        {
+          "title": "周杰伦太阳之子铠甲勇士版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            25,
+            23,
+            26,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时05分 ~ 07时31分]"
         },
         {
           "title": "跟UP主参加周杰伦新歌首映会",
@@ -74,21 +92,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 05时36分]"
-        },
-        {
-          "title": "周杰伦太阳之子铠甲勇士版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            25,
-            23,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时05分 ~ 06时33分]"
         },
         {
           "title": "周杰伦新歌MV拍了半部西方绘画史",
@@ -122,11 +125,12 @@
           "url": "https://www.douyin.com/hot/2442677",
           "source": "抖音",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
+          "appearance_count": 3,
+          "time_info": "[06时32分 ~ 07时31分]"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
