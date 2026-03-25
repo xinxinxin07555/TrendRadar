@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-03-26T05:36:24.348717+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-03-26T06:33:06.726978+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "从夯到拉锐评周杰伦新专",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 05时36分]"
-        },
         {
           "title": "周杰伦新歌从夯到拉排名",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D",
@@ -28,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 06时33分]"
         },
         {
           "title": "歌剧老师锐评周杰伦MV",
@@ -38,11 +25,12 @@
           "ranks": [
             25,
             18,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 05时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 06时33分]"
         },
         {
           "title": "华晨宇演唱会卷到2.0了",
@@ -51,7 +39,21 @@
           "ranks": [
             21,
             19,
-            18
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 06时33分]"
+        },
+        {
+          "title": "从夯到拉锐评周杰伦新专",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -74,6 +76,21 @@
           "time_info": "[00时07分 ~ 05时36分]"
         },
         {
+          "title": "周杰伦太阳之子铠甲勇士版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            25,
+            23,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 06时33分]"
+        },
+        {
           "title": "周杰伦新歌MV拍了半部西方绘画史",
           "url": "https://www.douyin.com/hot/2442645",
           "source": "抖音",
@@ -88,31 +105,28 @@
           "time_info": "[00时07分 ~ 04时36分]"
         },
         {
-          "title": "周杰伦太阳之子铠甲勇士版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            25,
-            23,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 05时36分]"
-        },
-        {
           "title": "周杰伦新专辑全专大测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[02时52分 ~ 06时33分]"
+        },
+        {
+          "title": "周杰伦新专辑从夯到拉",
+          "url": "https://www.douyin.com/hot/2442677",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
