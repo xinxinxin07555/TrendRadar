@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T17:58:49.471071+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2026-03-26T18:54:18.427444+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "从夯到拉锐评周杰伦新专",
@@ -19,11 +19,12 @@
             30,
             27,
             25,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时07分 ~ 17时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时07分 ~ 18时54分]"
         },
         {
           "title": "周杰伦新专辑全专大测评",
@@ -36,11 +37,12 @@
             22,
             28,
             24,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时52分 ~ 17时58分]"
+          "appearance_count": 13,
+          "time_info": "[02时52分 ~ 18时54分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -124,11 +126,12 @@
           "ranks": [
             1,
             2,
-            20
+            20,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时39分 ~ 17时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 18时54分]"
         },
         {
           "title": "蔡依林的《布拉格广场》改编版，被调侃「一个是布拉格广场一个是万达广场」，你更喜欢哪个版本？",
@@ -161,6 +164,17 @@
           "time_info": "[00时07分 ~ 05时36分]"
         },
         {
+          "title": "王俊凯 演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时54分]"
+        },
+        {
           "title": "周杰伦新歌MV拍了半部西方绘画史",
           "url": "https://www.douyin.com/hot/2442645",
           "source": "抖音",
@@ -191,22 +205,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%89%BA%E6%9C%AFUP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8CMV",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "王俊凯 演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 18时54分]"
         },
         {
           "title": "偶遇谢娜夜骑给张杰送花",
@@ -262,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "如何评价周杰伦新专辑太阳之子正式发售首日销量突破 200 万张，销售额突破 8000 万，登顶华语年度冠军？",
+          "url": "https://www.zhihu.com/question/2020426527569916062",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
