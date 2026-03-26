@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T12:40:11.531693+08:00",
-  "total_titles_processed": 1036,
+  "generated_at": "2026-03-26T14:16:36.786121+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             12,
             13,
             26,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 10时02分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 14时16分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -59,11 +60,12 @@
             18,
             23,
             24,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 12时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 14时16分]"
         },
         {
           "title": "歌剧老师锐评周杰伦MV",
@@ -88,11 +90,12 @@
             26,
             19,
             22,
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时52分 ~ 12时40分]"
+          "appearance_count": 10,
+          "time_info": "[02时52分 ~ 14时16分]"
         },
         {
           "title": "周杰伦淘金小镇官方MV",
@@ -102,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时39分 ~ 14时16分]"
         },
         {
           "title": "周杰伦新专辑从夯到拉",
@@ -113,11 +116,12 @@
             17,
             22,
             24,
-            30
+            30,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时32分 ~ 12时40分]"
+          "appearance_count": 8,
+          "time_info": "[06时32分 ~ 14时16分]"
         },
         {
           "title": "跟UP主参加周杰伦新歌首映会",
@@ -158,19 +162,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时16分]"
         },
         {
           "title": "蔡依林的《布拉格广场》改编版，被调侃「一个是布拉格广场一个是万达广场」，你更喜欢哪个版本？",
           "url": "https://www.zhihu.com/question/2012198131295545035",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 12时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 14时16分]"
         },
         {
           "title": "偶遇谢娜夜骑给张杰送花",
