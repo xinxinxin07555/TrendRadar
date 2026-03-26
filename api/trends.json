@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T14:16:36.786121+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-03-26T16:02:53.953752+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "从夯到拉锐评周杰伦新专",
@@ -17,11 +17,29 @@
             13,
             26,
             30,
-            27
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 16时02分]"
+        },
+        {
+          "title": "周杰伦新专辑全专大测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            26,
+            19,
+            22,
+            28,
+            24,
+            15
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时07分 ~ 14时16分]"
+          "time_info": "[02时52分 ~ 16时02分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -82,31 +100,16 @@
           "time_info": "[00时07分 ~ 07时31分]"
         },
         {
-          "title": "周杰伦新专辑全专大测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26,
-            19,
-            22,
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时52分 ~ 14时16分]"
-        },
-        {
           "title": "周杰伦淘金小镇官方MV",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87%E5%AE%98%E6%96%B9MV",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 16时02分]"
         },
         {
           "title": "周杰伦新专辑从夯到拉",
@@ -117,11 +120,12 @@
             22,
             24,
             30,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时32分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[06时32分 ~ 16时02分]"
         },
         {
           "title": "跟UP主参加周杰伦新歌首映会",
@@ -154,6 +158,19 @@
           "time_info": "[00时07分 ~ 04时36分]"
         },
         {
+          "title": "蔡依林的《布拉格广场》改编版，被调侃「一个是布拉格广场一个是万达广场」，你更喜欢哪个版本？",
+          "url": "https://www.zhihu.com/question/2012198131295545035",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时02分]"
+        },
+        {
           "title": "周杰伦新歌火到全国文旅圈",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E7%81%AB%E5%88%B0%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%9C%88",
           "source": "百度热搜",
@@ -162,20 +179,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时16分]"
-        },
-        {
-          "title": "蔡依林的《布拉格广场》改编版，被调侃「一个是布拉格广场一个是万达广场」，你更喜欢哪个版本？",
-          "url": "https://www.zhihu.com/question/2012198131295545035",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 16时02分]"
         },
         {
           "title": "偶遇谢娜夜骑给张杰送花",
@@ -220,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时39分 ~ 12时40分]"
+        },
+        {
+          "title": "五月天鸟巢官宣了12场",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E9%B8%9F%E5%B7%A2%E5%AE%98%E5%AE%A3%E4%BA%8612%E5%9C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
