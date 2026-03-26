@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-03-26T07:31:46.561134+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-03-26T10:02:06.502644+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "从夯到拉锐评周杰伦新专",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            13,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时07分 ~ 10时02分]"
+        },
         {
           "title": "周杰伦新歌从夯到拉排名",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E6%8E%92%E5%90%8D",
@@ -17,6 +32,37 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 07时31分]"
+        },
+        {
+          "title": "周杰伦太阳之子铠甲勇士版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            25,
+            23,
+            26,
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时05分 ~ 10时02分]"
+        },
+        {
+          "title": "华晨宇演唱会卷到2.0了",
+          "url": "https://www.douyin.com/hot/2443275",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            18,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时07分 ~ 10时02分]"
         },
         {
           "title": "歌剧老师锐评周杰伦MV",
@@ -33,49 +79,18 @@
           "time_info": "[00时07分 ~ 07时31分]"
         },
         {
-          "title": "华晨宇演唱会卷到2.0了",
-          "url": "https://www.douyin.com/hot/2443275",
-          "source": "抖音",
-          "ranks": [
-            21,
-            19,
-            18,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时07分 ~ 07时31分]"
-        },
-        {
-          "title": "从夯到拉锐评周杰伦新专",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
+          "title": "周杰伦新专辑全专大测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 07时31分]"
-        },
-        {
-          "title": "周杰伦太阳之子铠甲勇士版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            25,
-            23,
+            30,
             26,
-            24,
-            17
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时05分 ~ 07时31分]"
+          "appearance_count": 7,
+          "time_info": "[02时52分 ~ 10时02分]"
         },
         {
           "title": "跟UP主参加周杰伦新歌首映会",
@@ -108,29 +123,72 @@
           "time_info": "[00时07分 ~ 04时36分]"
         },
         {
-          "title": "周杰伦新专辑全专大测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E5%85%A8%E4%B8%93%E5%A4%A7%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 06时33分]"
-        },
-        {
           "title": "周杰伦新专辑从夯到拉",
           "url": "https://www.douyin.com/hot/2442677",
           "source": "抖音",
           "ranks": [
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时32分 ~ 07时31分]"
+          "appearance_count": 5,
+          "time_info": "[06时32分 ~ 10时02分]"
+        },
+        {
+          "title": "偶遇谢娜夜骑给张杰送花",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B0%A2%E5%A8%9C%E5%A4%9C%E9%AA%91%E7%BB%99%E5%BC%A0%E6%9D%B0%E9%80%81%E8%8A%B1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "周杰伦新歌火到全国文旅圈",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E7%81%AB%E5%88%B0%E5%85%A8%E5%9B%BD%E6%96%87%E6%97%85%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "蔡依林的《布拉格广场》改编版，被调侃「一个是布拉格广场一个是万达广场」，你更喜欢哪个版本？",
+          "url": "https://www.zhihu.com/question/2012198131295545035",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "周杰伦新歌堪称三胎带娃实录",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%A0%AA%E7%A7%B0%E4%B8%89%E8%83%8E%E5%B8%A6%E5%A8%83%E5%AE%9E%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "周杰伦新专辑引爆冷门T恤",
+          "url": "https://www.toutiao.com/trending/7620572428041568297/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
