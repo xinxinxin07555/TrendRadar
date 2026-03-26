@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:54:18.427444+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-03-26T19:48:21.760579+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             27,
             25,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时07分 ~ 18时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时07分 ~ 19时48分]"
         },
         {
           "title": "周杰伦新专辑全专大测评",
@@ -41,8 +42,25 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时52分 ~ 18时54分]"
+          "appearance_count": 14,
+          "time_info": "[02时52分 ~ 19时48分]"
+        },
+        {
+          "title": "周杰伦新专辑从夯到拉",
+          "url": "https://www.douyin.com/hot/2442677",
+          "source": "抖音",
+          "ranks": [
+            17,
+            22,
+            24,
+            30,
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时32分 ~ 19时48分]"
         },
         {
           "title": "周杰伦新歌从夯到拉排名",
@@ -70,23 +88,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时05分 ~ 10时02分]"
-        },
-        {
-          "title": "周杰伦新专辑从夯到拉",
-          "url": "https://www.douyin.com/hot/2442677",
-          "source": "抖音",
-          "ranks": [
-            17,
-            22,
-            24,
-            30,
-            26,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时32分 ~ 17时58分]"
         },
         {
           "title": "华晨宇演唱会卷到2.0了",
@@ -127,11 +128,12 @@
             1,
             2,
             20,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时39分 ~ 18时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时39分 ~ 19时48分]"
         },
         {
           "title": "蔡依林的《布拉格广场》改编版，被调侃「一个是布拉格广场一个是万达广场」，你更喜欢哪个版本？",
@@ -164,17 +166,6 @@
           "time_info": "[00时07分 ~ 05时36分]"
         },
         {
-          "title": "王俊凯 演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时54分]"
-        },
-        {
           "title": "周杰伦新歌MV拍了半部西方绘画史",
           "url": "https://www.douyin.com/hot/2442645",
           "source": "抖音",
@@ -201,16 +192,29 @@
           "time_info": "[10时01分 ~ 16时02分]"
         },
         {
+          "title": "王俊凯 演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时48分]"
+        },
+        {
           "title": "艺术UP主解读周杰伦新歌MV",
           "url": "https://search.bilibili.com/all?keyword=%E8%89%BA%E6%9C%AFUP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8CMV",
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时48分]"
         },
         {
           "title": "偶遇谢娜夜骑给张杰送花",
@@ -222,6 +226,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "如何评价周杰伦新专辑太阳之子正式发售首日销量突破 200 万张，销售额突破 8000 万，登顶华语年度冠军？",
+          "url": "https://www.zhihu.com/question/2020426527569916062",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时48分]"
         },
         {
           "title": "周杰伦新歌堪称三胎带娃实录",
@@ -266,17 +282,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
-        },
-        {
-          "title": "如何评价周杰伦新专辑太阳之子正式发售首日销量突破 200 万张，销售额突破 8000 万，登顶华语年度冠军？",
-          "url": "https://www.zhihu.com/question/2020426527569916062",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "周杰伦新专辑13首歌从夯到拉",
