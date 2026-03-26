@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T02:01:56.602659+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-27T03:18:32.237389+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时18分]"
         },
         {
           "title": "如何评价周杰伦新专辑太阳之子正式发售首日销量突破 200 万张，销售额突破 8000 万，登顶华语年度冠军？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时18分]"
         },
         {
           "title": "林俊杰称自己生命的沙漏加速了",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时18分]"
         },
         {
           "title": "艺术UP主解读周杰伦新歌MV",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时18分]"
         },
         {
           "title": "周杰伦新专辑从夯到拉",
@@ -60,11 +62,24 @@
           "source": "抖音",
           "ranks": [
             28,
-            24
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 03时18分]"
+        },
+        {
+          "title": "周杰伦淘金小镇官方MV",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87%E5%AE%98%E6%96%B9MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 03时18分]"
         },
         {
           "title": "周杰伦新专辑销量破200万张",
@@ -73,18 +88,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "周杰伦淘金小镇官方MV",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%B7%98%E9%87%91%E5%B0%8F%E9%95%87%E5%AE%98%E6%96%B9MV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
