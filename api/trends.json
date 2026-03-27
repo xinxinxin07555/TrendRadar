@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T10:02:17.848715+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2026-03-27T13:05:14.148590+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "周杰伦新专全曲毒舌测评",
@@ -80,6 +80,30 @@
           "time_info": "[02时01分 ~ 06时26分]"
         },
         {
+          "title": "周杰伦新专辑为什么不选一首好听的歌当主打？",
+          "url": "https://www.zhihu.com/question/2020150685451118111",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 13时05分]"
+        },
+        {
+          "title": "从夯到拉锐评周杰伦新专",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 13时05分]"
+        },
+        {
           "title": "周杰伦新专辑从夯到拉",
           "url": "https://www.douyin.com/hot/2442677",
           "source": "抖音",
@@ -93,6 +117,39 @@
           "time_info": "[00时19分 ~ 03时18分]"
         },
         {
+          "title": "王源官宣巡演",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%AE%98%E5%AE%A3%E5%B7%A1%E6%BC%94&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "《太阳之子》二创刷屏 周杰伦回应",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E3%80%8B%E4%BA%8C%E5%88%9B%E5%88%B7%E5%B1%8F+%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "林俊杰合照没有七七",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%88%E7%85%A7%E6%B2%A1%E6%9C%89%E4%B8%83%E4%B8%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
           "title": "周杰伦新专辑销量破200万张",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E9%94%80%E9%87%8F%E7%A0%B4200%E4%B8%87%E5%BC%A0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -102,28 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
-        },
-        {
-          "title": "周杰伦新专辑为什么不选一首好听的歌当主打？",
-          "url": "https://www.zhihu.com/question/2020150685451118111",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "从夯到拉锐评周杰伦新专",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         }
       ]
     }
