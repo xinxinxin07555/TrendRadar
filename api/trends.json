@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T06:29:14.726487+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-03-28T07:30:13.671846+08:00",
+  "total_titles_processed": 639,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -36,6 +36,22 @@
           "time_info": "[00时52分 ~ 06时29分]"
         },
         {
+          "title": "用周杰伦年轻音色打开新专",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            21,
+            20,
+            30,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 07时30分]"
+        },
+        {
           "title": "张杰北京鸟巢演唱会",
           "url": "https://www.douyin.com/hot/2445023",
           "source": "抖音",
@@ -49,19 +65,19 @@
           "time_info": "[00时52分 ~ 06时29分]"
         },
         {
-          "title": "用周杰伦年轻音色打开新专",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
-          "source": "bilibili 热搜",
+          "title": "周杰伦淘金小镇mv",
+          "url": "https://www.douyin.com/hot/2444856",
+          "source": "抖音",
           "ranks": [
-            23,
-            21,
-            20,
-            30,
-            25
+            26,
+            25,
+            24,
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 06时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时52分 ~ 07时30分]"
         },
         {
           "title": "徐良演唱会上纪念本兮",
@@ -76,20 +92,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 04时35分]"
-        },
-        {
-          "title": "周杰伦淘金小镇mv",
-          "url": "https://www.douyin.com/hot/2444856",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时52分 ~ 06时29分]"
         },
         {
           "title": "如何评价周杰伦的歌曲《那天下雨了》？",
