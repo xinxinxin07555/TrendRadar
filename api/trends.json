@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T03:40:17.892252+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-28T04:35:50.238649+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "网友吐槽周杰伦新歌欧洲、中世纪等元素一如既往「像福建老板回家建的欧式豪宅」，怎样看待周杰伦当下的审美？",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时35分]"
         },
         {
           "title": "徐良演唱会上纪念本兮",
@@ -27,11 +27,12 @@
           "ranks": [
             9,
             5,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 04时35分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -39,11 +40,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时35分]"
         },
         {
           "title": "张杰北京鸟巢演唱会",
@@ -54,8 +56,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时35分]"
         },
         {
           "title": "用周杰伦年轻音色打开新专",
@@ -71,20 +73,32 @@
           "time_info": "[01时47分 ~ 03时40分]"
         },
         {
-          "title": "张翅看张杰演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%85%E7%9C%8B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
           "title": "周杰伦淘金小镇mv",
           "url": "https://www.douyin.com/hot/2444856",
           "source": "抖音",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 04时35分]"
+        },
+        {
+          "title": "如何评价周杰伦的歌曲《那天下雨了》？",
+          "url": "https://www.zhihu.com/question/2020116268267643374",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "张翅看张杰演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%85%E7%9C%8B%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
