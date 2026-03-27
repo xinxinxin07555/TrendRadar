@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:52:22.651225+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-03-28T03:40:17.892252+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "徐良演唱会上纪念本兮",
@@ -25,11 +26,12 @@
           "source": "微博",
           "ranks": [
             9,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时40分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -40,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "张杰北京鸟巢演唱会",
@@ -52,8 +54,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时40分]"
         },
         {
           "title": "用周杰伦年轻音色打开新专",
@@ -61,11 +63,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时52分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时40分]"
         },
         {
           "title": "张翅看张杰演唱会",
