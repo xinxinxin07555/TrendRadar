@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T05:28:31.913992+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-03-29T06:25:56.217476+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,84 @@
             19,
             12,
             9,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "吴克群偷偷看望菜农被一眼认出",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%81%B7%E5%81%B7%E7%9C%8B%E6%9C%9B%E8%8F%9C%E5%86%9C%E8%A2%AB%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            19,
+            15,
+            13,
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "单依纯深圳演唱会",
+          "url": "https://www.douyin.com/hot/2446957",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "塑料兄弟?徐良剥夺汪苏泷署名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352451&amp;topic_name=%E5%A1%91%E6%96%99%E5%85%84%E5%BC%9F%3F%E5%BE%90%E8%89%AF%E5%89%A5%E5%A4%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BD%B2%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "用周杰伦年轻音色打开新专",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18,
+            23,
+            24,
+            25,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "徐良演唱会爷青回",
+          "url": "https://www.douyin.com/hot/2446215",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "详解周杰伦新专争议根源",
@@ -38,74 +111,19 @@
           "time_info": "[00时30分 ~ 05时28分]"
         },
         {
-          "title": "吴克群偷偷看望菜农被一眼认出",
-          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%81%B7%E5%81%B7%E7%9C%8B%E6%9C%9B%E8%8F%9C%E5%86%9C%E8%A2%AB%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            19,
-            15,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时28分]"
-        },
-        {
-          "title": "单依纯深圳演唱会",
-          "url": "https://www.douyin.com/hot/2446957",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时28分]"
-        },
-        {
-          "title": "塑料兄弟?徐良剥夺汪苏泷署名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352451&amp;topic_name=%E5%A1%91%E6%96%99%E5%85%84%E5%BC%9F%3F%E5%BE%90%E8%89%AF%E5%89%A5%E5%A4%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BD%B2%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时28分]"
-        },
-        {
-          "title": "用周杰伦年轻音色打开新专",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
+          "title": "陶喆版那天下雨了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E7%89%88%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            19,
-            18,
+            26,
+            22,
+            24,
             23,
-            24,
-            25,
-            21
+            17
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时28分]"
-        },
-        {
-          "title": "徐良演唱会爷青回",
-          "url": "https://www.douyin.com/hot/2446215",
-          "source": "抖音",
-          "ranks": [
-            30,
-            25,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时30分 ~ 05时28分]"
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "歌剧老师锐评周杰伦新歌",
@@ -123,21 +141,6 @@
           "time_info": "[00时30分 ~ 05时28分]"
         },
         {
-          "title": "陶喆版那天下雨了",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E7%89%88%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            22,
-            24,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时28分]"
-        },
-        {
           "title": "徐良方就漏打汪苏泷名字发声明致歉",
           "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%96%B9%E5%B0%B1%E6%BC%8F%E6%89%93%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%90%8D%E5%AD%97%E5%8F%91%E5%A3%B0%E6%98%8E%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
@@ -147,8 +150,21 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时25分]"
+        },
+        {
+          "title": "薛之谦演唱会repo",
+          "url": "https://www.douyin.com/hot/2446181",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时26分 ~ 06时25分]"
         },
         {
           "title": "在五月天演唱会玩上了正版游戏",
@@ -162,18 +178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时26分]"
-        },
-        {
-          "title": "薛之谦演唱会repo",
-          "url": "https://www.douyin.com/hot/2446181",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时28分]"
         }
       ]
     }
