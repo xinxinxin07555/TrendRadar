@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T14:55:49.620819+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-03-28T15:43:36.878573+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -22,22 +22,6 @@
           "time_info": "[00时52分 ~ 09时53分]"
         },
         {
-          "title": "用周杰伦年轻音色打开新专",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            21,
-            20,
-            30,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时47分 ~ 13时55分]"
-        },
-        {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
@@ -47,11 +31,43 @@
             12,
             18,
             17,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 15时43分]"
+        },
+        {
+          "title": "用周杰伦年轻音色打开新专",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            21,
+            20,
+            30,
+            25,
+            24,
             28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 09时53分]"
+          "appearance_count": 11,
+          "time_info": "[01时47分 ~ 15时43分]"
+        },
+        {
+          "title": "徐良删除汪苏泷后会无期作词作曲",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%88%A0%E9%99%A4%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F%E4%BD%9C%E8%AF%8D%E4%BD%9C%E6%9B%B2%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            5,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 15时43分]"
         },
         {
           "title": "张杰北京鸟巢演唱会",
@@ -82,29 +98,17 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
-          "title": "徐良删除汪苏泷后会无期作词作曲",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E5%88%A0%E9%99%A4%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%90%8E%E4%BC%9A%E6%97%A0%E6%9C%9F%E4%BD%9C%E8%AF%8D%E4%BD%9C%E6%9B%B2%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时55分]"
-        },
-        {
           "title": "陶喆版那天下雨了",
           "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E7%89%88%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时43分]"
         },
         {
           "title": "徐良演唱会上纪念本兮",
@@ -127,11 +131,12 @@
           "ranks": [
             17,
             13,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 15时43分]"
         },
         {
           "title": "在五月天演唱会玩上了正版游戏",
@@ -140,11 +145,12 @@
           "ranks": [
             17,
             16,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时43分]"
         },
         {
           "title": "薛之谦演唱会repo",
@@ -152,11 +158,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 14时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时43分]"
         },
         {
           "title": "塑料兄弟?徐良剥夺汪苏泷署名",
@@ -167,8 +174,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 15时43分]"
         },
         {
           "title": "如何评价周杰伦的歌曲《那天下雨了》？",
