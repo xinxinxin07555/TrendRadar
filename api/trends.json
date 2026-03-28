@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T20:47:03.583522+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-03-28T21:49:39.475194+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,23 @@
           "time_info": "[09时53分 ~ 19时26分]"
         },
         {
+          "title": "塑料兄弟?徐良剥夺汪苏泷署名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352451&amp;topic_name=%E5%A1%91%E6%96%99%E5%85%84%E5%BC%9F%3F%E5%BE%90%E8%89%AF%E5%89%A5%E5%A4%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BD%B2%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            10,
+            13,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 21时49分]"
+        },
+        {
           "title": "湘女多情AI陶喆版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
           "source": "bilibili 热搜",
@@ -67,8 +84,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 20时47分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 21时49分]"
         },
         {
           "title": "用周杰伦年轻音色打开新专",
@@ -87,24 +104,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时47分 ~ 20时47分]"
-        },
-        {
-          "title": "塑料兄弟?徐良剥夺汪苏泷署名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352451&amp;topic_name=%E5%A1%91%E6%96%99%E5%85%84%E5%BC%9F%3F%E5%BE%90%E8%89%AF%E5%89%A5%E5%A4%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BD%B2%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            10,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时55分 ~ 20时47分]"
+          "appearance_count": 17,
+          "time_info": "[01时47分 ~ 21时49分]"
         },
         {
           "title": "陶喆版那天下雨了",
@@ -116,11 +117,12 @@
             23,
             11,
             25,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 20时47分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 21时49分]"
         },
         {
           "title": "张杰北京鸟巢演唱会",
@@ -210,11 +212,12 @@
           "source": "微博",
           "ranks": [
             26,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时26分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 21时49分]"
         },
         {
           "title": "歌剧老师锐评周杰伦新歌",
@@ -224,8 +227,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时49分]"
+        },
+        {
+          "title": "单依纯深圳演唱会",
+          "url": "https://www.douyin.com/hot/2446957",
+          "source": "抖音",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时49分]"
         },
         {
           "title": "如何评价周杰伦的歌曲《那天下雨了》？",
@@ -238,17 +253,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时35分 ~ 05时31分]"
-        },
-        {
-          "title": "单依纯深圳演唱会",
-          "url": "https://www.douyin.com/hot/2446957",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时46分 ~ 20时47分]"
         },
         {
           "title": "王源：你要带我去哪",
