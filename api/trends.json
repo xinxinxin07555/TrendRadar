@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T21:49:39.475194+08:00",
-  "total_titles_processed": 1529,
+  "generated_at": "2026-03-28T22:29:43.221654+08:00",
+  "total_titles_processed": 1585,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "网友吐槽周杰伦新歌欧洲、中世纪等元素一如既往「像福建老板回家建的欧式豪宅」，怎样看待周杰伦当下的审美？",
@@ -38,6 +38,24 @@
           "time_info": "[09时53分 ~ 19时26分]"
         },
         {
+          "title": "陶喆版那天下雨了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E7%89%88%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            14,
+            23,
+            11,
+            25,
+            12,
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时18分 ~ 22时29分]"
+        },
+        {
           "title": "塑料兄弟?徐良剥夺汪苏泷署名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352451&amp;topic_name=%E5%A1%91%E6%96%99%E5%85%84%E5%BC%9F%3F%E5%BE%90%E8%89%AF%E5%89%A5%E5%A4%BA%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BD%B2%E5%90%8D",
           "source": "贴吧",
@@ -51,8 +69,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时55分 ~ 21时49分]"
+          "appearance_count": 11,
+          "time_info": "[13时55分 ~ 22时29分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -81,11 +99,12 @@
             12,
             16,
             15,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 21时49分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 22时29分]"
         },
         {
           "title": "用周杰伦年轻音色打开新专",
@@ -104,25 +123,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时47分 ~ 21时49分]"
-        },
-        {
-          "title": "陶喆版那天下雨了",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E7%89%88%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            14,
-            23,
-            11,
-            25,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时18分 ~ 21时49分]"
+          "appearance_count": 18,
+          "time_info": "[01时47分 ~ 22时29分]"
         },
         {
           "title": "张杰北京鸟巢演唱会",
@@ -213,22 +215,24 @@
           "ranks": [
             26,
             7,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 21时49分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 22时29分]"
         },
         {
           "title": "歌剧老师锐评周杰伦新歌",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时29分]"
         },
         {
           "title": "单依纯深圳演唱会",
@@ -239,8 +243,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 22时29分]"
         },
         {
           "title": "如何评价周杰伦的歌曲《那天下雨了》？",
@@ -287,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
+        },
+        {
+          "title": "徐良演唱会散场像极了高中下晚自习",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%A3%E5%9C%BA%E5%83%8F%E6%9E%81%E4%BA%86%E9%AB%98%E4%B8%AD%E4%B8%8B%E6%99%9A%E8%87%AA%E4%B9%A0",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "张翅看张杰演唱会",
