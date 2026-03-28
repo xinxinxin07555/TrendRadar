@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T15:43:36.878573+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-03-28T16:35:42.877112+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "网友吐槽周杰伦新歌欧洲、中世纪等元素一如既往「像福建老板回家建的欧式豪宅」，怎样看待周杰伦当下的审美？",
@@ -49,11 +49,12 @@
             30,
             25,
             24,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时47分 ~ 15时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时47分 ~ 16时35分]"
         },
         {
           "title": "徐良删除汪苏泷后会无期作词作曲",
@@ -66,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 16时35分]"
         },
         {
           "title": "张杰北京鸟巢演唱会",
@@ -98,6 +99,20 @@
           "time_info": "[00时52分 ~ 07时30分]"
         },
         {
+          "title": "徐良演唱会爷青回",
+          "url": "https://www.douyin.com/hot/2446215",
+          "source": "抖音",
+          "ranks": [
+            17,
+            13,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 16时35分]"
+        },
+        {
           "title": "陶喆版那天下雨了",
           "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%96%86%E7%89%88%E9%82%A3%E5%A4%A9%E4%B8%8B%E9%9B%A8%E4%BA%86",
           "source": "bilibili 热搜",
@@ -109,6 +124,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 15时43分]"
+        },
+        {
+          "title": "周杰伦新歌里的隐藏画作",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E9%87%8C%E7%9A%84%E9%9A%90%E8%97%8F%E7%94%BB%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "徐良演唱会上纪念本兮",
@@ -125,20 +151,6 @@
           "time_info": "[01时47分 ~ 04时35分]"
         },
         {
-          "title": "徐良演唱会爷青回",
-          "url": "https://www.douyin.com/hot/2446215",
-          "source": "抖音",
-          "ranks": [
-            17,
-            13,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时53分 ~ 15时43分]"
-        },
-        {
           "title": "在五月天演唱会玩上了正版游戏",
           "url": "https://www.douyin.com/hot/2446361",
           "source": "抖音",
@@ -149,8 +161,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 16时35分]"
         },
         {
           "title": "薛之谦演唱会repo",
@@ -159,11 +171,12 @@
           "ranks": [
             22,
             25,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 16时35分]"
         },
         {
           "title": "塑料兄弟?徐良剥夺汪苏泷署名",
@@ -171,11 +184,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时55分 ~ 16时35分]"
         },
         {
           "title": "如何评价周杰伦的歌曲《那天下雨了》？",
