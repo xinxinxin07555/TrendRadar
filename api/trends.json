@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-29T02:36:18.569315+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-03-29T03:28:17.972763+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 11,
       "titles": [
+        {
+          "title": "徐良演唱会时薪4000",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%97%B6%E8%96%AA4000%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
+        },
         {
           "title": "详解周杰伦新专争议根源",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E4%BA%89%E8%AE%AE%E6%A0%B9%E6%BA%90",
@@ -18,20 +31,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
-        },
-        {
-          "title": "徐良演唱会时薪4000",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E6%97%B6%E8%96%AA4000%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "吴克群偷偷看望菜农被一眼认出",
@@ -40,11 +41,12 @@
           "ranks": [
             29,
             19,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "单依纯深圳演唱会",
@@ -56,8 +58,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "塑料兄弟?徐良剥夺汪苏泷署名",
@@ -68,8 +70,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "用周杰伦年轻音色打开新专",
@@ -78,11 +80,39 @@
           "ranks": [
             19,
             18,
-            23
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
+        },
+        {
+          "title": "徐良演唱会爷青回",
+          "url": "https://www.douyin.com/hot/2446215",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时28分]"
+        },
+        {
+          "title": "歌剧老师锐评周杰伦新歌",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            9,
+            13,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "time_info": "[00时30分 ~ 03时28分]"
         },
         {
           "title": "陶喆版那天下雨了",
@@ -98,51 +128,28 @@
           "time_info": "[00时30分 ~ 02时36分]"
         },
         {
-          "title": "徐良演唱会爷青回",
-          "url": "https://www.douyin.com/hot/2446215",
-          "source": "抖音",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 02时36分]"
-        },
-        {
-          "title": "歌剧老师锐评周杰伦新歌",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时36分]"
-        },
-        {
           "title": "徐良方就漏打汪苏泷名字发声明致歉",
           "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%96%B9%E5%B0%B1%E6%BC%8F%E6%89%93%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%90%8D%E5%AD%97%E5%8F%91%E5%A3%B0%E6%98%8E%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时28分]"
         },
         {
           "title": "在五月天演唱会玩上了正版游戏",
           "url": "https://www.douyin.com/hot/2446361",
           "source": "抖音",
           "ranks": [
-            30
+            30,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时28分]"
         }
       ]
     }
