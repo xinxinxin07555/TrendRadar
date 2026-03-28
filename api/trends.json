@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T04:26:39.313461+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-03-29T05:28:31.913992+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "详解周杰伦新专争议根源",
@@ -30,11 +30,12 @@
             10,
             27,
             12,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "吴克群偷偷看望菜农被一眼认出",
@@ -44,11 +45,12 @@
             29,
             19,
             15,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "单依纯深圳演唱会",
@@ -60,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "塑料兄弟?徐良剥夺汪苏泷署名",
@@ -72,8 +74,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "用周杰伦年轻音色打开新专",
@@ -84,11 +86,12 @@
             18,
             23,
             24,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "徐良演唱会爷青回",
@@ -101,8 +104,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "歌剧老师锐评周杰伦新歌",
@@ -112,11 +115,12 @@
             29,
             9,
             13,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "陶喆版那天下雨了",
@@ -126,11 +130,12 @@
             26,
             22,
             24,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 04时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 05时28分]"
         },
         {
           "title": "徐良方就漏打汪苏泷名字发声明致歉",
@@ -138,11 +143,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 05时28分]"
         },
         {
           "title": "在五月天演唱会玩上了正版游戏",
@@ -162,11 +168,12 @@
           "url": "https://www.douyin.com/hot/2446181",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时28分]"
         }
       ]
     }
