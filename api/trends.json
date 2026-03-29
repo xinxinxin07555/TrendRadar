@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T02:37:46.806509+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-03-30T03:31:09.601646+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "李荣浩摆证据 4 连质问单依纯，为什么没有授权的歌曲也能放进演唱会？演唱会筹备中可能出了什么问题？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "薛之谦演唱会演出一半退票",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "薛之谦广州演唱会遭遇暴雨",
@@ -40,8 +40,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "广州场演唱会遇暴雨 薛之谦宣布退票",
@@ -53,8 +53,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
         },
         {
           "title": "蔡依林演唱会",
@@ -65,8 +65,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 03时31分]"
         },
         {
           "title": "从夯到拉锐评周杰伦新歌",
@@ -74,11 +74,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 03时31分]"
+        },
+        {
+          "title": "凤凰传奇演唱会万人雨中大合唱",
+          "url": "https://www.toutiao.com/trending/7621477286706151487/",
+          "source": "今日头条",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时27分 ~ 02时37分]"
+          "time_info": "[03时30分 ~ 03时31分]"
         }
       ]
     }
