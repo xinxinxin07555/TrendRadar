@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T19:26:34.898168+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-03-29T20:48:12.013788+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "徐良演唱会时薪4000",
@@ -125,6 +125,21 @@
           "time_info": "[00时30分 ~ 18时29分]"
         },
         {
+          "title": "凤凰传奇厦门演唱会遇暴雨",
+          "url": "https://www.douyin.com/hot/2447399",
+          "source": "抖音",
+          "ranks": [
+            18,
+            19,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时08分 ~ 20时48分]"
+        },
+        {
           "title": "用周杰伦年轻音色打开新专",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%B9%B4%E8%BD%BB%E9%9F%B3%E8%89%B2%E6%89%93%E5%BC%80%E6%96%B0%E4%B8%93",
           "source": "bilibili 热搜",
@@ -171,31 +186,59 @@
           "time_info": "[10时04分 ~ 18时29分]"
         },
         {
-          "title": "凤凰传奇厦门演唱会遇暴雨",
-          "url": "https://www.douyin.com/hot/2447399",
-          "source": "抖音",
-          "ranks": [
-            18,
-            19,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时08分 ~ 19时26分]"
-        },
-        {
           "title": "凤凰传奇演唱会万人雨中大合唱",
           "url": "https://www.toutiao.com/trending/7621477286706151487/",
           "source": "今日头条",
           "ranks": [
             17,
             13,
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时54分 ~ 20时48分]"
+        },
+        {
+          "title": "从夯到拉锐评周杰伦新歌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            28,
+            9,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 20时48分]"
+        },
+        {
+          "title": "汪峰演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            6,
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时54分 ~ 19时26分]"
+          "time_info": "[17时34分 ~ 20时48分]"
+        },
+        {
+          "title": "单依纯演唱会总监制是她自己",
+          "url": "https://www.toutiao.com/trending/7621768161347800630/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 20时48分]"
         },
         {
           "title": "徐良方就漏打汪苏泷名字发声明致歉",
@@ -211,43 +254,16 @@
           "time_info": "[02时36分 ~ 06时25分]"
         },
         {
-          "title": "从夯到拉锐评周杰伦新歌",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E9%94%90%E8%AF%84%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C",
-          "source": "bilibili 热搜",
+          "title": "薛之谦演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            21,
-            28,
-            9,
-            12
+            27,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时36分 ~ 19时26分]"
-        },
-        {
-          "title": "汪峰演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时26分]"
-        },
-        {
-          "title": "单依纯演唱会总监制是她自己",
-          "url": "https://www.toutiao.com/trending/7621768161347800630/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时26分]"
+          "time_info": "[18时29分 ~ 20时48分]"
         },
         {
           "title": "薛之谦演唱会repo",
@@ -300,15 +316,15 @@
           "time_info": "[10时04分 ~ 13时08分]"
         },
         {
-          "title": "薛之谦演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top",
+          "title": "张远谈徐良演唱会发校服",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E8%B0%88%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%91%E6%A0%A1%E6%9C%8D%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时26分]"
+          "time_info": "[20时47分 ~ 20时48分]"
         },
         {
           "title": "《太阳之子》如果不是周杰伦的 谁还听",
