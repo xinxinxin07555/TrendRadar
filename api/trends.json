@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T04:28:42.277623+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-03-30T05:29:15.034779+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时29分]"
         },
         {
           "title": "薛之谦演唱会演出一半退票",
           "url": "https://www.toutiao.com/trending/7621849600411844614/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时29分]"
         },
         {
           "title": "广州场演唱会遇暴雨 薛之谦宣布退票",
@@ -41,8 +42,21 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 05时29分]"
+        },
+        {
+          "title": "蔡依林演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            7,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "time_info": "[01时27分 ~ 05时29分]"
         },
         {
           "title": "薛之谦广州演唱会遭遇暴雨",
@@ -56,19 +70,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "蔡依林演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 04时28分]"
         },
         {
           "title": "从夯到拉锐评周杰伦新歌",
