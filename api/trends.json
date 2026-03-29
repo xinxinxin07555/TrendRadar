@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T06:28:02.497484+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-30T07:29:37.308099+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时29分]"
+        },
+        {
+          "title": "蔡依林演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            7,
+            8,
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 07时29分]"
         },
         {
           "title": "薛之谦演唱会演出一半退票",
@@ -28,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时29分]"
         },
         {
           "title": "广州场演唱会遇暴雨 薛之谦宣布退票",
@@ -43,22 +58,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 06时28分]"
-        },
-        {
-          "title": "蔡依林演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 06时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时29分]"
         },
         {
           "title": "薛之谦广州演唱会遭遇暴雨",
