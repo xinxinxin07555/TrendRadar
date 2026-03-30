@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T21:14:04.334661+08:00",
-  "total_titles_processed": 1542,
+  "generated_at": "2026-03-30T23:02:33.083948+08:00",
+  "total_titles_processed": 1688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "李荣浩摆证据 4 连质问单依纯，为什么没有授权的歌曲也能放进演唱会？演唱会筹备中可能出了什么问题？",
@@ -90,8 +90,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时21分 ~ 21时14分]"
+          "appearance_count": 9,
+          "time_info": "[13时21分 ~ 23时02分]"
         },
         {
           "title": "庞麦郎转李荣浩维权文并提及华晨宇",
@@ -117,6 +117,18 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
+          "title": "陈奕迅现身单依纯演唱会表情凝重",
+          "url": "https://www.toutiao.com/trending/7622843874737815571/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时59分 ~ 23时02分]"
+        },
+        {
           "title": "薛之谦广州演唱会遭遇暴雨",
           "url": "https://www.douyin.com/hot/2448084",
           "source": "抖音",
@@ -128,18 +140,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 03时31分]"
-        },
-        {
-          "title": "陈奕迅现身单依纯演唱会表情凝重",
-          "url": "https://www.toutiao.com/trending/7622843874737815571/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 21时14分]"
         },
         {
           "title": "从夯到拉锐评周杰伦新歌",
@@ -269,6 +269,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "周深没搞定版权清唱一句戛然而止",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%B2%A1%E6%90%9E%E5%AE%9A%E7%89%88%E6%9D%83%E6%B8%85%E5%94%B1%E4%B8%80%E5%8F%A5%E6%88%9B%E7%84%B6%E8%80%8C%E6%AD%A2%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "华晨宇方怒斥庞麦郎炒冷饭",
           "url": "https://www.toutiao.com/trending/7622274076951134251/",
           "source": "今日头条",
@@ -278,6 +289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "周杰伦新专辑让中年粉丝集体破防",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91%E8%AE%A9%E4%B8%AD%E5%B9%B4%E7%B2%89%E4%B8%9D%E9%9B%86%E4%BD%93%E7%A0%B4%E9%98%B2",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     }
