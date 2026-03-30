@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T00:12:20.816028+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-03-31T01:53:11.108523+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "单依纯演唱会退票",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时53分]"
         },
         {
           "title": "单依纯演唱会自愿免责退票",
@@ -26,8 +26,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时53分]"
+        },
+        {
+          "title": "徐良演唱会伴舞把炫舞搬到现实了",
+          "url": "https://www.douyin.com/hot/2448183",
+          "source": "抖音",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时53分]"
         },
         {
           "title": "陈奕迅现身单依纯演唱会表情凝重",
@@ -37,41 +49,54 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "徐良演唱会伴舞把炫舞搬到现实了",
-          "url": "https://www.douyin.com/hot/2448183",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时53分]"
         },
         {
           "title": "周深没搞定版权清唱一句戛然而止",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%B2%A1%E6%90%9E%E5%AE%9A%E7%89%88%E6%9D%83%E6%B8%85%E5%94%B1%E4%B8%80%E5%8F%A5%E6%88%9B%E7%84%B6%E8%80%8C%E6%AD%A2%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时53分]"
         },
         {
           "title": "粉丝称黄霄云侵权华晨宇",
           "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%A7%B0%E9%BB%84%E9%9C%84%E4%BA%91%E4%BE%B5%E6%9D%83%E5%8D%8E%E6%99%A8%E5%AE%87%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 01时53分]"
+        },
+        {
+          "title": "刘宇宁版权意识Max",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%89%88%E6%9D%83%E6%84%8F%E8%AF%86Max%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 01时53分]"
+        },
+        {
+          "title": "薛之谦广州演唱会现场宣布退票",
+          "url": "https://www.douyin.com/hot/2448139",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 01时53分]"
         }
       ]
     }
