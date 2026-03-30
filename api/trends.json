@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T05:39:19.844326+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-03-31T06:32:26.553276+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 06时32分]"
         },
         {
           "title": "单依纯演唱会退票",
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 06时32分]"
         },
         {
           "title": "单依纯演唱会自愿免责退票",
@@ -41,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 06时32分]"
         },
         {
           "title": "陈奕迅现身单依纯演唱会表情凝重",
@@ -53,11 +53,12 @@
             13,
             28,
             16,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 06时32分]"
         },
         {
           "title": "粉丝称黄霄云侵权华晨宇",
@@ -69,11 +70,12 @@
             23,
             15,
             16,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 06时32分]"
         },
         {
           "title": "徐良演唱会伴舞把炫舞搬到现实了",
@@ -87,8 +89,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 05时39分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 06时32分]"
         },
         {
           "title": "刘宇宁版权意识Max",
@@ -101,8 +103,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[01时52分 ~ 06时32分]"
         },
         {
           "title": "薛之谦广州演唱会现场宣布退票",
@@ -110,11 +112,12 @@
           "source": "抖音",
           "ranks": [
             21,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 06时32分]"
         }
       ]
     }
