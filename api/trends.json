@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T10:07:04.989707+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-03-30T13:21:42.988932+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "李荣浩摆证据 4 连质问单依纯，为什么没有授权的歌曲也能放进演唱会？演唱会筹备中可能出了什么问题？",
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             1,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 10时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时21分]"
         },
         {
           "title": "蔡依林演唱会",
@@ -101,6 +102,18 @@
           "time_info": "[01时27分 ~ 03时31分]"
         },
         {
+          "title": "薛之谦广州演唱会现场宣布退票",
+          "url": "https://www.douyin.com/hot/2448139",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 13时21分]"
+        },
+        {
           "title": "凤凰传奇演唱会万人雨中大合唱",
           "url": "https://www.toutiao.com/trending/7621477286706151487/",
           "source": "今日头条",
@@ -111,17 +124,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时30分 ~ 04时28分]"
-        },
-        {
-          "title": "薛之谦广州演唱会现场宣布退票",
-          "url": "https://www.douyin.com/hot/2448139",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
         },
         {
           "title": "单依纯演唱会一度强忍泪水状态低落",
@@ -155,6 +157,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 06时28分]"
+        },
+        {
+          "title": "庞麦郎 华晨宇",
+          "url": "https://s.weibo.com/weibo?q=%E5%BA%9E%E9%BA%A6%E9%83%8E%20%E5%8D%8E%E6%99%A8%E5%AE%87&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "单依纯在演唱会唱《李白》的行为若真的侵权了，可能会如何赔偿、赔偿多少？类似情况有先例吗？",
+          "url": "https://www.zhihu.com/question/2021720042845332046",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "华晨宇工作室 冷饭又炒",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%E5%86%B7%E9%A5%AD%E5%8F%88%E7%82%92&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "徐良演唱会伴舞把炫舞搬到现实了",
+          "url": "https://www.douyin.com/hot/2448183",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "单依纯后续演唱会均已报批《李白》",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%8E%E7%BB%AD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9D%87%E5%B7%B2%E6%8A%A5%E6%89%B9%E3%80%8A%E6%9D%8E%E7%99%BD%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
