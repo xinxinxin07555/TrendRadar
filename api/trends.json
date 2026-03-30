@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T04:42:06.879473+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-03-31T05:39:19.844326+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             24,
             27,
             18,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "单依纯演唱会退票",
@@ -29,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "单依纯演唱会自愿免责退票",
@@ -40,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "陈奕迅现身单依纯演唱会表情凝重",
@@ -51,25 +52,12 @@
             15,
             13,
             28,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时42分]"
-        },
-        {
-          "title": "徐良演唱会伴舞把炫舞搬到现实了",
-          "url": "https://www.douyin.com/hot/2448183",
-          "source": "抖音",
-          "ranks": [
-            20,
-            14,
-            27,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "粉丝称黄霄云侵权华晨宇",
@@ -80,11 +68,27 @@
             28,
             23,
             15,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时39分]"
+        },
+        {
+          "title": "徐良演唱会伴舞把炫舞搬到现实了",
+          "url": "https://www.douyin.com/hot/2448183",
+          "source": "抖音",
+          "ranks": [
+            20,
+            14,
+            27,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时39分]"
         },
         {
           "title": "刘宇宁版权意识Max",
@@ -93,11 +97,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时52分 ~ 04时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时52分 ~ 05时39分]"
         },
         {
           "title": "薛之谦广州演唱会现场宣布退票",
