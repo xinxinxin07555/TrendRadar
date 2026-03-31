@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T13:06:53.547297+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-03-31T15:08:52.130263+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -128,22 +128,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 13时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 15时08分]"
         },
         {
           "title": "单依纯承认侵权,演唱会开退票",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352558&amp;topic_name=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%89%BF%E8%AE%A4%E4%BE%B5%E6%9D%83%2C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E9%80%80%E7%A5%A8",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时06分 ~ 15时08分]"
         },
         {
           "title": "汪峰 旭日阳刚",
@@ -163,7 +165,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时06分"
         },
