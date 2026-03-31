@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T19:45:26.836154+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2026-03-31T21:11:02.993581+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
@@ -110,6 +110,23 @@
           "time_info": "[00时12分 ~ 06时32分]"
         },
         {
+          "title": "徐良把演唱会办成年会第一人",
+          "url": "https://www.douyin.com/hot/2449291",
+          "source": "抖音",
+          "ranks": [
+            23,
+            18,
+            24,
+            28,
+            25,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时03分 ~ 21时11分]"
+        },
+        {
           "title": "薛之谦广州演唱会现场宣布退票",
           "url": "https://www.douyin.com/hot/2448139",
           "source": "抖音",
@@ -123,22 +140,6 @@
           "time_info": "[01时52分 ~ 07时32分]"
         },
         {
-          "title": "徐良把演唱会办成年会第一人",
-          "url": "https://www.douyin.com/hot/2449291",
-          "source": "抖音",
-          "ranks": [
-            23,
-            18,
-            24,
-            28,
-            25,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 19时45分]"
-        },
-        {
           "title": "单依纯承认侵权,演唱会开退票",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352558&amp;topic_name=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%89%BF%E8%AE%A4%E4%BE%B5%E6%9D%83%2C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E9%80%80%E7%A5%A8",
           "source": "贴吧",
@@ -147,11 +148,12 @@
             16,
             19,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时06分 ~ 19时45分]"
+          "appearance_count": 8,
+          "time_info": "[13时06分 ~ 21时11分]"
         },
         {
           "title": "李健硬要给许飞版权费",
