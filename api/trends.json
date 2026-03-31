@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T01:54:38.749366+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-04-01T02:58:11.571272+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "抖音",
           "ranks": [
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 02时58分]"
         },
         {
           "title": "李健曾连发3天短信问许飞要歌曲授权",
           "url": "https://www.toutiao.com/trending/7623224526263877695/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 02时58分]"
         },
         {
           "title": "单依纯承认侵权,演唱会开退票",
@@ -38,8 +40,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 02时58分]"
         },
         {
           "title": "吴克群帮果农摘草莓",
