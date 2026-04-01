@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T10:11:42.218844+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-04-01T13:22:23.287143+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             18,
             13,
             14,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 10时11分]"
+          "appearance_count": 12,
+          "time_info": "[01时03分 ~ 13时22分]"
         },
         {
           "title": "李健曾连发3天短信问许飞要歌曲授权",
@@ -68,7 +69,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         }
