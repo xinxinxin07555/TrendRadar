@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T21:27:36.652856+08:00",
-  "total_titles_processed": 1744,
+  "generated_at": "2026-04-01T23:02:30.008576+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
             9,
             14,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时06分 ~ 21时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时06分 ~ 23时02分]"
         },
         {
           "title": "吴克群帮果农摘草莓",
@@ -117,7 +118,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
