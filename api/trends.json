@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T16:04:59.000638+08:00",
-  "total_titles_processed": 1291,
+  "generated_at": "2026-04-02T17:59:32.035410+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "周杰伦塌房?双节棍被扒抄袭",
@@ -26,33 +26,59 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 16时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 17时59分]"
         },
         {
           "title": "张杰回应张凌赫送花篮",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%80%81%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 17时59分]"
         },
         {
           "title": "周杰伦新歌和带娃适配度满分",
           "url": "https://www.douyin.com/hot/2451624",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时10分 ~ 17时59分]"
+        },
+        {
+          "title": "周杰伦昆凌共创I Do MV",
+          "url": "https://www.douyin.com/hot/2452495",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时10分 ~ 14时11分]"
+          "time_info": "[16时04分 ~ 17时59分]"
+        },
+        {
+          "title": "乘风每年邀请一个周杰伦前任",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E%E6%AF%8F%E5%B9%B4%E9%82%80%E8%AF%B7%E4%B8%80%E4%B8%AA%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%89%8D%E4%BB%BB%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "周杰伦藏了10余年的求婚画面将公开",
@@ -66,24 +92,13 @@
           "time_info": "09时59分"
         },
         {
-          "title": "周杰伦昆凌共创I Do MV",
-          "url": "https://www.douyin.com/hot/2452495",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时04分"
-        },
-        {
           "title": "周杰伦白西装昆凌黑羽绒服",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%99%BD%E8%A5%BF%E8%A3%85%E6%98%86%E5%87%8C%E9%BB%91%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
         }
