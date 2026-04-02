@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T21:05:49.493518+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-04-02T22:53:33.863545+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
@@ -54,11 +54,12 @@
           "ranks": [
             28,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时04分 ~ 19时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时04分 ~ 22时53分]"
         },
         {
           "title": "周杰伦新专到底有什么问题",
@@ -66,11 +67,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 21时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时43分 ~ 22时53分]"
         },
         {
           "title": "周杰伦新歌和带娃适配度满分",
