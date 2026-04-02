@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T17:59:32.035410+08:00",
-  "total_titles_processed": 1435,
+  "generated_at": "2026-04-02T18:56:06.474058+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时33分 ~ 17时59分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 18时56分]"
         },
         {
           "title": "张杰回应张凌赫送花篮",
@@ -39,11 +39,25 @@
           "source": "微博",
           "ranks": [
             5,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 18时56分]"
+        },
+        {
+          "title": "周杰伦昆凌共创I Do MV",
+          "url": "https://www.douyin.com/hot/2452495",
+          "source": "抖音",
+          "ranks": [
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 18时56分]"
         },
         {
           "title": "周杰伦新歌和带娃适配度满分",
@@ -58,25 +72,13 @@
           "time_info": "[14时10分 ~ 17时59分]"
         },
         {
-          "title": "周杰伦昆凌共创I Do MV",
-          "url": "https://www.douyin.com/hot/2452495",
-          "source": "抖音",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 17时59分]"
-        },
-        {
           "title": "乘风每年邀请一个周杰伦前任",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E%E6%AF%8F%E5%B9%B4%E9%82%80%E8%AF%B7%E4%B8%80%E4%B8%AA%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%89%8D%E4%BB%BB%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         },
