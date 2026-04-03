@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:32:43.205205+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-03T10:01:47.384030+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             27,
             13,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时48分 ~ 07时32分]"
+          "appearance_count": 8,
+          "time_info": "[03时48分 ~ 10时01分]"
         },
         {
           "title": "周杰伦昆凌共创I Do MV",
