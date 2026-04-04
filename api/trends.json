@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T16:38:05.464476+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-04-04T17:34:43.487838+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时48分 ~ 16时38分]"
+          "appearance_count": 4,
+          "time_info": "[15时48分 ~ 17时34分]"
         },
         {
           "title": "徐良全民现象级演唱会",
