@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T00:32:17.919798+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-05T01:28:00.015037+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,25 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%AE%B6%E4%BD%8F46%E6%A5%BC%E5%85%8D%E8%B4%B9%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "小伙家住46楼免费看周杰伦演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AE%B6%E4%BD%8F46%E6%A5%BC%E5%85%8D%E8%B4%B9%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
-            16
+            16,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时28分]"
         },
         {
           "title": "五哈 早期综艺的感觉回来了",
