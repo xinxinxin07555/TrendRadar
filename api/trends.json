@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T02:37:54.894257+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-04-05T03:29:14.851447+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             16,
             8,
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时29分]"
         },
         {
           "title": "小伙家住46楼免费看周杰伦演唱会",
