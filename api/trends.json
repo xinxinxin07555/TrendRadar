@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T18:31:36.728439+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-04-05T19:27:53.775362+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,19 @@
           "time_info": "[13时09分 ~ 18时31分]"
         },
         {
+          "title": "昆凌演唱会同款油画粉彩妆美翻了",
+          "url": "https://www.douyin.com/hot/2455925",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时27分]"
+        },
+        {
           "title": "小伙家住46楼免费看周杰伦演唱会",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E5%AE%B6%E4%BD%8F46%E6%A5%BC%E5%85%8D%E8%B4%B9%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "百度热搜",
@@ -50,28 +63,17 @@
           "time_info": "[00时32分 ~ 01时28分]"
         },
         {
-          "title": "昆凌演唱会同款油画粉彩妆美翻了",
-          "url": "https://www.douyin.com/hot/2455925",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时31分]"
-        },
-        {
           "title": "马思唯乐透人生演唱会",
           "url": "https://www.douyin.com/hot/2455595",
           "source": "抖音",
           "ranks": [
             21,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时27分]"
         },
         {
           "title": "周杰伦演唱会大屏上的昆凌",
