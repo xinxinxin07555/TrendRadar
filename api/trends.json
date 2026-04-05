@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T05:29:14.114232+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-04-06T06:28:28.460324+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "SEVENTEEN全员续约",
@@ -41,8 +41,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "周杰伦：来吧女儿殿下们",
@@ -51,11 +51,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "SEVENTEEN全员续约",
@@ -67,8 +68,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "马思唯乐透人生演唱会",
