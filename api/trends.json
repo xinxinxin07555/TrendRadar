@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T19:27:53.775362+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-04-05T20:51:53.796417+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -38,6 +38,20 @@
           "time_info": "[13时09分 ~ 18时31分]"
         },
         {
+          "title": "马思唯乐透人生演唱会",
+          "url": "https://www.douyin.com/hot/2455595",
+          "source": "抖音",
+          "ranks": [
+            21,
+            23,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 20时51分]"
+        },
+        {
           "title": "昆凌演唱会同款油画粉彩妆美翻了",
           "url": "https://www.douyin.com/hot/2455925",
           "source": "抖音",
@@ -61,19 +75,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 01时28分]"
-        },
-        {
-          "title": "马思唯乐透人生演唱会",
-          "url": "https://www.douyin.com/hot/2455595",
-          "source": "抖音",
-          "ranks": [
-            21,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 19时27分]"
         },
         {
           "title": "周杰伦演唱会大屏上的昆凌",
