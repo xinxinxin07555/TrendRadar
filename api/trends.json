@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T16:39:45.793417+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-04-05T17:36:31.056916+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小伙家住46楼免费看周杰伦演唱会",
@@ -33,8 +33,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时09分 ~ 16时39分]"
+          "appearance_count": 5,
+          "time_info": "[13时09分 ~ 17时36分]"
         },
         {
           "title": "小伙家住46楼免费看周杰伦演唱会",
@@ -49,6 +49,18 @@
           "time_info": "[00时32分 ~ 01时28分]"
         },
         {
+          "title": "昆凌演唱会同款油画粉彩妆美翻了",
+          "url": "https://www.douyin.com/hot/2455925",
+          "source": "抖音",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
           "title": "周杰伦演唱会大屏上的昆凌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E4%B8%8A%E7%9A%84%E6%98%86%E5%87%8C%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -60,15 +72,15 @@
           "time_info": "10时06分"
         },
         {
-          "title": "昆凌演唱会同款油画粉彩妆美翻了",
-          "url": "https://www.douyin.com/hot/2455925",
+          "title": "马思唯乐透人生演唱会",
+          "url": "https://www.douyin.com/hot/2455595",
           "source": "抖音",
           "ranks": [
-            26
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "17时36分"
         },
         {
           "title": "五哈 早期综艺的感觉回来了",
