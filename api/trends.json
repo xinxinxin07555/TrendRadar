@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T02:40:03.705097+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-04-06T03:32:29.251835+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "SEVENTEEN全员续约",
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "周杰伦：来吧女儿殿下们",
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "SEVENTEEN全员续约",
@@ -65,19 +65,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时32分]"
         },
         {
           "title": "马思唯乐透人生演唱会",
           "url": "https://www.douyin.com/hot/2455595",
           "source": "抖音",
           "ranks": [
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 03时32分]"
         }
       ]
     }
