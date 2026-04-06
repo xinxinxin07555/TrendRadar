@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T22:43:42.041560+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-04-06T23:43:20.685961+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             8,
             4,
             7,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 22时43分]"
+          "appearance_count": 11,
+          "time_info": "[10时07分 ~ 23时43分]"
         },
         {
           "title": "周杰伦爱琴海MV上线",
