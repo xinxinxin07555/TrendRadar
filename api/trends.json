@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T15:25:25.861764+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-04-06T17:05:36.422564+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -81,11 +81,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%88%B1%E7%90%B4%E6%B5%B7MV%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 17时05分]"
         },
         {
           "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
@@ -96,8 +97,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 15时25分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 17时05分]"
         },
         {
           "title": "马思唯乐透人生演唱会",
