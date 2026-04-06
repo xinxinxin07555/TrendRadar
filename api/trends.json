@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-06T10:07:53.710289+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-04-06T13:21:32.427929+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
@@ -54,11 +54,12 @@
             18,
             19,
             17,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 10时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 13时21分]"
         },
         {
           "title": "SEVENTEEN全员续约",
@@ -75,6 +76,17 @@
           "time_info": "[00时33分 ~ 06时28分]"
         },
         {
+          "title": "周杰伦爱琴海MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%88%B1%E7%90%B4%E6%B5%B7MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "马思唯乐透人生演唱会",
           "url": "https://www.douyin.com/hot/2455595",
           "source": "抖音",
@@ -88,26 +100,48 @@
           "time_info": "[01时27分 ~ 04时29分]"
         },
         {
-          "title": "SJ首尔演唱会栏杆断裂粉丝坠落",
-          "url": "https://s.weibo.com/weibo?q=%23SJ%E9%A6%96%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%E6%A0%8F%E6%9D%86%E6%96%AD%E8%A3%82%E7%B2%89%E4%B8%9D%E5%9D%A0%E8%90%BD%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
           "url": "https://www.zhihu.com/question/2023886192387655516",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时21分]"
+        },
+        {
+          "title": "SJ首尔演唱会栏杆断裂粉丝坠落",
+          "url": "https://s.weibo.com/weibo?q=%23SJ%E9%A6%96%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%E6%A0%8F%E6%9D%86%E6%96%AD%E8%A3%82%E7%B2%89%E4%B8%9D%E5%9D%A0%E8%90%BD%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "周杰伦3小时演唱会实唱不足90分钟",
+          "url": "https://www.toutiao.com/trending/7625428778054864422/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "偶遇张杰王源一起打高尔夫",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E5%BC%A0%E6%9D%B0%E7%8E%8B%E6%BA%90%E4%B8%80%E8%B5%B7%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
