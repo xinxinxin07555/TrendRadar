@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T03:51:36.276143+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-07T04:35:22.022384+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             19,
             17,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时35分]"
         },
         {
           "title": "周杰伦爱琴海MV上线",
@@ -26,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时42分 ~ 04时35分]"
         },
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
@@ -38,11 +40,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时51分]"
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 04时35分]"
         },
         {
           "title": "蔡徐坤演唱会中场休息不到30秒",
