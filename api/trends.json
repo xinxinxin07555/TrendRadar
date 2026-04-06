@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T13:21:32.427929+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-04-06T15:25:25.861764+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
             19,
             17,
             22,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 15时25分]"
         },
         {
           "title": "SEVENTEEN全员续约",
@@ -82,9 +83,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 15时25分]"
+        },
+        {
+          "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
+          "url": "https://www.zhihu.com/question/2023886192387655516",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 15时25分]"
         },
         {
           "title": "马思唯乐透人生演唱会",
@@ -100,15 +113,16 @@
           "time_info": "[01时27分 ~ 04时29分]"
         },
         {
-          "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
-          "url": "https://www.zhihu.com/question/2023886192387655516",
-          "source": "知乎",
+          "title": "周杰伦3小时演唱会实唱不足90分钟",
+          "url": "https://www.toutiao.com/trending/7625428778054864422/",
+          "source": "今日头条",
           "ranks": [
-            8
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时07分 ~ 13时21分]"
+          "time_info": "[13时21分 ~ 15时25分]"
         },
         {
           "title": "SJ首尔演唱会栏杆断裂粉丝坠落",
@@ -122,24 +136,13 @@
           "time_info": "10时07分"
         },
         {
-          "title": "周杰伦3小时演唱会实唱不足90分钟",
-          "url": "https://www.toutiao.com/trending/7625428778054864422/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
-        },
-        {
           "title": "偶遇张杰王源一起打高尔夫",
           "url": "https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E5%BC%A0%E6%9D%B0%E7%8E%8B%E6%BA%90%E4%B8%80%E8%B5%B7%E6%89%93%E9%AB%98%E5%B0%94%E5%A4%AB%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
