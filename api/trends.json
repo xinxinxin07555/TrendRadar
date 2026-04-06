@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T18:53:49.016303+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-04-06T19:46:04.527406+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -63,6 +63,32 @@
           "time_info": "[00时33分 ~ 15时25分]"
         },
         {
+          "title": "周杰伦爱琴海MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%88%B1%E7%90%B4%E6%B5%B7MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 19时46分]"
+        },
+        {
+          "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
+          "url": "https://www.zhihu.com/question/2023886192387655516",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 19时46分]"
+        },
+        {
           "title": "SEVENTEEN全员续约",
           "url": "https://s.weibo.com/weibo?q=SEVENTEEN%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -75,31 +101,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 06时28分]"
-        },
-        {
-          "title": "周杰伦爱琴海MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%88%B1%E7%90%B4%E6%B5%B7MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时53分]"
-        },
-        {
-          "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
-          "url": "https://www.zhihu.com/question/2023886192387655516",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 18时53分]"
         },
         {
           "title": "马思唯乐透人生演唱会",
