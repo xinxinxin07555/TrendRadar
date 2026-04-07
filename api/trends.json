@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T00:54:58.460319+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-08T02:15:49.666848+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 02时15分]"
         },
         {
-          "title": "吴克群解码吴克穷",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E8%A7%A3%E7%A0%81%E5%90%B4%E5%85%8B%E7%A9%B7",
-          "source": "bilibili 热搜",
+          "title": "时隔近一年郭艾伦再向周深道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%94%E8%BF%91%E4%B8%80%E5%B9%B4%E9%83%AD%E8%89%BE%E4%BC%A6%E5%86%8D%E5%90%91%E5%91%A8%E6%B7%B1%E9%81%93%E6%AD%89%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 02时15分]"
         },
         {
           "title": "周董演唱会划水,被批糊弄观众",
@@ -37,26 +38,27 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "时隔近一年郭艾伦再向周深道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%94%E8%BF%91%E4%B8%80%E5%B9%B4%E9%83%AD%E8%89%BE%E4%BC%A6%E5%86%8D%E5%90%91%E5%91%A8%E6%B7%B1%E9%81%93%E6%AD%89%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 02时15分]"
         },
         {
           "title": "华晨宇的民宿定价3块钱",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E6%B0%91%E5%AE%BF%E5%AE%9A%E4%BB%B73%E5%9D%97%E9%92%B1",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 02时15分]"
+        },
+        {
+          "title": "吴克群解码吴克穷",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E8%A7%A3%E7%A0%81%E5%90%B4%E5%85%8B%E7%A9%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
