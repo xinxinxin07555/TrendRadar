@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T16:58:43.866370+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-04-07T18:45:49.286512+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -61,8 +61,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时45分]"
         },
         {
           "title": "周杰伦 江语晨",
@@ -70,11 +70,12 @@
           "source": "微博",
           "ranks": [
             13,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时45分]"
         },
         {
           "title": "周杰伦发布爱琴海MV",
@@ -83,11 +84,12 @@
           "ranks": [
             12,
             17,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 18时45分]"
         },
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
