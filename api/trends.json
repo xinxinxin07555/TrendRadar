@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T03:02:03.641274+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-04-08T04:43:31.165609+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时43分]"
         },
         {
           "title": "时隔近一年郭艾伦再向周深道歉",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时43分]"
         },
         {
           "title": "华晨宇的民宿定价3块钱",
@@ -39,11 +40,12 @@
           "ranks": [
             24,
             17,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时43分]"
         },
         {
           "title": "周董演唱会划水,被批糊弄观众",
@@ -53,19 +55,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 03时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 04时43分]"
         },
         {
           "title": "吴克群解码吴克穷",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%85%8B%E7%BE%A4%E8%A7%A3%E7%A0%81%E5%90%B4%E5%85%8B%E7%A9%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 04时43分]"
         }
       ]
     }
