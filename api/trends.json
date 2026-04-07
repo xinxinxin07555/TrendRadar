@@ -1,12 +1,29 @@
 {
-  "generated_at": "2026-04-07T15:11:31.331451+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-04-07T16:58:43.866370+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 12,
       "titles": [
+        {
+          "title": "周杰伦爱琴海MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%88%B1%E7%90%B4%E6%B5%B7MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            21,
+            17,
+            19,
+            14,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 16时58分]"
+        },
         {
           "title": "怎么看待周杰伦被歌迷吐槽演唱会划水？",
           "url": "https://www.zhihu.com/question/2023886192387655516",
@@ -24,22 +41,6 @@
           "time_info": "[00时42分 ~ 07时32分]"
         },
         {
-          "title": "周杰伦爱琴海MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%88%B1%E7%90%B4%E6%B5%B7MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            21,
-            17,
-            19,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 13时07分]"
-        },
-        {
           "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
           "url": "https://wallstreetcn.com/livenews/3083012",
           "source": "华尔街见闻-快讯",
@@ -49,6 +50,44 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "周董演唱会划水,被批糊弄观众",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352831&amp;topic_name=%E5%91%A8%E8%91%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%92%E6%B0%B4%2C%E8%A2%AB%E6%89%B9%E7%B3%8A%E5%BC%84%E8%A7%82%E4%BC%97",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时58分]"
+        },
+        {
+          "title": "周杰伦 江语晨",
+          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%B1%9F%E8%AF%AD%E6%99%A8&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时58分]"
+        },
+        {
+          "title": "周杰伦发布爱琴海MV",
+          "url": "https://www.douyin.com/hot/2457169",
+          "source": "抖音",
+          "ranks": [
+            12,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时06分 ~ 16时58分]"
         },
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
@@ -63,42 +102,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时54分 ~ 07时32分]"
-        },
-        {
-          "title": "周董演唱会划水,被批糊弄观众",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352831&amp;topic_name=%E5%91%A8%E8%91%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%92%E6%B0%B4%2C%E8%A2%AB%E6%89%B9%E7%B3%8A%E5%BC%84%E8%A7%82%E4%BC%97",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时11分]"
-        },
-        {
-          "title": "周杰伦 江语晨",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E6%B1%9F%E8%AF%AD%E6%99%A8&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时11分]"
-        },
-        {
-          "title": "周杰伦发布爱琴海MV",
-          "url": "https://www.douyin.com/hot/2457169",
-          "source": "抖音",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时06分 ~ 15时11分]"
         },
         {
           "title": "张杰鸟巢演唱会",
@@ -118,7 +121,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
