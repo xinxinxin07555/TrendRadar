@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T02:15:49.666848+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-04-08T03:02:03.641274+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E6%B0%91%E5%AE%BF%E5%AE%9A%E4%BB%B73%E5%9D%97%E9%92%B1%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时02分]"
         },
         {
           "title": "时隔近一年郭艾伦再向周深道歉",
@@ -24,11 +25,25 @@
           "source": "微博",
           "ranks": [
             17,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时02分]"
+        },
+        {
+          "title": "华晨宇的民宿定价3块钱",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E6%B0%91%E5%AE%BF%E5%AE%9A%E4%BB%B73%E5%9D%97%E9%92%B1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            17,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时02分]"
         },
         {
           "title": "周董演唱会划水,被批糊弄观众",
@@ -38,20 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时15分]"
-        },
-        {
-          "title": "华晨宇的民宿定价3块钱",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E6%B0%91%E5%AE%BF%E5%AE%9A%E4%BB%B73%E5%9D%97%E9%92%B1",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 03时02分]"
         },
         {
           "title": "吴克群解码吴克穷",
