@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T18:45:49.286512+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2026-04-07T19:52:32.310867+08:00",
+  "total_titles_processed": 1590,
   "failed_sources": [],
   "trends": [
     {
@@ -41,28 +41,18 @@
           "time_info": "[00时42分 ~ 07时32分]"
         },
         {
-          "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
-          "url": "https://wallstreetcn.com/livenews/3083012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
           "title": "周董演唱会划水,被批糊弄观众",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352831&amp;topic_name=%E5%91%A8%E8%91%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%88%92%E6%B0%B4%2C%E8%A2%AB%E6%89%B9%E7%B3%8A%E5%BC%84%E8%A7%82%E4%BC%97",
           "source": "贴吧",
           "ranks": [
             6,
             9,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 19时52分]"
         },
         {
           "title": "周杰伦 江语晨",
@@ -71,11 +61,12 @@
           "ranks": [
             13,
             11,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 19时52分]"
         },
         {
           "title": "周杰伦发布爱琴海MV",
@@ -85,11 +76,23 @@
             12,
             17,
             16,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时06分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[13时06分 ~ 19时52分]"
+        },
+        {
+          "title": "清明出游半径显著扩展，演唱会经济成文旅市场新引擎",
+          "url": "https://wallstreetcn.com/livenews/3083012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "周杰伦3小时演唱会实唱不足90分钟",
