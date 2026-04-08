@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T04:12:39.990905+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-04-09T04:42:41.287532+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "周杰伦到底有没有抄袭",
@@ -25,11 +25,12 @@
           "ranks": [
             27,
             23,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 04时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时58分 ~ 04时42分]"
         },
         {
           "title": "周杰伦给王俊凯杨迪变魔术",
