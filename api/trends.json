@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T15:13:45.707752+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-04-08T16:57:54.470166+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 16时57分]"
         },
         {
           "title": "吴克群解码吴克穷",
