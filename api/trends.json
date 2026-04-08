@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T13:09:24.720903+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-04-08T15:13:45.707752+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -61,11 +61,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 13时09分]"
+          "appearance_count": 14,
+          "time_info": "[00时54分 ~ 15时13分]"
         },
         {
           "title": "网友扒出周杰伦抄袭对比，连《晴天》《烟花易冷》都疑似抄袭国外歌曲，是这样吗？核心节奏重合算抄袭吗？",
@@ -76,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 15时13分]"
         },
         {
           "title": "吴克群解码吴克穷",
