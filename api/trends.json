@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T02:22:26.455597+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-04-09T04:12:39.990905+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时22分]"
-        },
-        {
-          "title": "周杰伦给王俊凯杨迪变魔术",
-          "url": "https://www.douyin.com/hot/2459858",
-          "source": "抖音",
-          "ranks": [
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时12分]"
         },
         {
           "title": "周杰伦到底有没有抄袭",
@@ -36,6 +24,19 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时12分]"
+        },
+        {
+          "title": "周杰伦给王俊凯杨迪变魔术",
+          "url": "https://www.douyin.com/hot/2459858",
+          "source": "抖音",
+          "ranks": [
+            19,
             23
           ],
           "is_new": false,
