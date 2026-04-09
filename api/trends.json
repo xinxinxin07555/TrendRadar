@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T16:19:33.051366+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-04-09T18:10:56.039084+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             28,
             25,
             15,
-            30
+            30,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时58分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 18时10分]"
         },
         {
           "title": "网友扒出周杰伦抄袭对比，连《晴天》《烟花易冷》都疑似抄袭国外歌曲，是这样吗？核心节奏重合算抄袭吗？",
@@ -33,6 +34,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时58分 ~ 07时35分]"
+        },
+        {
+          "title": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E8%AF%AF%E4%B9%B0%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E5%B9%B3%E5%8F%B0%E6%8B%92%E9%80%80%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 18时10分]"
         },
         {
           "title": "吴克群人民日报撰文",
@@ -68,17 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E8%AF%AF%E4%B9%B0%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E5%B9%B3%E5%8F%B0%E6%8B%92%E9%80%80%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         }
       ]
     }
