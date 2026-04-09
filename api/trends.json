@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T06:38:29.074260+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-04-10T07:35:54.313644+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             17,
             18,
             10,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "檀健次演唱会大电影",
@@ -31,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
@@ -44,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "周杰伦到底有没有抄袭",
@@ -55,11 +56,12 @@
             18,
             20,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "人民日报评吴克群",
@@ -70,8 +72,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "BTS演唱会",
@@ -80,11 +82,12 @@
           "ranks": [
             20,
             19,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 05时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 07时35分]"
         },
         {
           "title": "吴克群人民日报撰文",
@@ -111,6 +114,18 @@
           "time_info": "[01时04分 ~ 03时01分]"
         },
         {
+          "title": "平台全额退还瘫痪女孩演唱会票",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时35分]"
+        },
+        {
           "title": "李佳琦请假拍综艺",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%AF%B7%E5%81%87%E6%8B%8D%E7%BB%BC%E8%89%BA%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -120,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "平台全额退还瘫痪女孩演唱会票",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%A2%9D%E9%80%80%E8%BF%98%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
         }
       ]
     }
