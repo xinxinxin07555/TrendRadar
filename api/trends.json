@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-04-10T04:05:04.348983+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-04-10T05:43:33.885673+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 9,
       "titles": [
+        {
+          "title": "平台将助力瘫痪女孩看邓紫棋演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%B0%86%E5%8A%A9%E5%8A%9B%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E7%9C%8B%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            17,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时43分]"
+        },
         {
           "title": "檀健次演唱会大电影",
           "url": "https://search.bilibili.com/all?keyword=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E7%94%B5%E5%BD%B1",
@@ -16,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "瘫痪女孩误买邓紫棋演唱会票平台拒退",
@@ -28,21 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时05分]"
-        },
-        {
-          "title": "平台将助力瘫痪女孩看邓紫棋演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%B0%86%E5%8A%A9%E5%8A%9B%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%A9%E7%9C%8B%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "周杰伦到底有没有抄袭",
@@ -54,8 +55,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "BTS演唱会",
@@ -63,11 +64,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时43分]"
         },
         {
           "title": "人民日报评吴克群",
@@ -78,8 +80,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时43分]"
+        },
+        {
+          "title": "吴克群人民日报撰文",
+          "url": "https://www.toutiao.com/trending/7626382476767677993/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 05时43分]"
         },
         {
           "title": "邓紫棋台北演唱会",
@@ -92,17 +106,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 03时01分]"
-        },
-        {
-          "title": "吴克群人民日报撰文",
-          "url": "https://www.toutiao.com/trending/7626382476767677993/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 03时01分]"
         },
         {
           "title": "李佳琦请假拍综艺",
