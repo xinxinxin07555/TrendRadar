@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T01:45:03.493179+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-11T02:46:41.723370+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             24,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时46分]"
         },
         {
           "title": "EXO演唱会",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时46分]"
         },
         {
           "title": "周深王者荣耀世界开服曲",
@@ -37,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时46分]"
         },
         {
           "title": "汪峰前妻葛荟婕夸章子怡好",
@@ -49,11 +51,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时46分]"
         },
         {
           "title": "檀健次演唱会大电影",
@@ -64,8 +67,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时46分]"
         },
         {
           "title": "张杰在张杰演唱会上看张杰",
