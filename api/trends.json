@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T17:05:51.185486+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-04-10T18:51:28.187807+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             19,
             21,
             16,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时04分 ~ 17时05分]"
+          "appearance_count": 14,
+          "time_info": "[01时04分 ~ 18时51分]"
         },
         {
           "title": "周杰伦到底有没有抄袭",
@@ -96,6 +97,20 @@
           "time_info": "[01时04分 ~ 07时35分]"
         },
         {
+          "title": "周深王者荣耀世界开服曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            18,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时22分 ~ 18时51分]"
+        },
+        {
           "title": "邓紫棋台北演唱会",
           "url": "https://www.douyin.com/hot/2461047",
           "source": "抖音",
@@ -107,19 +122,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 13时22分]"
-        },
-        {
-          "title": "周深王者荣耀世界开服曲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%9B%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 17时05分]"
         },
         {
           "title": "吴克群人民日报撰文",
