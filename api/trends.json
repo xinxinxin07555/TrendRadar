@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T04:32:57.052315+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-04-11T05:34:33.806403+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,23 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 05时34分]"
+        },
+        {
+          "title": "周深王者荣耀世界开服曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            15,
+            27,
+            21,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 05时34分]"
         },
         {
           "title": "EXO演唱会",
@@ -30,22 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时32分]"
-        },
-        {
-          "title": "周深王者荣耀世界开服曲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E5%BC%80%E6%9C%8D%E6%9B%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            15,
-            27,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 05时34分]"
         },
         {
           "title": "檀健次演唱会大电影",
@@ -55,11 +56,12 @@
             22,
             23,
             26,
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 05时34分]"
         },
         {
           "title": "汪峰前妻葛荟婕夸章子怡好",
@@ -72,8 +74,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 04时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时34分]"
         },
         {
           "title": "张杰在张杰演唱会上看张杰",
