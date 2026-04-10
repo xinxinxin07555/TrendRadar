@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:51:28.187807+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-04-10T19:45:02.677615+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             21,
             16,
             23,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时04分 ~ 18时51分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 19时45分]"
         },
         {
           "title": "周杰伦到底有没有抄袭",
