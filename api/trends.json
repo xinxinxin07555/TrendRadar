@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:34:33.806403+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-04-11T06:34:11.027028+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时34分]"
         },
         {
           "title": "周深王者荣耀世界开服曲",
@@ -30,23 +30,12 @@
             15,
             27,
             21,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
-        },
-        {
-          "title": "EXO演唱会",
-          "url": "https://www.douyin.com/hot/2462251",
-          "source": "抖音",
-          "ranks": [
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时34分]"
         },
         {
           "title": "檀健次演唱会大电影",
@@ -58,6 +47,18 @@
             26,
             25,
             21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 06时34分]"
+        },
+        {
+          "title": "EXO演唱会",
+          "url": "https://www.douyin.com/hot/2462251",
+          "source": "抖音",
+          "ranks": [
+            22,
+            12
           ],
           "is_new": false,
           "appearance_count": 8,
