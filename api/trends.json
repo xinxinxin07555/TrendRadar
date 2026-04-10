@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T06:34:11.027028+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-11T07:32:19.928037+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             24,
             5,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "周深王者荣耀世界开服曲",
@@ -46,11 +47,12 @@
             23,
             26,
             25,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 06时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "EXO演唱会",
@@ -58,11 +60,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            12
+            12,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "汪峰前妻葛荟婕夸章子怡好",
@@ -72,11 +75,12 @@
             25,
             17,
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 05时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 07时32分]"
         },
         {
           "title": "张杰在张杰演唱会上看张杰",
