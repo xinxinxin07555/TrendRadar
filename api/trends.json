@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T22:34:49.899583+08:00",
-  "total_titles_processed": 1572,
+  "generated_at": "2026-04-11T23:31:56.743045+08:00",
+  "total_titles_processed": 1619,
   "failed_sources": [],
   "trends": [
     {
@@ -89,8 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时05分 ~ 22时34分]"
+          "appearance_count": 12,
+          "time_info": "[15时05分 ~ 23时31分]"
         },
         {
           "title": "檀健次演唱会大电影",
@@ -127,6 +127,20 @@
           "time_info": "[00时46分 ~ 07时32分]"
         },
         {
+          "title": "李荣浩太原演唱会",
+          "url": "https://www.douyin.com/hot/2462958",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时27分 ~ 23时31分]"
+        },
+        {
           "title": "时代少年团 演唱会",
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -141,41 +155,43 @@
           "time_info": "[12时23分 ~ 16时39分]"
         },
         {
-          "title": "李荣浩太原演唱会",
-          "url": "https://www.douyin.com/hot/2462958",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时27分 ~ 22时34分]"
-        },
-        {
           "title": "谢娜直播官宣演唱会",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E7%9B%B4%E6%92%AD%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时54分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时54分 ~ 23时31分]"
         },
         {
           "title": "周深苏超开幕式献唱",
           "url": "https://www.douyin.com/hot/2463052",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时34分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时31分]"
+        },
+        {
+          "title": "陈楚生上海演唱会",
+          "url": "https://www.douyin.com/hot/2462640",
+          "source": "抖音",
+          "ranks": [
+            25,
+            22,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时31分]"
         },
         {
           "title": "TOP演唱会听到哨子声就把音乐调大",
@@ -188,19 +204,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时31分 ~ 19时28分]"
-        },
-        {
-          "title": "陈楚生上海演唱会",
-          "url": "https://www.douyin.com/hot/2462640",
-          "source": "抖音",
-          "ranks": [
-            25,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时51分 ~ 22时34分]"
         },
         {
           "title": "张杰在张杰演唱会上看张杰",
