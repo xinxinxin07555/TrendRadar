@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T00:33:12.482873+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-12T01:29:35.022972+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,48 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E7%9B%B4%E6%92%AD%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时29分]"
+        },
+        {
+          "title": "李荣浩太原演唱会",
+          "url": "https://www.douyin.com/hot/2462958",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时29分]"
+        },
+        {
+          "title": "周深苏超开幕式献唱",
+          "url": "https://www.douyin.com/hot/2463052",
+          "source": "抖音",
+          "ranks": [
+            22,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时29分]"
+        },
+        {
+          "title": "陈楚生上海演唱会",
+          "url": "https://www.douyin.com/hot/2462640",
+          "source": "抖音",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 01时29分]"
         },
         {
           "title": "谢霆锋武汉演唱会",
@@ -24,39 +61,6 @@
           "source": "抖音",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "李荣浩太原演唱会",
-          "url": "https://www.douyin.com/hot/2462958",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "周深苏超开幕式献唱",
-          "url": "https://www.douyin.com/hot/2463052",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "陈楚生上海演唱会",
-          "url": "https://www.douyin.com/hot/2462640",
-          "source": "抖音",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
