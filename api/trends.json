@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T03:33:33.047620+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-04-12T04:29:21.108439+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "李荣浩太原演唱会",
@@ -31,8 +31,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 03时33分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "周深苏超开幕式献唱",
@@ -40,11 +40,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 02时40分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "陈楚生上海演唱会",
@@ -64,11 +65,12 @@
           "url": "https://www.douyin.com/hot/2462709",
           "source": "抖音",
           "ranks": [
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "李荣浩太原演唱会",
@@ -79,8 +81,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时29分]"
         },
         {
           "title": "周深现场演唱苏超主题曲《热烈盛开》",
@@ -88,11 +90,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时29分]"
         },
         {
           "title": "周深王者荣耀世界开服曲",
@@ -101,7 +104,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
         }
