@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T04:29:21.108439+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-04-12T05:29:54.624361+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             13,
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时29分]"
         },
         {
           "title": "李荣浩太原演唱会",
@@ -28,11 +29,12 @@
           "ranks": [
             19,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时29分]"
         },
         {
           "title": "周深苏超开幕式献唱",
@@ -41,11 +43,51 @@
           "ranks": [
             22,
             20,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时29分]"
+        },
+        {
+          "title": "谢霆锋武汉演唱会",
+          "url": "https://www.douyin.com/hot/2462709",
+          "source": "抖音",
+          "ranks": [
+            18,
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 05时29分]"
+        },
+        {
+          "title": "李荣浩太原演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%A4%AA%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时29分]"
+        },
+        {
+          "title": "周深现场演唱苏超主题曲《热烈盛开》",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E8%8B%8F%E8%B6%85%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8A%E7%83%AD%E7%83%88%E7%9B%9B%E5%BC%80%E3%80%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时29分]"
         },
         {
           "title": "陈楚生上海演唱会",
@@ -59,43 +101,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 03时33分]"
-        },
-        {
-          "title": "谢霆锋武汉演唱会",
-          "url": "https://www.douyin.com/hot/2462709",
-          "source": "抖音",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "李荣浩太原演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%A4%AA%E5%8E%9F%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时29分]"
-        },
-        {
-          "title": "周深现场演唱苏超主题曲《热烈盛开》",
-          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B1%E7%8E%B0%E5%9C%BA%E6%BC%94%E5%94%B1%E8%8B%8F%E8%B6%85%E4%B8%BB%E9%A2%98%E6%9B%B2%E3%80%8A%E7%83%AD%E7%83%88%E7%9B%9B%E5%BC%80%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 04时29分]"
         },
         {
           "title": "周深王者荣耀世界开服曲",
