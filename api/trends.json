@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T05:29:54.624361+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-04-12T06:29:07.716098+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "李荣浩太原演唱会",
@@ -30,11 +30,12 @@
             19,
             18,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "周深苏超开幕式献唱",
@@ -47,8 +48,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "谢霆锋武汉演唱会",
@@ -60,8 +61,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 06时29分]"
         },
         {
           "title": "李荣浩太原演唱会",
