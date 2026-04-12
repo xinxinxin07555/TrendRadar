@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T04:32:45.392358+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-13T05:32:09.519383+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时32分]"
         },
         {
           "title": "陈都灵演出了濒死的真实感",
@@ -30,11 +30,12 @@
           "ranks": [
             25,
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时32分]"
         },
         {
           "title": "孙燕姿演唱会",
