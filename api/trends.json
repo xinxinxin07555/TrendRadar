@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T02:42:10.534104+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-13T03:37:55.031922+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             6,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时37分]"
         },
         {
           "title": "护住周深的常州保安火了",
@@ -28,11 +29,12 @@
             10,
             13,
             14,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时37分]"
         },
         {
           "title": "陈都灵演出了濒死的真实感",
@@ -43,19 +45,20 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时37分]"
         },
         {
           "title": "武汉一夜三场大型演唱会",
           "url": "https://www.toutiao.com/trending/7627763886054473747/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 03时37分]"
         },
         {
           "title": "谢娜官宣个人首场演唱会",
