@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T01:32:03.273429+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-13T02:42:10.534104+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             17,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "护住周深的常州保安火了",
@@ -25,22 +26,25 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            13
+            13,
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "陈都灵演出了濒死的真实感",
           "url": "https://www.douyin.com/hot/2463931",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 01时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 02时42分]"
         },
         {
           "title": "武汉一夜三场大型演唱会",
@@ -50,19 +54,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 02时42分]"
         },
         {
           "title": "谢娜官宣个人首场演唱会",
           "url": "https://www.douyin.com/hot/2463283",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 02时42分]"
         },
         {
           "title": "张杰给鸟巢造了星空顶",
