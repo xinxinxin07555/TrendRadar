@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T17:43:00.427271+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2026-04-12T18:36:31.885937+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 18时36分]"
         },
         {
           "title": "瘫痪且患有认知障碍的 16 岁小孩误买两千多元演唱会门票，平台不予退票，合理吗？有没有更好的解决方式？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时20分 ~ 17时43分]"
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 18时36分]"
         },
         {
           "title": "谢娜直播官宣演唱会",
@@ -108,8 +108,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 17时43分]"
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 18时36分]"
         },
         {
           "title": "谢娜将开演唱会 票价从380到1180",
@@ -149,6 +149,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时09分 ~ 17时43分]"
+        },
+        {
+          "title": "护住周深的常州保安火了",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E4%BD%8F%E5%91%A8%E6%B7%B1%E7%9A%84%E5%B8%B8%E5%B7%9E%E4%BF%9D%E5%AE%89%E7%81%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时43分 ~ 18时36分]"
         },
         {
           "title": "李荣浩太原演唱会",
@@ -200,18 +212,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 13时21分]"
-        },
-        {
-          "title": "护住周深的常州保安火了",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%A4%E4%BD%8F%E5%91%A8%E6%B7%B1%E7%9A%84%E5%B8%B8%E5%B7%9E%E4%BF%9D%E5%AE%89%E7%81%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时43分 ~ 17时43分]"
         },
         {
           "title": "谢娜宣布将举办个人演唱会",
