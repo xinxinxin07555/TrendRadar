@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T21:59:23.587371+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2026-04-12T22:43:58.990378+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 21时59分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 22时43分]"
         },
         {
           "title": "人生中第一场演唱会是苏超给的",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时11分 ~ 21时59分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 22时43分]"
         },
         {
           "title": "谢娜直播官宣演唱会",
@@ -77,11 +77,12 @@
             17,
             25,
             26,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时11分 ~ 21时59分]"
+          "appearance_count": 13,
+          "time_info": "[10时11分 ~ 22时43分]"
         },
         {
           "title": "谢霆锋武汉演唱会",
@@ -123,11 +124,12 @@
             12,
             10,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时43分 ~ 21时59分]"
+          "appearance_count": 8,
+          "time_info": "[16时43分 ~ 22时43分]"
         },
         {
           "title": "谢娜将开演唱会 票价从380到1180",
@@ -179,6 +181,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时40分 ~ 05时29分]"
+        },
+        {
+          "title": "陈都灵演出了濒死的真实感",
+          "url": "https://www.douyin.com/hot/2463931",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 22时43分]"
         },
         {
           "title": "周深现场演唱苏超主题曲《热烈盛开》",
@@ -243,18 +258,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时11分 ~ 13时21分]"
-        },
-        {
-          "title": "陈都灵演出了濒死的真实感",
-          "url": "https://www.douyin.com/hot/2463931",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 21时59分]"
         },
         {
           "title": "UP主测评张远演唱会",
