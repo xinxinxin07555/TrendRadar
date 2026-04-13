@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T07:32:03.088129+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-04-13T10:15:14.351882+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,25 @@
             22,
             21,
             26,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 10时15分]"
+        },
+        {
+          "title": "人生中第一场演唱会是苏超给的",
+          "url": "https://www.douyin.com/hot/2463319",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 10时15分]"
         },
         {
           "title": "孙燕姿演唱会",
@@ -74,19 +88,6 @@
             27,
             20,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 07时32分]"
-        },
-        {
-          "title": "人生中第一场演唱会是苏超给的",
-          "url": "https://www.douyin.com/hot/2463319",
-          "source": "抖音",
-          "ranks": [
-            27,
-            28,
-            26
           ],
           "is_new": false,
           "appearance_count": 5,
