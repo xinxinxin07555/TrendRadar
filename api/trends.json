@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T15:58:25.102854+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-04-13T17:57:01.620856+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "护住周深的常州保安火了",
@@ -42,6 +42,18 @@
           "time_info": "[00时35分 ~ 10时15分]"
         },
         {
+          "title": "周杰伦乡间的路官方MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 17时57分]"
+        },
+        {
           "title": "人生中第一场演唱会是苏超给的",
           "url": "https://www.douyin.com/hot/2463319",
           "source": "抖音",
@@ -56,15 +68,15 @@
           "time_info": "[00时35分 ~ 13时38分]"
         },
         {
-          "title": "周杰伦乡间的路官方MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "孙燕姿演唱会官宣六站",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%85%AD%E7%AB%99%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时38分 ~ 15时58分]"
+          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "孙燕姿演唱会",
