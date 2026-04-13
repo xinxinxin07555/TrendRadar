@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T13:38:50.124112+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-04-13T15:58:25.102854+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,17 @@
           "time_info": "[00时35分 ~ 13时38分]"
         },
         {
+          "title": "周杰伦乡间的路官方MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 15时58分]"
+        },
+        {
           "title": "孙燕姿演唱会",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -68,17 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 03时37分]"
-        },
-        {
-          "title": "周杰伦乡间的路官方MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         },
         {
           "title": "武汉一夜三场大型演唱会",
@@ -118,6 +118,18 @@
           "time_info": "[01时31分 ~ 02时42分]"
         },
         {
+          "title": "时代少年团高会官宣演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AB%98%E4%BC%9A%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 15时58分]"
+        },
+        {
           "title": "张杰给鸟巢造了星空顶",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BB%99%E9%B8%9F%E5%B7%A2%E9%80%A0%E4%BA%86%E6%98%9F%E7%A9%BA%E9%A1%B6%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -127,17 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 01时32分]"
-        },
-        {
-          "title": "时代少年团高会官宣演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AB%98%E4%BC%9A%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         }
       ]
     }
