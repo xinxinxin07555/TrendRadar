@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T13:21:12.236127+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-04-14T15:26:21.164883+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             24,
             26,
             18,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 13时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 15时26分]"
         },
         {
           "title": "周杰伦乡间的路官方MV上线",
@@ -41,11 +42,12 @@
           "ranks": [
             28,
             30,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时11分 ~ 13时21分]"
+          "appearance_count": 7,
+          "time_info": "[02时11分 ~ 15时26分]"
         },
         {
           "title": "演出服遭集体退货家属称表演取消",
@@ -53,11 +55,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 15时26分]"
         },
         {
           "title": "葛荟婕说汪峰对她仁至义尽",
