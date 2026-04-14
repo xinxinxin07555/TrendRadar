@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T07:40:41.892778+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-04-14T10:10:17.526129+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "演出服遭集体退货家属称表演取消",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时40分]"
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 10时10分]"
         },
         {
           "title": "孙燕姿官宣6城演唱会",
@@ -25,11 +26,35 @@
           "source": "抖音",
           "ranks": [
             24,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 07时40分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 10时10分]"
+        },
+        {
+          "title": "演出服遭集体退货家属称表演取消",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "周杰伦乡间的路官方MV上线",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时11分 ~ 10时10分]"
         },
         {
           "title": "葛荟婕说汪峰对她仁至义尽",
@@ -44,16 +69,15 @@
           "time_info": "[02时11分 ~ 04时04分]"
         },
         {
-          "title": "周杰伦乡间的路官方MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B9%A1%E9%97%B4%E7%9A%84%E8%B7%AF%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "演出服遭集体退货店家曝演出视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%BA%97%E5%AE%B6%E6%9B%9D%E6%BC%94%E5%87%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            28,
-            30
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时11分 ~ 04时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     }
