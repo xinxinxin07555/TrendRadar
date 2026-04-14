@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T05:48:21.192006+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-04-15T06:42:26.553134+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,24 @@
             2,
             1,
             5,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 06时42分]"
         },
         {
           "title": "警惕以“邀请函”形式入场看演唱会",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%E4%BB%A5%E2%80%9C%E9%82%80%E8%AF%B7%E5%87%BD%E2%80%9D%E5%BD%A2%E5%BC%8F%E5%85%A5%E5%9C%BA%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时48分 ~ 06时42分]"
         }
       ]
     }
