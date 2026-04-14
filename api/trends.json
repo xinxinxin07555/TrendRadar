@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T19:01:43.152871+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-04-14T20:04:14.125707+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
@@ -64,6 +64,30 @@
           "time_info": "[10时10分 ~ 15时26分]"
         },
         {
+          "title": "家长网购演出服后集体退货，家属称表演取消，店家从网上看到现场视频，这种情况店家如何维护自身权益？",
+          "url": "https://www.zhihu.com/question/2027317517073342877",
+          "source": "知乎",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时04分]"
+        },
+        {
+          "title": "田馥甄回应和周杰伦绯闻",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%A6%A5%E7%94%84%E5%9B%9E%E5%BA%94%E5%92%8C%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%AF%E9%97%BB%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时04分]"
+        },
+        {
           "title": "葛荟婕说汪峰对她仁至义尽",
           "url": "https://www.toutiao.com/trending/7627115834063241252/",
           "source": "今日头条",
@@ -74,17 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时11分 ~ 04时04分]"
-        },
-        {
-          "title": "家长网购演出服后集体退货，家属称表演取消，店家从网上看到现场视频，这种情况店家如何维护自身权益？",
-          "url": "https://www.zhihu.com/question/2027317517073342877",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
         },
         {
           "title": "演出服遭集体退货店家曝演出视频",
@@ -104,18 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
-        },
-        {
-          "title": "田馥甄回应和周杰伦绯闻",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E9%A6%A5%E7%94%84%E5%9B%9E%E5%BA%94%E5%92%8C%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%BB%AF%E9%97%BB%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         }
