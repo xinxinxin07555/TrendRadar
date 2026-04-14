@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T15:26:21.164883+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-04-14T17:15:07.756312+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             26,
             18,
             17,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 15时26分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 17时15分]"
         },
         {
           "title": "周杰伦乡间的路官方MV上线",
