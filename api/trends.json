@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T05:48:38.603104+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-04-16T06:48:00.527298+08:00",
+  "total_titles_processed": 569,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时48分]"
         },
         {
           "title": "UP主探班李宇春演唱会幕后",
@@ -26,11 +26,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时48分]"
         },
         {
           "title": "吴克群重庆遇买菜大爷只送不卖",
@@ -42,8 +43,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 06时48分]"
         }
       ]
     }
