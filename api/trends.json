@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T19:43:14.338832+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-04-16T20:03:26.689943+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "ranks": [
             19,
             7,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时36分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[15时36分 ~ 20时03分]"
         },
         {
           "title": "吴克群出100元买大爷手中菜被拒",
