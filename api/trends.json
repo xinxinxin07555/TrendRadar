@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T03:59:21.822810+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-04-17T04:55:11.478894+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%AA%E6%9C%89%E5%BC%A0%E6%9D%B0%E5%9C%A8%E6%B7%8B%E9%9B%A8%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时55分]"
         },
         {
           "title": "浪姐张杰鸟巢演唱会团建",
