@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T00:20:44.172816+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-04-17T02:07:23.179995+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时07分]"
         },
         {
           "title": "浪姐张杰鸟巢演唱会团建",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时07分]"
         }
       ]
     }
