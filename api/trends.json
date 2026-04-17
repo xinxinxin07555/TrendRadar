@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T02:56:02.741766+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-04-18T03:57:43.053379+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时57分]"
         },
         {
           "title": "邓紫棋：我获得人生第一个文学奖",
@@ -29,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时57分]"
         },
         {
           "title": "在甜甜的南宁追到周杰伦了",
@@ -39,11 +40,12 @@
           "ranks": [
             20,
             22,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时57分]"
         },
         {
           "title": "李荣浩杭州演唱会",
@@ -52,11 +54,12 @@
           "ranks": [
             25,
             27,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 02时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 03时57分]"
         },
         {
           "title": "徐良杭州演唱会",
@@ -75,11 +78,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时57分]"
         }
       ]
     }
