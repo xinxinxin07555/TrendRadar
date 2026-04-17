@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T05:39:19.407051+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-04-18T06:35:47.498453+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 05时39分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 06时35分]"
         },
         {
           "title": "在甜甜的南宁追到周杰伦了",
@@ -28,11 +28,12 @@
             22,
             28,
             26,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时35分]"
         },
         {
           "title": "李荣浩杭州演唱会",
