@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T00:55:57.475262+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T01:47:51.212198+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时47分]"
         },
         {
           "title": "邓紫棋：我获得人生第一个文学奖",
@@ -26,41 +27,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时47分]"
         },
         {
           "title": "在甜甜的南宁追到周杰伦了",
           "url": "https://www.douyin.com/hot/2469234",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时47分]"
         },
         {
           "title": "徐良杭州演唱会",
           "url": "https://www.douyin.com/hot/2470073",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时47分]"
         },
         {
           "title": "李荣浩杭州演唱会",
           "url": "https://www.douyin.com/hot/2469914",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时47分]"
         },
         {
           "title": "张杰鸟巢演唱会万人合唱",
