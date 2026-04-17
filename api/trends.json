@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T04:43:12.454185+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-18T05:39:19.407051+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 05时39分]"
         },
         {
           "title": "在甜甜的南宁追到周杰伦了",
@@ -72,8 +72,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时39分]"
         },
         {
           "title": "徐良杭州演唱会",
@@ -81,11 +81,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 05时39分]"
         }
       ]
     }
