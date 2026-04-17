@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T06:35:47.498453+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-04-18T07:36:49.874326+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 07时36分]"
         },
         {
           "title": "在甜甜的南宁追到周杰伦了",
@@ -29,11 +29,12 @@
             28,
             26,
             24,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时36分]"
         },
         {
           "title": "李荣浩杭州演唱会",
@@ -57,11 +58,12 @@
             10,
             23,
             24,
-            29
+            29,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时36分]"
         },
         {
           "title": "张杰鸟巢演唱会万人合唱",
