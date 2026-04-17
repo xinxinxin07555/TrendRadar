@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T22:53:22.878624+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2026-04-17T23:58:01.359245+08:00",
+  "total_titles_processed": 1893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "张杰演唱会只有张杰在淋雨",
@@ -18,6 +18,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 05时40分]"
+        },
+        {
+          "title": "魏晨现身张杰演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时58分]"
+        },
+        {
+          "title": "邓紫棋：我获得人生第一个文学奖",
+          "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%EF%BC%9A%E6%88%91%E8%8E%B7%E5%BE%97%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E5%AD%A6%E5%A5%96",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时53分 ~ 23时58分]"
         },
         {
           "title": "邓紫棋获年度科幻文学奖",
@@ -42,6 +66,17 @@
           "time_info": "[15时27分 ~ 15时28分]"
         },
         {
+          "title": "在甜甜的南宁追到周杰伦了",
+          "url": "https://www.douyin.com/hot/2469234",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
+        },
+        {
           "title": "浪姐张杰鸟巢演唱会团建",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -54,15 +89,15 @@
           "time_info": "[00时20分 ~ 02时07分]"
         },
         {
-          "title": "魏晨现身张杰演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "徐良杭州演唱会",
+          "url": "https://www.douyin.com/hot/2470073",
+          "source": "抖音",
           "ranks": [
-            7
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "月鳞绮纪四位主演出镜时长",
@@ -74,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
-        },
-        {
-          "title": "邓紫棋：我获得人生第一个文学奖",
-          "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%EF%BC%9A%E6%88%91%E8%8E%B7%E5%BE%97%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E5%AD%A6%E5%A5%96",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         }
       ]
     }
