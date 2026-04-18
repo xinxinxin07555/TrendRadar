@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T03:39:34.800548+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-04-19T04:33:05.429212+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 04时33分]"
         },
         {
           "title": "周杰伦到了广西也要唱山歌",
@@ -27,11 +28,12 @@
           "ranks": [
             26,
             30,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时33分]"
         },
         {
           "title": "汪峰《怒放的生命》被苏超截胡",
