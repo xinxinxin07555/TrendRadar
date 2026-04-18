@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T20:56:09.722777+08:00",
-  "total_titles_processed": 1459,
+  "generated_at": "2026-04-18T22:02:09.149546+08:00",
+  "total_titles_processed": 1546,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,22 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 19时33分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 22时02分]"
+        },
+        {
+          "title": "周杰伦到了广西也要唱山歌",
+          "url": "https://www.douyin.com/hot/2470373",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时03分 ~ 22时02分]"
         },
         {
           "title": "李荣浩杭州演唱会",
@@ -66,20 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 13时04分]"
-        },
-        {
-          "title": "周杰伦到了广西也要唱山歌",
-          "url": "https://www.douyin.com/hot/2470373",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时03分 ~ 20时56分]"
         },
         {
           "title": "魏晨现身张杰演唱会",
@@ -97,6 +97,19 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "周深广州演唱会",
+          "url": "https://www.douyin.com/hot/2470086",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时32分 ~ 22时02分]"
+        },
+        {
           "title": "张杰鸟巢演唱会万人合唱",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1",
           "source": "百度热搜",
@@ -108,18 +121,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 05时39分]"
-        },
-        {
-          "title": "周深广州演唱会",
-          "url": "https://www.douyin.com/hot/2470086",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 20时56分]"
         },
         {
           "title": "华晨宇造物者歌词被指抄袭周杰伦",
