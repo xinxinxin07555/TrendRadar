@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T07:36:49.874326+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-18T10:02:18.943158+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "邓紫棋：我获得人生第一个文学奖",
@@ -33,8 +33,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时55分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时55分 ~ 10时02分]"
         },
         {
           "title": "李荣浩杭州演唱会",
@@ -47,8 +47,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 10时02分]"
         },
         {
           "title": "魏晨现身张杰演唱会",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时55分 ~ 05时39分]"
+        },
+        {
+          "title": "张杰魏晨台下拥抱",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%AD%8F%E6%99%A8%E5%8F%B0%E4%B8%8B%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
