@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T22:51:38.204962+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-04-18T23:35:34.878985+08:00",
+  "total_titles_processed": 1644,
   "failed_sources": [],
   "trends": [
     {
@@ -65,8 +65,22 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时03分 ~ 22时51分]"
+          "appearance_count": 13,
+          "time_info": "[15时03分 ~ 23时35分]"
+        },
+        {
+          "title": "周深广州演唱会",
+          "url": "https://www.douyin.com/hot/2470086",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时32分 ~ 23时35分]"
         },
         {
           "title": "李荣浩杭州演唱会",
@@ -81,19 +95,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 13时04分]"
-        },
-        {
-          "title": "周深广州演唱会",
-          "url": "https://www.douyin.com/hot/2470086",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时32分 ~ 22时51分]"
         },
         {
           "title": "魏晨现身张杰演唱会",
@@ -124,6 +125,17 @@
           "time_info": "[00时55分 ~ 05时39分]"
         },
         {
+          "title": "汪峰《怒放的生命》被苏超截胡",
+          "url": "https://www.toutiao.com/trending/7629921401960923142/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时50分 ~ 23时35分]"
+        },
+        {
           "title": "华晨宇造物者歌词被指抄袭周杰伦",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E9%80%A0%E7%89%A9%E8%80%85%E6%AD%8C%E8%AF%8D%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -135,17 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时44分 ~ 18时37分]"
-        },
-        {
-          "title": "汪峰《怒放的生命》被苏超截胡",
-          "url": "https://www.toutiao.com/trending/7629921401960923142/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
