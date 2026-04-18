@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:44:23.915375+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-04-18T18:37:55.115194+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,21 @@
           "time_info": "[00时55分 ~ 13时04分]"
         },
         {
+          "title": "徐良杭州演唱会",
+          "url": "https://www.douyin.com/hot/2470073",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 18时37分]"
+        },
+        {
           "title": "魏晨现身张杰演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -65,21 +80,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "徐良杭州演唱会",
-          "url": "https://www.douyin.com/hot/2470073",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            26,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 16时44分]"
         },
         {
           "title": "张杰鸟巢演唱会万人合唱",
@@ -104,8 +104,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 18时37分]"
         },
         {
           "title": "华晨宇造物者歌词被指抄袭周杰伦",
@@ -113,11 +113,12 @@
           "source": "微博",
           "ranks": [
             27,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时44分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[16时44分 ~ 18时37分]"
         },
         {
           "title": "吴克群为饺子馆垫付房租：好人不能输",
