@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T22:02:09.149546+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-04-18T22:51:38.204962+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "邓紫棋：我获得人生第一个文学奖",
@@ -61,11 +61,12 @@
             21,
             22,
             25,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时03分 ~ 22时02分]"
+          "appearance_count": 12,
+          "time_info": "[15时03分 ~ 22时51分]"
         },
         {
           "title": "李荣浩杭州演唱会",
@@ -82,6 +83,19 @@
           "time_info": "[00时55分 ~ 13时04分]"
         },
         {
+          "title": "周深广州演唱会",
+          "url": "https://www.douyin.com/hot/2470086",
+          "source": "抖音",
+          "ranks": [
+            26,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时32分 ~ 22时51分]"
+        },
+        {
           "title": "魏晨现身张杰演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -95,19 +109,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 07时36分]"
-        },
-        {
-          "title": "周深广州演唱会",
-          "url": "https://www.douyin.com/hot/2470086",
-          "source": "抖音",
-          "ranks": [
-            26,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时32分 ~ 22时02分]"
         },
         {
           "title": "张杰鸟巢演唱会万人合唱",
@@ -134,6 +135,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时44分 ~ 18时37分]"
+        },
+        {
+          "title": "汪峰《怒放的生命》被苏超截胡",
+          "url": "https://www.toutiao.com/trending/7629921401960923142/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
+        },
+        {
+          "title": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%B6%E9%81%87%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%81%E7%A8%8B%E9%91%AB%E8%B4%BA%E5%B3%BB%E9%9C%96%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 22时51分]"
         },
         {
           "title": "吴克群为饺子馆垫付房租：好人不能输",
