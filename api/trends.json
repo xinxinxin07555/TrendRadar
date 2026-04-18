@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T18:37:55.115194+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2026-04-18T19:33:01.945907+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "邓紫棋：我获得人生第一个文学奖",
@@ -38,6 +38,22 @@
           "time_info": "[00时55分 ~ 13时04分]"
         },
         {
+          "title": "徐良杭州演唱会",
+          "url": "https://www.douyin.com/hot/2470073",
+          "source": "抖音",
+          "ranks": [
+            24,
+            28,
+            26,
+            20,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 19时33分]"
+        },
+        {
           "title": "李荣浩杭州演唱会",
           "url": "https://www.douyin.com/hot/2469914",
           "source": "抖音",
@@ -50,21 +66,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 13时04分]"
-        },
-        {
-          "title": "徐良杭州演唱会",
-          "url": "https://www.douyin.com/hot/2470073",
-          "source": "抖音",
-          "ranks": [
-            24,
-            28,
-            26,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 18时37分]"
         },
         {
           "title": "魏晨现身张杰演唱会",
@@ -82,6 +83,19 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
+          "title": "周杰伦到了广西也要唱山歌",
+          "url": "https://www.douyin.com/hot/2470373",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 19时33分]"
+        },
+        {
           "title": "张杰鸟巢演唱会万人合唱",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1",
           "source": "百度热搜",
@@ -95,19 +109,6 @@
           "time_info": "[00时55分 ~ 05时39分]"
         },
         {
-          "title": "周杰伦到了广西也要唱山歌",
-          "url": "https://www.douyin.com/hot/2470373",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 18时37分]"
-        },
-        {
           "title": "华晨宇造物者歌词被指抄袭周杰伦",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E9%80%A0%E7%89%A9%E8%80%85%E6%AD%8C%E8%AF%8D%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -119,6 +120,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时44分 ~ 18时37分]"
+        },
+        {
+          "title": "周深广州演唱会",
+          "url": "https://www.douyin.com/hot/2470086",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 19时33分]"
         },
         {
           "title": "吴克群为饺子馆垫付房租：好人不能输",
