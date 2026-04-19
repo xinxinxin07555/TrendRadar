@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T19:33:41.201543+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-04-19T20:55:26.909360+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "周杰伦到了广西也要唱山歌",
@@ -55,11 +55,24 @@
           "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%A5%B3%E7%94%9F%E5%92%8C%E9%97%BA%E8%9C%9C%E6%89%93%E4%BA%86%E4%B8%AA%E5%A4%96%E5%8D%96%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时36分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时36分 ~ 20时55分]"
+        },
+        {
+          "title": "周深广州演唱会",
+          "url": "https://www.douyin.com/hot/2470086",
+          "source": "抖音",
+          "ranks": [
+            24,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 20时55分]"
         },
         {
           "title": "汪峰《怒放的生命》被苏超截胡",
@@ -96,15 +109,26 @@
           "time_info": "01时34分"
         },
         {
-          "title": "周深广州演唱会",
-          "url": "https://www.douyin.com/hot/2470086",
+          "title": "邓紫棋患地中海贫血：母亲告诉才知道",
+          "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%82%A3%E5%9C%B0%E4%B8%AD%E6%B5%B7%E8%B4%AB%E8%A1%80%EF%BC%9A%E6%AF%8D%E4%BA%B2%E5%91%8A%E8%AF%89%E6%89%8D%E7%9F%A5%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "徐良杭州演唱会",
+          "url": "https://www.douyin.com/hot/2470073",
           "source": "抖音",
           "ranks": [
-            24
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "20时55分"
         },
         {
           "title": "张杰演唱会偶遇马嘉祺丁程鑫贺峻霖",
