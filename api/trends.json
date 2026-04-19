@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T04:34:19.124626+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-04-20T05:32:59.761477+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "谢娜上张杰鸟巢演唱会小火车",
@@ -29,11 +29,12 @@
             13,
             15,
             17,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "邓紫棋患地中海贫血：母亲告诉才知道",
@@ -41,11 +42,12 @@
           "source": "百度热搜",
           "ranks": [
             13,
-            30
+            30,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 02时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 05时32分]"
         },
         {
           "title": "周深靠用力地鞠躬把眼泪甩掉",
