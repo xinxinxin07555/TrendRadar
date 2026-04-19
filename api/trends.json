@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:37:11.403374+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-04-19T19:33:41.201543+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,20 @@
           "time_info": "[00时36分 ~ 10时15分]"
         },
         {
+          "title": "如何评价周杰伦的《爱在西元前》？",
+          "url": "https://www.zhihu.com/question/47823358",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 19时33分]"
+        },
+        {
           "title": "王源被粉丝表白打断了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A2%AB%E7%B2%89%E4%B8%9D%E8%A1%A8%E7%99%BD%E6%89%93%E6%96%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -37,18 +51,15 @@
           "time_info": "[01时34分 ~ 06时31分]"
         },
         {
-          "title": "如何评价周杰伦的《爱在西元前》？",
-          "url": "https://www.zhihu.com/question/47823358",
-          "source": "知乎",
+          "title": "演唱会结束女生和闺蜜打了个外卖车",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%A5%B3%E7%94%9F%E5%92%8C%E9%97%BA%E8%9C%9C%E6%89%93%E4%BA%86%E4%B8%AA%E5%A4%96%E5%8D%96%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            14,
-            12,
-            10,
-            9
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 18时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 19时33分]"
         },
         {
           "title": "汪峰《怒放的生命》被苏超截胡",
@@ -61,17 +72,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 06时31分]"
-        },
-        {
-          "title": "演唱会结束女生和闺蜜打了个外卖车",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%A5%B3%E7%94%9F%E5%92%8C%E9%97%BA%E8%9C%9C%E6%89%93%E4%BA%86%E4%B8%AA%E5%A4%96%E5%8D%96%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 18时37分]"
         },
         {
           "title": "演唱会结束女生和闺蜜打了个外卖车",
