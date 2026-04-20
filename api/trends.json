@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T16:02:25.319806+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-04-20T18:45:20.380414+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -57,11 +57,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 16时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 18时45分]"
         },
         {
           "title": "周杰伦南宁演唱会Day3赚麻了",
@@ -69,11 +70,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 18时45分]"
         },
         {
           "title": "邓紫棋患地中海贫血",
@@ -104,7 +106,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
