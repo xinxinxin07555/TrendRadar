@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T05:43:54.577902+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-04-21T06:40:45.632224+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 05时43分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 06时40分]"
         },
         {
           "title": "LPL人脉王!Bin认识汪苏泷",
@@ -27,8 +27,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时05分 ~ 05时43分]"
+          "appearance_count": 6,
+          "time_info": "[00时05分 ~ 06时40分]"
         },
         {
           "title": "谢娜发文祝贺张杰刷新纪录",
@@ -49,7 +49,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
         }
