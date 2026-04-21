@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T03:18:09.190339+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-04-22T04:50:54.069407+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时50分]"
         },
         {
           "title": "邓紫棋改编周杰伦的爱琴海",
@@ -30,8 +31,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 03时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时56分 ~ 04时50分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
