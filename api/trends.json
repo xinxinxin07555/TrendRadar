@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T04:50:54.069407+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-04-22T05:42:32.114075+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             5,
             8,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时42分]"
         },
         {
           "title": "邓紫棋改编周杰伦的爱琴海",
@@ -28,11 +29,25 @@
           "ranks": [
             21,
             25,
-            28
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时56分 ~ 04时50分]"
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 05时42分]"
+        },
+        {
+          "title": "吴克群向重庆一山村老年食堂赠车",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%91%E9%87%8D%E5%BA%86%E4%B8%80%E5%B1%B1%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E8%B5%A0%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 05时42分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
@@ -45,18 +60,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 01时59分]"
-        },
-        {
-          "title": "吴克群向重庆一山村老年食堂赠车",
-          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%91%E9%87%8D%E5%BA%86%E4%B8%80%E5%B1%B1%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E8%B5%A0%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 03时18分]"
         }
       ]
     }
