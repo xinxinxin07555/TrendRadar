@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-21T13:24:54.248613+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-04-21T15:44:38.399247+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             15,
             17,
             18,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 13时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 15时44分]"
         },
         {
           "title": "谢娜发文祝贺张杰刷新纪录",
@@ -51,7 +52,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
