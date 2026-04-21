@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:42:32.114075+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-04-22T06:36:11.638928+08:00",
+  "total_titles_processed": 592,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             5,
             8,
             18,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时36分]"
         },
         {
           "title": "邓紫棋改编周杰伦的爱琴海",
@@ -33,8 +34,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时56分 ~ 06时36分]"
         },
         {
           "title": "吴克群向重庆一山村老年食堂赠车",
@@ -43,11 +44,12 @@
           "ranks": [
             25,
             28,
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时59分 ~ 05时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时59分 ~ 06时36分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
