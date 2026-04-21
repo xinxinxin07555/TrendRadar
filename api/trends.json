@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-22T06:36:11.638928+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-04-22T07:33:00.308390+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 4,
       "titles": [
+        {
+          "title": "邓紫棋改编周杰伦的爱琴海",
+          "url": "https://www.douyin.com/hot/2474439",
+          "source": "抖音",
+          "ranks": [
+            21,
+            25,
+            28,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 07时33分]"
+        },
         {
           "title": "周杰伦认证邓紫棋改编的爱琴海",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AE%A4%E8%AF%81%E9%82%93%E7%B4%AB%E6%A3%8B%E6%94%B9%E7%BC%96%E7%9A%84%E7%88%B1%E7%90%B4%E6%B5%B7%23&t=31&band_rank=6&Refer=top",
@@ -24,20 +39,6 @@
           "time_info": "[00时56分 ~ 06时36分]"
         },
         {
-          "title": "邓紫棋改编周杰伦的爱琴海",
-          "url": "https://www.douyin.com/hot/2474439",
-          "source": "抖音",
-          "ranks": [
-            21,
-            25,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 06时36分]"
-        },
-        {
           "title": "吴克群向重庆一山村老年食堂赠车",
           "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E5%90%91%E9%87%8D%E5%BA%86%E4%B8%80%E5%B1%B1%E6%9D%91%E8%80%81%E5%B9%B4%E9%A3%9F%E5%A0%82%E8%B5%A0%E8%BD%A6",
           "source": "百度热搜",
@@ -48,8 +49,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 07时33分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
