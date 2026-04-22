@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T05:48:06.545769+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-23T06:44:23.759277+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时44分]"
         },
         {
           "title": "华晨宇演唱会延期",
@@ -25,11 +25,12 @@
           "ranks": [
             6,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时44分]"
         },
         {
           "title": "我选择QQ秀作为徐良演唱会穿搭",
@@ -40,11 +41,12 @@
             11,
             21,
             19,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 05时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 06时44分]"
         },
         {
           "title": "周杰伦认证邓紫棋改编的爱琴海",
@@ -53,11 +55,12 @@
           "ranks": [
             30,
             26,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时48分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 06时44分]"
         },
         {
           "title": "华晨宇演唱会延期",
