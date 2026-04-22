@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T13:42:00.447625+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-04-22T15:28:29.396395+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,17 @@
           "time_info": "[01时59分 ~ 07时33分]"
         },
         {
+          "title": "华晨宇喂猫吃巧克力蛋糕",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%96%82%E7%8C%AB%E5%90%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%9B%8B%E7%B3%95%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时41分 ~ 15时28分]"
+        },
+        {
           "title": "网传华晨宇演唱会因泼水节延期",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%A0%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%BB%B6%E6%9C%9F%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -64,17 +75,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时56分 ~ 01时59分]"
-        },
-        {
-          "title": "华晨宇喂猫吃巧克力蛋糕",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%96%82%E7%8C%AB%E5%90%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%9B%8B%E7%B3%95%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "周深深情献唱致敬志愿军烈士",
