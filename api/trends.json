@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T17:17:35.954734+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-04-22T19:57:14.300149+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "邓紫棋改编周杰伦的爱琴海",
@@ -54,6 +54,19 @@
           "time_info": "[01时59分 ~ 07时33分]"
         },
         {
+          "title": "周深深情献唱致敬志愿军烈士",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E6%B7%B1%E6%83%85%E7%8C%AE%E5%94%B1%E8%87%B4%E6%95%AC%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 19时57分]"
+        },
+        {
           "title": "华晨宇喂猫吃巧克力蛋糕",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%96%82%E7%8C%AB%E5%90%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E8%9B%8B%E7%B3%95%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -64,6 +77,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时41分 ~ 17时17分]"
+        },
+        {
+          "title": "周杰伦认证邓紫棋改编的爱琴海",
+          "url": "https://www.douyin.com/hot/2474645",
+          "source": "抖音",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时57分]"
         },
         {
           "title": "网传华晨宇演唱会因泼水节延期",
@@ -78,16 +103,15 @@
           "time_info": "[00时56分 ~ 01时59分]"
         },
         {
-          "title": "周深深情献唱致敬志愿军烈士",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E6%B7%B1%E6%83%85%E7%8C%AE%E5%94%B1%E8%87%B4%E6%95%AC%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB",
-          "source": "bilibili 热搜",
+          "title": "我选择QQ秀作为徐良演唱会穿搭",
+          "url": "https://www.douyin.com/hot/2474522",
+          "source": "抖音",
           "ranks": [
-            6,
-            19
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时43分 ~ 17时17分]"
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "谢娜演唱会供需比",
@@ -99,17 +123,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
-        },
-        {
-          "title": "周杰伦认证邓紫棋改编的爱琴海",
-          "url": "https://www.douyin.com/hot/2474645",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
         },
         {
           "title": "谢娜演唱会成都加场来了",
