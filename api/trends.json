@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T19:05:42.446440+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-04-23T21:20:51.693583+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "周杰伦王俊凯 中餐厅",
@@ -54,6 +54,19 @@
           "time_info": "[00时55分 ~ 07时43分]"
         },
         {
+          "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
+          "url": "https://www.zhihu.com/question/2030426048920298351",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时27分 ~ 21时20分]"
+        },
+        {
           "title": "周杰伦认证邓紫棋改编的爱琴海",
           "url": "https://www.douyin.com/hot/2474645",
           "source": "抖音",
@@ -68,39 +81,29 @@
           "time_info": "[00时55分 ~ 07时43分]"
         },
         {
-          "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
-          "url": "https://www.zhihu.com/question/2030426048920298351",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 19时05分]"
-        },
-        {
           "title": "谢娜在浪姐群发张杰",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9C%A8%E6%B5%AA%E5%A7%90%E7%BE%A4%E5%8F%91%E5%BC%A0%E6%9D%B0%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10,
-            25
+            25,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时20分]"
         },
         {
           "title": "刘宇宁否认与宋祖儿恋情",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%90%A6%E8%AE%A4%E4%B8%8E%E5%AE%8B%E7%A5%96%E5%84%BF%E6%81%8B%E6%83%85%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 21时20分]"
         },
         {
           "title": "曝刘宇宁宋祖儿同款地板家具",
@@ -142,11 +145,23 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E5%BC%80%E5%A7%8B%E6%8B%86%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时05分 ~ 21时20分]"
+        },
+        {
+          "title": "刘宇宁曾自曝离婚无娃",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E6%9B%9D%E7%A6%BB%E5%A9%9A%E6%97%A0%E5%A8%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时05分"
+          "time_info": "21时20分"
         },
         {
           "title": "华晨宇演唱会延期",
