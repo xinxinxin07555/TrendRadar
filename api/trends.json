@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T05:44:24.280938+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-04-25T06:37:22.799255+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             14,
             13,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时37分]"
         },
         {
           "title": "华晨宇4场演唱会宣布延期",
@@ -31,8 +32,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时37分]"
         },
         {
           "title": "官方回应华晨宇演唱会选址质疑",
@@ -41,11 +42,12 @@
           "ranks": [
             27,
             25,
-            26
+            26,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时44分 ~ 05时44分]"
+          "appearance_count": 5,
+          "time_info": "[02时44分 ~ 06时37分]"
         },
         {
           "title": "张杰工作室文案",
