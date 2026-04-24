@@ -1,169 +1,33 @@
 {
-  "generated_at": "2026-04-24T23:06:10.125459+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2026-04-25T00:52:37.088698+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
-          "title": "周杰伦谁稀罕官方MV上线",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%B0%81%E7%A8%80%E7%BD%95%E5%AE%98%E6%96%B9MV%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "华晨宇4场演唱会宣布延期",
+          "url": "https://www.toutiao.com/trending/7631848085853814790/",
+          "source": "今日头条",
           "ranks": [
-            2,
-            6,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时32分 ~ 23时06分]"
-        },
-        {
-          "title": "曝华晨宇演唱会前期投入好几个亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E6%9C%9F%E6%8A%95%E5%85%A5%E5%A5%BD%E5%87%A0%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时17分 ~ 10时14分]"
-        },
-        {
-          "title": "高校演出机器人突然拥抱女生",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E6%BC%94%E5%87%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AA%81%E7%84%B6%E6%8B%A5%E6%8A%B1%E5%A5%B3%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            5,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时58分 ~ 21时16分]"
-        },
-        {
-          "title": "刘宇宁曾自曝离婚无娃",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E6%9B%9D%E7%A6%BB%E5%A9%9A%E6%97%A0%E5%A8%83%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 10时14分]"
-        },
-        {
-          "title": "业内谈华晨宇演唱会场地搭建难度",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E8%B0%88%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%9C%B0%E6%90%AD%E5%BB%BA%E9%9A%BE%E5%BA%A6%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 05时42分]"
-        },
-        {
-          "title": "华晨宇演唱会损失",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8D%9F%E5%A4%B1%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 19时04分]"
-        },
-        {
-          "title": "刘宇宁否认与宋祖儿恋情",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%90%A6%E8%AE%A4%E4%B8%8E%E5%AE%8B%E7%A5%96%E5%84%BF%E6%81%8B%E6%83%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 07时42分]"
-        },
-        {
-          "title": "张杰工作室文案",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%96%87%E6%A1%88&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时16分 ~ 23时06分]"
-        },
-        {
-          "title": "侯明昊演唱会舞美被指抄袭檀健次",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E7%BE%8E%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%E6%AA%80%E5%81%A5%E6%AC%A1%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 13时32分]"
-        },
-        {
-          "title": "星巴克 周杰伦",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%20%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "00时52分"
         },
         {
-          "title": "剑桥科技：张杰先生、赵宏伟先生和程谷成先生拟减持不超过0.015%。",
-          "url": "https://wallstreetcn.com/livenews/3093979",
-          "source": "华尔街见闻-快讯",
+          "title": "华晨宇演唱会当地民众发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BD%93%E5%9C%B0%E6%B0%91%E4%BC%97%E5%8F%91%E5%A3%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时04分"
-        },
-        {
-          "title": "华晨宇玉溪演唱会宣布延期，并公布退票及补偿方案，延期可能是因为什么？",
-          "url": "https://www.zhihu.com/question/2030426048920298351",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "谁能顶住王心凌爱你",
-          "url": "https://www.douyin.com/hot/2477067",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "time_info": "00时52分"
         }
       ]
     }
