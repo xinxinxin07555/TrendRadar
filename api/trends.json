@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:45:05.602847+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-26T03:42:25.421910+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时42分]"
         },
         {
           "title": "周杰伦购入澳洲百年庄园？公司回应",
@@ -24,22 +24,24 @@
           "source": "百度热搜",
           "ranks": [
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 03时42分]"
         },
         {
           "title": "陶喆广州演唱会",
           "url": "https://www.douyin.com/hot/2479020",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 03时42分]"
         }
       ]
     }
