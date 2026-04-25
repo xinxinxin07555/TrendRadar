@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T01:35:54.875869+08:00",
-  "total_titles_processed": 366,
+  "generated_at": "2026-04-26T02:45:05.602847+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "加拿大女歌手因买不到五一高铁票和恐飞取消北京巡演，这理由你接受吗？你还遇到过哪些奇葩取消演出的理由？",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时35分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时45分]"
         },
         {
           "title": "周杰伦购入澳洲百年庄园？公司回应",
@@ -27,8 +27,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 02时45分]"
+        },
+        {
+          "title": "陶喆广州演唱会",
+          "url": "https://www.douyin.com/hot/2479020",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时35分]"
+          "time_info": "[02时44分 ~ 02时45分]"
         }
       ]
     }
