@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T00:37:55.219412+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-26T01:35:54.875869+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时35分]"
         },
         {
           "title": "周杰伦购入澳洲百年庄园？公司回应",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%B4%AD%E5%85%A5%E6%BE%B3%E6%B4%B2%E7%99%BE%E5%B9%B4%E5%BA%84%E5%9B%AD%EF%BC%9F%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时35分]"
         }
       ]
     }
