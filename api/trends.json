@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T20:57:32.517984+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-04-25T22:03:16.523038+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -101,6 +101,18 @@
           "time_info": "[15时10分 ~ 15时11分]"
         },
         {
+          "title": "加拿大女歌手因买不到五一高铁票和恐飞取消北京巡演，这理由你接受吗？你还遇到过哪些奇葩取消演出的理由？",
+          "url": "https://www.zhihu.com/question/2030984591343710574",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时03分]"
+        },
+        {
           "title": "泡泡岛音乐节王源超好听直拍",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%A1%E6%B3%A1%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8E%8B%E6%BA%90%E8%B6%85%E5%A5%BD%E5%90%AC%E7%9B%B4%E6%8B%8D",
           "source": "bilibili 热搜",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时08分 ~ 13时09分]"
-        },
-        {
-          "title": "加拿大女歌手因买不到五一高铁票和恐飞取消北京巡演，这理由你接受吗？你还遇到过哪些奇葩取消演出的理由？",
-          "url": "https://www.zhihu.com/question/2030984591343710574",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "周杰伦谁稀罕官方MV上线",
