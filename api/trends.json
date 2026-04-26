@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T18:42:51.117347+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-04-26T19:37:46.523797+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "加拿大女歌手因买不到五一高铁票和恐飞取消北京巡演，这理由你接受吗？你还遇到过哪些奇葩取消演出的理由？",
@@ -46,8 +46,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 18时42分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 19时37分]"
         },
         {
           "title": "华晨宇演唱会被叫停不只是娱乐事件",
@@ -85,13 +85,24 @@
           "time_info": "10时26分"
         },
         {
+          "title": "李健：团队有人抽烟见一次罚2千",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%81%A5%EF%BC%9A%E5%9B%A2%E9%98%9F%E6%9C%89%E4%BA%BA%E6%8A%BD%E7%83%9F%E8%A7%81%E4%B8%80%E6%AC%A1%E7%BD%9A2%E5%8D%83",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "小学师生教室翻唱周杰伦",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A6%E5%B8%88%E7%94%9F%E6%95%99%E5%AE%A4%E7%BF%BB%E5%94%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
           "source": "bilibili 热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
