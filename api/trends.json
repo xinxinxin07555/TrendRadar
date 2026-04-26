@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T04:35:48.789180+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-04-27T05:35:29.998010+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E4%BF%AE%E6%98%9F%E6%98%9F%E7%9A%84%E4%BA%BA%E8%88%9E%E5%8F%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 2,
+          "time_info": "[00时39分 ~ 05时35分]"
         },
         {
           "title": "单依纯郑州演唱会",
