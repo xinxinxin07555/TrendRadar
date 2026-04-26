@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T16:57:19.587321+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-04-26T17:54:08.092794+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,21 @@
           "time_info": "[00时37分 ~ 10时26分]"
         },
         {
+          "title": "陈楚生南昌演唱会",
+          "url": "https://www.douyin.com/hot/2479205",
+          "source": "抖音",
+          "ranks": [
+            24,
+            23,
+            25,
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 17时54分]"
+        },
+        {
           "title": "华晨宇演唱会被叫停不只是娱乐事件",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%8F%AB%E5%81%9C%E4%B8%8D%E5%8F%AA%E6%98%AF%E5%A8%B1%E4%B9%90%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -57,20 +72,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时44分 ~ 04时35分]"
-        },
-        {
-          "title": "陈楚生南昌演唱会",
-          "url": "https://www.douyin.com/hot/2479205",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 16时57分]"
         },
         {
           "title": "周杰伦方回应新豪宅在昆凌父亲名下",
