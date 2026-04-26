@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T13:36:38.755015+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-04-26T15:24:52.133226+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -41,7 +41,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时36分"
         },
@@ -64,11 +64,12 @@
           "source": "抖音",
           "ranks": [
             24,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 15时24分]"
         },
         {
           "title": "周杰伦方回应新豪宅在昆凌父亲名下",
