@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T04:59:12.347287+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-04-28T05:56:33.646338+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时56分]"
         },
         {
           "title": "时代少年团演唱会直播官宣",
@@ -26,11 +27,12 @@
           "ranks": [
             25,
             24,
-            30
+            30,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 05时56分]"
         }
       ]
     }
