@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T01:20:17.012879+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-28T03:14:45.179395+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时14分]"
         },
         {
           "title": "时代少年团演唱会直播官宣",
           "url": "https://www.douyin.com/hot/2481416",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时14分]"
         }
       ]
     }
