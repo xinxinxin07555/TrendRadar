@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T03:14:45.179395+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-04-28T04:59:12.347287+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7633247049986801718/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 04时59分]"
         },
         {
           "title": "时代少年团演唱会直播官宣",
@@ -24,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 04时59分]"
         }
       ]
     }
