@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T06:48:29.427491+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-04-28T07:51:37.036166+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时51分]"
         },
         {
           "title": "时代少年团演唱会直播官宣",
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时19分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时19分 ~ 07时51分]"
         },
         {
           "title": "单依纯郑州演唱会",
@@ -42,7 +42,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
