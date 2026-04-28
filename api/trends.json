@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T00:06:49.032778+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-29T02:15:46.070424+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,28 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "【数据看盘】多家机构激烈博弈铜箔人气股 游资联手量化资金抢筹综艺股份",
-          "url": "https://www.cls.cn/detail/2358304",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
           "title": "铁证 刘宇宁",
           "url": "https://s.weibo.com/weibo?q=%E9%93%81%E8%AF%81%20%E5%88%98%E5%AE%87%E5%AE%81&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时15分]"
+        },
+        {
+          "title": "【数据看盘】多家机构激烈博弈铜箔人气股 游资联手量化资金抢筹综艺股份",
+          "url": "https://www.cls.cn/detail/2358304",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 02时15分]"
         },
         {
           "title": "于文文被蔡卓妍结婚吓一跳",
