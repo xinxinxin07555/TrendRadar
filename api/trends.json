@@ -1,74 +1,44 @@
 {
-  "generated_at": "2026-04-28T21:56:04.430637+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-04-29T00:06:49.032778+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "时代少年团演唱会直播官宣",
-          "url": "https://www.douyin.com/hot/2481416",
-          "source": "抖音",
-          "ranks": [
-            25,
-            24,
-            30,
-            15,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时19分 ~ 13时56分]"
-        },
-        {
-          "title": "歌手徐子尧演出时飞虫进嘴仍顺利唱完",
-          "url": "https://www.toutiao.com/trending/7633247049986801718/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时19分 ~ 07时51分]"
-        },
         {
           "title": "【数据看盘】多家机构激烈博弈铜箔人气股 游资联手量化资金抢筹综艺股份",
           "url": "https://www.cls.cn/detail/2358304",
           "source": "财联社热门",
           "ranks": [
-            9,
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时56分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "张杰拔智齿",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%8B%94%E6%99%BA%E9%BD%BF%23&t=31&band_rank=13&Refer=top",
+          "title": "铁证 刘宇宁",
+          "url": "https://s.weibo.com/weibo?q=%E9%93%81%E8%AF%81%20%E5%88%98%E5%AE%87%E5%AE%81&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "于文文被蔡卓妍结婚吓一跳",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E8%A2%AB%E8%94%A1%E5%8D%93%E5%A6%8D%E7%BB%93%E5%A9%9A%E5%90%93%E4%B8%80%E8%B7%B3%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时56分"
-        },
-        {
-          "title": "单依纯郑州演唱会",
-          "url": "https://www.douyin.com/hot/2479207",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "00时06分"
         }
       ]
     }
