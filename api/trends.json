@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T18:52:31.082257+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-04-30T20:13:49.686001+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 18时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 20时13分]"
         },
         {
           "title": "周杰伦晒图称拿到人生第一个网球冠军，此前参加澳网未能碰到球的他水平究竟怎么样？",
@@ -45,6 +46,19 @@
           "time_info": "[13时56分 ~ 18时52分]"
         },
         {
+          "title": "宿迁文旅局：何润东是友情演出",
+          "url": "https://www.douyin.com/hot/2484202",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 20时13分]"
+        },
+        {
           "title": "吴克群为老君山挑山工送外骨骼机器",
           "url": "https://www.toutiao.com/trending/7633795569749065782/",
           "source": "今日头条",
@@ -57,25 +71,13 @@
           "time_info": "[16时15分 ~ 18时52分]"
         },
         {
-          "title": "宿迁文旅局：何润东是友情演出",
-          "url": "https://www.douyin.com/hot/2484202",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 18时52分]"
-        },
-        {
           "title": "强烈建议大家去看语文综艺",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8E%BB%E7%9C%8B%E8%AF%AD%E6%96%87%E7%BB%BC%E8%89%BA&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         }
