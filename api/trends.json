@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T01:18:04.914808+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-01T03:15:56.965114+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
+        },
+        {
+          "title": "时代少年团广州演唱会",
+          "url": "https://www.douyin.com/hot/2484805",
+          "source": "抖音",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "李现又去看五月天演唱会了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%8F%88%E5%8E%BB%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "唱歌像做法,丁太升手撕华晨宇",
@@ -37,30 +50,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
-        },
-        {
-          "title": "时代少年团广州演唱会",
-          "url": "https://www.douyin.com/hot/2484805",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
         },
         {
           "title": "宿迁文旅局：何润东是友情演出",
           "url": "https://www.douyin.com/hot/2484202",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时15分]"
         }
       ]
     }
