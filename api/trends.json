@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T06:51:51.321295+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-05-01T07:50:50.510294+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时50分]"
         },
         {
           "title": "时代少年团广州演唱会",
@@ -26,11 +26,12 @@
             19,
             12,
             28,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时50分]"
         },
         {
           "title": "唱歌像做法,丁太升手撕华晨宇",
@@ -40,8 +41,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时50分]"
         },
         {
           "title": "宿迁文旅局：何润东是友情演出",
@@ -50,11 +51,12 @@
           "ranks": [
             21,
             19,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 06时51分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 07时50分]"
         },
         {
           "title": "李现又去看五月天演唱会了",
