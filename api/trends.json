@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:57:23.710572+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-05-01T05:56:29.242412+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "时代少年团广州演唱会",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             19,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "唱歌像做法,丁太升手撕华晨宇",
@@ -38,8 +39,21 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 05时56分]"
+        },
+        {
+          "title": "宿迁文旅局：何润东是友情演出",
+          "url": "https://www.douyin.com/hot/2484202",
+          "source": "抖音",
+          "ranks": [
+            21,
+            19,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时17分 ~ 04时57分]"
+          "time_info": "[01时17分 ~ 05时56分]"
         },
         {
           "title": "李现又去看五月天演唱会了",
@@ -54,16 +68,15 @@
           "time_info": "[01时17分 ~ 03时15分]"
         },
         {
-          "title": "宿迁文旅局：何润东是友情演出",
-          "url": "https://www.douyin.com/hot/2484202",
-          "source": "抖音",
+          "title": "李现再度现身五月天演唱会",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0%E5%86%8D%E5%BA%A6%E7%8E%B0%E8%BA%AB%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "百度热搜",
           "ranks": [
-            21,
-            19
+            16
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
         }
       ]
     }
