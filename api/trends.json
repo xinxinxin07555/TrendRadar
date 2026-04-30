@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-04-30T20:13:49.686001+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-04-30T23:07:05.030170+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "唱歌像做法,丁太升手撕华晨宇",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353899&amp;topic_name=%E5%94%B1%E6%AD%8C%E5%83%8F%E5%81%9A%E6%B3%95%2C%E4%B8%81%E5%A4%AA%E5%8D%87%E6%89%8B%E6%92%95%E5%8D%8E%E6%99%A8%E5%AE%87",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 23时07分]"
+        },
         {
           "title": "孙杨夫妇录综艺原因曝光",
           "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E5%A4%AB%E5%A6%87%E5%BD%95%E7%BB%BC%E8%89%BA%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89",
@@ -19,18 +34,18 @@
           "time_info": "[01时25分 ~ 07时53分]"
         },
         {
-          "title": "唱歌像做法,丁太升手撕华晨宇",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353899&amp;topic_name=%E5%94%B1%E6%AD%8C%E5%83%8F%E5%81%9A%E6%B3%95%2C%E4%B8%81%E5%A4%AA%E5%8D%87%E6%89%8B%E6%92%95%E5%8D%8E%E6%99%A8%E5%AE%87",
-          "source": "贴吧",
+          "title": "宿迁文旅局：何润东是友情演出",
+          "url": "https://www.douyin.com/hot/2484202",
+          "source": "抖音",
           "ranks": [
-            7,
-            9,
-            11,
-            13
+            18,
+            17,
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 20时13分]"
+          "appearance_count": 5,
+          "time_info": "[16时15分 ~ 23时07分]"
         },
         {
           "title": "周杰伦晒图称拿到人生第一个网球冠军，此前参加澳网未能碰到球的他水平究竟怎么样？",
@@ -46,17 +61,15 @@
           "time_info": "[13时56分 ~ 18时52分]"
         },
         {
-          "title": "宿迁文旅局：何润东是友情演出",
-          "url": "https://www.douyin.com/hot/2484202",
-          "source": "抖音",
+          "title": "口碑滑坡,孙杨上综艺遭群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353915&amp;topic_name=%E5%8F%A3%E7%A2%91%E6%BB%91%E5%9D%A1%2C%E5%AD%99%E6%9D%A8%E4%B8%8A%E7%BB%BC%E8%89%BA%E9%81%AD%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
           "ranks": [
-            18,
-            17,
-            22
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 20时13分]"
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "吴克群为老君山挑山工送外骨骼机器",
@@ -69,6 +82,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时15分 ~ 18时52分]"
+        },
+        {
+          "title": "时代少年团广州演唱会",
+          "url": "https://www.douyin.com/hot/2484805",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
+        {
+          "title": "唐艺昕二公舞台但是BLACKPINK",
+          "url": "https://search.bilibili.com/all?keyword=%E5%94%90%E8%89%BA%E6%98%95%E4%BA%8C%E5%85%AC%E8%88%9E%E5%8F%B0%E4%BD%86%E6%98%AFBLACKPINK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
         },
         {
           "title": "强烈建议大家去看语文综艺",
