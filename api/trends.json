@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T04:48:42.272741+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-05-02T05:51:32.647516+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时51分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -26,8 +26,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时51分]"
         },
         {
           "title": "时代少年团广州演唱会",
@@ -35,11 +35,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时55分 ~ 05时51分]"
         }
       ]
     }
