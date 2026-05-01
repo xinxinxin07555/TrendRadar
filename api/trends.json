@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:25:08.657308+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2026-05-01T19:57:19.790790+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -16,11 +16,25 @@
             12,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时17分 ~ 19时57分]"
+        },
+        {
+          "title": "老库神了!周年版本剧情演出太夯",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353932&amp;topic_name=%E8%80%81%E5%BA%93%E7%A5%9E%E4%BA%86%21%E5%91%A8%E5%B9%B4%E7%89%88%E6%9C%AC%E5%89%A7%E6%83%85%E6%BC%94%E5%87%BA%E5%A4%AA%E5%A4%AF",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 19时57分]"
         },
         {
           "title": "时代少年团广州演唱会",
@@ -53,19 +67,6 @@
           "time_info": "[01时17分 ~ 14时15分]"
         },
         {
-          "title": "老库神了!周年版本剧情演出太夯",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353932&amp;topic_name=%E8%80%81%E5%BA%93%E7%A5%9E%E4%BA%86%21%E5%91%A8%E5%B9%B4%E7%89%88%E6%9C%AC%E5%89%A7%E6%83%85%E6%BC%94%E5%87%BA%E5%A4%AA%E5%A4%AF",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时25分]"
-        },
-        {
           "title": "宿迁文旅局：何润东是友情演出",
           "url": "https://www.douyin.com/hot/2484202",
           "source": "抖音",
@@ -84,11 +85,12 @@
           "url": "https://www.douyin.com/hot/2484805",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 19时57分]"
         },
         {
           "title": "李现又去看五月天演唱会了",
@@ -103,6 +105,17 @@
           "time_info": "[01时17分 ~ 03时15分]"
         },
         {
+          "title": "综艺《我家那小子》吕严母子相处为何会令人感到钝疼？为什么吕严想要妈妈承认他受过委屈痛苦，但妈妈不承认？",
+          "url": "https://www.zhihu.com/question/2032055662855677948",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时57分]"
+        },
+        {
           "title": "李现再度现身五月天演唱会",
           "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E7%8E%B0%E5%86%8D%E5%BA%A6%E7%8E%B0%E8%BA%AB%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "百度热搜",
@@ -115,15 +128,15 @@
           "time_info": "[05时56分 ~ 06时51分]"
         },
         {
-          "title": "综艺《我家那小子》吕严母子相处为何会令人感到钝疼？为什么吕严想要妈妈承认他受过委屈痛苦，但妈妈不承认？",
-          "url": "https://www.zhihu.com/question/2032055662855677948",
-          "source": "知乎",
+          "title": "时代少年团演唱会节目单",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 18时25分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "时代少年团演唱会",
@@ -135,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "时代少年团演唱会直播",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     }
