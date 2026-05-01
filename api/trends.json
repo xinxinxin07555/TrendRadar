@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T21:17:04.374551+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-05-01T22:53:24.133800+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时15分 ~ 21时17分]"
+          "appearance_count": 8,
+          "time_info": "[14时15分 ~ 22时53分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -34,8 +34,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时17分 ~ 21时17分]"
+          "appearance_count": 16,
+          "time_info": "[01时17分 ~ 22时53分]"
         },
         {
           "title": "时代少年团广州演唱会",
@@ -105,6 +105,19 @@
           "time_info": "[16时58分 ~ 19时57分]"
         },
         {
+          "title": "时代少年团演唱会节目单",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时57分 ~ 22时53分]"
+        },
+        {
           "title": "李现又去看五月天演唱会了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E5%8F%88%E5%8E%BB%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -115,18 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
-          "title": "时代少年团演唱会节目单",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时57分 ~ 21时17分]"
         },
         {
           "title": "时代少年团演唱会抖音直播",
