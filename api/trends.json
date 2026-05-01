@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T00:55:19.448018+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-02T01:57:25.558970+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "时代少年团广州演唱会",
+          "url": "https://www.douyin.com/hot/2484805",
+          "source": "抖音",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -26,19 +38,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
-        },
-        {
-          "title": "时代少年团广州演唱会",
-          "url": "https://www.douyin.com/hot/2484805",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 01时57分]"
         }
       ]
     }
