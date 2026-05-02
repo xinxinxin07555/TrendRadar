@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T13:34:06.104044+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-05-02T15:28:13.866924+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 13时34分]"
+          "appearance_count": 13,
+          "time_info": "[00时55分 ~ 15时28分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -43,8 +44,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 13时34分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 15时28分]"
         },
         {
           "title": "61815！申花主场观众数超周杰伦演唱会，跻身中超第六",
@@ -52,11 +53,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 15时28分]"
         },
         {
           "title": "五月天演唱会骑巨大机械恐龙出场",
