@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T05:37:51.227843+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-05-03T06:37:35.393242+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时37分]"
         },
         {
           "title": "周深一家四口花车巡游",
@@ -27,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 06时37分]"
         },
         {
           "title": "朱之文演出人太多全程被夹着走",
@@ -39,11 +39,12 @@
             23,
             18,
             15,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 06时37分]"
         },
         {
           "title": "建议大家去狂刷跨境综艺打破信息差",
@@ -53,8 +54,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 06时37分]"
         },
         {
           "title": "严浩翔演唱会状态",
@@ -100,9 +101,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时37分]"
         }
       ]
     }
