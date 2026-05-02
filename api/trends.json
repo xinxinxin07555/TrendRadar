@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:43:33.001253+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-05-02T23:43:18.716399+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时55分 ~ 22时43分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 23时43分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -67,6 +67,19 @@
           "time_info": "[00时55分 ~ 15时28分]"
         },
         {
+          "title": "朱之文演出人太多全程被夹着走",
+          "url": "https://www.toutiao.com/trending/7635237297230712330/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时42分 ~ 23时43分]"
+        },
+        {
           "title": "严浩翔演唱会状态",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -74,18 +87,6 @@
             26,
             6,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 22时43分]"
-        },
-        {
-          "title": "朱之文演出人太多全程被夹着走",
-          "url": "https://www.toutiao.com/trending/7635237297230712330/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            15
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -105,6 +106,18 @@
           "time_info": "[19时42分 ~ 22时43分]"
         },
         {
+          "title": "岳云鹏广州演唱会笑场了",
+          "url": "https://www.douyin.com/hot/2486226",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 23时43分]"
+        },
+        {
           "title": "五月天演唱会骑巨大机械恐龙出场",
           "url": "https://www.baidu.com/s?wd=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E9%AA%91%E5%B7%A8%E5%A4%A7%E6%9C%BA%E6%A2%B0%E6%81%90%E9%BE%99%E5%87%BA%E5%9C%BA",
           "source": "百度热搜",
@@ -115,18 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时26分 ~ 13时34分]"
-        },
-        {
-          "title": "岳云鹏广州演唱会笑场了",
-          "url": "https://www.douyin.com/hot/2486226",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 21时03分]"
         },
         {
           "title": "邓紫棋厦门演唱会",
