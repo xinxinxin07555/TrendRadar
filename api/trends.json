@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T02:55:04.984046+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-05-03T03:54:01.800797+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时42分 ~ 03时54分]"
         },
         {
           "title": "周深一家四口花车巡游",
@@ -27,8 +27,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 03时54分]"
+        },
+        {
+          "title": "朱之文演出人太多全程被夹着走",
+          "url": "https://www.toutiao.com/trending/7635237297230712330/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 03时54分]"
         },
         {
           "title": "建议大家去狂刷跨境综艺打破信息差",
@@ -38,20 +51,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 02时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时41分 ~ 03时54分]"
         },
         {
-          "title": "朱之文演出人太多全程被夹着走",
-          "url": "https://www.toutiao.com/trending/7635237297230712330/",
-          "source": "今日头条",
+          "title": "严浩翔演唱会状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
-            28,
-            23
+            15,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时41分 ~ 02时55分]"
+          "time_info": "[00时42分 ~ 03时54分]"
         },
         {
           "title": "邓紫棋厦门演唱会",
@@ -75,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 02时55分]"
-        },
-        {
-          "title": "严浩翔演唱会状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
         }
       ]
     }
