@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T18:48:27.979197+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-05-02T19:42:39.067906+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "老库神了!周年版本剧情演出太夯",
@@ -19,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时55分 ~ 18时48分]"
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 19时42分]"
         },
         {
           "title": "61815！申花主场观众数超周杰伦演唱会，跻身中超第六",
@@ -30,11 +30,12 @@
             9,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 19时42分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -79,11 +80,45 @@
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时42分]"
+        },
+        {
+          "title": "朱之文演出人太多全程被夹着走",
+          "url": "https://www.toutiao.com/trending/7635237297230712330/",
+          "source": "今日头条",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "19时42分"
+        },
+        {
+          "title": "严浩翔演唱会状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "邓紫棋厦门演唱会",
+          "url": "https://www.douyin.com/hot/2486211",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "岳云鹏广州演唱会笑场了",
@@ -92,9 +127,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
+        },
+        {
+          "title": "张峻豪演唱会",
+          "url": "https://www.douyin.com/hot/2486776",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     }
