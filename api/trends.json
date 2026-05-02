@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T04:38:43.726897+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-05-03T05:37:51.227843+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "老库神了!周年版本剧情演出太夯",
@@ -15,8 +15,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "周深一家四口花车巡游",
@@ -27,8 +27,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 05时37分]"
         },
         {
           "title": "朱之文演出人太多全程被夹着走",
@@ -38,11 +38,12 @@
             28,
             23,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 05时37分]"
         },
         {
           "title": "建议大家去狂刷跨境综艺打破信息差",
@@ -52,8 +53,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时41分 ~ 04时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时41分 ~ 05时37分]"
         },
         {
           "title": "严浩翔演唱会状态",
@@ -61,11 +62,12 @@
           "source": "微博",
           "ranks": [
             15,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 03时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 05时37分]"
         },
         {
           "title": "王濛三公舞蹈是跟着刘雨昕学的",
@@ -76,8 +78,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 05时37分]"
         },
         {
           "title": "邓紫棋厦门演唱会",
@@ -90,6 +92,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 02时55分]"
+        },
+        {
+          "title": "岳云鹏广州演唱会笑场了",
+          "url": "https://www.douyin.com/hot/2486226",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     }
