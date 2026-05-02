@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T15:28:13.866924+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-05-02T17:03:26.676609+08:00",
+  "total_titles_processed": 1101,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时55分 ~ 15时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时55分 ~ 17时03分]"
         },
         {
           "title": "口碑滑坡,孙杨上综艺遭群嘲",
@@ -57,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时28分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 17时03分]"
         },
         {
           "title": "五月天演唱会骑巨大机械恐龙出场",
