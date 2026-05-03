@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T15:57:46.607492+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-05-03T17:22:37.895147+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -96,6 +96,19 @@
           "time_info": "[02时54分 ~ 05时37分]"
         },
         {
+          "title": "原生家庭伤疤被揭 严浩翔演唱会哭了",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E4%BC%A4%E7%96%A4%E8%A2%AB%E6%8F%AD+%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 17时22分]"
+        },
+        {
           "title": "邓紫棋厦门演唱会",
           "url": "https://www.douyin.com/hot/2486211",
           "source": "抖音",
@@ -106,18 +119,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 02时55分]"
-        },
-        {
-          "title": "原生家庭伤疤被揭 严浩翔演唱会哭了",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E4%BC%A4%E7%96%A4%E8%A2%AB%E6%8F%AD+%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 15时57分]"
         },
         {
           "title": "严浩翔回应演唱会哭了",
@@ -137,7 +138,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
