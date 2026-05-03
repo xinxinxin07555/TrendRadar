@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T06:37:43.045127+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-04T07:41:32.701872+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20blackpink%E9%83%BD%E6%B2%A1%E8%BF%99%E4%B9%88%E7%B4%AF&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "刘雨昕教王濛三公舞蹈",
@@ -28,11 +29,12 @@
             18,
             25,
             13,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "在这个美食综艺上，七国厨师争夺大奖",
@@ -40,11 +42,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "李荣浩哈尔滨演唱会",
@@ -52,11 +55,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "梁祯元演唱会坠落入水封神了",
@@ -66,11 +70,12 @@
             21,
             20,
             27,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "吴镇宇连散光都能演出来",
@@ -80,22 +85,24 @@
             22,
             21,
             25,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时41分]"
         },
         {
           "title": "周深追不上伴舞气笑了",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%BF%BD%E4%B8%8D%E4%B8%8A%E4%BC%B4%E8%88%9E%E6%B0%94%E7%AC%91%E4%BA%86&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 07时41分]"
         }
       ]
     }
