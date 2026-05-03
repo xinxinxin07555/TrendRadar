@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T01:44:27.773470+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-04T02:55:12.492231+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时55分]"
         },
         {
           "title": "刘雨昕教王濛三公舞蹈",
@@ -24,11 +24,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时55分]"
         },
         {
           "title": "在这个美食综艺上，七国厨师争夺大奖",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时55分]"
         },
         {
           "title": "李荣浩哈尔滨演唱会",
@@ -50,8 +51,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时55分]"
         },
         {
           "title": "梁祯元演唱会坠落入水封神了",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时55分]"
         },
         {
           "title": "吴镇宇连散光都能演出来",
@@ -71,11 +72,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 02时55分]"
         }
       ]
     }
