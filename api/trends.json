@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T19:40:19.722576+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-05-03T21:02:36.423372+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -96,6 +96,19 @@
           "time_info": "[02时54分 ~ 05时37分]"
         },
         {
+          "title": "李荣浩哈尔滨演唱会",
+          "url": "https://www.douyin.com/hot/2487733",
+          "source": "抖音",
+          "ranks": [
+            19,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 21时02分]"
+        },
+        {
           "title": "原生家庭伤疤被揭 严浩翔演唱会哭了",
           "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E4%BC%A4%E7%96%A4%E8%A2%AB%E6%8F%AD+%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86",
           "source": "百度热搜",
@@ -119,18 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 02时55分]"
-        },
-        {
-          "title": "李荣浩哈尔滨演唱会",
-          "url": "https://www.douyin.com/hot/2487733",
-          "source": "抖音",
-          "ranks": [
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时40分]"
         },
         {
           "title": "严浩翔回应演唱会哭了",
