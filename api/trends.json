@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T19:46:05.920828+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-05-04T21:51:12.706410+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时44分 ~ 19时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 21时51分]"
         },
         {
           "title": "梁祯元演唱会坠落入水封神了",
@@ -109,11 +109,24 @@
           "source": "微博",
           "ranks": [
             5,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时51分]"
+        },
+        {
+          "title": "时代少年团演唱会直播",
+          "url": "https://www.douyin.com/hot/2488434",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时45分 ~ 21时51分]"
         },
         {
           "title": "周深追不上伴舞气笑了",
@@ -162,17 +175,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 14时09分]"
-        },
-        {
-          "title": "时代少年团演唱会直播",
-          "url": "https://www.douyin.com/hot/2488434",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
         },
         {
           "title": "王濛五一假期找刘雨昕上舞蹈课",
