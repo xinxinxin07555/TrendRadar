@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T21:51:12.706410+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-05-04T23:59:54.118348+08:00",
+  "total_titles_processed": 1472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "黄灿灿 blackpink都没这么累",
@@ -50,11 +50,12 @@
             28,
             19,
             24,
-            17
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时44分 ~ 21时51分]"
+          "appearance_count": 18,
+          "time_info": "[00时44分 ~ 23时59分]"
         },
         {
           "title": "梁祯元演唱会坠落入水封神了",
@@ -189,6 +190,17 @@
           "time_info": "[10时33分 ~ 17时15分]"
         },
         {
+          "title": "杨紫送谢娜演唱会花篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%80%81%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "吴镇宇连散光都能演出来",
           "url": "https://www.baidu.com/s?wd=%E5%90%B4%E9%95%87%E5%AE%87%E8%BF%9E%E6%95%A3%E5%85%89%E9%83%BD%E8%83%BD%E6%BC%94%E5%87%BA%E6%9D%A5",
           "source": "百度热搜",
@@ -198,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "时代少年团演唱会",
+          "url": "https://www.douyin.com/hot/2488434",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "王源入选伯克利杰出校友",
+          "url": "https://www.douyin.com/hot/2488527",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "吴镇宇连散光都能演出来",
