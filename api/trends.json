@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T03:25:05.408472+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-05T05:05:48.974522+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "刘雨昕教王濛三公舞蹈",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "杨紫送谢娜演唱会花篮",
@@ -40,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时05分]"
         },
         {
           "title": "王源入选伯克利杰出校友",
@@ -51,8 +53,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时45分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时05分]"
         }
       ]
     }
