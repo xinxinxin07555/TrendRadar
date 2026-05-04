@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T14:09:24.641843+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-04T17:15:44.199232+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄灿灿 blackpink都没这么累",
@@ -47,11 +47,12 @@
             13,
             14,
             8,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 14时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 17时15分]"
         },
         {
           "title": "梁祯元演唱会坠落入水封神了",
@@ -64,11 +65,12 @@
             18,
             22,
             12,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时44分 ~ 14时09分]"
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 17时15分]"
         },
         {
           "title": "李荣浩哈尔滨演唱会",
@@ -100,6 +102,17 @@
           "time_info": "[00时44分 ~ 10时33分]"
         },
         {
+          "title": "强烈建议大家去狂刷考公综艺",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8E%BB%E7%8B%82%E5%88%B7%E8%80%83%E5%85%AC%E7%BB%BC%E8%89%BA&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
           "title": "周深追不上伴舞气笑了",
           "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%BF%BD%E4%B8%8D%E4%B8%8A%E4%BC%B4%E8%88%9E%E6%B0%94%E7%AC%91%E4%BA%86&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -111,6 +124,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时37分 ~ 10时33分]"
+        },
+        {
+          "title": "李荣浩哈尔滨演唱会最有梗的人出现了",
+          "url": "https://www.toutiao.com/trending/7634951884784517162/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时09分 ~ 17时15分]"
         },
         {
           "title": "周深被伴舞“遛”到破防",
@@ -125,15 +150,16 @@
           "time_info": "[10时33分 ~ 14时09分]"
         },
         {
-          "title": "李荣浩哈尔滨演唱会最有梗的人出现了",
-          "url": "https://www.toutiao.com/trending/7634951884784517162/",
-          "source": "今日头条",
+          "title": "王濛五一假期找刘雨昕上舞蹈课",
+          "url": "https://www.douyin.com/hot/2488000",
+          "source": "抖音",
           "ranks": [
-            16
+            28,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 17时15分]"
         },
         {
           "title": "吴镇宇连散光都能演出来",
@@ -142,7 +168,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -158,15 +184,15 @@
           "time_info": "10时33分"
         },
         {
-          "title": "王濛五一假期找刘雨昕上舞蹈课",
-          "url": "https://www.douyin.com/hot/2488000",
+          "title": "草蜢四十周年演唱会",
+          "url": "https://www.douyin.com/hot/2487342",
           "source": "抖音",
           "ranks": [
-            28
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时33分"
+          "time_info": "17时15分"
         }
       ]
     }
