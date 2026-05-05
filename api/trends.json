@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:52:29.252501+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-05-05T10:28:15.456326+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "时代少年团演唱会",
@@ -15,11 +15,12 @@
             18,
             13,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 10时28分]"
         },
         {
           "title": "刘雨昕教王濛三公舞蹈",
@@ -29,11 +30,25 @@
             16,
             23,
             21,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 10时28分]"
+        },
+        {
+          "title": "王源入选伯克利杰出校友",
+          "url": "https://www.douyin.com/hot/2488527",
+          "source": "抖音",
+          "ranks": [
+            23,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 10时28分]"
         },
         {
           "title": "杨紫送谢娜演唱会花篮",
@@ -49,17 +64,15 @@
           "time_info": "[01时45分 ~ 07时52分]"
         },
         {
-          "title": "王源入选伯克利杰出校友",
-          "url": "https://www.douyin.com/hot/2488527",
-          "source": "抖音",
+          "title": "BLACKPINK全员亮相metgala红毯",
+          "url": "https://s.weibo.com/weibo?q=BLACKPINK%E5%85%A8%E5%91%98%E4%BA%AE%E7%9B%B8metgala%E7%BA%A2%E6%AF%AF&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            23,
-            24,
-            21
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 07时52分]"
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "英皇演唱会全是回忆杀",
@@ -68,7 +81,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
