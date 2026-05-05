@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T05:01:19.072583+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-05-06T06:16:40.108936+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -15,22 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时01分]"
-        },
-        {
-          "title": "李小冉去谢娜演唱会唱心愿便利贴了",
-          "url": "https://www.toutiao.com/trending/7635656550589448233/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时16分]"
         },
         {
           "title": "浪姐三公压力最大的是刘雨昕",
@@ -40,11 +26,27 @@
             26,
             15,
             20,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时16分]"
+        },
+        {
+          "title": "李小冉去谢娜演唱会唱心愿便利贴了",
+          "url": "https://www.toutiao.com/trending/7635656550589448233/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            22,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时16分]"
         },
         {
           "title": "李小冉在谢娜演唱会唱《心愿便利贴》",
@@ -53,11 +55,12 @@
           "ranks": [
             22,
             15,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 06时16分]"
         },
         {
           "title": "谢娜首场演唱会开唱",
