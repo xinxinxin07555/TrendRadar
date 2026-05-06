@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T04:20:01.603167+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-07T05:54:42.517276+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时20分]"
-        },
-        {
-          "title": "张杰谢娜合唱",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%90%88%E5%94%B1&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时54分]"
         },
         {
           "title": "王心凌演出被镭射激光烫到腿，舞台激光为什么能灼伤皮肤？演出用激光设备明明有安全标准，为什么还会出问题？",
@@ -41,8 +28,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时54分]"
+        },
+        {
+          "title": "张杰谢娜合唱",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%90%88%E5%94%B1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            19,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时54分]"
         },
         {
           "title": "张杰谢娜时隔8年合唱《明天过后》",
@@ -51,11 +52,23 @@
           "ranks": [
             20,
             18,
-            19
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 05时54分]"
+        },
+        {
+          "title": "王心凌舞台上遭激光误射",
+          "url": "https://www.douyin.com/hot/2489772",
+          "source": "抖音",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时06分 ~ 04时20分]"
+          "time_info": "[02时13分 ~ 05时54分]"
         },
         {
           "title": "广西靓仔吴克群回来干农活了",
@@ -64,17 +77,6 @@
           "ranks": [
             25,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时13分 ~ 04时20分]"
-        },
-        {
-          "title": "王心凌舞台上遭激光误射",
-          "url": "https://www.douyin.com/hot/2489772",
-          "source": "抖音",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 4,
