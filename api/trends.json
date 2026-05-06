@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T00:06:32.074318+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-07T02:14:03.535361+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "白鹿跑男争议 内娱综艺审美巨变",
@@ -15,41 +15,66 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时14分]"
         },
         {
           "title": "张杰谢娜合唱",
           "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%90%88%E5%94%B1&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时14分]"
         },
         {
           "title": "王心凌演出被镭射激光烫到腿，舞台激光为什么能灼伤皮肤？演出用激光设备明明有安全标准，为什么还会出问题？",
           "url": "https://www.zhihu.com/question/2035305743931458002",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时14分]"
         },
         {
           "title": "张杰谢娜时隔8年合唱《明天过后》",
           "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%97%B6%E9%9A%948%E5%B9%B4%E5%90%88%E5%94%B1%E3%80%8A%E6%98%8E%E5%A4%A9%E8%BF%87%E5%90%8E%E3%80%8B",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时14分]"
+        },
+        {
+          "title": "广西靓仔吴克群回来干农活了",
+          "url": "https://www.douyin.com/hot/2490156",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
+        },
+        {
+          "title": "王心凌舞台上遭激光误射",
+          "url": "https://www.douyin.com/hot/2489772",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 02时14分]"
         },
         {
           "title": "者来女真的去谢娜演唱会了",
