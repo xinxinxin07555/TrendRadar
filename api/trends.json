@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:05:04.737456+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-05-06T22:02:36.787580+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "谢娜演唱会上座率",
@@ -75,8 +75,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 22时02分]"
         },
         {
           "title": "王心凌演出被镭射激光烫到腿",
@@ -125,6 +125,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时54分 ~ 19时05分]"
+        },
+        {
+          "title": "张杰谢娜合唱",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%90%88%E5%94%B1&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "爆款综艺节目实力排行",
+          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E6%AC%BE%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "谢娜演唱会现场的明星",
@@ -206,6 +228,17 @@
           "time_info": "[19时04分 ~ 19时05分]"
         },
         {
+          "title": "者来女真的去谢娜演唱会了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E7%9C%9F%E7%9A%84%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "王心凌演出被镭射激光烫到腿后尖叫",
           "url": "https://www.toutiao.com/trending/7636650049707200038/",
           "source": "今日头条",
@@ -226,6 +259,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时04分 ~ 19时05分]"
+        },
+        {
+          "title": "刘宇宁穿高定直播",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%AB%98%E5%AE%9A%E7%9B%B4%E6%92%AD&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         }
       ]
     }
