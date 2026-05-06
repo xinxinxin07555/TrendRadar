@@ -1,72 +1,12 @@
 {
-  "generated_at": "2026-05-06T22:02:36.787580+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-05-07T00:06:32.074318+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 22,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "谢娜演唱会上座率",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 13时54分]"
-        },
-        {
-          "title": "浪姐三公压力最大的是刘雨昕",
-          "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E4%B8%89%E5%85%AC%E5%8E%8B%E5%8A%9B%E6%9C%80%E5%A4%A7%E7%9A%84%E6%98%AF%E5%88%98%E9%9B%A8%E6%98%95&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            15,
-            20,
-            13,
-            7,
-            19,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 10时32分]"
-        },
-        {
-          "title": "李小冉去谢娜演唱会唱心愿便利贴了",
-          "url": "https://www.toutiao.com/trending/7635656550589448233/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            16,
-            22,
-            26,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时45分]"
-        },
-        {
-          "title": "李小冉在谢娜演唱会唱《心愿便利贴》",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%B0%8F%E5%86%89%E5%9C%A8%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E3%80%8A%E5%BF%83%E6%84%BF%E4%BE%BF%E5%88%A9%E8%B4%B4%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            15,
-            23,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时45分]"
-        },
         {
           "title": "白鹿跑男争议 内娱综艺审美巨变",
           "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%B7%91%E7%94%B7%E4%BA%89%E8%AE%AE%20%E5%86%85%E5%A8%B1%E7%BB%BC%E8%89%BA%E5%AE%A1%E7%BE%8E%E5%B7%A8%E5%8F%98&t=31&band_rank=4&Refer=top",
@@ -75,56 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时04分 ~ 22时02分]"
-        },
-        {
-          "title": "王心凌演出被镭射激光烫到腿",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%87%BA%E8%A2%AB%E9%95%AD%E5%B0%84%E6%BF%80%E5%85%89%E7%83%AB%E5%88%B0%E8%85%BF%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "谢娜首场演唱会开唱",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E9%A6%96%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%94%B1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 03时17分]"
-        },
-        {
-          "title": "王心凌演出被镭射激光烫到腿",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%87%BA%E8%A2%AB%E9%95%AD%E5%B0%84%E6%BF%80%E5%85%89%E7%83%AB%E5%88%B0%E8%85%BF",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时54分]"
-        },
-        {
-          "title": "王心凌舞台上遭激光误射",
-          "url": "https://www.douyin.com/hot/2489772",
-          "source": "抖音",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 19时05分]"
+          "time_info": "00时06分"
         },
         {
           "title": "张杰谢娜合唱",
@@ -134,142 +26,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "爆款综艺节目实力排行",
-          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E6%AC%BE%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C",
-          "source": "bilibili 热搜",
+          "title": "王心凌演出被镭射激光烫到腿，舞台激光为什么能灼伤皮肤？演出用激光设备明明有安全标准，为什么还会出问题？",
+          "url": "https://www.zhihu.com/question/2035305743931458002",
+          "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "谢娜演唱会现场的明星",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
-          "title": "谢娜演唱会观众发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%8F%91%E5%A3%B0%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "张杰谢娜时隔8年合唱《明天过后》",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%97%B6%E9%9A%948%E5%B9%B4%E5%90%88%E5%94%B1%E3%80%8A%E6%98%8E%E5%A4%A9%E8%BF%87%E5%90%8E%E3%80%8B",
+          "source": "百度热搜",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "何炅惊喜现身谢娜演唱会",
-          "url": "https://www.toutiao.com/trending/7635343071156256778/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "司雯嘉谈王心凌俞灏明争议",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B8%E9%9B%AF%E5%98%89%E8%B0%88%E7%8E%8B%E5%BF%83%E5%87%8C%E4%BF%9E%E7%81%8F%E6%98%8E%E4%BA%89%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
-        },
-        {
-          "title": "广西靓仔吴克群回来干农活了",
-          "url": "https://www.douyin.com/hot/2490156",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "谢霆锋现身英皇演唱会燃爆全场",
-          "url": "https://www.toutiao.com/trending/7636111795602145318/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时23分]"
-        },
-        {
-          "title": "刘宇宁像巨人一样就出来了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%83%8F%E5%B7%A8%E4%BA%BA%E4%B8%80%E6%A0%B7%E5%B0%B1%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         },
         {
           "title": "者来女真的去谢娜演唱会了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E7%9C%9F%E7%9A%84%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E7%9C%9F%E7%9A%84%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
-        },
-        {
-          "title": "王心凌演出被镭射激光烫到腿后尖叫",
-          "url": "https://www.toutiao.com/trending/7636650049707200038/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "演唱会外给人化妆13天暴赚3万",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%96%E7%BB%99%E4%BA%BA%E5%8C%96%E5%A6%8613%E5%A4%A9%E6%9A%B4%E8%B5%9A3%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
-        },
-        {
-          "title": "刘宇宁穿高定直播",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%A9%BF%E9%AB%98%E5%AE%9A%E7%9B%B4%E6%92%AD&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
+          "appearance_count": 1,
+          "time_info": "00时06分"
         }
       ]
     }
