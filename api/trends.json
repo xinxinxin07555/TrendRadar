@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T00:08:20.068104+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-05-08T02:22:50.987211+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时22分]"
         },
         {
           "title": "演唱会卫生间配了卫生巾的明星",
           "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%AB%E7%94%9F%E9%97%B4%E9%85%8D%E4%BA%86%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "appearance_count": 2,
+          "time_info": "[00时08分 ~ 02时22分]"
         }
       ]
     }
