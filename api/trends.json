@@ -1,228 +1,33 @@
 {
-  "generated_at": "2026-05-07T21:58:58.231065+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-05-08T00:08:20.068104+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
         {
-          "title": "白鹿跑男争议 内娱综艺审美巨变",
-          "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E8%B7%91%E7%94%B7%E4%BA%89%E8%AE%AE%20%E5%86%85%E5%A8%B1%E7%BB%BC%E8%89%BA%E5%AE%A1%E7%BE%8E%E5%B7%A8%E5%8F%98&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 10时33分]"
-        },
-        {
-          "title": "王心凌演出被镭射激光烫到腿，舞台激光为什么能灼伤皮肤？演出用激光设备明明有安全标准，为什么还会出问题？",
-          "url": "https://www.zhihu.com/question/2035305743931458002",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            6,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 10时33分]"
-        },
-        {
-          "title": "王心凌舞台上遭激光误射",
-          "url": "https://www.douyin.com/hot/2489772",
-          "source": "抖音",
-          "ranks": [
-            28,
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时13分 ~ 10时33分]"
-        },
-        {
-          "title": "张杰谢娜合唱",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%90%88%E5%94%B1&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            19,
-            22,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时48分]"
-        },
-        {
-          "title": "张杰谢娜时隔8年合唱《明天过后》",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%97%B6%E9%9A%948%E5%B9%B4%E5%90%88%E5%94%B1%E3%80%8A%E6%98%8E%E5%A4%A9%E8%BF%87%E5%90%8E%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            18,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 06时48分]"
-        },
-        {
-          "title": "谢娜开演唱会上瘾了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%98%BE%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "title": "刘维去谢娜演唱会被指忘本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8C%87%E5%BF%98%E6%9C%AC%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "广西靓仔吴克群回来干农活了",
-          "url": "https://www.douyin.com/hot/2490156",
-          "source": "抖音",
-          "ranks": [
-            25,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时13分 ~ 07时46分]"
-        },
-        {
-          "title": "谢娜演唱会卫生间配了卫生巾",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%AB%E7%94%9F%E9%97%B4%E9%85%8D%E4%BA%86%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时08分]"
-        },
-        {
-          "title": "谢娜首场演唱会半个内娱都来“捧场”",
-          "url": "https://www.toutiao.com/trending/7636726032120987702/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时58分]"
-        },
-        {
-          "title": "Jisoo晒blackpink四人合照",
-          "url": "https://s.weibo.com/weibo?q=%23Jisoo%E6%99%92blackpink%E5%9B%9B%E4%BA%BA%E5%90%88%E7%85%A7%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 21时58分]"
+          "time_info": "00时08分"
         },
         {
           "title": "演唱会卫生间配了卫生巾的明星",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%AB%E7%94%9F%E9%97%B4%E9%85%8D%E4%BA%86%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=8&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8D%AB%E7%94%9F%E9%97%B4%E9%85%8D%E4%BA%86%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "谢娜演唱会庆功宴现场",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%86%E5%8A%9F%E5%AE%B4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "刘维去谢娜演唱会被指忘本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8C%87%E5%BF%98%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "张杰谢娜小说都不敢写的地步",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E5%B0%8F%E8%AF%B4%E9%83%BD%E4%B8%8D%E6%95%A2%E5%86%99%E7%9A%84%E5%9C%B0%E6%AD%A5%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "张杰谢娜这和婚礼现场有啥区别",
-          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E8%BF%99%E5%92%8C%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
-        {
-          "title": "张杰谢娜合唱《明天过后》",
-          "url": "https://www.toutiao.com/trending/7636317607583088694/",
-          "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "者来女真的去谢娜演唱会了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E7%9C%9F%E7%9A%84%E5%8E%BB%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "爆款综艺节目实力排行",
-          "url": "https://search.bilibili.com/all?keyword=%E7%88%86%E6%AC%BE%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%E5%AE%9E%E5%8A%9B%E6%8E%92%E8%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "00时08分"
         }
       ]
     }
