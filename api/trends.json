@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T13:28:20.797277+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-05-08T15:25:27.810857+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "刘维去谢娜演唱会被指忘本",
@@ -19,15 +19,26 @@
           "time_info": "[00时08分 ~ 07时57分]"
         },
         {
-          "title": "张杰在谢娜庆功宴上敬酒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9C%A8%E8%B0%A2%E5%A8%9C%E5%BA%86%E5%8A%9F%E5%AE%B4%E4%B8%8A%E6%95%AC%E9%85%92%23&t=31&band_rank=4&Refer=top",
+          "title": "湖南卫视综艺本周停播",
+          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%BB%BC%E8%89%BA%E6%9C%AC%E5%91%A8%E5%81%9C%E6%92%AD&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时28分"
+          "time_info": "15时25分"
+        },
+        {
+          "title": "湖南卫视综艺本周停播",
+          "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%BB%BC%E8%89%BA%E6%9C%AC%E5%91%A8%E5%81%9C%E6%92%AD",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "演唱会卫生间配了卫生巾的明星",
@@ -43,6 +54,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时08分 ~ 07时01分]"
+        },
+        {
+          "title": "张杰在谢娜庆功宴上敬酒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9C%A8%E8%B0%A2%E5%A8%9C%E5%BA%86%E5%8A%9F%E5%AE%B4%E4%B8%8A%E6%95%AC%E9%85%92%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时25分]"
         },
         {
           "title": "谢娜成都演唱会女厕免费提供卫生巾",
@@ -66,6 +89,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 07时01分]"
+        },
+        {
+          "title": "三亚千古情演出被质疑“擦边”",
+          "url": "https://www.toutiao.com/trending/7637358566265733129/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "“大衣哥”朱之文五一演出忙",
+          "url": "https://www.toutiao.com/trending/7636273233437114409/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "桃花坞11个新人6个综艺首秀",
