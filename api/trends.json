@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T15:25:27.810857+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-05-08T17:15:48.279249+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -23,22 +23,24 @@
           "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%BB%BC%E8%89%BA%E6%9C%AC%E5%91%A8%E5%81%9C%E6%92%AD&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 17时15分]"
         },
         {
           "title": "湖南卫视综艺本周停播",
           "url": "https://www.baidu.com/s?wd=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E7%BB%BC%E8%89%BA%E6%9C%AC%E5%91%A8%E5%81%9C%E6%92%AD",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 17时15分]"
         },
         {
           "title": "演唱会卫生间配了卫生巾的明星",
@@ -61,11 +63,24 @@
           "source": "微博",
           "ranks": [
             4,
-            7
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 17时15分]"
+        },
+        {
+          "title": "“大衣哥”朱之文五一演出忙",
+          "url": "https://www.toutiao.com/trending/7636273233437114409/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时25分]"
+          "time_info": "[15时25分 ~ 17时15分]"
         },
         {
           "title": "谢娜成都演唱会女厕免费提供卫生巾",
@@ -97,18 +112,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "“大衣哥”朱之文五一演出忙",
-          "url": "https://www.toutiao.com/trending/7636273233437114409/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
