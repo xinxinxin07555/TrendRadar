@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T17:15:48.279249+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-05-08T19:10:19.553879+08:00",
+  "total_titles_processed": 1401,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             1,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 19时10分]"
         },
         {
           "title": "湖南卫视综艺本周停播",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 19时10分]"
         },
         {
           "title": "演唱会卫生间配了卫生巾的明星",
