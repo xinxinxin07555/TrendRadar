@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T04:41:47.222917+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-10T05:40:24.853008+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时40分]"
         },
         {
           "title": "曝汪峰森林北分手",
@@ -28,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时51分 ~ 04时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时40分]"
         },
         {
           "title": "尼坤演唱会状态",
@@ -38,11 +39,12 @@
           "ranks": [
             12,
             16,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 04时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 05时40分]"
         },
         {
           "title": "周深阿信在鸟巢修提词器",
