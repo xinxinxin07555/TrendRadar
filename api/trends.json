@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T17:16:55.177500+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-05-09T18:55:00.363333+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "10时33分"
         },
         {
+          "title": "谢娜演唱会在内娱算什么水平？",
+          "url": "https://www.zhihu.com/question/2035140896732215035",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时53分 ~ 18时55分]"
+        },
+        {
           "title": "王俊凯去看了五月天",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%BB%E7%9C%8B%E4%BA%86%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -32,25 +45,13 @@
           "time_info": "[01时12分 ~ 06时56分]"
         },
         {
-          "title": "谢娜演唱会在内娱算什么水平？",
-          "url": "https://www.zhihu.com/question/2035140896732215035",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时16分]"
-        },
-        {
           "title": "五月天演唱会结束吃点化毛膏吧",
           "url": "https://www.toutiao.com/trending/7637285399417782278/",
           "source": "今日头条",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         }
