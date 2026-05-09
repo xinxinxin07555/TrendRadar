@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:40:24.853008+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-05-10T06:39:32.988739+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             11,
             13,
             12,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时39分]"
         },
         {
           "title": "曝汪峰森林北分手",
@@ -29,8 +30,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时39分]"
         },
         {
           "title": "尼坤演唱会状态",
