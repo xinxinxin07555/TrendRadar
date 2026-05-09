@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-09T18:55:00.363333+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-05-09T19:48:15.525719+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 4,
       "titles": [
-        {
-          "title": "五月天演唱会结束吃点化毛膏吧",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%90%83%E7%82%B9%E5%8C%96%E6%AF%9B%E8%86%8F%E5%90%A7%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时33分"
-        },
         {
           "title": "谢娜演唱会在内娱算什么水平？",
           "url": "https://www.zhihu.com/question/2035140896732215035",
@@ -28,8 +17,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 18时55分]"
+          "appearance_count": 6,
+          "time_info": "[15时53分 ~ 19时48分]"
+        },
+        {
+          "title": "五月天演唱会结束吃点化毛膏吧",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%93%E6%9D%9F%E5%90%83%E7%82%B9%E5%8C%96%E6%AF%9B%E8%86%8F%E5%90%A7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "王俊凯去看了五月天",
