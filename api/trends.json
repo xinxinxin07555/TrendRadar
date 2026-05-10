@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T22:50:06.468828+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-10T23:51:02.331278+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "曝汪峰森林北分手",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 10时37分]"
+        },
+        {
+          "title": "五月天周深如烟神级现场",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%B7%B1%E5%A6%82%E7%83%9F%E7%A5%9E%E7%BA%A7%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
         },
         {
           "title": "歌手黄霄雲在演出现场晕倒",
