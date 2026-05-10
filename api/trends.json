@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T03:59:03.296032+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-11T04:53:15.949982+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时51分 ~ 04时53分]"
         },
         {
           "title": "时代少年团演唱会后台花絮",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时51分 ~ 03时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 04时53分]"
         }
       ]
     }
