@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T21:10:54.880816+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-05-10T22:50:06.468828+08:00",
+  "total_titles_processed": 1295,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时46分 ~ 05时40分]"
+        },
+        {
+          "title": "时代少年团演唱会后台花絮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 22时50分]"
         },
         {
           "title": "周深阿信在鸟巢修提词器",
@@ -107,18 +120,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时08分 ~ 14时09分]"
-        },
-        {
-          "title": "时代少年团演唱会后台花絮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%8A%B1%E7%B5%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时10分]"
         },
         {
           "title": "森林北否认与汪峰分手",
