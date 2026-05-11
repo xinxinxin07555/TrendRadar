@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T04:46:09.504042+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-05-12T06:04:48.608854+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 06时04分]"
         },
         {
           "title": "女孩演出完退礼服被商家曝光",
@@ -27,19 +27,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 06时04分]"
         },
         {
           "title": "五月天周深如烟神级现场",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%B7%B1%E5%A6%82%E7%83%9F%E7%A5%9E%E7%BA%A7%E7%8E%B0%E5%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 04时46分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 06时04分]"
         },
         {
           "title": "优酷来了个全男综艺",
@@ -47,11 +48,12 @@
           "source": "微博",
           "ranks": [
             14,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时55分 ~ 04时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时55分 ~ 06时04分]"
         },
         {
           "title": "时代少年团演唱会 青岛",
