@@ -1,12 +1,58 @@
 {
-  "generated_at": "2026-05-12T02:56:13.385099+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-12T04:46:09.504042+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "张凌赫、刘宇宁或被邀请赴台交流",
+          "url": "https://news.ifeng.com/c/8t372Lr8ODf",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时46分]"
+        },
+        {
+          "title": "女孩演出完退礼服被商家曝光",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%87%BA%E5%AE%8C%E9%80%80%E7%A4%BC%E6%9C%8D%E8%A2%AB%E5%95%86%E5%AE%B6%E6%9B%9D%E5%85%89&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时46分]"
+        },
+        {
+          "title": "五月天周深如烟神级现场",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%B7%B1%E5%A6%82%E7%83%9F%E7%A5%9E%E7%BA%A7%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时46分]"
+        },
+        {
+          "title": "优酷来了个全男综艺",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%85%A8%E7%94%B7%E7%BB%BC%E8%89%BA%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时55分 ~ 04时46分]"
+        },
         {
           "title": "时代少年团演唱会 青岛",
           "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%20%E9%9D%92%E5%B2%9B&t=31&band_rank=6&Refer=top",
@@ -20,49 +66,15 @@
           "time_info": "[00时31分 ~ 02时56分]"
         },
         {
-          "title": "张凌赫、刘宇宁或被邀请赴台交流",
-          "url": "https://news.ifeng.com/c/8t372Lr8ODf",
-          "source": "凤凰网",
+          "title": "人艺何时能赴台湾演出？冯远征回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E8%89%BA%E4%BD%95%E6%97%B6%E8%83%BD%E8%B5%B4%E5%8F%B0%E6%B9%BE%E6%BC%94%E5%87%BA%EF%BC%9F%E5%86%AF%E8%BF%9C%E5%BE%81%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时56分]"
-        },
-        {
-          "title": "女孩演出完退礼服被商家曝光",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%87%BA%E5%AE%8C%E9%80%80%E7%A4%BC%E6%9C%8D%E8%A2%AB%E5%95%86%E5%AE%B6%E6%9B%9D%E5%85%89&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时56分]"
-        },
-        {
-          "title": "五月天周深如烟神级现场",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%91%A8%E6%B7%B1%E5%A6%82%E7%83%9F%E7%A5%9E%E7%BA%A7%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时56分]"
-        },
-        {
-          "title": "优酷来了个全男综艺",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B7%E6%9D%A5%E4%BA%86%E4%B8%AA%E5%85%A8%E7%94%B7%E7%BB%BC%E8%89%BA%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时55分 ~ 02时56分]"
+          "time_info": "[04时45分 ~ 04时46分]"
         },
         {
           "title": "蔡依林状态 九点睡觉的魔力",
