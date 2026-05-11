@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T14:43:06.780726+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-05-11T18:35:54.749516+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             10,
             6,
             11,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 14时43分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 18时35分]"
         },
         {
           "title": "游客投诉演唱会座椅脏被“拉黑”，桂林文旅已道歉并解除“拉黑”",
