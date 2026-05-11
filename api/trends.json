@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T10:47:15.798453+08:00",
-  "total_titles_processed": 783,
+  "generated_at": "2026-05-11T14:43:06.780726+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,36 @@
             9,
             10,
             6,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 10时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 14时43分]"
+        },
+        {
+          "title": "游客投诉演唱会座椅脏被“拉黑”，桂林文旅已道歉并解除“拉黑”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154144",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 14时43分]"
+        },
+        {
+          "title": "感受赵露思演唱会美学冲击",
+          "url": "https://www.douyin.com/hot/2493798",
+          "source": "抖音",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 14时43分]"
         },
         {
           "title": "时代少年团演唱会后台花絮",
@@ -34,28 +59,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时51分 ~ 04时53分]"
-        },
-        {
-          "title": "游客投诉演唱会座椅脏被“拉黑”，桂林文旅已道歉并解除“拉黑”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154144",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "感受赵露思演唱会美学冲击",
-          "url": "https://www.douyin.com/hot/2493798",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
         },
         {
           "title": "刘宪华 歌手2026",
