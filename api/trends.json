@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T01:08:15.751721+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-05-13T03:46:42.698134+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时46分]"
         },
         {
           "title": "白鹿演唱会过审",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时46分]"
         },
         {
           "title": "戒掉熬夜的蔡依林、死磕英语的龚俊：长期主义，终有回甘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33158240",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时46分]"
         },
         {
           "title": "曝某升咖艺人想抢李宇春跨年压轴",
