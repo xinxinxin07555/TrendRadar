@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T06:58:02.325879+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-13T07:59:58.041906+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 07时59分]"
         },
         {
           "title": "白鹿演唱会过审",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 06时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 07时59分]"
         },
         {
           "title": "戒掉熬夜的蔡依林、死磕英语的龚俊：长期主义，终有回甘",
@@ -47,11 +48,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E6%9F%90%E5%8D%87%E5%92%96%E8%89%BA%E4%BA%BA%E6%83%B3%E6%8A%A2%E6%9D%8E%E5%AE%87%E6%98%A5%E8%B7%A8%E5%B9%B4%E5%8E%8B%E8%BD%B4&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 07时59分]"
         },
         {
           "title": "95花扎堆开演唱会",
