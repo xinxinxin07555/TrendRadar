@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T07:59:58.041906+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-05-13T11:48:58.008340+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354207&amp;topic_name=%E5%95%86%E5%AE%B6%E6%9B%9D%E5%85%89%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%87%BA%E5%AE%8C%E9%80%80%E7%A4%BC%E6%9C%8D",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时07分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时07分 ~ 11时48分]"
         },
         {
           "title": "白鹿演唱会过审",
@@ -37,11 +38,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时07分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[01时07分 ~ 11时48分]"
         },
         {
           "title": "曝某升咖艺人想抢李宇春跨年压轴",
