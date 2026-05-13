@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T05:29:12.558999+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-05-14T07:03:48.439795+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.toutiao.com/trending/7638631519472779306/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 07时03分]"
         },
         {
           "title": "单依纯《纯妹妹》斩获五项提名角逐歌后，蔡依林张惠妹竞争年度歌曲，如何评价第 37 届金曲奖入围名单？",
@@ -24,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 07时03分]"
         },
         {
           "title": "商家曝光女孩演出完退礼服",
@@ -38,19 +40,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 05时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 07时03分]"
         },
         {
           "title": "何炅要开演唱会？工作室回应",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%A6%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时03分]"
         },
         {
           "title": "吴克群被广西麻醉师拿捏了",
