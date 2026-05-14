@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T10:46:55.581765+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-05-14T14:23:11.631599+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "国台办支持张凌赫刘宇宁赴台交流",
@@ -25,11 +25,23 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354207&amp;topic_name=%E5%95%86%E5%AE%B6%E6%9B%9D%E5%85%89%E5%A5%B3%E5%AD%A9%E6%BC%94%E5%87%BA%E5%AE%8C%E9%80%80%E7%A4%BC%E6%9C%8D",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时26分 ~ 10时46分]"
+          "appearance_count": 9,
+          "time_info": "[02时26分 ~ 14时23分]"
+        },
+        {
+          "title": "白鹿演唱会票价加起来是十年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B7%E5%8A%A0%E8%B5%B7%E6%9D%A5%E6%98%AF%E5%8D%81%E5%B9%B4%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "单依纯《纯妹妹》斩获五项提名角逐歌后，蔡依林张惠妹竞争年度歌曲，如何评价第 37 届金曲奖入围名单？",
@@ -45,6 +57,18 @@
           "time_info": "[02时26分 ~ 07时03分]"
         },
         {
+          "title": "吴克群被广西麻醉师拿捏了",
+          "url": "https://www.douyin.com/hot/2497476",
+          "source": "抖音",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 14时23分]"
+        },
+        {
           "title": "何炅要开演唱会？工作室回应",
           "url": "https://www.baidu.com/s?wd=%E4%BD%95%E7%82%85%E8%A6%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%EF%BC%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -57,25 +81,13 @@
           "time_info": "[05时28分 ~ 07时03分]"
         },
         {
-          "title": "吴克群被广西麻醉师拿捏了",
-          "url": "https://www.douyin.com/hot/2497476",
-          "source": "抖音",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 10时46分]"
-        },
-        {
           "title": "乃万演唱会40元票价",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A40%E5%85%83%E7%A5%A8%E4%BB%B7%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -86,7 +98,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
