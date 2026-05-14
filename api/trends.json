@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T02:53:40.397656+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-05-15T04:26:44.371279+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBcos%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%8E%BB%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时26分]"
         },
         {
           "title": "陈泽综艺OK了老铁们爆笑来袭",
@@ -27,8 +28,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时26分]"
         },
         {
           "title": "夯爆!赵露思演唱会尺度大开",
@@ -38,8 +39,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 04时26分]"
         },
         {
           "title": "宋亚轩和张杰女儿撞小名",
