@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:45:39.837291+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-05-15T20:02:34.942596+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "陈泽综艺OK了老铁们爆笑来袭",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "岳云鹏探望蔡磊 相约未来同看演出",
+          "url": "https://www.baidu.com/s?wd=%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%8E%A2%E6%9C%9B%E8%94%A1%E7%A3%8A+%E7%9B%B8%E7%BA%A6%E6%9C%AA%E6%9D%A5%E5%90%8C%E7%9C%8B%E6%BC%94%E5%87%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     }
