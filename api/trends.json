@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T05:57:55.312073+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-16T06:54:56.403535+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时54分]"
         },
         {
           "title": "陈泽综艺OK了老铁们爆笑来袭",
@@ -28,11 +29,12 @@
             26,
             22,
             19,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 05时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 06时54分]"
         },
         {
           "title": "球迷帮孙颖莎在周杰伦演唱会点歌",
@@ -40,11 +42,12 @@
           "source": "微博",
           "ranks": [
             25,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时20分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[02时20分 ~ 06时54分]"
         },
         {
           "title": "周深2018年歌手试音音频曝光",
@@ -52,11 +55,12 @@
           "source": "百度热搜",
           "ranks": [
             30,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时20分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时20分 ~ 06时54分]"
         }
       ]
     }
