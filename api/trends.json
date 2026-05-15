@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-05-15T07:55:36.544587+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-05-15T10:47:31.094782+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "UP主cos杨丞琳去演唱会",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBcos%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%8E%BB%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时55分]"
-        },
         {
           "title": "陈泽综艺OK了老铁们爆笑来袭",
           "url": "https://www.douyin.com/hot/2498644",
@@ -28,18 +15,33 @@
             19,
             21,
             22,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 10时47分]"
         },
         {
           "title": "夯爆!赵露思演唱会尺度大开",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354277&amp;topic_name=%E5%A4%AF%E7%88%86%21%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%BA%E5%BA%A6%E5%A4%A7%E5%BC%80",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 10时47分]"
+        },
+        {
+          "title": "UP主cos杨丞琳去演唱会",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBcos%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%8E%BB%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            19,
+            27
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -55,6 +57,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 00时14分]"
+        },
+        {
+          "title": "NewJeans更新Haerin近照",
+          "url": "https://s.weibo.com/weibo?q=%23NewJeans%E6%9B%B4%E6%96%B0Haerin%E8%BF%91%E7%85%A7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     }
