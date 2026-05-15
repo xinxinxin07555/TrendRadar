@@ -1,33 +1,57 @@
 {
-  "generated_at": "2026-05-16T00:04:52.931620+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-16T02:21:07.575805+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "赵露思演唱会曼谷站幕后",
           "url": "https://search.bilibili.com/all?keyword=%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9B%BC%E8%B0%B7%E7%AB%99%E5%B9%95%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时21分]"
         },
         {
           "title": "陈泽综艺OK了老铁们爆笑来袭",
           "url": "https://www.douyin.com/hot/2498644",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时21分]"
+        },
+        {
+          "title": "球迷帮孙颖莎在周杰伦演唱会点歌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%90%83%E8%BF%B7%E5%B8%AE%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9C%A8%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%82%B9%E6%AD%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
+        },
+        {
+          "title": "周深2018年歌手试音音频曝光",
+          "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B12018%E5%B9%B4%E6%AD%8C%E6%89%8B%E8%AF%95%E9%9F%B3%E9%9F%B3%E9%A2%91%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 02时21分]"
         }
       ]
     }
