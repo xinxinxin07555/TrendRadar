@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T10:47:31.094782+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-05-15T14:32:38.331919+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             21,
             22,
             20,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 10时47分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 14时32分]"
         },
         {
           "title": "夯爆!赵露思演唱会尺度大开",
@@ -65,7 +66,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
