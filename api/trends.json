@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:41:44.993595+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-05-17T07:49:54.704407+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
             27,
             19,
             21,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 06时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 07时49分]"
         },
         {
           "title": "徐良南昌演唱会解锁新战袍",
