@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T04:04:33.109289+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-17T05:44:34.891269+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             24,
             20,
             19,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 04时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 05时44分]"
         },
         {
           "title": "单依纯大连演唱会上座率",
@@ -27,11 +28,12 @@
           "source": "微博",
           "ranks": [
             20,
-            23
+            23,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 05时44分]"
         },
         {
           "title": "陈楚生广州演唱会",
@@ -39,11 +41,12 @@
           "source": "抖音",
           "ranks": [
             28,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 05时44分]"
         },
         {
           "title": "朱孝天回应F4演唱会掀桌事件",
@@ -51,11 +54,12 @@
           "source": "抖音",
           "ranks": [
             27,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 05时44分]"
         },
         {
           "title": "徐良南昌演唱会解锁新战袍",
