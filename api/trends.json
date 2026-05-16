@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T19:02:17.026873+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-05-16T19:59:38.119313+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "赵露思演唱会曼谷站幕后",
@@ -51,6 +51,28 @@
           "time_info": "[00时04分 ~ 06时54分]"
         },
         {
+          "title": "孙燕姿演唱会中突发不适",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E7%AA%81%E5%8F%91%E4%B8%8D%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时59分]"
+        },
+        {
+          "title": "胡彦斌回应上《歌手2026》：感谢陶喆",
+          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%B8%8A%E3%80%8A%E6%AD%8C%E6%89%8B2026%E3%80%8B%EF%BC%9A%E6%84%9F%E8%B0%A2%E9%99%B6%E5%96%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时59分]"
+        },
+        {
           "title": "周深2018年歌手试音音频曝光",
           "url": "https://www.baidu.com/s?wd=%E5%91%A8%E6%B7%B12018%E5%B9%B4%E6%AD%8C%E6%89%8B%E8%AF%95%E9%9F%B3%E9%9F%B3%E9%A2%91%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -65,28 +87,6 @@
           "time_info": "[02时20分 ~ 07时53分]"
         },
         {
-          "title": "孙燕姿演唱会中突发不适",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%AD%E7%AA%81%E5%8F%91%E4%B8%8D%E9%80%82",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 19时02分]"
-        },
-        {
-          "title": "胡彦斌回应上《歌手2026》：感谢陶喆",
-          "url": "https://www.baidu.com/s?wd=%E8%83%A1%E5%BD%A6%E6%96%8C%E5%9B%9E%E5%BA%94%E4%B8%8A%E3%80%8A%E6%AD%8C%E6%89%8B2026%E3%80%8B%EF%BC%9A%E6%84%9F%E8%B0%A2%E9%99%B6%E5%96%86",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 19时02分]"
-        },
-        {
           "title": "林俊杰个人捐款200万",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%AA%E4%BA%BA%E6%8D%90%E6%AC%BE200%E4%B8%87%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时44分 ~ 17时45分]"
+        },
+        {
+          "title": "侯明昊演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         }
       ]
     }
