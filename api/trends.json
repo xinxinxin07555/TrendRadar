@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T17:45:16.255768+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-05-16T19:02:17.026873+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -72,19 +72,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
-        },
-        {
-          "title": "林俊杰个人捐款200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%AA%E4%BA%BA%E6%8D%90%E6%AC%BE200%E4%B8%87%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 17时45分]"
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时02分]"
         },
         {
           "title": "胡彦斌回应上《歌手2026》：感谢陶喆",
@@ -92,6 +81,17 @@
           "source": "百度热搜",
           "ranks": [
             17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时44分 ~ 19时02分]"
+        },
+        {
+          "title": "林俊杰个人捐款200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%AA%E4%BA%BA%E6%8D%90%E6%AC%BE200%E4%B8%87%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
