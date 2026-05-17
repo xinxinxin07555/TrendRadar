@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T14:20:31.398311+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-05-17T17:02:56.881952+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "陈楚生广州演唱会",
@@ -15,11 +15,12 @@
             28,
             20,
             22,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 17时02分]"
         },
         {
           "title": "周杰伦18年后再回温州开唱",
@@ -49,6 +50,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 06时41分]"
+        },
+        {
+          "title": "吴彦祖带女儿追星看演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%BD%A6%E7%A5%96%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "朱孝天回应F4演唱会掀桌事件",
@@ -94,7 +106,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
