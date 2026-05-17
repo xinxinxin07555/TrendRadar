@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T21:13:11.167987+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-05-17T22:54:13.946720+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,19 @@
           "time_info": "[00时55分 ~ 05时44分]"
         },
         {
+          "title": "吴彦祖带女儿追星看演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%BD%A6%E7%A5%96%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时02分 ~ 22时54分]"
+        },
+        {
           "title": "单依纯大连演唱会上座率",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A4%A7%E8%BF%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 06时41分]"
-        },
-        {
-          "title": "吴彦祖带女儿追星看演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%BD%A6%E7%A5%96%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时02分 ~ 21时13分]"
         },
         {
           "title": "朱孝天回应F4演唱会掀桌事件",
