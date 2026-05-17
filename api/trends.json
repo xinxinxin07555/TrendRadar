@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T19:03:03.961978+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-05-17T21:13:11.167987+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             22,
             27,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时54分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 21时13分]"
         },
         {
           "title": "周杰伦18年后再回温州开唱",
@@ -56,11 +57,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%90%B4%E5%BD%A6%E7%A5%96%E5%B8%A6%E5%A5%B3%E5%84%BF%E8%BF%BD%E6%98%9F%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 21时13分]"
         },
         {
           "title": "朱孝天回应F4演唱会掀桌事件",
