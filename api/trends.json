@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T07:49:54.704407+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-05-17T10:44:54.957888+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周杰伦18年后再回温州开唱",
@@ -23,20 +23,6 @@
           "time_info": "[00时55分 ~ 05时44分]"
         },
         {
-          "title": "单依纯大连演唱会上座率",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A4%A7%E8%BF%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            23,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 06时41分]"
-        },
-        {
           "title": "陈楚生广州演唱会",
           "url": "https://www.douyin.com/hot/2501296",
           "source": "抖音",
@@ -45,6 +31,20 @@
             20,
             22,
             27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时44分]"
+        },
+        {
+          "title": "单依纯大连演唱会上座率",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A4%A7%E8%BF%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            23,
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 00时56分]"
+        },
+        {
+          "title": "流量时代演出市场乱象解析",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B5%81%E9%87%8F%E6%97%B6%E4%BB%A3%E6%BC%94%E5%87%BA%E5%B8%82%E5%9C%BA%E4%B9%B1%E8%B1%A1%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时44分"
         }
       ]
     }
