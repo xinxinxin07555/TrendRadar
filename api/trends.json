@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T23:22:25.336771+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2026-05-19T01:58:05.347142+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "十个勤天演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top",
+          "title": "五月天演唱会内地收官",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%85%E5%9C%B0%E6%94%B6%E5%AE%98&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            27,
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 03时06分]"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 01时58分]"
         },
         {
-          "title": "白鹿先在综艺穿了战国袍",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%85%88%E5%9C%A8%E7%BB%BC%E8%89%BA%E7%A9%BF%E4%BA%86%E6%88%98%E5%9B%BD%E8%A2%8D%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "王源也来拍复仇摇了",
+          "url": "https://www.douyin.com/hot/2503850",
+          "source": "抖音",
           "ranks": [
-            9
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
+          "time_info": "[01时57分 ~ 01时58分]"
         }
       ]
     }
