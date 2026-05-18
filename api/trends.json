@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T03:45:55.616374+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-19T05:08:50.100388+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%85%E5%9C%B0%E6%94%B6%E5%AE%98&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 01时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 05时08分]"
         },
         {
           "title": "王源也来拍复仇摇了",
