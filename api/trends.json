@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T12:58:50.345985+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-05-19T16:28:13.608554+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "王源也来拍复仇摇了",
@@ -33,6 +33,17 @@
           "time_info": "[01时57分 ~ 05时08分]"
         },
         {
+          "title": "林俊杰出席女友毕业典礼",
+          "url": "https://www.toutiao.com/trending/7641436978122899462/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
           "title": "周杰伦昆凌大女儿长这么大了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%86%E5%87%8C%E5%A4%A7%E5%A5%B3%E5%84%BF%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -43,6 +54,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时07分 ~ 12时58分]"
+        },
+        {
+          "title": "林俊杰现身七七毕业典礼",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%8E%B0%E8%BA%AB%E4%B8%83%E4%B8%83%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "林俊杰出席女友毕业典礼",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%87%BA%E5%B8%AD%E5%A5%B3%E5%8F%8B%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "刘宇宁警官造型路透",
@@ -62,7 +95,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -73,7 +106,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -84,7 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -95,7 +128,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
