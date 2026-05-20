@@ -1,104 +1,33 @@
 {
-  "generated_at": "2026-05-20T23:07:01.715715+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-05-21T02:02:05.470394+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "陈赫在综艺发火了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%9C%A8%E7%BB%BC%E8%89%BA%E5%8F%91%E7%81%AB%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
         {
           "title": "周杰伦七月的极光MV发布",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%83%E6%9C%88%E7%9A%84%E6%9E%81%E5%85%89MV%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 23时07分]"
-        },
-        {
-          "title": "王源衣服上手缝了三万多颗珠子",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%A1%A3%E6%9C%8D%E4%B8%8A%E6%89%8B%E7%BC%9D%E4%BA%86%E4%B8%89%E4%B8%87%E5%A4%9A%E9%A2%97%E7%8F%A0%E5%AD%90%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时13分]"
-        },
-        {
-          "title": "陈赫在综艺发火了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%9C%A8%E7%BB%BC%E8%89%BA%E5%8F%91%E7%81%AB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时47分 ~ 23时07分]"
-        },
-        {
-          "title": "国台办回应周杰伦等在大陆开演唱会",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%AD%89%E5%9C%A8%E5%A4%A7%E9%99%86%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 19时48分]"
-        },
-        {
-          "title": "王力宏演唱会主题曲是 AI 制作，《在梅边》新版也被指 AI 编曲，他是第一个全面拥抱 AI 的主流歌手吗？",
-          "url": "https://www.zhihu.com/question/2040077336809322399",
-          "source": "知乎",
-          "ranks": [
-            13
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
-        },
-        {
-          "title": "林俊杰晒和七七合照",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%99%92%E5%92%8C%E4%B8%83%E4%B8%83%E5%90%88%E7%85%A7%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "如何评价黄霄雲二专第三首新歌《年少心动雨季》?",
-          "url": "https://www.zhihu.com/question/2040058435450954150",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "林俊杰晒和女友七七毕业合照",
-          "url": "https://www.baidu.com/s?wd=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%99%92%E5%92%8C%E5%A5%B3%E5%8F%8B%E4%B8%83%E4%B8%83%E6%AF%95%E4%B8%9A%E5%90%88%E7%85%A7",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "time_info": "[02时01分 ~ 02时02分]"
         }
       ]
     }
