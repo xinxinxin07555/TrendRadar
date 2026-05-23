@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T01:59:06.508823+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-05-24T03:15:29.572435+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "五月天阿信就胡同公厕变打卡点致歉",
@@ -27,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时15分]"
         },
         {
           "title": "李宇春港得好帅",
