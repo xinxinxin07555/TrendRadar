@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T06:50:19.407833+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-05-24T07:55:02.238921+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             11,
             19,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 06时50分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时55分]"
         },
         {
           "title": "五月天阿信就胡同公厕变打卡点致歉",
