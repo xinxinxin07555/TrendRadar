@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T19:14:08.140917+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2026-05-24T21:18:41.225006+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             19,
             18,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 19时14分]"
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 21时18分]"
         },
         {
           "title": "五月天阿信就胡同公厕变打卡点致歉",
@@ -40,11 +41,12 @@
           "url": "https://www.zhihu.com/question/20730547",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时18分]"
         },
         {
           "title": "张杰粤语版天下",
@@ -54,8 +56,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时18分]"
         },
         {
           "title": "汪苏泷跳了三次误闯天家",
