@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T00:07:43.904561+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T01:57:37.171893+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/20730547",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时57分]"
         },
         {
           "title": "张杰粤语版天下",
           "url": "https://www.douyin.com/hot/2510371",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时57分]"
         },
         {
           "title": "张靓颖杭州演唱会意外摔倒",
@@ -37,8 +39,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 01时57分]"
         }
       ]
     }
