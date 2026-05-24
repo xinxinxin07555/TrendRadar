@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T01:57:37.171893+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-05-25T03:16:28.724322+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时16分]"
+        },
+        {
+          "title": "张靓颖杭州演唱会意外摔倒",
+          "url": "https://www.toutiao.com/trending/7642907577554305060/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 03时16分]"
         },
         {
           "title": "张杰粤语版天下",
@@ -26,17 +38,6 @@
           "ranks": [
             19,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 01时57分]"
-        },
-        {
-          "title": "张靓颖杭州演唱会意外摔倒",
-          "url": "https://www.toutiao.com/trending/7642907577554305060/",
-          "source": "今日头条",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 2,
