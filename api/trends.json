@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T20:26:05.550380+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-05-25T23:48:46.665766+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 20时26分]"
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 23时48分]"
         },
         {
           "title": "张靓颖杭州演唱会意外摔倒",
