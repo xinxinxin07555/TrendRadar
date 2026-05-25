@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T11:51:42.119721+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-05-25T16:18:06.572321+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "张靓颖杭州演唱会意外摔倒",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 03时16分]"
+        },
+        {
+          "title": "王鹤棣过往综艺言行大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%BF%87%E5%BE%80%E7%BB%BC%E8%89%BA%E8%A8%80%E8%A1%8C%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时17分 ~ 16时18分]"
         },
         {
           "title": "汪峰晒与四个孩子合照",
