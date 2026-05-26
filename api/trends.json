@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T03:16:17.346425+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-27T05:41:19.303701+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么感觉现在陶喆比王力宏受欢迎？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时41分]"
         },
         {
           "title": "王鹤棣过往综艺言行大赏",
@@ -25,11 +26,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 05时41分]"
+        },
+        {
+          "title": "如何看待王鹤棣与沈月因综艺节目中的一句玩笑引发的公开冲突？",
+          "url": "https://www.zhihu.com/question/2041919274411939599",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     }
