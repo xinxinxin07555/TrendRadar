@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T00:40:16.561571+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-27T03:16:17.346425+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/645669785",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 03时16分]"
         },
         {
           "title": "王鹤棣过往综艺言行大赏",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%BF%87%E5%BE%80%E7%BB%BC%E8%89%BA%E8%A8%80%E8%A1%8C%E5%A4%A7%E8%B5%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 03时16分]"
         }
       ]
     }
