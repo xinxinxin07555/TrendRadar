@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T13:02:21.235821+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-05-26T16:40:02.124399+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             10,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 13时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时40分 ~ 16时40分]"
         },
         {
           "title": "大幅刷新历史纪录！英国迎“史上最热五月天”",
