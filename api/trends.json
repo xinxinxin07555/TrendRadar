@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T05:06:43.722629+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-05-29T07:12:25.651142+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "林俊杰连夜删光哥嫂合照",
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 07时12分]"
         },
         {
           "title": "王源起诉B站名誉权纠纷",
@@ -26,8 +26,30 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[02时34分 ~ 07时12分]"
+        },
+        {
+          "title": "芒果TV发布2026综艺片单",
+          "url": "https://www.douyin.com/hot/2515229",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "秦娥下乡演出发生舞台事故后崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A8%A5%E4%B8%8B%E4%B9%A1%E6%BC%94%E5%87%BA%E5%8F%91%E7%94%9F%E8%88%9E%E5%8F%B0%E4%BA%8B%E6%95%85%E5%90%8E%E5%B4%A9%E6%BA%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "丁程鑫cue嫁人就嫁刘宇宁",
@@ -36,7 +58,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
