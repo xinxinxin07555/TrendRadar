@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T19:38:53.636637+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-05-28T23:43:12.532501+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,25 @@
             2,
             8,
             11,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时24分 ~ 19时38分]"
+          "appearance_count": 9,
+          "time_info": "[02时24分 ~ 23时43分]"
+        },
+        {
+          "title": "林俊杰连夜删光哥嫂合照",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354651&amp;topic_name=%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%BF%9E%E5%A4%9C%E5%88%A0%E5%85%89%E5%93%A5%E5%AB%82%E5%90%88%E7%85%A7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 23时43分]"
         },
         {
           "title": "刘宇宁说王玉雯跳出体弱多病的感觉",
@@ -46,18 +60,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 06时46分]"
-        },
-        {
-          "title": "林俊杰连夜删光哥嫂合照",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354651&amp;topic_name=%E6%9E%97%E4%BF%8A%E6%9D%B0%E8%BF%9E%E5%A4%9C%E5%88%A0%E5%85%89%E5%93%A5%E5%AB%82%E5%90%88%E7%85%A7",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 19时38分]"
         },
         {
           "title": "林俊杰删掉大哥大嫂合照",
