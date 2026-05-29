@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T10:51:00.510053+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-05-29T14:53:07.294387+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 10时51分]"
+          "appearance_count": 8,
+          "time_info": "[02时34分 ~ 14时53分]"
         },
         {
           "title": "王源起诉B站名誉权纠纷",
