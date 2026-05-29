@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T04:16:17.151716+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-05-30T06:27:12.098160+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%AD%A6%E5%85%AD%E4%B8%80%E6%99%9A%E4%BC%9A%E6%95%88%E6%9E%9C%E5%A0%AA%E6%AF%94%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 06时27分]"
         },
         {
           "title": "王力宏杭州演唱会",
@@ -27,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 06时27分]"
         },
         {
           "title": "王濛刘雨昕大师课续费了",
@@ -39,8 +40,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时33分 ~ 04时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 06时27分]"
         },
         {
           "title": "小学举办六一晚会效果堪比演唱会",
@@ -49,7 +50,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
