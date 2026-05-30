@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T17:57:12.316031+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-05-30T19:19:02.778558+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             19,
             15,
             16,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时33分 ~ 17时57分]"
+          "appearance_count": 14,
+          "time_info": "[01时33分 ~ 19时19分]"
         },
         {
           "title": "小学六一晚会效果堪比演唱会",
@@ -63,11 +64,12 @@
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%97%93%E5%94%B1%E6%AD%8C",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时56分 ~ 17时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时56分 ~ 19时19分]"
         },
         {
           "title": "小学举办六一晚会效果堪比演唱会",
