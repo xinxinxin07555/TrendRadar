@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T04:07:19.251348+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-05-31T05:58:44.848188+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
         },
         {
           "title": "鸟巢偶遇王菲看谢霆锋演唱会",
@@ -27,11 +27,25 @@
           "ranks": [
             4,
             8,
-            17
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
+        },
+        {
+          "title": "李宇春下个路口见泪目现场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E8%A7%81%E6%B3%AA%E7%9B%AE%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            17,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "time_info": "[00时59分 ~ 05时58分]"
         },
         {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
@@ -46,18 +60,6 @@
           "time_info": "[00时59分 ~ 02时04分]"
         },
         {
-          "title": "李宇春下个路口见泪目现场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%8B%E4%B8%AA%E8%B7%AF%E5%8F%A3%E8%A7%81%E6%B3%AA%E7%9B%AE%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 04时07分]"
-        },
-        {
           "title": "听完周深逆光耳朵先毕业",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%AC%E5%AE%8C%E5%91%A8%E6%B7%B1%E9%80%86%E5%85%89%E8%80%B3%E6%9C%B5%E5%85%88%E6%AF%95%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -66,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
         },
         {
           "title": "宋亚轩又输给了李宇春",
@@ -75,11 +77,12 @@
           "source": "微博",
           "ranks": [
             16,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
         },
         {
           "title": "李荣浩贵阳演唱会",
@@ -89,8 +92,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
         },
         {
           "title": "陈楚生郑州演唱会",
@@ -101,8 +104,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
         },
         {
           "title": "谢霆锋北京演唱会",
@@ -113,8 +116,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时59分 ~ 04时07分]"
+          "appearance_count": 4,
+          "time_info": "[00时59分 ~ 05时58分]"
+        },
+        {
+          "title": "周深实体专辑《反深代词》预售 12 分钟销售额破 5000 万，这一成绩意味着什么？",
+          "url": "https://www.zhihu.com/question/2043682223677861994",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时07分 ~ 05时58分]"
         },
         {
           "title": "王力宏杭州演唱会",
@@ -126,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时04分]"
-        },
-        {
-          "title": "周深实体专辑《反深代词》预售 12 分钟销售额破 5000 万，这一成绩意味着什么？",
-          "url": "https://www.zhihu.com/question/2043682223677861994",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时07分"
         }
       ]
     }
