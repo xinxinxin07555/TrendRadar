@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T01:59:32.966925+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-06-01T03:22:54.653799+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时22分]"
         },
         {
           "title": "陶喆100场巡演收官",
@@ -24,11 +24,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 03时22分]"
+        },
+        {
+          "title": "20年青梅竹马演唱会上求婚 邓超祝福",
+          "url": "https://www.baidu.com/s?wd=20%E5%B9%B4%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%B1%82%E5%A9%9A+%E9%82%93%E8%B6%85%E7%A5%9D%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时59分]"
+          "time_info": "[01时59分 ~ 03时22分]"
         },
         {
           "title": "王源 好听",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "20年青梅竹马演唱会上求婚 邓超祝福",
-          "url": "https://www.baidu.com/s?wd=20%E5%B9%B4%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%B1%82%E5%A9%9A+%E9%82%93%E8%B6%85%E7%A5%9D%E7%A6%8F",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时59分"
         }
       ]
     }
