@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T03:22:54.653799+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-06-01T04:55:57.751639+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "陶喆100场巡演收官",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "20年青梅竹马演唱会上求婚 邓超祝福",
@@ -37,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             27,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 04时55分]"
         },
         {
           "title": "王源 好听",
