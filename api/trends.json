@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T18:56:02.878357+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-05-31T20:10:13.214421+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "小学六一晚会效果堪比演唱会，超 10 万网友在线观看，学校称得益于日常美育，怎样看待学校的教育方式？",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时16分 ~ 18时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 20时10分]"
         },
         {
           "title": "黄霄雲 刻在我心底的名字",
@@ -140,6 +140,19 @@
           "time_info": "[13时16分 ~ 18时56分]"
         },
         {
+          "title": "窦唯妹妹去谢霆锋演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%AA%A6%E5%94%AF%E5%A6%B9%E5%A6%B9%E5%8E%BB%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时10分]"
+        },
+        {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
           "url": "https://flash.jin10.com/detail/20260531001517348800",
           "source": "金十数据",
@@ -150,6 +163,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时04分]"
+        },
+        {
+          "title": "吴克群遂宁助农式逆应援",
+          "url": "https://www.douyin.com/hot/2518830",
+          "source": "抖音",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时55分 ~ 20时10分]"
         },
         {
           "title": "王菲低调现身谢霆锋鸟巢演唱会",
@@ -223,17 +248,6 @@
           "time_info": "[13时16分 ~ 13时17分]"
         },
         {
-          "title": "窦唯妹妹去谢霆锋演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%AA%A6%E5%94%AF%E5%A6%B9%E5%A6%B9%E5%8E%BB%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
-        },
-        {
           "title": "刘宇宁再唱平凡的日子借一点光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%86%8D%E5%94%B1%E5%B9%B3%E5%87%A1%E7%9A%84%E6%97%A5%E5%AD%90%E5%80%9F%E4%B8%80%E7%82%B9%E5%85%89%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -256,15 +270,15 @@
           "time_info": "[00时59分 ~ 02时04分]"
         },
         {
-          "title": "吴克群遂宁助农式逆应援",
-          "url": "https://www.douyin.com/hot/2518830",
+          "title": "张杰醉帽换装",
+          "url": "https://www.douyin.com/hot/2518566",
           "source": "抖音",
           "ranks": [
-            30
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时55分 ~ 18时56分]"
+          "time_info": "[20时09分 ~ 20时10分]"
         },
         {
           "title": "成龙求张杰以后别唱他的歌",
