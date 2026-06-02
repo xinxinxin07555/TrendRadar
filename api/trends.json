@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T11:35:29.161984+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-02T16:26:22.423379+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "公安交管局就综艺安全带P图发声",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -47,11 +47,23 @@
           "ranks": [
             23,
             16,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 16时26分]"
+        },
+        {
+          "title": "葬礼撞上演唱会,追星族想选偶像",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "王嘉尔转场张杰演唱会视频",
@@ -60,9 +72,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "张杰真不舒服了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9C%9F%E4%B8%8D%E8%88%92%E6%9C%8D%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "张杰工作室发布声明",
+          "url": "https://www.douyin.com/hot/2521059",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "陈粒演唱会情侣假求婚",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B2%92%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%85%E4%BE%A3%E5%81%87%E6%B1%82%E5%A9%9A%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "新华社跟访儿童节演出台前幕后",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%B7%9F%E8%AE%BF%E5%84%BF%E7%AB%A5%E8%8A%82%E6%BC%94%E5%87%BA%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "邓紫棋何超莲合照",
