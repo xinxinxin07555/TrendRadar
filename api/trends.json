@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T16:26:22.423379+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-06-02T20:39:14.007270+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "公安交管局就综艺安全带P图发声",
@@ -59,11 +59,45 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 20时39分]"
+        },
+        {
+          "title": "张杰工作室发布声明",
+          "url": "https://www.douyin.com/hot/2521059",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 20时39分]"
+        },
+        {
+          "title": "媒体评综艺安全带P图",
+          "url": "https://www.douyin.com/hot/2521128",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
+        },
+        {
+          "title": "如何看待《奔跑吧》《这就是我的西游 2》等综艺嘉宾安全带被曝是后期 P 图？节目组会受处罚吗？",
+          "url": "https://www.zhihu.com/question/2044830466537215022",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 20时39分]"
         },
         {
           "title": "王嘉尔转场张杰演唱会视频",
@@ -83,18 +117,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "张杰工作室发布声明",
-          "url": "https://www.douyin.com/hot/2521059",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -105,7 +128,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -116,7 +139,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
