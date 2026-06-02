@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-03T04:43:57.737587+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-06-03T07:01:14.618688+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "媒体评综艺安全带P图",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "如何看待《奔跑吧》《这就是我的西游 2》等综艺嘉宾安全带被曝是后期 P 图？节目组会受处罚吗？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "张杰工作室发布声明",
@@ -51,8 +53,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "汪峰森林北六一合体带娃",
@@ -62,8 +64,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "在两万人的演唱会舞台上跑步",
@@ -71,11 +73,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 07时01分]"
         },
         {
           "title": "媒体评综艺节目嘉宾安全带系P图：交通规则岂能为娱乐流量让步",
@@ -84,7 +87,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }
