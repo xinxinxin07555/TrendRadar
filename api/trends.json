@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-03T14:50:17.488149+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2026-06-03T19:54:33.677741+08:00",
+  "total_titles_processed": 1090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "葬礼撞上演唱会,追星族想选偶像",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 19时54分]"
+        },
+        {
+          "title": "歌剧老师锐评BLACKPINK",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84BLACKPINK",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
         {
           "title": "媒体评综艺安全带P图",
           "url": "https://www.douyin.com/hot/2521128",
@@ -22,16 +46,15 @@
           "time_info": "[01时19分 ~ 09时44分]"
         },
         {
-          "title": "葬礼撞上演唱会,追星族想选偶像",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354783&amp;topic_name=%E8%91%AC%E7%A4%BC%E6%92%9E%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%2C%E8%BF%BD%E6%98%9F%E6%97%8F%E6%83%B3%E9%80%89%E5%81%B6%E5%83%8F",
-          "source": "贴吧",
+          "title": "张杰工作室将追责恶意混剪者，侵权账号将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2045154588853110633",
+          "source": "知乎",
           "ranks": [
-            12,
-            19
+            4
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 14时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "张杰工作室发布声明",
@@ -106,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 14时50分]"
+        },
+        {
+          "title": "瞿颖晒与周杰伦打网球合影",
+          "url": "https://www.baidu.com/s?wd=%E7%9E%BF%E9%A2%96%E6%99%92%E4%B8%8E%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%89%93%E7%BD%91%E7%90%83%E5%90%88%E5%BD%B1",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         }
       ]
     }
