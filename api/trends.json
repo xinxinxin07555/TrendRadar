@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T04:17:29.980893+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-06-04T07:04:16.610308+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 07时04分]"
         },
         {
           "title": "葬礼撞上演唱会,追星族想选偶像",
@@ -27,8 +28,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 04时17分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 07时04分]"
         }
       ]
     }
