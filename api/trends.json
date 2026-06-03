@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T00:41:00.675688+08:00",
-  "total_titles_processed": 319,
+  "generated_at": "2026-06-04T04:17:29.980893+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%8C%E5%89%A7%E8%80%81%E5%B8%88%E9%94%90%E8%AF%84BLACKPINK",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时17分]"
         },
         {
           "title": "葬礼撞上演唱会,追星族想选偶像",
@@ -26,8 +27,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 00时41分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 04时17分]"
         }
       ]
     }
