@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T01:43:39.072900+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-05T04:01:26.072994+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 04时01分]"
         },
         {
           "title": "人脉哥带李宇春玩抽象",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E8%84%89%E5%93%A5%E5%B8%A6%E6%9D%8E%E5%AE%87%E6%98%A5%E7%8E%A9%E6%8A%BD%E8%B1%A1",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 04时01分]"
         },
         {
           "title": "鸣潮演出PV制作揭秘",
           "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%87%BAPV%E5%88%B6%E4%BD%9C%E6%8F%AD%E7%A7%98",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 04时01分]"
         }
       ]
     }
