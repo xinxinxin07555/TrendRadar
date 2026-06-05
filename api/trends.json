@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T03:52:52.510746+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-06T05:23:00.579343+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%9B%8B%E9%BB%84%E6%B4%BE%E4%BC%AA%E8%A3%85%E6%91%84%E5%BD%B1%E5%B8%88%E7%AA%81%E8%A2%AD%E5%91%A8%E6%B7%B1",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时14分 ~ 05时23分]"
         },
         {
           "title": "王源线下皮肤状态",
