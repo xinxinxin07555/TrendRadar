@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T05:23:00.579343+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2026-06-06T07:05:13.430492+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时14分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "王源线下皮肤状态",
