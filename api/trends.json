@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T15:13:36.039775+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-06-05T19:25:19.245387+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 15时13分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 19时25分]"
         },
         {
           "title": "人脉哥带李宇春玩抽象",
@@ -51,7 +52,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         }
