@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T01:08:02.337954+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-07T03:16:48.920702+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时16分]"
         },
         {
           "title": "王濛：这是让周杰伦听见我的机会",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%BF%9B%EF%BC%9A%E8%BF%99%E6%98%AF%E8%AE%A9%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%AC%E8%A7%81%E6%88%91%E7%9A%84%E6%9C%BA%E4%BC%9A",
           "source": "百度热搜",
           "ranks": [
-            24
+            24,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时16分]"
         },
         {
           "title": "被张杰笼舞台的冲击力震撼了",
