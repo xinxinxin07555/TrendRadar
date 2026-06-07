@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T19:07:33.833539+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-06-07T21:45:27.083034+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 21时45分]"
         },
         {
           "title": "谢娜官宣个人巡回演唱会",
@@ -58,8 +59,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时19分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[13时19分 ~ 21时45分]"
         },
         {
           "title": "被张杰笼舞台的冲击力震撼了",
