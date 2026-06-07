@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T16:51:54.806527+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-06-07T19:07:33.833539+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "url": "https://www.douyin.com/hot/2525700",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 19时07分]"
         },
         {
           "title": "谢娜官宣个人巡回演唱会",
@@ -53,11 +54,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 19时07分]"
         },
         {
           "title": "被张杰笼舞台的冲击力震撼了",
