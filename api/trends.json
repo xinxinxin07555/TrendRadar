@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T06:12:52.143883+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-07T08:02:18.739573+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             14,
             15,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时02分]"
         },
         {
           "title": "王濛：这是让周杰伦听见我的机会",
@@ -28,11 +29,12 @@
           "ranks": [
             24,
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时02分]"
         },
         {
           "title": "被张杰笼舞台的冲击力震撼了",
