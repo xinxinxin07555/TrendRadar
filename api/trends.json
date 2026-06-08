@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T04:09:57.747896+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-09T06:24:32.949697+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 06时24分]"
         },
         {
           "title": "94岁胡枫演唱会开近5小时",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 06时24分]"
         },
         {
           "title": "综艺嘉宾与观众观感反差",
@@ -36,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 06时24分]"
         },
         {
           "title": "胡枫演唱会刘德华深情演唱忘情水",
@@ -48,11 +49,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 04时09分]"
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 06时24分]"
         },
         {
           "title": "王源文淇新片怀疑世界是剧本",
