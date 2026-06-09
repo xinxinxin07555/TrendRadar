@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T20:35:16.325945+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-06-09T23:52:50.411435+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "图讯｜习近平和彭丽媛观看朝鲜专场文艺演出",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33337976",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 23时52分]"
+        },
         {
           "title": "习近平和彭丽媛观看朝鲜文艺演出",
           "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E5%BD%AD%E4%B8%BD%E5%AA%9B%E8%A7%82%E7%9C%8B%E6%9C%9D%E9%B2%9C%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 08时03分]"
-        },
-        {
-          "title": "图讯｜习近平和彭丽媛观看朝鲜专场文艺演出",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33337976",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 20时35分]"
         },
         {
           "title": "综艺嘉宾与观众观感反差",
@@ -68,6 +68,28 @@
           "time_info": "[20时34分 ~ 20时35分]"
         },
         {
+          "title": "《跑男》被指「还在挑衅观众」，曾经的王牌综艺怎么会走到这个地步？",
+          "url": "https://www.zhihu.com/question/2046551143426348866",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
+          "title": "谢娜演唱会主办方回应",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BB%E5%8A%9E%E6%96%B9%E5%9B%9E%E5%BA%94%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时52分"
+        },
+        {
           "title": "94岁胡枫演唱会开近5小时",
           "url": "https://www.baidu.com/s?wd=94%E5%B2%81%E8%83%A1%E6%9E%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E8%BF%915%E5%B0%8F%E6%97%B6",
           "source": "百度热搜",
@@ -95,6 +117,18 @@
           "time_info": "[01时20分 ~ 08时03分]"
         },
         {
+          "title": "汪苏泷携手UP主共创MV",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%90%BA%E6%89%8BUP%E4%B8%BB%E5%85%B1%E5%88%9BMV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时35分 ~ 23时52分]"
+        },
+        {
           "title": "迷惑！美国顶流歌手演唱会现场直接把观众手机扔了",
           "url": "https://v.ifeng.com/c/8tnURPNnxME",
           "source": "凤凰网",
@@ -106,15 +140,15 @@
           "time_info": "08时03分"
         },
         {
-          "title": "汪苏泷携手UP主共创MV",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%90%BA%E6%89%8BUP%E4%B8%BB%E5%85%B1%E5%88%9BMV",
-          "source": "bilibili 热搜",
+          "title": "视频丨朝鲜专场文艺演出中，这些中国歌曲引起全场共鸣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33339561",
+          "source": "澎湃新闻",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时35分"
+          "time_info": "23时52分"
         },
         {
           "title": "王源文淇新片怀疑世界是剧本",
