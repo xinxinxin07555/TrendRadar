@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T08:10:19.815170+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-06-10T13:15:09.423534+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "图讯｜习近平和彭丽媛观看朝鲜专场文艺演出",
@@ -37,11 +37,45 @@
           "ranks": [
             3,
             4,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 13时15分]"
+        },
+        {
+          "title": "谢娜官宣演唱会引争议 海淀文旅回应",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%95%E4%BA%89%E8%AE%AE+%E6%B5%B7%E6%B7%80%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "谢娜演唱会为何有人不舒服",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E4%B8%8D%E8%88%92%E6%9C%8D%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "谢娜北京演唱会仅3万人想看",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%853%E4%B8%87%E4%BA%BA%E6%83%B3%E7%9C%8B%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "汪苏泷携手UP主共创MV",
@@ -61,7 +95,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -72,7 +106,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -94,7 +128,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
