@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T05:57:57.450356+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-06-11T07:25:24.229672+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时32分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[03时32分 ~ 07时25分]"
         },
         {
           "title": "谢娜曾说开一场演唱会是为「圆梦」，如今却官宣开启全国巡演，被网友质疑动机，为何会有人不舒服？你怎么看？",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "谢娜演唱会被抵制的原因",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "唱功仅粉丝可见的谢娜们该开演唱会吗",
@@ -46,11 +46,25 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            15
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时32分 ~ 07时25分]"
+        },
+        {
+          "title": "刘宇宁也开始找龚俊了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%89%BE%E9%BE%9A%E4%BF%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            28,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时32分 ~ 05时57分]"
+          "time_info": "[00时33分 ~ 07时25分]"
         },
         {
           "title": "拍一个研究生的综艺叫什么合适",
@@ -62,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 03时33分]"
-        },
-        {
-          "title": "刘宇宁也开始找龚俊了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%89%BE%E9%BE%9A%E4%BF%8A%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 05时57分]"
         },
         {
           "title": "王濛放话能卖票就开演唱会",
