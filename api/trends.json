@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-06-11T00:33:57.549163+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-11T03:33:06.371882+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "好多不是歌手的明星也开演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9A%E4%B8%8D%E6%98%AF%E6%AD%8C%E6%89%8B%E7%9A%84%E6%98%8E%E6%98%9F%E4%B9%9F%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 03时33分]"
+        },
+        {
+          "title": "谢娜曾说开一场演唱会是为「圆梦」，如今却官宣开启全国巡演，被网友质疑动机，为何会有人不舒服？你怎么看？",
+          "url": "https://www.zhihu.com/question/2047783784519394493",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 03时33分]"
+        },
+        {
+          "title": "谢娜演唱会被抵制的原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8A%B5%E5%88%B6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 03时33分]"
+        },
+        {
+          "title": "拍一个研究生的综艺叫什么合适",
+          "url": "https://s.weibo.com/weibo?q=%E6%8B%8D%E4%B8%80%E4%B8%AA%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E7%BB%BC%E8%89%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%88%E9%80%82&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 03时33分]"
+        },
+        {
+          "title": "唱功仅粉丝可见的谢娜们该开演唱会吗",
+          "url": "https://www.baidu.com/s?wd=%E5%94%B1%E5%8A%9F%E4%BB%85%E7%B2%89%E4%B8%9D%E5%8F%AF%E8%A7%81%E7%9A%84%E8%B0%A2%E5%A8%9C%E4%BB%AC%E8%AF%A5%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 03时33分]"
+        },
+        {
+          "title": "王濛放话能卖票就开演唱会",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%BF%9B%E6%94%BE%E8%AF%9D%E8%83%BD%E5%8D%96%E7%A5%A8%E5%B0%B1%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时32分 ~ 03时33分]"
+        },
         {
           "title": "王濛回应开演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%9B%9E%E5%BA%94%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=8&Refer=top",
@@ -24,28 +90,6 @@
           "source": "微博",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "谢娜曾说开一场演唱会是为「圆梦」，如今却官宣开启全国巡演，被网友质疑动机，为何会有人不舒服？你怎么看？",
-          "url": "https://www.zhihu.com/question/2047783784519394493",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "谢娜演唱会被抵制的原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8A%B5%E5%88%B6%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
