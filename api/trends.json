@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T03:33:16.209464+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-12T05:59:45.134368+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时59分]"
         },
         {
           "title": "周杰伦林俊杰合唱那天下雨了",
           "url": "https://www.douyin.com/hot/2530754",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时52分 ~ 03时33分]"
+          "appearance_count": 3,
+          "time_info": "[00时52分 ~ 05时59分]"
         },
         {
           "title": "张杰谢娜做错了什么",
