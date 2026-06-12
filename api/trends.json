@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T05:29:33.196441+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-06-13T07:14:54.320791+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             13,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时29分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 07时14分]"
         },
         {
           "title": "蔡依林叫马龙宝宝",
@@ -37,11 +38,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E8%B0%A2%E5%A8%9C%E8%B7%A8%E7%95%8C%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 07时14分]"
         }
       ]
     }
