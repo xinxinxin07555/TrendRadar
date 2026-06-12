@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T11:33:37.814333+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2026-06-12T16:22:27.819865+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 11时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 16时22分]"
         },
         {
           "title": "张杰评论区被问怎么看谢娜全国巡演",
@@ -74,7 +75,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
