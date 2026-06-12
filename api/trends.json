@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T00:15:29.077135+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T03:03:00.295422+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E4%BD%95%E8%A2%AB%E6%8A%B5%E5%88%B6",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时03分]"
         },
         {
           "title": "蔡依林叫马龙宝宝",
           "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E5%8F%AB%E9%A9%AC%E9%BE%99%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时03分]"
         },
         {
           "title": "怎么看待谢娜跨界开演唱会",
