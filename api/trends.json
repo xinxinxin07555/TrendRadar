@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T07:14:54.320791+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-06-13T10:59:02.052890+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             13,
             3,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 07时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 10时59分]"
         },
         {
           "title": "蔡依林叫马龙宝宝",
