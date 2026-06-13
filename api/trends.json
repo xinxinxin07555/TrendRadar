@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T04:13:46.247863+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-06-14T06:01:51.397799+08:00",
+  "total_titles_processed": 446,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 06时01分]"
         },
         {
           "title": "张杰谢娜演唱会名场面",
@@ -27,11 +27,12 @@
           "ranks": [
             13,
             19,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 06时01分]"
         },
         {
           "title": "谢霆锋南京演唱会",
@@ -39,11 +40,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 06时01分]"
         },
         {
           "title": "薛之谦洛阳演唱会",
@@ -51,11 +53,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时14分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时14分 ~ 06时01分]"
         },
         {
           "title": "单依纯连发9条动态为演唱会打call",
@@ -68,6 +71,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时13分]"
+        },
+        {
+          "title": "单依纯厦门演唱会",
+          "url": "https://www.douyin.com/hot/2533434",
+          "source": "抖音",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 06时01分]"
         },
         {
           "title": "张远深圳演唱会",
@@ -90,17 +105,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
-        },
-        {
-          "title": "单依纯厦门演唱会",
-          "url": "https://www.douyin.com/hot/2533434",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
         }
       ]
     }
