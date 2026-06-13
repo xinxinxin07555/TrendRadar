@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-14T06:01:51.397799+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-06-14T07:15:04.234588+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             12,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时15分]"
         },
         {
           "title": "张杰谢娜演唱会名场面",
@@ -28,11 +29,12 @@
             13,
             19,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时15分]"
         },
         {
           "title": "谢霆锋南京演唱会",
@@ -41,11 +43,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时15分]"
         },
         {
           "title": "薛之谦洛阳演唱会",
@@ -61,6 +64,19 @@
           "time_info": "[00时14分 ~ 06时01分]"
         },
         {
+          "title": "单依纯厦门演唱会",
+          "url": "https://www.douyin.com/hot/2533434",
+          "source": "抖音",
+          "ranks": [
+            27,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时15分]"
+        },
+        {
           "title": "单依纯连发9条动态为演唱会打call",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E8%BF%9E%E5%8F%919%E6%9D%A1%E5%8A%A8%E6%80%81%E4%B8%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%93call%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -73,16 +89,15 @@
           "time_info": "[02时05分 ~ 04时13分]"
         },
         {
-          "title": "单依纯厦门演唱会",
-          "url": "https://www.douyin.com/hot/2533434",
-          "source": "抖音",
+          "title": "蔡依林演唱会嘉宾是林俊杰",
+          "url": "https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%9E%97%E4%BF%8A%E6%9D%B0",
+          "source": "百度热搜",
           "ranks": [
-            27,
-            20
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时13分 ~ 06时01分]"
+          "time_info": "[07时14分 ~ 07时15分]"
         },
         {
           "title": "张远深圳演唱会",
