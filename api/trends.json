@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T05:07:51.238180+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-06-15T07:06:01.576004+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时07分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时06分]"
+        },
+        {
+          "title": "张杰谢娜演唱会名场面",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 07时06分]"
         },
         {
           "title": "李兰迪说蔡依林是妈咪",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 05时07分]"
-        },
-        {
-          "title": "张杰谢娜演唱会名场面",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时21分]"
         },
         {
           "title": "邓紫棋发文悼念黄大炜",
