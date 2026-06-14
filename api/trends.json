@@ -1,174 +1,44 @@
 {
-  "generated_at": "2026-06-14T23:48:24.332773+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-15T01:17:32.484944+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "《大鱼海棠》导演发文称王菲「要求多报价贵」、「对不起周深，我喜欢梁博」，如何评价此事？",
+          "url": "https://www.zhihu.com/question/2049533398402781507",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
         {
           "title": "张杰谢娜演唱会名场面",
           "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            19,
-            16,
-            20,
-            18,
-            15,
-            17,
-            26,
-            24
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时14分 ~ 23时48分]"
-        },
-        {
-          "title": "谢霆锋南京演唱会",
-          "url": "https://www.douyin.com/hot/2532939",
-          "source": "抖音",
-          "ranks": [
-            16,
-            17,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时14分 ~ 11时37分]"
-        },
-        {
-          "title": "为什么谢娜开演唱会这么多人骂？同样的岳云鹏就没有？",
-          "url": "https://www.zhihu.com/question/2047118369313273085",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时15分]"
-        },
-        {
-          "title": "薛之谦洛阳演唱会",
-          "url": "https://www.douyin.com/hot/2532935",
-          "source": "抖音",
-          "ranks": [
-            18,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 06时01分]"
-        },
-        {
-          "title": "单依纯厦门演唱会",
-          "url": "https://www.douyin.com/hot/2533434",
-          "source": "抖音",
-          "ranks": [
-            27,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 07时15分]"
-        },
-        {
-          "title": "单依纯连发9条动态为演唱会打call",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E8%BF%9E%E5%8F%919%E6%9D%A1%E5%8A%A8%E6%80%81%E4%B8%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%93call%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时13分]"
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "邓紫棋发文悼念黄大炜",
           "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%B4%AB%E6%A3%8B%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E9%BB%84%E5%A4%A7%E7%82%9C",
           "source": "百度热搜",
           "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 23时48分]"
-        },
-        {
-          "title": "蔡依林演唱会嘉宾是林俊杰",
-          "url": "https://www.baidu.com/s?wd=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E6%9E%97%E4%BF%8A%E6%9D%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
-        },
-        {
-          "title": "张远深圳演唱会",
-          "url": "https://www.douyin.com/hot/2533436",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "张韶涵暴雨中唱完3小时",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%9A%B4%E9%9B%A8%E4%B8%AD%E5%94%B1%E5%AE%8C3%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            14
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "谢霆锋南京演唱会现场气氛好",
-          "url": "https://www.toutiao.com/trending/7650669284406034468/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时37分"
-        },
-        {
-          "title": "韩红演唱会70岁以上老人有197位",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%BC%94%E5%94%B1%E4%BC%9A70%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E6%9C%89197%E4%BD%8D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时48分"
-        },
-        {
-          "title": "张杰来给音综上强度了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%9D%A5%E7%BB%99%E9%9F%B3%E7%BB%BC%E4%B8%8A%E5%BC%BA%E5%BA%A6%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时17分"
         }
       ]
     }
