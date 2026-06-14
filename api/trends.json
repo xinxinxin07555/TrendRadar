@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-15T01:17:32.484944+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-15T03:21:40.194764+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "《大鱼海棠》导演发文称王菲「要求多报价贵」、「对不起周深，我喜欢梁博」，如何评价此事？",
           "url": "https://www.zhihu.com/question/2049533398402781507",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时21分]"
         },
         {
           "title": "张杰谢娜演唱会名场面",
@@ -26,8 +27,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时21分]"
+        },
+        {
+          "title": "李兰迪说蔡依林是妈咪",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%AF%B4%E8%94%A1%E4%BE%9D%E6%9E%97%E6%98%AF%E5%A6%88%E5%92%AA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "03时21分"
         },
         {
           "title": "邓紫棋发文悼念黄大炜",
