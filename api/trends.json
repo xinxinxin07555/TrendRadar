@@ -1,10 +1,7 @@
 {
-  "generated_at": "2026-06-15T18:02:34.003592+08:00",
-  "total_titles_processed": 994,
-  "failed_sources": [
-    "baidu",
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-06-15T23:51:37.790389+08:00",
+  "total_titles_processed": 1206,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
@@ -18,22 +15,24 @@
             5,
             4,
             2,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 11时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 23时51分]"
         },
         {
           "title": "周杰伦女儿殿下MV上线",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%A5%B3%E5%84%BF%E6%AE%BF%E4%B8%8BMV%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时00分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时00分 ~ 23时51分]"
         },
         {
           "title": "张杰谢娜演唱会名场面",
@@ -60,6 +59,18 @@
           "time_info": "[11时47分 ~ 18时02分]"
         },
         {
+          "title": "周杰伦女儿殿下mv",
+          "url": "https://www.douyin.com/hot/2535106",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时00分 ~ 23时51分]"
+        },
+        {
           "title": "李兰迪说蔡依林是妈咪",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E8%AF%B4%E8%94%A1%E4%BE%9D%E6%9E%97%E6%98%AF%E5%A6%88%E5%92%AA%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -70,17 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 05时07分]"
-        },
-        {
-          "title": "周杰伦女儿殿下mv",
-          "url": "https://www.douyin.com/hot/2535106",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时00分 ~ 18时02分]"
         },
         {
           "title": "邓紫棋发文悼念黄大炜",
