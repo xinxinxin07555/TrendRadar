@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T07:06:01.576004+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-15T11:47:48.757304+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "《大鱼海棠》导演发文称王菲「要求多报价贵」、「对不起周深，我喜欢梁博」，如何评价此事？",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 11时47分]"
         },
         {
           "title": "张杰谢娜演唱会名场面",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 05时07分]"
+        },
+        {
+          "title": "赵露思、王鹤棣等接连官宣演唱会，网友指责割韭菜，如何看待明星扎堆开跨界演唱会？",
+          "url": "https://www.zhihu.com/question/2048387442667778638",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "邓紫棋发文悼念黄大炜",
