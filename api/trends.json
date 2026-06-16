@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T08:31:36.837155+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-06-16T14:32:29.927864+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "《大鱼海棠》导演发文称王菲「要求多报价贵」、「对不起周深，我喜欢梁博」，如何评价此事？",
@@ -25,9 +25,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时31分"
+        },
+        {
+          "title": "让王源代言益禾堂的简直是天才",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E7%8E%8B%E6%BA%90%E4%BB%A3%E8%A8%80%E7%9B%8A%E7%A6%BE%E5%A0%82%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E5%A4%A9%E6%89%8D%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         }
       ]
     }
