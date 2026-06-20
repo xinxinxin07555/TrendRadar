@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-21T03:20:28.062668+08:00",
-  "total_titles_processed": 365,
+  "generated_at": "2026-06-21T05:14:00.677624+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "晋祠博物馆古碑文出现“周深”二字",
+          "url": "https://www.baidu.com/s?wd=%E6%99%8B%E7%A5%A0%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8F%A4%E7%A2%91%E6%96%87%E5%87%BA%E7%8E%B0%E2%80%9C%E5%91%A8%E6%B7%B1%E2%80%9D%E4%BA%8C%E5%AD%97",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 05时14分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
