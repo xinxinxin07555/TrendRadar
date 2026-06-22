@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T08:08:08.920625+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-06-22T14:26:26.636592+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             18,
             16,
             19,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 08时08分]"
+          "appearance_count": 8,
+          "time_info": "[00时03分 ~ 14时26分]"
         },
         {
           "title": "李宇春冬季来的女人复古感",
