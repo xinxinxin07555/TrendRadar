@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T05:30:06.326098+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-06-24T07:06:31.689424+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E4%B8%A4%E5%91%A8%E6%B6%A8%E7%B2%89%E8%B6%85110%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时29分 ~ 05时30分]"
+          "appearance_count": 3,
+          "time_info": "[05时29分 ~ 07时06分]"
         },
         {
           "title": "李金铭回应综艺里“农村婆婆”事件",
           "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E5%9B%9E%E5%BA%94%E7%BB%BC%E8%89%BA%E9%87%8C%E2%80%9C%E5%86%9C%E6%9D%91%E5%A9%86%E5%A9%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 07时06分]"
         }
       ]
     }
