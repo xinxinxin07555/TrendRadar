@@ -1,49 +1,7 @@
 {
-  "generated_at": "2026-06-24T21:18:44.385434+08:00",
-  "total_titles_processed": 1330,
+  "generated_at": "2026-06-25T00:16:14.209857+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "徐良演唱会伴舞两周涨粉超110万",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BC%B4%E8%88%9E%E4%B8%A4%E5%91%A8%E6%B6%A8%E7%B2%89%E8%B6%85110%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时29分 ~ 07时06分]"
-        },
-        {
-          "title": "李金铭回应综艺里“农村婆婆”事件",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E5%9B%9E%E5%BA%94%E7%BB%BC%E8%89%BA%E9%87%8C%E2%80%9C%E5%86%9C%E6%9D%91%E5%A9%86%E5%A9%86%E2%80%9D%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 07时06分]"
-        },
-        {
-          "title": "汪苏泷宋雨琦合作MV",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%90%88%E4%BD%9CMV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
