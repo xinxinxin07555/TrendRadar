@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T16:55:40.686607+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-06-25T19:38:45.681728+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%90%88%E4%BD%9CMV",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 19时38分]"
         },
         {
           "title": "方媛参加综艺遭恶评 郭富城霸道护妻",
@@ -25,7 +26,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
         },
