@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T04:44:43.468834+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-27T06:09:46.487283+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             23,
             18,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 04时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 06时09分]"
         },
         {
           "title": "汪苏泷宋雨琦合作幕后",
