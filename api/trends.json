@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T18:21:53.684589+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-06-26T21:08:52.826606+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 21时08分]"
         },
         {
           "title": "墨西哥女裁判撞脸蔡依林",
@@ -39,11 +40,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 21时08分]"
         },
         {
           "title": "汪苏泷宋雨琦新歌MV后劲好大",
