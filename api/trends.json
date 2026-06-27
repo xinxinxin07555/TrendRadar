@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-27T20:08:35.254017+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-06-27T22:27:17.611541+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 10,
       "titles": [
+        {
+          "title": "周杰伦北京鸟巢演唱会",
+          "url": "https://www.douyin.com/hot/2549324",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 22时27分]"
+        },
         {
           "title": "世界杯墨西哥女裁判撞脸蔡依林",
           "url": "https://www.toutiao.com/trending/7655518352651337771/",
@@ -22,18 +35,6 @@
           "time_info": "[00时13分 ~ 06时09分]"
         },
         {
-          "title": "周杰伦北京鸟巢演唱会",
-          "url": "https://www.douyin.com/hot/2549324",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 20时08分]"
-        },
-        {
           "title": "黄霄雲定玄MV上线",
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%9C%84%E9%9B%B2%E5%AE%9A%E7%8E%84MV%E4%B8%8A%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -44,6 +45,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 15时47分]"
+        },
+        {
+          "title": "谢霆锋西安演唱会",
+          "url": "https://www.douyin.com/hot/2549509",
+          "source": "抖音",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时08分 ~ 22时27分]"
         },
         {
           "title": "汪苏泷宋雨琦合作幕后",
@@ -64,18 +77,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时08分"
-        },
-        {
-          "title": "谢霆锋西安演唱会",
-          "url": "https://www.douyin.com/hot/2549509",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -97,7 +99,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
