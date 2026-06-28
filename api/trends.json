@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T04:58:27.095026+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-06-29T06:04:00.797214+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时04分]"
         },
         {
           "title": "王俊凯没去周杰伦演唱会",
@@ -27,11 +27,23 @@
           "ranks": [
             25,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时05分 ~ 04时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 06时04分]"
+        },
+        {
+          "title": "刘雨昕misslady好像群像热血番",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E9%9B%A8%E6%98%95misslady%E5%A5%BD%E5%83%8F%E7%BE%A4%E5%83%8F%E7%83%AD%E8%A1%80%E7%95%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 06时04分]"
         },
         {
           "title": "艾米人生第一次看演唱会",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "刘雨昕misslady好像群像热血番",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E9%9B%A8%E6%98%95misslady%E5%A5%BD%E5%83%8F%E7%BE%A4%E5%83%8F%E7%83%AD%E8%A1%80%E7%95%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
         }
       ]
     }
