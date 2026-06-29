@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T06:04:00.797214+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-06-29T08:05:21.439288+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "谢霆锋演唱会变大型呲水现场",
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 08时05分]"
         },
         {
           "title": "王俊凯没去周杰伦演唱会",
@@ -39,11 +39,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E9%9B%A8%E6%98%95misslady%E5%A5%BD%E5%83%8F%E7%BE%A4%E5%83%8F%E7%83%AD%E8%A1%80%E7%95%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时58分 ~ 08时05分]"
+        },
+        {
+          "title": "刘宇宁说龚俊去浪姐干嘛去了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E9%BE%9A%E4%BF%8A%E5%8E%BB%E6%B5%AA%E5%A7%90%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时58分 ~ 06时04分]"
+          "time_info": "[01时05分 ~ 08时05分]"
         },
         {
           "title": "艾米人生第一次看演唱会",
@@ -70,17 +83,6 @@
           "time_info": "[01时05分 ~ 03时13分]"
         },
         {
-          "title": "刘宇宁说龚俊去浪姐干嘛去了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E9%BE%9A%E4%BF%8A%E5%8E%BB%E6%B5%AA%E5%A7%90%E5%B9%B2%E5%98%9B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
           "title": "颜人中南京演唱会",
           "url": "https://www.douyin.com/hot/2550150",
           "source": "抖音",
@@ -90,6 +92,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        },
+        {
+          "title": "刘宇宁现偶我就不要了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%B0%E5%81%B6%E6%88%91%E5%B0%B1%E4%B8%8D%E8%A6%81%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "任素汐深圳首场演唱会",
+          "url": "https://www.douyin.com/hot/2551064",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     }
