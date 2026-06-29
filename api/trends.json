@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-29T13:28:12.630896+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-06-29T18:50:20.669910+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
       "match_count": 10,
       "titles": [
+        {
+          "title": "刘雨昕misslady好像群像热血番",
+          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E9%9B%A8%E6%98%95misslady%E5%A5%BD%E5%83%8F%E7%BE%A4%E5%83%8F%E7%83%AD%E8%A1%80%E7%95%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            25,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时58分 ~ 18时50分]"
+        },
         {
           "title": "谢霆锋演唱会变大型呲水现场",
           "url": "https://www.toutiao.com/trending/7656090180583309366/",
@@ -21,19 +35,6 @@
           "time_info": "[01时05分 ~ 08时05分]"
         },
         {
-          "title": "刘雨昕misslady好像群像热血番",
-          "url": "https://search.bilibili.com/all?keyword=%E5%88%98%E9%9B%A8%E6%98%95misslady%E5%A5%BD%E5%83%8F%E7%BE%A4%E5%83%8F%E7%83%AD%E8%A1%80%E7%95%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时58分 ~ 13时28分]"
-        },
-        {
           "title": "王俊凯没去周杰伦演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%B2%A1%E5%8E%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -46,6 +47,31 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 06时04分]"
+        },
+        {
+          "title": "任素汐深圳首场演唱会",
+          "url": "https://www.douyin.com/hot/2551064",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 18时50分]"
+        },
+        {
+          "title": "如何看待张靓颖演唱会因清唱太多主办方被罚款？为啥清唱也会被罚？",
+          "url": "https://www.zhihu.com/question/2052417668121092956",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 18时50分]"
         },
         {
           "title": "刘宇宁说龚俊去浪姐干嘛去了",
@@ -72,18 +98,6 @@
           "time_info": "[01时05分 ~ 03时13分]"
         },
         {
-          "title": "任素汐深圳首场演唱会",
-          "url": "https://www.douyin.com/hot/2551064",
-          "source": "抖音",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 13时28分]"
-        },
-        {
           "title": "我和薛之谦在演唱会上合唱了",
           "url": "https://www.douyin.com/hot/2550314",
           "source": "抖音",
@@ -94,17 +108,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时05分 ~ 03时13分]"
-        },
-        {
-          "title": "如何看待张靓颖演唱会因清唱太多主办方被罚款？为啥清唱也会被罚？",
-          "url": "https://www.zhihu.com/question/2052417668121092956",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
         },
         {
           "title": "颜人中南京演唱会",
