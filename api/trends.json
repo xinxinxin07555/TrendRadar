@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T01:33:45.757348+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T03:52:00.342341+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%BF%91%E5%87%A0%E5%B9%B4%E6%B2%A1%E6%9C%89%E8%B7%AF%E6%BC%94%E4%BA%86%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时52分]"
         },
         {
           "title": "任素汐深圳首场演唱会",
           "url": "https://www.douyin.com/hot/2551064",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时52分]"
         },
         {
           "title": "如何看待张靓颖演唱会因清唱太多主办方被罚款？为啥清唱也会被罚？",
           "url": "https://www.zhihu.com/question/2052417668121092956",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 03时52分]"
         },
         {
           "title": "刘雨昕浪姐舞台Misslady舞蹈室版",
