@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T19:58:30.990347+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-07-01T22:40:25.600882+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时26分 ~ 19时58分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 22时40分]"
         },
         {
           "title": "吴克群打卡山西午睡落地签",
