@@ -1,36 +1,22 @@
 {
-  "generated_at": "2026-07-01T22:40:25.600882+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-07-02T01:12:15.140945+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "头条世界杯｜‍️新双骄隔空PK，哈兰德、姆巴佩演出继续",
           "url": "https://m.thepaper.cn/newsDetail_forward_33490997",
           "source": "澎湃新闻",
           "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时26分 ~ 22时40分]"
-        },
-        {
-          "title": "吴克群打卡山西午睡落地签",
-          "url": "https://www.douyin.com/hot/2553230",
-          "source": "抖音",
-          "ranks": [
-            26
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时07分 ~ 07时08分]"
+          "time_info": "[01时11分 ~ 01时12分]"
         }
       ]
     }
