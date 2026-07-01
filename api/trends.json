@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T16:08:12.424705+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-01T19:58:30.990347+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 16时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时58分]"
         },
         {
           "title": "吴克群打卡山西午睡落地签",
