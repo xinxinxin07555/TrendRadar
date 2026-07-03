@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-03T19:31:29.188595+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-07-03T21:54:41.694881+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "王俊凯演唱会官宣",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
+        },
         {
           "title": "AI演员已经能演出情绪变化了",
           "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
@@ -19,6 +30,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 05时02分]"
+        },
+        {
+          "title": "李荣浩苏州演唱会",
+          "url": "https://www.douyin.com/hot/2557224",
+          "source": "抖音",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 21时54分]"
         },
         {
           "title": "时代少年团 演唱会",
@@ -43,15 +66,15 @@
           "time_info": "[19时29分 ~ 19时31分]"
         },
         {
-          "title": "李荣浩苏州演唱会",
-          "url": "https://www.douyin.com/hot/2557224",
+          "title": "罗云熙黄霄雲桃花诺BE美学",
+          "url": "https://www.douyin.com/hot/2556890",
           "source": "抖音",
           "ranks": [
             28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时54分"
         }
       ]
     }
