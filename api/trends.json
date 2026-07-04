@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:10:33.175961+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T03:05:42.438513+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时05分]"
         },
         {
           "title": "王力宏演唱会摔倒脸部流血",
@@ -26,8 +26,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时05分]"
+        },
+        {
+          "title": "王力宏成都演唱会摔倒受伤",
+          "url": "https://www.douyin.com/hot/2558662",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时05分]"
+        },
+        {
+          "title": "吴宣仪演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 03时05分]"
         },
         {
           "title": "汪苏泷哭了4次",
@@ -41,33 +64,11 @@
           "time_info": "01时10分"
         },
         {
-          "title": "王力宏成都演唱会摔倒受伤",
-          "url": "https://www.douyin.com/hot/2558662",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
           "title": "鹿晗去了周震南演唱会",
           "url": "https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%8E%BB%E4%BA%86%E5%91%A8%E9%9C%87%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "吴宣仪演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
