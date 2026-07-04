@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T12:32:44.888192+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-07-04T15:43:15.284013+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "王俊凯演唱会票价",
@@ -75,6 +75,29 @@
           "time_info": "[01时21分 ~ 06时13分]"
         },
         {
+          "title": "林俊杰檀健次合唱可惜没如果",
+          "url": "https://www.douyin.com/hot/2557590",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 15时43分]"
+        },
+        {
+          "title": "王俊凯演唱会8000张票",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A8000%E5%BC%A0%E7%A5%A8%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
           "title": "王俊凯演唱会官宣",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3",
           "source": "百度热搜",
@@ -105,18 +128,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "林俊杰檀健次合唱可惜没如果",
-          "url": "https://www.douyin.com/hot/2557590",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
