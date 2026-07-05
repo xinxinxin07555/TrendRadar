@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-07-06T02:01:41.800351+08:00",
-  "total_titles_processed": 385,
-  "failed_sources": [
-    "bilibili-hot-search"
-  ],
+  "generated_at": "2026-07-06T03:26:52.242040+08:00",
+  "total_titles_processed": 416,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
@@ -18,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时26分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -30,19 +28,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时26分]"
         },
         {
           "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33521876",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时26分]"
         },
         {
           "title": "王力宏演唱会摔倒缝了39针",
@@ -52,8 +51,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 03时26分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
@@ -63,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 02时00分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 03时26分]"
         },
         {
           "title": "张新成深圳演唱会直拍来了",
