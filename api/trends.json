@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:58:49.497295+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-06T07:03:37.956855+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             6,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时03分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -30,8 +31,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时03分]"
+        },
+        {
+          "title": "王力宏演唱会摔倒缝了39针",
+          "url": "https://www.douyin.com/hot/2558924",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时03分]"
         },
         {
           "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
@@ -40,17 +52,6 @@
           "ranks": [
             19,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
-        },
-        {
-          "title": "王力宏演唱会摔倒缝了39针",
-          "url": "https://www.douyin.com/hot/2558924",
-          "source": "抖音",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 7,
