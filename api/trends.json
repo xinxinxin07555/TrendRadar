@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:08:55.553604+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-07-05T20:13:35.860955+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "url": "https://www.douyin.com/hot/2558924",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 18时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 20时13分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 20时13分]"
         },
         {
           "title": "吴宣仪演唱会",
@@ -163,7 +164,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         }
