@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T04:55:26.844746+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-07-06T05:58:49.497295+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -29,8 +30,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
@@ -41,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "王力宏演唱会摔倒缝了39针",
@@ -52,19 +53,20 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BE%B9%E5%94%B1%E8%BE%B9%E6%B5%81%E8%A1%80",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 04时55分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "张新成深圳演唱会直拍来了",
@@ -84,7 +86,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
