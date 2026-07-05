@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T03:26:52.242040+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-07-06T04:55:26.844746+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "张新成演唱会翻唱率",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "王力宏演唱会摔倒面部、耳朵受伤，缝了 39 针，工作室回应是威亚操作不当，如何避免类似事故再发生？",
@@ -28,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
@@ -40,8 +41,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "王力宏演唱会摔倒缝了39针",
@@ -51,8 +52,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时04分 ~ 03时26分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "张新成深圳演唱会直拍来了",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 00时05分]"
+        },
+        {
+          "title": "汪苏泷祝阿根廷队夺冠",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%A5%9D%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     }
