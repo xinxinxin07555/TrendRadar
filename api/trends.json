@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T07:03:37.956855+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-07-06T10:47:44.744757+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[00时04分 ~ 07时03分]"
         },
         {
+          "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33521876",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 10时47分]"
+        },
+        {
           "title": "王力宏演唱会摔倒缝了39针",
           "url": "https://www.douyin.com/hot/2558924",
           "source": "抖音",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时04分 ~ 07时03分]"
-        },
-        {
-          "title": "上海演唱会万人齐喊“歌王”！胡彦斌：成事靠秘，我会努力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33521876",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 05时58分]"
         },
         {
           "title": "王力宏演唱会边唱边流血",
