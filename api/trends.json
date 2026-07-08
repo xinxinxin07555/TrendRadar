@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-08T13:48:14.895473+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-07-08T16:22:29.008574+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周杰伦御用编曲王俊凯下一天",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%BE%A1%E7%94%A8%E7%BC%96%E6%9B%B2%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8B%E4%B8%80%E5%A4%A9%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
