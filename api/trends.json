@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T03:19:54.341791+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-07-09T05:04:15.862598+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时04分]"
         },
         {
           "title": "邓紫棋回应因台风取消演唱会",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时04分]"
         },
         {
           "title": "邓紫棋杭州演唱会取消",
