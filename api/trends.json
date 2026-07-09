@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T04:45:27.599405+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-07-10T06:19:36.492594+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             4,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时48分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 06时19分]"
         },
         {
           "title": "TOP青岛演唱会抢票时间",
@@ -51,7 +52,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         }
