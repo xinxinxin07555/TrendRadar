@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T04:20:36.487196+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-07-11T05:58:36.488068+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356080&amp;topic_name=TES%E6%96%B0%E6%AD%8C%E6%8B%89%E8%83%AF%2C%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%85%A8%E8%B4%A3",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时58分]"
         },
         {
           "title": "邓紫棋被歌手弹幕发现了行踪",
