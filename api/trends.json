@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T22:49:47.910707+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-07-11T23:53:14.379071+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             9,
             11,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 22时49分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 23时53分]"
         },
         {
           "title": "邓紫棋被歌手弹幕发现了行踪",
@@ -36,6 +37,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时53分 ~ 04时20分]"
+        },
+        {
+          "title": "谢霆锋郑州演唱会",
+          "url": "https://www.douyin.com/hot/2567252",
+          "source": "抖音",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时49分 ~ 23时53分]"
         },
         {
           "title": "薛之谦重庆演唱会双向奔赴",
@@ -80,17 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
-        },
-        {
-          "title": "谢霆锋郑州演唱会",
-          "url": "https://www.douyin.com/hot/2567252",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         }
       ]
     }
