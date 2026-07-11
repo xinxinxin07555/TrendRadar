@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:45:28.447144+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-07-12T06:43:37.488550+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 05时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时43分]"
         },
         {
           "title": "谢霆锋郑州演唱会",
@@ -26,11 +26,12 @@
             20,
             25,
             30,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时43分]"
         },
         {
           "title": "周杰伦费德勒温网合影",
