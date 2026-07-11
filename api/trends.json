@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T15:09:57.909365+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-07-11T17:24:50.652095+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             6,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 15时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 17时24分]"
         },
         {
           "title": "邓紫棋被歌手弹幕发现了行踪",
@@ -41,7 +42,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
