@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-12T22:53:25.723636+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-07-12T23:57:00.885844+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
+          "url": "https://www.zhihu.com/question/2057515225566242609",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时53分 ~ 23时57分]"
+        },
         {
           "title": "TES新歌拉胯,周杰伦全责",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356080&amp;topic_name=TES%E6%96%B0%E6%AD%8C%E6%8B%89%E8%83%AF%2C%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%85%A8%E8%B4%A3",
@@ -36,20 +50,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 16时11分]"
-        },
-        {
-          "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
-          "url": "https://www.zhihu.com/question/2057515225566242609",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时53分 ~ 22时53分]"
         },
         {
           "title": "赵露思澳门演唱会再唱星河叹",
@@ -92,6 +92,18 @@
           "time_info": "[19时56分 ~ 22时53分]"
         },
         {
+          "title": "台风把演出吹到线上，空场直播浪漫依旧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时13分 ~ 23时57分]"
+        },
+        {
           "title": "韩红演唱会武汉站取消",
           "url": "https://www.toutiao.com/trending/7660494002474516486/",
           "source": "今日头条",
@@ -117,18 +129,6 @@
           "time_info": "[18时24分 ~ 19时57分]"
         },
         {
-          "title": "台风把演出吹到线上，空场直播浪漫依旧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时53分]"
-        },
-        {
           "title": "周杰伦宣传功夫女足",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%AE%A3%E4%BC%A0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -138,6 +138,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "汪苏泷气的直接脱了个衣服",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%B0%94%E7%9A%84%E7%9B%B4%E6%8E%A5%E8%84%B1%E4%BA%86%E4%B8%AA%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时56分 ~ 23时57分]"
         },
         {
           "title": "周杰伦费德勒温网合影",
