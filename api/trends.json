@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T18:24:18.951601+08:00",
-  "total_titles_processed": 1027,
+  "generated_at": "2026-07-12T19:57:03.371051+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "TES新歌拉胯,周杰伦全责",
@@ -44,11 +44,12 @@
           "ranks": [
             11,
             23,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时23分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 19时57分]"
         },
         {
           "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
@@ -56,11 +57,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 19时57分]"
         },
         {
           "title": "韩红演唱会武汉站取消",
@@ -68,33 +70,58 @@
           "source": "今日头条",
           "ranks": [
             6,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 18时24分]"
-        },
-        {
-          "title": "刘宇宁紧急避谶",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%B4%A7%E6%80%A5%E9%81%BF%E8%B0%B6%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 19时56分]"
         },
         {
           "title": "韩红武汉演唱会宣布取消",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时57分]"
+        },
+        {
+          "title": "刘宇宁紧急避谶",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%B4%A7%E6%80%A5%E9%81%BF%E8%B0%B6%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 19时57分]"
+        },
+        {
+          "title": "汪苏泷原本打算开30分钟后退票",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8E%9F%E6%9C%AC%E6%89%93%E7%AE%97%E5%BC%8030%E5%88%86%E9%92%9F%E5%90%8E%E9%80%80%E7%A5%A8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "周杰伦宣传功夫女足",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%AE%A3%E4%BC%A0%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "周杰伦费德勒温网合影",
