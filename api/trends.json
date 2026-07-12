@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T03:06:27.189811+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2026-07-13T04:41:20.355026+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             11,
             12,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时41分]"
         },
         {
           "title": "台风把演出吹到线上，空场直播浪漫依旧",
           "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时41分]"
         },
         {
           "title": "王俊凯一口气唱了周杰伦9首歌",
@@ -39,8 +41,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时41分]"
         }
       ]
     }
