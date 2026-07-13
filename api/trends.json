@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T00:29:29.315115+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-14T02:42:01.913955+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356151&amp;topic_name=%E5%88%9D%E5%BF%83%E4%B8%8D%E6%94%B9%2C%E9%99%88%E7%9D%BF%E7%8E%B0%E8%BA%ABBML%E6%BC%94%E5%94%B1%E4%BC%9A",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时42分]"
         },
         {
           "title": "当我cos成赵露思去看演唱会",
@@ -26,8 +27,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时42分]"
         }
       ]
     }
