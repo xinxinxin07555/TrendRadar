@@ -1,126 +1,33 @@
 {
-  "generated_at": "2026-07-13T21:21:36.977527+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-07-14T00:29:29.315115+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "周深现场把伴舞开了",
-          "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%8E%B0%E5%9C%BA%E6%8A%8A%E4%BC%B4%E8%88%9E%E5%BC%80%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "初心不改,陈睿现身BML演唱会",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356151&amp;topic_name=%E5%88%9D%E5%BF%83%E4%B8%8D%E6%94%B9%2C%E9%99%88%E7%9D%BF%E7%8E%B0%E8%BA%ABBML%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "贴吧",
           "ranks": [
-            11,
-            12,
-            6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时50分]"
-        },
-        {
-          "title": "台风把演出吹到线上，空场直播浪漫依旧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568963",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 05时45分]"
-        },
-        {
-          "title": "韩红演唱会武汉站取消",
-          "url": "https://www.toutiao.com/trending/7660494002474516486/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时44分 ~ 06时44分]"
-        },
-        {
-          "title": "冉莹颖称曾多次想离婚，录综艺本想救赎婚姻，录完「不再执着于改造对方」，透露出怎样的婚姻相处智慧？",
-          "url": "https://www.zhihu.com/question/2057515225566242609",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 07时50分]"
-        },
-        {
-          "title": "王俊凯一口气唱了周杰伦9首歌",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%80%E5%8F%A3%E6%B0%94%E5%94%B1%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A69%E9%A6%96%E6%AD%8C&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时41分]"
-        },
-        {
-          "title": "等蔡徐坤官宣演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E7%AD%89%E8%94%A1%E5%BE%90%E5%9D%A4%E5%AE%98%E5%AE%A3%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
-        },
-        {
-          "title": "吴克群给西安00后工地女孩送手机",
-          "url": "https://www.toutiao.com/trending/7661189552993501194/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时21分"
+          "time_info": "00时29分"
         },
         {
-          "title": "43岁王心凌和小蛮腰比腰",
-          "url": "https://s.weibo.com/weibo?q=%2343%E5%B2%81%E7%8E%8B%E5%BF%83%E5%87%8C%E5%92%8C%E5%B0%8F%E8%9B%AE%E8%85%B0%E6%AF%94%E8%85%B0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "当我cos成赵露思去看演唱会",
+          "url": "https://www.douyin.com/hot/2569966",
+          "source": "抖音",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "SEVENTEEN再次全员续约",
-          "url": "https://s.weibo.com/weibo?q=SEVENTEEN%E5%86%8D%E6%AC%A1%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "薛之谦鸟巢演唱会座无虚席",
-          "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E6%97%A0%E8%99%9A%E5%B8%AD&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "00时29分"
         }
       ]
     }
