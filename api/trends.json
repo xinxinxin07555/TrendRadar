@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T05:53:31.344450+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-07-14T06:53:26.575672+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时53分]"
         },
         {
           "title": "当我cos成赵露思去看演唱会",
           "url": "https://www.douyin.com/hot/2569966",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 06时53分]"
         }
       ]
     }
