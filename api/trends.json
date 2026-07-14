@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T21:26:24.270047+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-07-14T23:22:15.030126+08:00",
+  "total_titles_processed": 1771,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             5,
             9,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 21时26分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 23时22分]"
         },
         {
           "title": "当我cos成赵露思去看演唱会",
@@ -70,7 +71,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时26分"
         }
