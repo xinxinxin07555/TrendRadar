@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:55:20.021254+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-07-14T19:24:44.201150+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             3,
             5,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 17时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 19时24分]"
         },
         {
           "title": "当我cos成赵露思去看演唱会",
@@ -43,11 +44,12 @@
           "ranks": [
             2,
             27,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时26分 ~ 17时55分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 19时24分]"
         },
         {
           "title": "高中生自制综艺 跑路吧兄弟",
