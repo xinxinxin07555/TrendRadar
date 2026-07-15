@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-16T04:06:09.330597+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-16T05:56:24.840369+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "戴上墨镜原地开启演唱会",
+          "url": "https://www.douyin.com/hot/2572747",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时56分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
