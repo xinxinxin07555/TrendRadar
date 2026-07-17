@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T04:03:53.598825+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-18T05:49:03.291606+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时49分]"
         },
         {
           "title": "王力宏长沙演唱会",
@@ -27,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时49分]"
         },
         {
           "title": "演唱会版酣梦于彼岸深红",
@@ -40,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时49分]"
         },
         {
           "title": "黄霄雲刘端端合唱空心",
@@ -52,8 +52,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时49分]"
         },
         {
           "title": "王源易烊千玺给王俊凯送了花篮",
@@ -61,11 +61,12 @@
           "source": "微博",
           "ranks": [
             24,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 05时49分]"
         }
       ]
     }
