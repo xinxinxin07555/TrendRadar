@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T06:45:10.676041+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-07-18T07:49:43.636024+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             13,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时49分]"
         },
         {
           "title": "王力宏长沙演唱会",
@@ -26,11 +27,12 @@
           "source": "抖音",
           "ranks": [
             15,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时49分]"
         },
         {
           "title": "演唱会版酣梦于彼岸深红",
@@ -40,11 +42,12 @@
             20,
             24,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时49分]"
         },
         {
           "title": "黄霄雲刘端端合唱空心",
@@ -52,11 +55,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 06时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 07时49分]"
         },
         {
           "title": "王源易烊千玺给王俊凯送了花篮",
@@ -66,11 +70,12 @@
             24,
             17,
             22,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 07时49分]"
         }
       ]
     }
