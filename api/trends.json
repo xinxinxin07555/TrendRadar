@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T04:04:50.887773+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-07-19T05:46:27.540512+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "刘宇宁说以后会加倍注意",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "王俊凯演唱会退场天才",
@@ -26,11 +26,12 @@
           "source": "微博",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "龚俊回应和刘宇宁争议",
@@ -40,8 +41,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "黄子韬成都演唱会",
@@ -51,8 +52,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "李荣浩赣州演唱会",
@@ -63,8 +64,21 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 05时46分]"
+        },
+        {
+          "title": "周深Ella八仙主题曲",
+          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1Ella%E5%85%AB%E4%BB%99%E4%B8%BB%E9%A2%98%E6%9B%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 05时46分]"
         },
         {
           "title": "潘玮柏大连演唱会",
@@ -78,18 +92,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时53分 ~ 02时58分]"
-        },
-        {
-          "title": "周深Ella八仙主题曲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1Ella%E5%85%AB%E4%BB%99%E4%B8%BB%E9%A2%98%E6%9B%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时54分]"
         },
         {
           "title": "CORTIS演唱会被吐槽",
@@ -120,9 +122,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "黄子韬回应三年前演唱会取消风波",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9B%9E%E5%BA%94%E4%B8%89%E5%B9%B4%E5%89%8D%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%E9%A3%8E%E6%B3%A2",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     }
