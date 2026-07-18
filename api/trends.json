@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T13:21:49.386913+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-07-18T15:43:25.928808+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -81,6 +81,18 @@
           "time_info": "[02时02分 ~ 07时49分]"
         },
         {
+          "title": "专业老师带你看黄霄雲刘端端空心",
+          "url": "https://www.douyin.com/hot/2575515",
+          "source": "抖音",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时21分 ~ 15时43分]"
+        },
+        {
           "title": "王俊凯史上最严演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "专业老师带你看黄霄雲刘端端空心",
-          "url": "https://www.douyin.com/hot/2575515",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时21分"
         }
       ]
     }
