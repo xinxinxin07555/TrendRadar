@@ -1,212 +1,77 @@
 {
-  "generated_at": "2026-07-18T23:53:27.542101+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-07-19T00:53:44.750969+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 21,
+      "match_count": 9,
       "titles": [
         {
-          "title": "单依纯上海演唱会",
-          "url": "https://www.douyin.com/hot/2574908",
-          "source": "抖音",
-          "ranks": [
-            22,
-            13,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 10时04分]"
-        },
-        {
-          "title": "王力宏长沙演唱会",
-          "url": "https://www.douyin.com/hot/2574325",
-          "source": "抖音",
-          "ranks": [
-            15,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 10时04分]"
-        },
-        {
-          "title": "演唱会版酣梦于彼岸深红",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%94%E5%94%B1%E4%BC%9A%E7%89%88%E9%85%A3%E6%A2%A6%E4%BA%8E%E5%BD%BC%E5%B2%B8%E6%B7%B1%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            24,
-            21,
-            25,
-            26,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 13时21分]"
-        },
-        {
-          "title": "黄霄雲刘端端合唱空心",
-          "url": "https://www.douyin.com/hot/2574675",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时12分 ~ 10时04分]"
-        },
-        {
-          "title": "曝大批演员计划开演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%A4%A7%E6%89%B9%E6%BC%94%E5%91%98%E8%AE%A1%E5%88%92%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=1&Refer=top",
+          "title": "王俊凯演唱会退场天才",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时59分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "王源易烊千玺给王俊凯送了花篮",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%80%81%E4%BA%86%E8%8A%B1%E7%AF%AE%23&t=31&band_rank=24&Refer=top",
+          "title": "刘宇宁说以后会加倍注意",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BC%9A%E5%8A%A0%E5%80%8D%E6%B3%A8%E6%84%8F%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            24,
-            17,
-            22,
-            20,
-            29
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 07时49分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "鸣潮演唱会直播中",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%E4%B8%AD",
-          "source": "bilibili 热搜",
+          "title": "CORTIS演唱会被吐槽",
+          "url": "https://s.weibo.com/weibo?q=%23CORTIS%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            2
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 21时06分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "龚俊回应和刘宇宁争议",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "黄子韬回应三年前演唱会取消风波",
+          "url": "https://www.toutiao.com/trending/7663414183121076266/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
           "title": "周深Ella八仙主题曲",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1Ella%E5%85%AB%E4%BB%99%E4%B8%BB%E9%A2%98%E6%9B%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            16,
-            10,
-            29,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 23时53分]"
-        },
-        {
-          "title": "专业老师带你看黄霄雲刘端端空心",
-          "url": "https://www.douyin.com/hot/2575515",
-          "source": "抖音",
-          "ranks": [
-            26,
-            28,
-            19,
-            24,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 21时06分]"
-        },
-        {
-          "title": "鸣潮演唱会",
-          "url": "https://www.douyin.com/hot/2576369",
-          "source": "抖音",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 23时53分]"
-        },
-        {
-          "title": "王俊凯演唱会第一排视角",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%8E%92%E8%A7%86%E8%A7%92&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "李荣浩赣州演唱会",
-          "url": "https://www.douyin.com/hot/2576178",
-          "source": "抖音",
-          "ranks": [
-            22,
-            24,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时59分 ~ 23时53分]"
-        },
-        {
-          "title": "王俊凯演唱会退场天才",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%80%E5%9C%BA%E5%A4%A9%E6%89%8D%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时53分]"
-        },
-        {
-          "title": "龚俊刘宇宁这段被网友审判了",
-          "url": "https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E6%AE%B5%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%AE%A1%E5%88%A4%E4%BA%86&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时56分 ~ 23时53分]"
-        },
-        {
-          "title": "王俊凯演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时56分]"
+          "time_info": "00时53分"
         },
         {
           "title": "黄子韬成都演唱会",
@@ -216,63 +81,30 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时48分 ~ 23时53分]"
+          "appearance_count": 1,
+          "time_info": "00时53分"
         },
         {
-          "title": "王俊凯史上最严演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "李荣浩赣州演唱会",
+          "url": "https://www.douyin.com/hot/2576178",
+          "source": "抖音",
           "ranks": [
-            6
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "00时53分"
         },
         {
-          "title": "黄子韬演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "潘玮柏大连演唱会",
+          "url": "https://www.douyin.com/hot/2576246",
+          "source": "抖音",
           "ranks": [
-            15
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "丁禹兮演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
-        {
-          "title": "龚俊回应和刘宇宁争议",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E5%AE%87%E5%AE%81%E4%BA%89%E8%AE%AE%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "王源在龙岗溜达",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%9C%A8%E9%BE%99%E5%B2%97%E6%BA%9C%E8%BE%BE%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "00时53分"
         }
       ]
     }
