@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T18:59:51.342987+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-07-18T19:56:22.720725+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "单依纯上海演唱会",
@@ -92,6 +92,17 @@
           "time_info": "[02时02分 ~ 07时49分]"
         },
         {
+          "title": "鸣潮演唱会直播中",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%E4%B8%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "专业老师带你看黄霄雲刘端端空心",
           "url": "https://www.douyin.com/hot/2575515",
           "source": "抖音",
@@ -99,11 +110,12 @@
             26,
             28,
             19,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时21分 ~ 18时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时21分 ~ 19时56分]"
         },
         {
           "title": "周深Ella八仙主题曲",
@@ -111,11 +123,36 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            16
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时56分]"
+        },
+        {
+          "title": "王俊凯演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时59分]"
+          "time_info": "[18时59分 ~ 19时56分]"
+        },
+        {
+          "title": "李荣浩赣州演唱会",
+          "url": "https://www.douyin.com/hot/2576178",
+          "source": "抖音",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时56分]"
         },
         {
           "title": "王俊凯史上最严演唱会",
@@ -129,26 +166,15 @@
           "time_info": "10时04分"
         },
         {
-          "title": "王俊凯演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=20&Refer=top",
+          "title": "龚俊刘宇宁这段被网友审判了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E6%AE%B5%E8%A2%AB%E7%BD%91%E5%8F%8B%E5%AE%A1%E5%88%A4%E4%BA%86&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "李荣浩赣州演唱会",
-          "url": "https://www.douyin.com/hot/2576178",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "19时56分"
         },
         {
           "title": "王源在龙岗溜达",
