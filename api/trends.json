@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T05:46:27.540512+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-07-19T06:45:03.807982+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "王俊凯演唱会退场天才",
@@ -27,11 +28,12 @@
           "ranks": [
             4,
             6,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "龚俊回应和刘宇宁争议",
@@ -41,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "黄子韬成都演唱会",
@@ -52,8 +54,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 06时45分]"
         },
         {
           "title": "李荣浩赣州演唱会",
@@ -133,7 +135,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
