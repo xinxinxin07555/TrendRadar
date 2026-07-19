@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T06:47:34.396162+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-20T07:53:58.016557+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
           "ranks": [
             26,
             29,
-            28
+            28,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时47分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时53分]"
         },
         {
           "title": "蔡依林成都演唱会",
@@ -73,6 +74,18 @@
           "time_info": "[01时55分 ~ 03时02分]"
         },
         {
+          "title": "王源演唱会上座率",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 07时53分]"
+        },
+        {
           "title": "火影综艺飞舞吧忍者第一集",
           "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86",
           "source": "bilibili 热搜",
@@ -82,17 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 03时02分]"
-        },
-        {
-          "title": "王源演唱会上座率",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
         }
       ]
     }
