@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T19:54:37.234599+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-07-19T21:09:02.134729+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "王俊凯演唱会退场天才",
@@ -108,6 +108,41 @@
           "time_info": "[13时48分 ~ 16时10分]"
         },
         {
+          "title": "曝蔡依林演唱会报酬税后仅90万",
+          "url": "https://www.toutiao.com/trending/7664017128727658502/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时09分]"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者第一集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 21时09分]"
+        },
+        {
+          "title": "蔡依林成都演唱会",
+          "url": "https://www.douyin.com/hot/2577282",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时09分]"
+        },
+        {
           "title": "周深Ella八仙主题曲",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1Ella%E5%85%AB%E4%BB%99%E4%B8%BB%E9%A2%98%E6%9B%B2",
           "source": "bilibili 热搜",
@@ -145,6 +180,17 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
+          "title": "王源演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
           "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
           "url": "https://www.zhihu.com/question/2061865676021522525",
           "source": "知乎",
@@ -155,6 +201,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 16时10分]"
+        },
+        {
+          "title": "锐评刘端端黄霄雲空心",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%88%98%E7%AB%AF%E7%AB%AF%E9%BB%84%E9%9C%84%E9%9B%B2%E7%A9%BA%E5%BF%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
+        },
+        {
+          "title": "黄霄雲的空心高音后劲太大了",
+          "url": "https://www.douyin.com/hot/2577461",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "专业老师带你看黄霄雲刘端端空心",
@@ -168,28 +236,6 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
-          "title": "曝蔡依林演唱会报酬税后仅90万",
-          "url": "https://www.toutiao.com/trending/7664017128727658502/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "火影综艺飞舞吧忍者第一集",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%80%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "CORTIS演唱会被吐槽",
           "url": "https://s.weibo.com/weibo?q=%23CORTIS%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%90%90%E6%A7%BD%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -199,17 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "蔡依林成都演唱会",
-          "url": "https://www.douyin.com/hot/2577282",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "刘宇宁在高台将龚俊推入泥潭",
@@ -262,7 +297,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
