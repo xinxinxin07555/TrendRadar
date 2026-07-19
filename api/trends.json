@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T13:48:20.442708+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-07-19T16:10:51.226457+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "王俊凯演唱会退场天才",
@@ -83,17 +83,6 @@
           "time_info": "[10时15分 ~ 10时16分]"
         },
         {
-          "title": "刘宇宁让粉丝删掉不好听的评论",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
           "title": "刘宇宁此事到此为止",
           "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%AD%A4%E4%BA%8B%E5%88%B0%E6%AD%A4%E4%B8%BA%E6%AD%A2%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -103,8 +92,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 13时48分]"
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 16时10分]"
+        },
+        {
+          "title": "刘宇宁让粉丝删掉不好听的评论",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%88%A0%E6%8E%89%E4%B8%8D%E5%A5%BD%E5%90%AC%E7%9A%84%E8%AF%84%E8%AE%BA%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 16时10分]"
         },
         {
           "title": "周深Ella八仙主题曲",
@@ -144,6 +145,18 @@
           "time_info": "[07时50分 ~ 07时51分]"
         },
         {
+          "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
+          "url": "https://www.zhihu.com/question/2061865676021522525",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 16时10分]"
+        },
+        {
           "title": "专业老师带你看黄霄雲刘端端空心",
           "url": "https://www.douyin.com/hot/2575515",
           "source": "抖音",
@@ -153,17 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 07时51分]"
-        },
-        {
-          "title": "为什么越来越多的演员去开演唱会？不少人因高价票与低质翻唱遭质疑，跨界开演唱会这条路能长久吗？",
-          "url": "https://www.zhihu.com/question/2061865676021522525",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
         },
         {
           "title": "CORTIS演唱会被吐槽",
@@ -183,7 +185,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -194,7 +196,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -219,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "鸣潮演唱会",
+          "url": "https://www.douyin.com/hot/2576832",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "黄子韬回应三年前演唱会取消风波",
