@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-20T20:14:54.547982+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-07-20T23:09:02.900602+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "鸣潮演唱会官方录播",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E5%BD%95%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时13分 ~ 23时09分]"
+        },
         {
           "title": "汪苏泷写故事的人赶路日记版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%86%99%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA%E8%B5%B6%E8%B7%AF%E6%97%A5%E8%AE%B0%E7%89%88",
@@ -21,18 +34,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 06时47分]"
-        },
-        {
-          "title": "鸣潮演唱会官方录播",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E5%BD%95%E6%92%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 20时14分]"
         },
         {
           "title": "蔡依林唱心引力送给王俊凯",
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时56分 ~ 20时14分]"
+        },
+        {
+          "title": "王玉雯别说了刘宇宁害羞了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%88%AB%E8%AF%B4%E4%BA%86%E5%88%98%E5%AE%87%E5%AE%81%E5%AE%B3%E7%BE%9E%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "王源演唱会上座率",
