@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-20T14:14:15.885347+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-07-20T17:57:05.175417+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "鸣潮演唱会官方录播",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E5%BD%95%E6%92%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时13分 ~ 17时57分]"
+        },
         {
           "title": "汪苏泷写故事的人赶路日记版",
           "url": "https://search.bilibili.com/all?keyword=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%86%99%E6%95%85%E4%BA%8B%E7%9A%84%E4%BA%BA%E8%B5%B6%E8%B7%AF%E6%97%A5%E8%AE%B0%E7%89%88",
@@ -50,17 +61,6 @@
           "time_info": "[00时54分 ~ 07时53分]"
         },
         {
-          "title": "鸣潮演唱会官方录播",
-          "url": "https://search.bilibili.com/all?keyword=%E9%B8%A3%E6%BD%AE%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E6%96%B9%E5%BD%95%E6%92%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
-        },
-        {
           "title": "蔡依林成都演唱会",
           "url": "https://www.douyin.com/hot/2577282",
           "source": "抖音",
@@ -97,6 +97,28 @@
           "time_info": "[10时36分 ~ 14时14分]"
         },
         {
+          "title": "韩国网友感慨中国综艺聊生理期",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%84%9F%E6%85%A8%E4%B8%AD%E5%9B%BD%E7%BB%BC%E8%89%BA%E8%81%8A%E7%94%9F%E7%90%86%E6%9C%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
+          "title": "大麦回应谢霆锋青岛演唱会是否取消",
+          "url": "https://www.toutiao.com/trending/7664217120696123433/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
           "title": "王源演唱会上座率",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%BA%A7%E7%8E%87&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -107,6 +129,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时10分 ~ 07时53分]"
+        },
+        {
+          "title": "王源早就走到下一阶段了",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E6%97%A9%E5%B0%B1%E8%B5%B0%E5%88%B0%E4%B8%8B%E4%B8%80%E9%98%B6%E6%AE%B5%E4%BA%86&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
+        },
+        {
+          "title": "谢霆锋青岛演唱会暂未取消",
+          "url": "https://www.douyin.com/hot/2578688",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 17时57分]"
         },
         {
           "title": "龚俊 刘宇宁",
