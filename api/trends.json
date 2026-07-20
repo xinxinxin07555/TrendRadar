@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T05:08:26.616378+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-07-21T06:56:21.280391+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "鸣潮演唱会官方录播",
@@ -17,19 +17,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 06时56分]"
         },
         {
           "title": "王玉雯别说了刘宇宁害羞了",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E5%88%AB%E8%AF%B4%E4%BA%86%E5%88%98%E5%AE%87%E5%AE%81%E5%AE%B3%E7%BE%9E%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            27,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 06时56分]"
         },
         {
           "title": "蔡依林演唱会过半了天还没黑",
@@ -37,11 +38,23 @@
           "source": "微博",
           "ranks": [
             10,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 05时08分]"
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 06时56分]"
+        },
+        {
+          "title": "文旅厅回应王力宏演唱会观众喊退票",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%8E%85%E5%9B%9E%E5%BA%94%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%82%E4%BC%97%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         }
       ]
     }
