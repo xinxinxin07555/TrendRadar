@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T06:52:30.595914+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-07-22T07:54:31.643457+08:00",
+  "total_titles_processed": 627,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时54分]"
         },
         {
           "title": "NewJeans回归预告",
@@ -28,11 +28,12 @@
             4,
             7,
             10,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 06时52分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时54分]"
         },
         {
           "title": "汪苏泷许嵩徐良演唱会撞档",
@@ -59,6 +60,18 @@
           "time_info": "[03时14分 ~ 03时15分]"
         },
         {
+          "title": "黄子韬泪洒演唱会",
+          "url": "https://www.douyin.com/hot/2579717",
+          "source": "抖音",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时54分]"
+        },
+        {
           "title": "NewJeans四人组",
           "url": "https://s.weibo.com/weibo?q=NewJeans%E5%9B%9B%E4%BA%BA%E7%BB%84&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -79,17 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        },
-        {
-          "title": "黄子韬泪洒演唱会",
-          "url": "https://www.douyin.com/hot/2579717",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
         }
       ]
     }
