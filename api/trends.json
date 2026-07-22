@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T01:14:14.404193+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-23T03:10:58.291982+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "火影综艺飞舞吧忍者第二集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
           "title": "崔晋为妈妈上综艺打call",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%99%8B%E4%B8%BA%E5%A6%88%E5%A6%88%E4%B8%8A%E7%BB%BC%E8%89%BA%E6%89%93call%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
-        },
-        {
-          "title": "火影综艺飞舞吧忍者第二集",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 2,
