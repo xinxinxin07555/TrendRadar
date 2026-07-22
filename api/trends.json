@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T05:02:23.781356+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-07-23T06:58:30.194989+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             17,
-            29
+            29,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时58分]"
         },
         {
           "title": "火影综艺飞舞吧忍者第二集",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时13分 ~ 06时58分]"
         }
       ]
     }
