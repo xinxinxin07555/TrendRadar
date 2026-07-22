@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T13:46:46.772005+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-07-22T16:22:21.814061+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "王源好明显的震颤",
@@ -44,9 +44,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时22分]"
         },
         {
           "title": "汪苏泷许嵩徐良演唱会撞档",
@@ -74,6 +74,30 @@
           "time_info": "[06时52分 ~ 10时12分]"
         },
         {
+          "title": "邓紫棋 歌手",
+          "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%AD%8C%E6%89%8B&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时22分]"
+        },
+        {
+          "title": "吴克群陆虎助力瓜农：河南的西瓜中",
+          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E9%99%86%E8%99%8E%E5%8A%A9%E5%8A%9B%E7%93%9C%E5%86%9C%EF%BC%9A%E6%B2%B3%E5%8D%97%E7%9A%84%E8%A5%BF%E7%93%9C%E4%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 16时22分]"
+        },
+        {
           "title": "王源提到了TFBOYS演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%8F%90%E5%88%B0%E4%BA%86TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -91,20 +115,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
         {
-          "title": "吴克群陆虎助力瓜农：河南的西瓜中",
-          "url": "https://www.baidu.com/s?wd=%E5%90%B4%E5%85%8B%E7%BE%A4%E9%99%86%E8%99%8E%E5%8A%A9%E5%8A%9B%E7%93%9C%E5%86%9C%EF%BC%9A%E6%B2%B3%E5%8D%97%E7%9A%84%E8%A5%BF%E7%93%9C%E4%B8%AD",
-          "source": "百度热搜",
+          "title": "吴克群说00后钢筋女孩有英雄特质",
+          "url": "https://www.toutiao.com/trending/7664936976450633764/",
+          "source": "今日头条",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "16时22分"
         },
         {
           "title": "吴克群买250吨西瓜助力瓜农",
@@ -113,9 +137,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者第二集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%BA%8C%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "京东入局美食综艺",
@@ -124,18 +159,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
-        },
-        {
-          "title": "邓紫棋 歌手",
-          "url": "https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%20%E6%AD%8C%E6%89%8B&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
         },
