@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T04:18:03.422890+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-07-25T06:02:07.947859+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时02分]"
         },
         {
           "title": "邓紫棋天津演唱会",
@@ -28,8 +28,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时02分]"
         },
         {
           "title": "汪苏泷肩带掉了",
@@ -37,11 +37,12 @@
           "source": "微博",
           "ranks": [
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 06时02分]"
         },
         {
           "title": "薛之谦演唱会",
