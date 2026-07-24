@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T19:01:50.879068+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-07-24T20:24:27.947288+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33642412",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 20时24分]"
         },
         {
           "title": "歌手歌单王源雪崩",
