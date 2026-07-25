@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T06:02:07.947859+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-07-25T08:01:42.710680+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 08时01分]"
         },
         {
           "title": "邓紫棋天津演唱会",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 06时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 08时01分]"
         },
         {
           "title": "汪苏泷肩带掉了",
