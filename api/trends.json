@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T11:23:28.965070+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-07-25T14:14:09.285898+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "邓紫棋天津演唱会",
@@ -48,6 +48,39 @@
           "time_info": "[00时34分 ~ 06时02分]"
         },
         {
+          "title": "孙红雷女儿同学问刘宇宁多高",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E5%A5%B3%E5%84%BF%E5%90%8C%E5%AD%A6%E9%97%AE%E5%88%98%E5%AE%87%E5%AE%81%E5%A4%9A%E9%AB%98%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
+          "title": "谢霆锋更新青岛演唱会彩排花絮",
+          "url": "https://www.douyin.com/hot/2584597",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
+          "title": "陈楚生三亚演唱会",
+          "url": "https://www.douyin.com/hot/2584505",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
           "title": "薛之谦演唱会",
           "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -58,6 +91,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 02时16分]"
+        },
+        {
+          "title": "胡彦斌问这是王源自己写的吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E8%BF%99%E6%98%AF%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E5%90%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
+          "title": "刘宇宁王玉雯说英语",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%8B%E7%8E%89%E9%9B%AF%E8%AF%B4%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
         },
         {
           "title": "汪苏泷演唱会戴了光环戒指",
