@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T20:02:17.986310+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-07-25T21:53:20.071485+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "邓紫棋天津演唱会",
@@ -48,6 +48,17 @@
           "time_info": "[00时34分 ~ 06时02分]"
         },
         {
+          "title": "谢霆锋演唱会状态",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "陈楚生三亚演唱会",
           "url": "https://www.douyin.com/hot/2584505",
           "source": "抖音",
@@ -56,8 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时13分 ~ 20时02分]"
+          "appearance_count": 5,
+          "time_info": "[14时13分 ~ 21时53分]"
         },
         {
           "title": "谢霆锋青岛演唱会",
@@ -67,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时53分]"
         },
         {
           "title": "高中生自制综艺拿捏邓超",
@@ -76,11 +87,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时53分]"
         },
         {
           "title": "孙红雷女儿同学问刘宇宁多高",
