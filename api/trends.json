@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T04:45:24.244437+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-26T05:52:35.132480+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             15,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 05时52分]"
         },
         {
           "title": "谢霆锋青岛演唱会",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 05时52分]"
         },
         {
           "title": "陈楚生三亚演唱会",
@@ -38,11 +39,12 @@
           "ranks": [
             14,
             13,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 05时52分]"
         },
         {
           "title": "高中生自制综艺拿捏邓超",
@@ -52,11 +54,12 @@
             21,
             20,
             24,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 05时52分]"
         },
         {
           "title": "陈楚生三亚演唱会伴手礼",
@@ -64,11 +67,12 @@
           "source": "微博",
           "ranks": [
             26,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时56分 ~ 04时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 05时52分]"
         },
         {
           "title": "黎明成都演唱会送红萝卜灯",
