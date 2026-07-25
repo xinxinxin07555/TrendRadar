@@ -1,37 +1,23 @@
 {
-  "generated_at": "2026-07-26T06:52:33.134199+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-07-26T07:57:39.331853+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "谢霆锋演唱会状态",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            15,
-            18,
-            24,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时52分]"
-        },
         {
           "title": "谢霆锋青岛演唱会",
           "url": "https://www.douyin.com/hot/2584764",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时57分]"
         },
         {
           "title": "陈楚生三亚演唱会",
@@ -41,11 +27,12 @@
             14,
             13,
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时57分]"
         },
         {
           "title": "高中生自制综艺拿捏邓超",
@@ -57,7 +44,23 @@
             24,
             26,
             25,
-            17
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 07时57分]"
+        },
+        {
+          "title": "谢霆锋演唱会状态",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            15,
+            18,
+            24,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -76,6 +79,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时56分 ~ 06时52分]"
+        },
+        {
+          "title": "汪苏泷脱完全场沉默了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%84%B1%E5%AE%8C%E5%85%A8%E5%9C%BA%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "黎明成都演唱会送红萝卜灯",
