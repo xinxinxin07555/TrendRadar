@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T05:52:35.132480+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-07-26T06:52:33.134199+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             6,
             15,
             18,
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 06时52分]"
         },
         {
           "title": "谢霆锋青岛演唱会",
@@ -29,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 06时52分]"
         },
         {
           "title": "陈楚生三亚演唱会",
@@ -43,8 +44,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 06时52分]"
         },
         {
           "title": "高中生自制综艺拿捏邓超",
@@ -55,11 +56,12 @@
             20,
             24,
             26,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 05时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 06时52分]"
         },
         {
           "title": "陈楚生三亚演唱会伴手礼",
@@ -68,11 +70,12 @@
           "ranks": [
             26,
             27,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时56分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[01时56分 ~ 06时52分]"
         },
         {
           "title": "黎明成都演唱会送红萝卜灯",
