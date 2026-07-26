@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-26T21:43:58.627315+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-07-26T23:02:54.029325+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
-        {
-          "title": "谢霆锋青岛演唱会",
-          "url": "https://www.douyin.com/hot/2584764",
-          "source": "抖音",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 07时57分]"
-        },
         {
           "title": "侯明昊成都演唱会",
           "url": "https://www.douyin.com/hot/2585508",
@@ -30,8 +18,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时57分 ~ 23时02分]"
+        },
+        {
+          "title": "谢霆锋青岛演唱会",
+          "url": "https://www.douyin.com/hot/2584764",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时57分 ~ 21时43分]"
+          "time_info": "[00时08分 ~ 07时57分]"
         },
         {
           "title": "陈楚生三亚演唱会",
@@ -95,6 +95,19 @@
           "time_info": "[01时56分 ~ 06时52分]"
         },
         {
+          "title": "曝刘宇宁曾自称是87年的",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E7%A7%B0%E6%98%AF87%E5%B9%B4%E7%9A%84%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时01分 ~ 23时02分]"
+        },
+        {
           "title": "十个勤天演唱会取消",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时42分 ~ 20时02分]"
-        },
-        {
-          "title": "曝刘宇宁曾自称是87年的",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%88%98%E5%AE%87%E5%AE%81%E6%9B%BE%E8%87%AA%E7%A7%B0%E6%98%AF87%E5%B9%B4%E7%9A%84%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时01分 ~ 21时43分]"
         },
         {
           "title": "徐良演唱会让伴舞唱歌 自己在后面跳",
@@ -143,37 +144,50 @@
           "time_info": "[07时57分 ~ 10时34分]"
         },
         {
-          "title": "鹭卓赵一博卓沅缺席十个勤天演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E8%B5%B5%E4%B8%80%E5%8D%9A%E5%8D%93%E6%B2%85%E7%BC%BA%E5%B8%AD%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "海来阿木回应演唱会下跪争议",
           "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8B%E8%B7%AA%E4%BA%89%E8%AE%AE",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时02分]"
         },
         {
           "title": "TOP青岛演唱会",
           "url": "https://www.douyin.com/hot/2585131",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 23时02分]"
+        },
+        {
+          "title": "鹭卓赵一博卓沅缺席十个勤天演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E8%B5%B5%E4%B8%80%E5%8D%9A%E5%8D%93%E6%B2%85%E7%BC%BA%E5%B8%AD%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "张靓颖张天爱看薛之谦演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9D%93%E9%A2%96%E5%BC%A0%E5%A4%A9%E7%88%B1%E7%9C%8B%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "23时02分"
         },
         {
           "title": "黎明成都演唱会送红萝卜灯",
