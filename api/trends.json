@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T11:17:57.039260+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-07-27T14:59:48.680919+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "侯明昊成都演唱会",
@@ -111,6 +111,17 @@
           "time_info": "[04时53分 ~ 04时54分]"
         },
         {
+          "title": "赵雷鸟巢演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B7%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "王俊凯当潮汐漫溢巡回演唱会",
           "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%BD%93%E6%BD%AE%E6%B1%90%E6%BC%AB%E6%BA%A2%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -120,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "邓紫棋晚晚上过一个幼儿园",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E6%99%9A%E6%99%9A%E4%B8%8A%E8%BF%87%E4%B8%80%E4%B8%AA%E5%B9%BC%E5%84%BF%E5%9B%AD%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         },
         {
           "title": "何昶希何衍朝香港演唱会",
