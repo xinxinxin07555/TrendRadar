@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T13:44:18.671712+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-07-28T16:27:39.144575+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "时代少年团演唱会官宣抖音独家直播",
@@ -13,11 +13,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 16时27分]"
+        },
+        {
+          "title": "登陆少年邀你演唱会见",
+          "url": "https://www.douyin.com/hot/2587602",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 16时27分]"
         },
         {
           "title": "赵雷北京演唱会官宣",
@@ -31,6 +44,17 @@
           "time_info": "[07时59分 ~ 08时00分]"
         },
         {
+          "title": "时代少年团演唱会直播价",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "国外乐评人评价揽佬新歌",
           "url": "https://www.douyin.com/hot/2587541",
           "source": "抖音",
@@ -42,24 +66,13 @@
           "time_info": "04时20分"
         },
         {
-          "title": "登陆少年邀你演唱会见",
-          "url": "https://www.douyin.com/hot/2587602",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
           "title": "大衣哥坦言为何不开演唱会",
           "url": "https://www.toutiao.com/trending/7666085666668888105/",
           "source": "今日头条",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
         }
