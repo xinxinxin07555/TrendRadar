@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T19:23:31.671598+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-07-29T23:54:34.779364+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             22,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时47分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时47分 ~ 23时54分]"
         },
         {
           "title": "揽佬新歌二创来了",
@@ -61,7 +62,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -72,7 +73,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -83,7 +84,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
