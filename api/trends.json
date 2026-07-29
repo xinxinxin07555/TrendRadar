@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T05:57:44.347378+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-30T06:58:53.133734+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             22,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 05时57分]"
+          "appearance_count": 4,
+          "time_info": "[03时09分 ~ 06时58分]"
         },
         {
           "title": "阿哲自制综艺六人大头杀来了",
