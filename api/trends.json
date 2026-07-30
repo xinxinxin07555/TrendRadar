@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T11:54:36.897875+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-07-30T14:24:20.475676+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "url": "https://www.zhihu.com/question/2064534355440145959",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 14时24分]"
         },
         {
           "title": "锐评揽佬中国人能飞",
@@ -51,7 +52,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         }
