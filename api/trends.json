@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T05:01:23.915395+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-08-01T06:12:12.405075+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             14,
             17,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时12分]"
         },
         {
           "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
@@ -29,11 +30,12 @@
             22,
             18,
             20,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时12分]"
         },
         {
           "title": "凤凰传奇成都演唱会",
@@ -42,11 +44,12 @@
           "ranks": [
             20,
             27,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 05时01分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 06时12分]"
         },
         {
           "title": "邓紫棋偷看歌手又被发现了",
