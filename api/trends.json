@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T03:19:09.267999+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-08-01T05:01:23.915395+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时01分]"
         },
         {
           "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
@@ -27,11 +28,12 @@
           "ranks": [
             22,
             18,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时01分]"
         },
         {
           "title": "凤凰传奇成都演唱会",
@@ -43,8 +45,21 @@
             22
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时13分 ~ 05时01分]"
+        },
+        {
+          "title": "邓紫棋偷看歌手又被发现了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时13分 ~ 03时19分]"
+          "time_info": "[01时47分 ~ 05时01分]"
         },
         {
           "title": "随礼200还能听演唱会",
@@ -56,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时19分]"
-        },
-        {
-          "title": "邓紫棋偷看歌手又被发现了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时19分]"
         }
       ]
     }
