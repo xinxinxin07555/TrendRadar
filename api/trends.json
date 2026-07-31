@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-07-31T21:55:04.944100+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-08-01T00:14:09.001165+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "随礼200还能听演唱会",
-          "url": "https://www.douyin.com/hot/2591402",
-          "source": "抖音",
+          "title": "张信哲晒和张远聊天记录",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BF%A1%E5%93%B2%E6%99%92%E5%92%8C%E5%BC%A0%E8%BF%9C%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            28,
-            24,
-            23,
-            29
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 21时55分]"
-        },
-        {
-          "title": "揽佬在国外唱中国人能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%BD%E4%BD%AC%E5%9C%A8%E5%9B%BD%E5%A4%96%E5%94%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 21时55分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
           "title": "凤凰传奇成都演唱会",
@@ -41,63 +26,30 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 21时55分]"
-        },
-        {
-          "title": "张柏芝现身李昊红馆演唱会",
-          "url": "https://www.toutiao.com/trending/7667788467486392356/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 17时41分]"
-        },
-        {
-          "title": "邓紫棋偷看歌手又被发现了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%81%B7%E7%9C%8B%E6%AD%8C%E6%89%8B%E5%8F%88%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%BA%86%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
           "title": "阿哲自制综艺蜥蜴头造型太炸裂了",
           "url": "https://www.douyin.com/hot/2592514",
           "source": "抖音",
           "ranks": [
-            18
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时54分 ~ 21时55分]"
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
-          "title": "张绍刚打断周深",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%8D%E5%88%9A%E6%89%93%E6%96%AD%E5%91%A8%E6%B7%B1%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "随礼200还能听演唱会",
+          "url": "https://www.douyin.com/hot/2591402",
+          "source": "抖音",
           "ranks": [
-            20
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
-          "title": "周深自曝上网课学声乐",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%87%AA%E6%9B%9D%E4%B8%8A%E7%BD%91%E8%AF%BE%E5%AD%A6%E5%A3%B0%E4%B9%90%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     }
