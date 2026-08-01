@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T06:55:56.435241+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-02T07:54:42.910065+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 06时55分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "李荣浩襄阳演唱会",
@@ -24,23 +24,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时55分]"
-        },
-        {
-          "title": "王力宏西安演唱会",
-          "url": "https://www.douyin.com/hot/2593764",
-          "source": "抖音",
-          "ranks": [
             14,
-            19
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时54分]"
         },
         {
           "title": "赵露思演唱会服装丢失 公司：已报案",
@@ -53,8 +42,20 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 06时55分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 07时54分]"
+        },
+        {
+          "title": "王力宏西安演唱会",
+          "url": "https://www.douyin.com/hot/2593764",
+          "source": "抖音",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 04时46分]"
         },
         {
           "title": "刘宪华上座率",
