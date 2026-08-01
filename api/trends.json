@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T07:59:52.243326+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-08-01T11:15:38.130125+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             27,
             22,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 07时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时13分 ~ 11时15分]"
         },
         {
           "title": "张信哲晒和张远聊天记录",
