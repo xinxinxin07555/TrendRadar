@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:46:12.893417+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-08-02T05:53:50.628313+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 05时53分]"
+        },
+        {
+          "title": "李荣浩襄阳演唱会",
+          "url": "https://www.douyin.com/hot/2593563",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时01分 ~ 04时46分]"
+          "time_info": "[00时02分 ~ 05时53分]"
         },
         {
           "title": "王力宏西安演唱会",
@@ -25,17 +36,6 @@
           "ranks": [
             14,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时46分]"
-        },
-        {
-          "title": "李荣浩襄阳演唱会",
-          "url": "https://www.douyin.com/hot/2593563",
-          "source": "抖音",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -60,11 +60,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时46分]"
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 05时53分]"
         },
         {
           "title": "丁程鑫彩排戴着刘宇宁送的手串",
