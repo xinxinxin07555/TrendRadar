@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T17:03:18.199476+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-08-01T19:14:29.888195+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "凤凰传奇成都演唱会",
@@ -78,13 +78,24 @@
           "time_info": "[00时13分 ~ 03时19分]"
         },
         {
+          "title": "李荣浩襄阳演唱会",
+          "url": "https://www.douyin.com/hot/2593563",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "周深新歌耀眼的我们好青春",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E8%80%80%E7%9C%BC%E7%9A%84%E6%88%91%E4%BB%AC%E5%A5%BD%E9%9D%92%E6%98%A5",
           "source": "bilibili 热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
