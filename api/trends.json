@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T01:59:32.983364+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-08-03T03:14:29.305142+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时14分]"
         },
         {
           "title": "蔡徐坤演唱会",
@@ -48,7 +48,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -59,7 +59,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
         }
