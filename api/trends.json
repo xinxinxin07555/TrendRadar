@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T04:51:28.612781+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-08-03T05:52:53.827134+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 04时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时52分]"
         },
         {
           "title": "蔡徐坤演唱会",
@@ -40,6 +40,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时03分 ~ 00时04分]"
+        },
+        {
+          "title": "TOP登陆少年组合梦寐以求演唱会",
+          "url": "https://s.weibo.com/weibo?q=TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88%E6%A2%A6%E5%AF%90%E4%BB%A5%E6%B1%82%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时59分 ~ 05时52分]"
         },
         {
           "title": "火影综艺飞舞吧忍者第三集",
@@ -56,17 +68,6 @@
           "title": "许嵩演唱会四万人齐唱《断桥残雪》",
           "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9B%E4%B8%87%E4%BA%BA%E9%BD%90%E5%94%B1%E3%80%8A%E6%96%AD%E6%A1%A5%E6%AE%8B%E9%9B%AA%E3%80%8B",
           "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "TOP登陆少年组合梦寐以求演唱会",
-          "url": "https://s.weibo.com/weibo?q=TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88%E6%A2%A6%E5%AF%90%E4%BB%A5%E6%B1%82%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
           "ranks": [
             29
           ],
