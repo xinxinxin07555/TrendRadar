@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:01:28.659016+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-02T21:39:50.500546+08:00",
+  "total_titles_processed": 1208,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,22 @@
           "time_info": "[00时02分 ~ 16时16分]"
         },
         {
+          "title": "晒出你的蔡徐坤演唱会穿搭",
+          "url": "https://www.douyin.com/hot/2593518",
+          "source": "抖音",
+          "ranks": [
+            12,
+            20,
+            23,
+            21,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 21时39分]"
+        },
+        {
           "title": "李荣浩襄阳演唱会",
           "url": "https://www.douyin.com/hot/2593563",
           "source": "抖音",
@@ -62,21 +78,6 @@
           "time_info": "[03时03分 ~ 10时24分]"
         },
         {
-          "title": "晒出你的蔡徐坤演唱会穿搭",
-          "url": "https://www.douyin.com/hot/2593518",
-          "source": "抖音",
-          "ranks": [
-            12,
-            20,
-            23,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 20时01分]"
-        },
-        {
           "title": "在抖音看演唱会直播",
           "url": "https://www.douyin.com/hot/2593701",
           "source": "抖音",
@@ -84,11 +85,12 @@
             30,
             21,
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 20时01分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 21时39分]"
         },
         {
           "title": "张远广州演唱会",
@@ -100,8 +102,31 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 20时01分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 21时39分]"
+        },
+        {
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 21时39分]"
+        },
+        {
+          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
+          "url": "https://www.zhihu.com/question/2067249773761880647",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时39分]"
         },
         {
           "title": "刘宪华上座率",
@@ -117,15 +142,16 @@
           "time_info": "[00时01分 ~ 03时03分]"
         },
         {
-          "title": "中国人能飞,揽佬新歌魔性洗脑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
-          "source": "贴吧",
+          "title": "蔡徐坤演唱会",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 20时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时39分]"
         },
         {
           "title": "火影综艺飞舞吧忍者第三集",
@@ -139,17 +165,6 @@
           "time_info": "[16时16分 ~ 20时01分]"
         },
         {
-          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
-          "url": "https://www.zhihu.com/question/2067249773761880647",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
-        },
-        {
           "title": "陈小春青岛演唱会",
           "url": "https://www.douyin.com/hot/2593918",
           "source": "抖音",
@@ -159,17 +174,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 16时16分]"
-        },
-        {
-          "title": "蔡徐坤演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时01分]"
         },
         {
           "title": "王俊凯演唱会",
