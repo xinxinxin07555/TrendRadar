@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-03T06:53:19.546309+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-08-03T07:56:03.400936+08:00",
+  "total_titles_processed": 616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时03分 ~ 07时56分]"
+        },
         {
           "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
           "url": "https://www.zhihu.com/question/2067249773761880647",
@@ -19,16 +31,16 @@
           "time_info": "[00时03分 ~ 00时04分]"
         },
         {
-          "title": "中国人能飞,揽佬新歌魔性洗脑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
-          "source": "贴吧",
+          "title": "晒出你的蔡徐坤演唱会穿搭",
+          "url": "https://www.douyin.com/hot/2593518",
+          "source": "抖音",
           "ranks": [
-            9,
-            10
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时03分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时56分]"
         },
         {
           "title": "蔡徐坤演唱会",
@@ -54,15 +66,15 @@
           "time_info": "[01时59分 ~ 05时52分]"
         },
         {
-          "title": "晒出你的蔡徐坤演唱会穿搭",
-          "url": "https://www.douyin.com/hot/2593518",
-          "source": "抖音",
+          "title": "凤凰传奇成都演唱会秒变雨中蹦迪",
+          "url": "https://www.toutiao.com/trending/7668868311348068395/",
+          "source": "今日头条",
           "ranks": [
-            24
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时55分"
         },
         {
           "title": "火影综艺飞舞吧忍者第三集",
