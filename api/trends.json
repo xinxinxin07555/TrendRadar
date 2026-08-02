@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T13:53:47.244561+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-08-02T16:16:45.582948+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "针对综艺节目中情绪失控，脱口秀演员「房主任」发布视频道歉，你如何看待？",
@@ -26,11 +26,12 @@
           "ranks": [
             14,
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 13时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 16时16分]"
         },
         {
           "title": "李荣浩襄阳演唱会",
@@ -79,11 +80,47 @@
           "source": "抖音",
           "ranks": [
             12,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 16时16分]"
+        },
+        {
+          "title": "陈小春青岛演唱会",
+          "url": "https://www.douyin.com/hot/2593918",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时16分]"
+        },
+        {
+          "title": "在抖音看演唱会直播",
+          "url": "https://www.douyin.com/hot/2593701",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时16分]"
+        },
+        {
+          "title": "张远广州演唱会",
+          "url": "https://www.douyin.com/hot/2593910",
+          "source": "抖音",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 16时16分]"
         },
         {
           "title": "丁程鑫彩排戴着刘宇宁送的手串",
@@ -108,15 +145,15 @@
           "time_info": "[10时23分 ~ 10时24分]"
         },
         {
-          "title": "陈小春青岛演唱会",
-          "url": "https://www.douyin.com/hot/2593918",
-          "source": "抖音",
+          "title": "TF四代青岛演唱会官宣",
+          "url": "https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%E9%9D%92%E5%B2%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "16时16分"
         },
         {
           "title": "凤凰传奇成都演唱会秒变雨中蹦迪",
@@ -125,7 +162,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -141,26 +178,26 @@
           "time_info": "03时03分"
         },
         {
-          "title": "张远广州演唱会",
-          "url": "https://www.douyin.com/hot/2593910",
-          "source": "抖音",
+          "title": "王俊凯广州演唱会座位图",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E5%9B%BE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者第三集",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%89%E9%9B%86",
+          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时53分"
-        },
-        {
-          "title": "在抖音看演唱会直播",
-          "url": "https://www.douyin.com/hot/2593701",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "time_info": "16时16分"
         }
       ]
     }
