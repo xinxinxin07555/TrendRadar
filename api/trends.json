@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:39:50.500546+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-08-02T22:59:35.189761+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,25 @@
             21,
             19,
             17,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 21时39分]"
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 22时59分]"
+        },
+        {
+          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
+          "url": "https://www.zhihu.com/question/2067249773761880647",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 22时59分]"
         },
         {
           "title": "张远广州演唱会",
@@ -110,23 +124,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时37分 ~ 21时39分]"
-        },
-        {
-          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
-          "url": "https://www.zhihu.com/question/2067249773761880647",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时39分]"
+          "appearance_count": 6,
+          "time_info": "[18时37分 ~ 22时59分]"
         },
         {
           "title": "刘宪华上座率",
@@ -147,11 +150,12 @@
           "source": "微博",
           "ranks": [
             17,
-            24
+            24,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 22时59分]"
         },
         {
           "title": "火影综艺飞舞吧忍者第三集",
