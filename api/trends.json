@@ -1,187 +1,77 @@
 {
-  "generated_at": "2026-08-03T21:38:23.643571+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2026-08-04T00:20:39.837629+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 15,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "中国人能飞,揽佬新歌魔性洗脑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            11,
-            19,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时03分 ~ 21时38分]"
-        },
         {
           "title": "星巴克员工公然羞辱周杰伦",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356748&amp;topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%91%98%E5%B7%A5%E5%85%AC%E7%84%B6%E7%BE%9E%E8%BE%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
           "source": "贴吧",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 21时38分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "如何看待张继科跨界参加健身跑赛事，遭解说员调侃「不如回家上综艺」，赛事组委会及解说员公开道歉？",
-          "url": "https://www.zhihu.com/question/2067249773761880647",
-          "source": "知乎",
+          "title": "曝SHE将合体开演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DSHE%E5%B0%86%E5%90%88%E4%BD%93%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "蔡徐坤澳门演唱会",
-          "url": "https://www.douyin.com/hot/2595151",
-          "source": "抖音",
-          "ranks": [
-            18,
-            16,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 21时38分]"
-        },
-        {
-          "title": "晒出你的蔡徐坤演唱会穿搭",
-          "url": "https://www.douyin.com/hot/2593518",
-          "source": "抖音",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 07时56分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
           "url": "https://m.thepaper.cn/newsDetail_forward_33708528",
           "source": "澎湃新闻",
           "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 21时38分]"
-        },
-        {
-          "title": "蔡徐坤演唱会",
-          "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "TOP登陆少年组合梦寐以求演唱会",
-          "url": "https://s.weibo.com/weibo?q=TOP%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E7%BB%84%E5%90%88%E6%A2%A6%E5%AF%90%E4%BB%A5%E6%B1%82%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 05时52分]"
-        },
-        {
-          "title": "凤凰传奇成都演唱会秒变雨中蹦迪",
-          "url": "https://www.toutiao.com/trending/7668868311348068395/",
-          "source": "今日头条",
-          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "00时20分"
         },
         {
-          "title": "一场超大型演唱会的奔赴与守护",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33698994",
+          "title": "【社论】亚洲演艺之都：来上海，看演唱会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710769",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "00时20分"
         },
         {
-          "title": "外卖小哥看演唱会被抽中激动大哭",
-          "url": "https://www.toutiao.com/trending/7669413786072023046/",
-          "source": "今日头条",
+          "title": "蔡徐坤澳门演唱会",
+          "url": "https://www.douyin.com/hot/2595151",
+          "source": "抖音",
           "ranks": [
-            22
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "00时20分"
         },
         {
-          "title": "外卖小哥看徐良演唱会被抽中激动大哭",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%9C%8B%E5%BE%90%E8%89%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%8A%BD%E4%B8%AD%E6%BF%80%E5%8A%A8%E5%A4%A7%E5%93%AD",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "火影综艺飞舞吧忍者第三集",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E7%AC%AC%E4%B8%89%E9%9B%86",
-          "source": "bilibili 热搜",
+          "title": "中国人能飞,揽佬新歌魔性洗脑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356724&amp;topic_name=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%2C%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E9%AD%94%E6%80%A7%E6%B4%97%E8%84%91",
+          "source": "贴吧",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "蔡徐坤演唱会下沉市场口碑",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA%E5%8F%A3%E7%A2%91%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "许嵩演唱会四万人齐唱《断桥残雪》",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9B%E4%B8%87%E4%BA%BA%E9%BD%90%E5%94%B1%E3%80%8A%E6%96%AD%E6%A1%A5%E6%AE%8B%E9%9B%AA%E3%80%8B",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "00时20分"
         }
       ]
     }
