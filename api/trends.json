@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T02:48:40.044141+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-08-04T04:25:10.218821+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时25分]"
         },
         {
           "title": "曝SHE将合体开演唱会",
@@ -25,11 +25,12 @@
           "source": "微博",
           "ranks": [
             6,
-            9
+            9,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时25分]"
         },
         {
           "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
@@ -40,24 +41,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
-        },
-        {
-          "title": "【社论】亚洲演艺之都：来上海，看演唱会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710769",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 02时48分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时25分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
           "url": "https://www.douyin.com/hot/2595151",
           "source": "抖音",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时25分]"
+        },
+        {
+          "title": "【社论】亚洲演艺之都：来上海，看演唱会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710769",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
