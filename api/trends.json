@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T04:25:10.218821+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-08-04T06:05:25.649521+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
@@ -16,21 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时25分]"
-        },
-        {
-          "title": "曝SHE将合体开演唱会",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DSHE%E5%B0%86%E5%90%88%E4%BD%93%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
@@ -41,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
@@ -50,7 +37,21 @@
           "source": "抖音",
           "ranks": [
             20,
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 06时05分]"
+        },
+        {
+          "title": "曝SHE将合体开演唱会",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DSHE%E5%B0%86%E5%90%88%E4%BD%93%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
