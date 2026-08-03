@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T00:20:39.837629+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-04T02:48:40.044141+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356748&amp;topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%91%98%E5%B7%A5%E5%85%AC%E7%84%B6%E7%BE%9E%E8%BE%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时48分]"
         },
         {
           "title": "曝SHE将合体开演唱会",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DSHE%E5%B0%86%E5%90%88%E4%BD%93%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时48分]"
         },
         {
           "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
           "url": "https://m.thepaper.cn/newsDetail_forward_33708528",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时48分]"
         },
         {
           "title": "【社论】亚洲演艺之都：来上海，看演唱会",
@@ -48,8 +51,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时48分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
@@ -59,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 02时48分]"
         },
         {
           "title": "中国人能飞,揽佬新歌魔性洗脑",
