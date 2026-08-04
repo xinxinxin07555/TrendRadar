@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T08:06:08.125217+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-08-04T12:10:26.991320+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 12时10分]"
         },
         {
           "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
@@ -25,11 +26,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 08时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 12时10分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
