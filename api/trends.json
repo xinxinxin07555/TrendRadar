@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T06:05:25.649521+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-04T08:06:08.125217+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "魔都眼｜一场演唱会的三重图景：粉丝赴约、家长守候与警方护航",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
@@ -38,11 +38,12 @@
           "ranks": [
             20,
             22,
-            23
+            23,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "曝SHE将合体开演唱会",
@@ -51,11 +52,12 @@
           "ranks": [
             6,
             9,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 08时06分]"
         },
         {
           "title": "【社论】亚洲演艺之都：来上海，看演唱会",
