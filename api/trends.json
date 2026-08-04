@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T05:08:28.390459+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-05T06:59:42.774916+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             22,
-            23
+            23,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 06时59分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
@@ -30,8 +31,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 06时59分]"
         },
         {
           "title": "星巴克员工公然羞辱周杰伦",
@@ -41,8 +42,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 05时08分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 06时59分]"
         },
         {
           "title": "张远演唱会嘉宾是张智霖",
