@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T06:09:48.137938+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-08-06T07:57:18.509976+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "时代少年团演唱会",
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时57分]"
         },
         {
           "title": "周杰伦晒打网球图 配文：照打",
@@ -28,8 +28,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时57分]"
         },
         {
           "title": "演唱会音乐总监回应周杰伦私生子传闻",
@@ -39,8 +39,41 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时57分]"
+        },
+        {
+          "title": "刘宇宁知道自己是大男主的反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%98%AF%E5%A4%A7%E7%94%B7%E4%B8%BB%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "王源易烊千玺换蛋糕不给王俊凯说",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8D%A2%E8%9B%8B%E7%B3%95%E4%B8%8D%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "星巴克辞退侮辱周杰伦的员工",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%BE%9E%E9%80%80%E4%BE%AE%E8%BE%B1%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E5%91%98%E5%B7%A5&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     }
