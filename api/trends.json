@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T06:59:42.774916+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-08-05T08:08:22.624957+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 06时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 08时08分]"
+        },
+        {
+          "title": "星巴克员工公然羞辱周杰伦",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356748&amp;topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%91%98%E5%B7%A5%E5%85%AC%E7%84%B6%E7%BE%9E%E8%BE%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 08时08分]"
         },
         {
           "title": "蔡徐坤澳门演唱会",
@@ -35,26 +46,16 @@
           "time_info": "[01时43分 ~ 06时59分]"
         },
         {
-          "title": "星巴克员工公然羞辱周杰伦",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356748&amp;topic_name=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%91%98%E5%B7%A5%E5%85%AC%E7%84%B6%E7%BE%9E%E8%BE%B1%E5%91%A8%E6%9D%B0%E4%BC%A6",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 06时59分]"
-        },
-        {
           "title": "张远演唱会嘉宾是张智霖",
           "url": "https://www.douyin.com/hot/2596650",
           "source": "抖音",
           "ranks": [
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 03时26分]"
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 08时08分]"
         },
         {
           "title": "在逃女子买票看时代少年团演唱会被抓",
