@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T00:03:19.004445+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-06T02:18:41.748208+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时18分]"
         },
         {
           "title": "周杰伦晒打网球图 配文：照打",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时18分]"
         },
         {
           "title": "演唱会音乐总监回应周杰伦私生子传闻",
@@ -37,8 +37,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 02时18分]"
         }
       ]
     }
