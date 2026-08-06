@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T19:19:17.127235+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2026-08-06T21:57:08.880264+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,26 @@
             12,
             11,
             13,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 19时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时03分 ~ 21时57分]"
+        },
+        {
+          "title": "周杰伦公司辟谣私生子传闻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356821&amp;topic_name=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            19,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 21时57分]"
         },
         {
           "title": "周杰伦晒打网球图 配文：照打",
@@ -44,17 +59,16 @@
           "time_info": "[00时03分 ~ 07时57分]"
         },
         {
-          "title": "周杰伦公司辟谣私生子传闻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356821&amp;topic_name=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%85%AC%E5%8F%B8%E8%BE%9F%E8%B0%A3%E7%A7%81%E7%94%9F%E5%AD%90%E4%BC%A0%E9%97%BB",
-          "source": "贴吧",
+          "title": "冒充保安混入演唱会场内，2名扰序违法人员被行政处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33724627",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
             19,
-            21
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时45分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 21时57分]"
         },
         {
           "title": "2人冒充保安看演唱会被罚",
@@ -67,17 +81,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 16时29分]"
-        },
-        {
-          "title": "冒充保安混入演唱会场内，2名扰序违法人员被行政处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33724627",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "张韶涵发文悼念化妆师",
