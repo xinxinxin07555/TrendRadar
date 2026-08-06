@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:29:02.612818+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-08-06T19:19:17.127235+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "时代少年团演唱会",
@@ -18,8 +18,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 19时19分]"
         },
         {
           "title": "周杰伦晒打网球图 配文：照打",
@@ -49,11 +49,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 19时19分]"
         },
         {
           "title": "2人冒充保安看演唱会被罚",
@@ -66,6 +67,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时45分 ~ 16时29分]"
+        },
+        {
+          "title": "冒充保安混入演唱会场内，2名扰序违法人员被行政处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33724627",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "张韶涵发文悼念化妆师",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%8C%96%E5%A6%86%E5%B8%88%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "王俊凯王源易烊千玺未公开合照",
