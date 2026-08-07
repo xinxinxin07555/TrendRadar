@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T22:10:40.376875+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-08-07T23:53:27.463141+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "周深贵州方言新歌每个人",
@@ -19,11 +19,12 @@
             13,
             10,
             27,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时38分 ~ 22时10分]"
+          "appearance_count": 11,
+          "time_info": "[13时38分 ~ 23时53分]"
         },
         {
           "title": "8月第一周热门演出信息",
@@ -55,11 +56,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时43分 ~ 22时10分]"
+          "appearance_count": 5,
+          "time_info": "[19时43分 ~ 23时53分]"
         },
         {
           "title": "刘若雪方辟谣与周杰伦私生子传闻",
@@ -86,6 +88,18 @@
           "time_info": "[18时52分 ~ 20时55分]"
         },
         {
+          "title": "沈阳爆改谢霆锋演唱会痛城",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E7%88%86%E6%94%B9%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%97%9B%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 23时53分]"
+        },
+        {
           "title": "阿哲综艺运气游戏太费老弟了",
           "url": "https://www.douyin.com/hot/2600539",
           "source": "抖音",
@@ -110,15 +124,15 @@
           "time_info": "[13时38分 ~ 15时09分]"
         },
         {
-          "title": "沈阳爆改谢霆锋演唱会痛城",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E7%88%86%E6%94%B9%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%97%9B%E5%9F%8E",
-          "source": "百度热搜",
+          "title": "邓紫棋南昌演唱会",
+          "url": "https://www.douyin.com/hot/2601354",
+          "source": "抖音",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
+          "time_info": "[22时10分 ~ 23时53分]"
         },
         {
           "title": "马嘉祺演唱会刚结束又工作了",
@@ -178,15 +192,26 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
-          "title": "邓紫棋南昌演唱会",
-          "url": "https://www.douyin.com/hot/2601354",
+          "title": "aespa首尔演唱会",
+          "url": "https://www.douyin.com/hot/2601358",
           "source": "抖音",
           "ranks": [
-            12
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "23时53分"
+        },
+        {
+          "title": "TF三代常驻综艺",
+          "url": "https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%B8%B8%E9%A9%BB%E7%BB%BC%E8%89%BA%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "曝综艺因辛芷蕾延播",
