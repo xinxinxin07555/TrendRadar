@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:25:26.269445+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-08-08T20:39:49.703662+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -27,6 +27,23 @@
           "time_info": "[00时50分 ~ 16时36分]"
         },
         {
+          "title": "火影综艺飞舞吧忍者最终章",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E6%9C%80%E7%BB%88%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15,
+            20,
+            19,
+            16,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时43分 ~ 20时39分]"
+        },
+        {
           "title": "邓紫棋南昌演唱会",
           "url": "https://www.douyin.com/hot/2601354",
           "source": "抖音",
@@ -38,22 +55,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 19时25分]"
-        },
-        {
-          "title": "火影综艺飞舞吧忍者最终章",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E6%9C%80%E7%BB%88%E7%AB%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            20,
-            19,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时43分 ~ 19时25分]"
         },
         {
           "title": "南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被辞退，如何看待这一处罚？个人喜好和工作冲突该咋办？",
@@ -105,11 +106,26 @@
             12,
             4,
             6,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时35分 ~ 19时25分]"
+          "appearance_count": 6,
+          "time_info": "[16时35分 ~ 20时39分]"
+        },
+        {
+          "title": "西村力演唱会的状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 20时39分]"
         },
         {
           "title": "aespa首尔演唱会",
@@ -123,19 +139,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 03时50分]"
-        },
-        {
-          "title": "西村力演唱会的状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时34分 ~ 19时25分]"
         },
         {
           "title": "TF三代常驻综艺",
@@ -161,6 +164,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时43分 ~ 15时46分]"
+        },
+        {
+          "title": "谢霆锋沈阳演唱会",
+          "url": "https://www.douyin.com/hot/2602255",
+          "source": "抖音",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 20时39分]"
+        },
+        {
+          "title": "李荣浩大连演唱会",
+          "url": "https://www.douyin.com/hot/2602256",
+          "source": "抖音",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时39分]"
         },
         {
           "title": "汪峰：被骂摇滚圈叛徒 不屑跟他们吵",
@@ -217,28 +244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
-        },
-        {
-          "title": "谢霆锋沈阳演唱会",
-          "url": "https://www.douyin.com/hot/2602255",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "李荣浩大连演唱会",
-          "url": "https://www.douyin.com/hot/2602256",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "沈阳爆改谢霆锋演唱会痛城",
