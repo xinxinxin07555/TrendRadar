@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T14:44:11.421319+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-08-08T15:46:17.347857+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "周深贵州方言新歌每个人",
@@ -66,6 +66,17 @@
           "time_info": "[00时50分 ~ 05时35分]"
         },
         {
+          "title": "多个明星演唱会取消",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E4%B8%AA%E6%98%8E%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
           "title": "aespa首尔演唱会",
           "url": "https://www.douyin.com/hot/2601358",
           "source": "抖音",
@@ -77,6 +88,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 03时50分]"
+        },
+        {
+          "title": "火影综艺飞舞吧忍者最终章",
+          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E6%9C%80%E7%BB%88%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 15时46分]"
         },
         {
           "title": "TF三代常驻综艺",
@@ -92,15 +115,27 @@
           "time_info": "[00时50分 ~ 02时50分]"
         },
         {
-          "title": "火影综艺飞舞吧忍者最终章",
-          "url": "https://search.bilibili.com/all?keyword=%E7%81%AB%E5%BD%B1%E7%BB%BC%E8%89%BA%E9%A3%9E%E8%88%9E%E5%90%A7%E5%BF%8D%E8%80%85%E6%9C%80%E7%BB%88%E7%AB%A0",
-          "source": "bilibili 热搜",
+          "title": "BLACKPINK直播",
+          "url": "https://s.weibo.com/weibo?q=BLACKPINK%E7%9B%B4%E6%92%AD&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 15时46分]"
+        },
+        {
+          "title": "汪峰：被骂摇滚圈叛徒 不屑跟他们吵",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%AA%E5%B3%B0%EF%BC%9A%E8%A2%AB%E9%AA%82%E6%91%87%E6%BB%9A%E5%9C%88%E5%8F%9B%E5%BE%92+%E4%B8%8D%E5%B1%91%E8%B7%9F%E4%BB%96%E4%BB%AC%E5%90%B5",
+          "source": "百度热搜",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时43分 ~ 14时44分]"
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "薛之谦8月8日9日杭州演唱会取消",
@@ -126,15 +161,15 @@
           "time_info": "[11时21分 ~ 11时22分]"
         },
         {
-          "title": "BLACKPINK直播",
-          "url": "https://s.weibo.com/weibo?q=BLACKPINK%E7%9B%B4%E6%92%AD&t=31&band_rank=27&Refer=top",
+          "title": "朴彩英给BLACKPINK准备了花和蛋糕",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E7%BB%99BLACKPINK%E5%87%86%E5%A4%87%E4%BA%86%E8%8A%B1%E5%92%8C%E8%9B%8B%E7%B3%95%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时43分 ~ 14时44分]"
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "周深问你会深信什么",
