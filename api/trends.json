@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T02:32:10.113780+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2026-08-09T04:24:37.452317+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.douyin.com/hot/2602255",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "李荣浩大连演唱会",
@@ -24,11 +25,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "西村力演唱会的发言",
@@ -37,11 +39,12 @@
           "ranks": [
             23,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "王源 巡演看一场少一场",
@@ -50,11 +53,12 @@
           "ranks": [
             25,
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时24分]"
         },
         {
           "title": "陈伟霆说我还以为去了成毅的演唱会",
@@ -63,11 +67,23 @@
           "ranks": [
             29,
             27,
-            28
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 04时24分]"
+        },
+        {
+          "title": "粉丝说西村力今天演唱会状态特别好",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E8%AF%B4%E8%A5%BF%E6%9D%91%E5%8A%9B%E4%BB%8A%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%E7%89%B9%E5%88%AB%E5%A5%BD%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时28分 ~ 02时32分]"
+          "time_info": "[01时25分 ~ 04时24分]"
         },
         {
           "title": "蔡依林唱了布拉格广场",
@@ -76,17 +92,6 @@
           "ranks": [
             28,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 02时32分]"
-        },
-        {
-          "title": "粉丝说西村力今天演唱会状态特别好",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E8%AF%B4%E8%A5%BF%E6%9D%91%E5%8A%9B%E4%BB%8A%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8A%B6%E6%80%81%E7%89%B9%E5%88%AB%E5%A5%BD%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 4,
