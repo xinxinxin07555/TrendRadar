@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T17:34:42.874079+08:00",
-  "total_titles_processed": 1204,
+  "generated_at": "2026-08-08T18:28:37.211071+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "周深贵州方言新歌每个人",
@@ -25,6 +25,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时50分 ~ 16时36分]"
+        },
+        {
+          "title": "邓紫棋南昌演唱会",
+          "url": "https://www.douyin.com/hot/2601354",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 18时28分]"
         },
         {
           "title": "南昌一星巴克员工对周杰伦海报做翻白眼等动作，现已被辞退，如何看待这一处罚？个人喜好和工作冲突该咋办？",
@@ -61,23 +74,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 17时34分]"
-        },
-        {
-          "title": "邓紫棋南昌演唱会",
-          "url": "https://www.douyin.com/hot/2601354",
-          "source": "抖音",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 05时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 18时28分]"
         },
         {
           "title": "火影综艺飞舞吧忍者最终章",
@@ -87,11 +89,12 @@
             11,
             15,
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 18时28分]"
         },
         {
           "title": "刘宇宁抱王玉雯林一的区别",
@@ -99,11 +102,12 @@
           "source": "微博",
           "ranks": [
             12,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时28分]"
         },
         {
           "title": "aespa首尔演唱会",
@@ -117,6 +121,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 03时50分]"
+        },
+        {
+          "title": "西村力演唱会的状态",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 18时28分]"
         },
         {
           "title": "TF三代常驻综艺",
@@ -189,17 +205,6 @@
           "time_info": "[15时45分 ~ 15时46分]"
         },
         {
-          "title": "西村力演唱会的状态",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时34分"
-        },
-        {
           "title": "周深问你会深信什么",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E9%97%AE%E4%BD%A0%E4%BC%9A%E6%B7%B1%E4%BF%A1%E4%BB%80%E4%B9%88%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -209,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "李荣浩大连演唱会",
+          "url": "https://www.douyin.com/hot/2602256",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "沈阳爆改谢霆锋演唱会痛城",
