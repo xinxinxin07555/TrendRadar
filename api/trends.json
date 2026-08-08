@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T22:29:01.997032+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2026-08-08T23:25:24.881830+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "周深贵州方言新歌每个人",
@@ -41,8 +41,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时43分 ~ 22时29分]"
+          "appearance_count": 13,
+          "time_info": "[14时43分 ~ 23时25分]"
         },
         {
           "title": "邓紫棋南昌演唱会",
@@ -115,6 +115,32 @@
           "time_info": "[16时35分 ~ 20时39分]"
         },
         {
+          "title": "谢霆锋沈阳演唱会",
+          "url": "https://www.douyin.com/hot/2602255",
+          "source": "抖音",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 23时25分]"
+        },
+        {
+          "title": "李荣浩大连演唱会",
+          "url": "https://www.douyin.com/hot/2602256",
+          "source": "抖音",
+          "ranks": [
+            27,
+            15,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时25分]"
+        },
+        {
           "title": "西村力演唱会的状态",
           "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -130,29 +156,17 @@
           "time_info": "[17时34分 ~ 21时43分]"
         },
         {
-          "title": "谢霆锋沈阳演唱会",
-          "url": "https://www.douyin.com/hot/2602255",
-          "source": "抖音",
+          "title": "西村力演唱会的发言",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%8F%91%E8%A8%80%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 22时29分]"
-        },
-        {
-          "title": "李荣浩大连演唱会",
-          "url": "https://www.douyin.com/hot/2602256",
-          "source": "抖音",
-          "ranks": [
-            27,
+            13,
             15,
-            17
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时29分]"
+          "appearance_count": 5,
+          "time_info": "[21时42分 ~ 23时25分]"
         },
         {
           "title": "aespa首尔演唱会",
@@ -166,18 +180,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 03时50分]"
-        },
-        {
-          "title": "西村力演唱会的发言",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%8F%91%E8%A8%80%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时42分 ~ 22时29分]"
         },
         {
           "title": "TF三代常驻综艺",
@@ -292,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "王源 巡演看一场少一场",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%20%E5%B7%A1%E6%BC%94%E7%9C%8B%E4%B8%80%E5%9C%BA%E5%B0%91%E4%B8%80%E5%9C%BA&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "沈阳爆改谢霆锋演唱会痛城",
