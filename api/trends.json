@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T20:41:18.543088+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-08-09T21:46:27.752373+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -100,11 +100,12 @@
           "ranks": [
             14,
             13,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "谢霆锋演唱会隔空祝王菲生日快乐",
