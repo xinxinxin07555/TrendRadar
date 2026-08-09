@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:01:34.603294+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2026-08-09T13:52:17.397472+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 13时01分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 13时52分]"
         },
         {
           "title": "李荣浩大连演唱会",
@@ -143,6 +143,18 @@
           "time_info": "[00时28分 ~ 01时26分]"
         },
         {
+          "title": "陈伟霆：还以为是成毅的演唱会呢",
+          "url": "https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%EF%BC%9A%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%88%90%E6%AF%85%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%A2",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时00分 ~ 13时52分]"
+        },
+        {
           "title": "周深贵州方言新歌每个人",
           "url": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E8%B4%B5%E5%B7%9E%E6%96%B9%E8%A8%80%E6%96%B0%E6%AD%8C%E6%AF%8F%E4%B8%AA%E4%BA%BA",
           "source": "bilibili 热搜",
@@ -196,17 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "陈伟霆：还以为是成毅的演唱会呢",
-          "url": "https://www.baidu.com/s?wd=%E9%99%88%E4%BC%9F%E9%9C%86%EF%BC%9A%E8%BF%98%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%88%90%E6%AF%85%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E5%91%A2",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时00分 ~ 13时01分]"
         },
         {
           "title": "王源找2016年陪他在小礼堂走到现在的人",
