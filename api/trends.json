@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T00:30:52.335319+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T01:28:10.735588+08:00",
+  "total_titles_processed": 359,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.douyin.com/hot/2603733",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时28分]"
         },
         {
           "title": "单依纯演唱会让全国网友认识浐灞",
           "url": "https://www.toutiao.com/trending/7671266321820287012/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时28分]"
         }
       ]
     }
