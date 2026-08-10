@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T04:38:03.367793+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-08-11T05:38:22.689635+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             23,
             22,
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 05时38分]"
         },
         {
           "title": "“只有河南”演出一男子占道大喊大叫",
