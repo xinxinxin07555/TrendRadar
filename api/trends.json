@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T01:49:13.656215+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-08-11T02:52:04.586593+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             25,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 02时52分]"
         },
         {
           "title": "盘点TOP演唱会",
@@ -25,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 02时52分]"
         }
       ]
     }
