@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T19:05:05.746725+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-08-10T20:59:12.525198+08:00",
+  "total_titles_processed": 1547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "单依纯演唱会让全国网友认识浐灞",
@@ -26,11 +26,24 @@
           "source": "百度热搜",
           "ranks": [
             21,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 20时59分]"
+        },
+        {
+          "title": "盘点TOP演唱会",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9TOP%E6%BC%94%E5%94%B1%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 19时05分]"
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 20时59分]"
         },
         {
           "title": "郑润泽发抖音是忘记加bgm了吗",
@@ -45,15 +58,26 @@
           "time_info": "[00时29分 ~ 01时28分]"
         },
         {
-          "title": "盘点TOP演唱会",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9TOP%E6%BC%94%E5%94%B1%E4%BC%9A",
-          "source": "bilibili 热搜",
+          "title": "“只有河南”演出一男子占道大喊大叫",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AA%E6%9C%89%E6%B2%B3%E5%8D%97%E2%80%9D%E6%BC%94%E5%87%BA%E4%B8%80%E7%94%B7%E5%AD%90%E5%8D%A0%E9%81%93%E5%A4%A7%E5%96%8A%E5%A4%A7%E5%8F%AB",
+          "source": "百度热搜",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时04分 ~ 19时05分]"
+          "time_info": "[20时58分 ~ 20时59分]"
+        },
+        {
+          "title": "8月首周演唱会现场合集",
+          "url": "https://www.baidu.com/s?wd=8%E6%9C%88%E9%A6%96%E5%91%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%90%88%E9%9B%86",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 20时59分]"
         },
         {
           "title": "周杰伦给刘畊宏披哥应援",
