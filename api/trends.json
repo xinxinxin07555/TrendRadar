@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T18:49:04.589359+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-08-11T19:41:24.015446+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
           "ranks": [
             23,
             17,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时00分 ~ 18时49分]"
+          "appearance_count": 6,
+          "time_info": "[15时00分 ~ 19时41分]"
         },
         {
           "title": "韩国股市大起大落催生“炒股综艺”：明星艺人镜头前晒盈亏",
