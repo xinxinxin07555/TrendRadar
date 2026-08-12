@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T19:01:18.886140+08:00",
-  "total_titles_processed": 1377,
+  "generated_at": "2026-08-12T20:59:23.374209+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "微博",
           "ranks": [
             18,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时01分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 20时59分]"
         },
         {
           "title": "汪峰退出与森林北合伙公司",
