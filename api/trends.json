@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:38:32.073647+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-08-14T06:38:04.620341+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33773834",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时38分]"
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 06时38分]"
         },
         {
           "title": "TF四代青岛演唱会",
           "url": "https://www.douyin.com/hot/2608762",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 04时38分]"
+          "appearance_count": 5,
+          "time_info": "[02时57分 ~ 06时38分]"
         }
       ]
     }
