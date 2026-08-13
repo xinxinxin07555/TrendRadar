@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T16:18:50.317305+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-08-13T18:01:55.514290+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 16时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 18时01分]"
         },
         {
           "title": "官方调查郭德纲演出改编红歌",
@@ -40,7 +40,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         }
