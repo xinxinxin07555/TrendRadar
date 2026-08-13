@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T19:05:57.419624+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-08-13T21:01:54.112754+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "演唱会 11连坐",
@@ -27,11 +27,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 19时05分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 21时01分]"
         },
         {
           "title": "官方调查郭德纲演出改编红歌",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "开推5疑似只剩刘宇宁周柯宇",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8E%A85%E7%96%91%E4%BC%BC%E5%8F%AA%E5%89%A9%E5%88%98%E5%AE%87%E5%AE%81%E5%91%A8%E6%9F%AF%E5%AE%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时01分"
         }
       ]
     }
