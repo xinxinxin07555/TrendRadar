@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T02:48:03.743473+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-15T05:21:55.372920+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 05时21分]"
         },
         {
           "title": "郭德纲西安演出取消",
           "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 05时21分]"
         },
         {
           "title": "邓紫棋嘉兴演唱会暴雨中开唱",
@@ -37,8 +38,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时47分 ~ 02时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时47分 ~ 05时21分]"
         },
         {
           "title": "王力宏苏州演唱会",
