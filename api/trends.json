@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T12:04:52.341762+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-08-14T18:56:09.720555+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时57分 ~ 12时04分]"
+          "appearance_count": 11,
+          "time_info": "[02时57分 ~ 18时56分]"
         },
         {
           "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
@@ -61,7 +61,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
