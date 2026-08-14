@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T18:56:09.720555+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-08-14T19:43:07.957484+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "演出 演唱会 综艺 陶喆 梓渝 李健 今夜喜友秀 周杰伦 张学友 五月天 林俊杰 周华健 林子祥 叶蒨文 梁静茹 汪苏泷 G.E.M. 邓紫棋 王源 张杰 周深 华晨宇 张韶涵 王心凌 蔡依林 李健 张天赋 刘宇宁 陈慧娴 吴克群 杨宗纬 于文文 蔡健雅 张信哲 黄品源 张震岳 陈嘉桦 黄霄雲 刘雨昕 颜人中 Supper Moment 胡夏 蔡琴 汪峰 刘宪华 李宇春 Stray Kids Seventeen BLACKPINK G-Dragon NCT DREAMIVE NewJeans TXTENHYPEN 梓渝 郑润泽 王赫野 王小帅 揽佬 SUPER JUNIOR 张云雷",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "TF四代青岛演唱会",
@@ -17,8 +17,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时57分 ~ 18时56分]"
+          "appearance_count": 13,
+          "time_info": "[02时57分 ~ 19时43分]"
         },
         {
           "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时57分 ~ 07时37分]"
+        },
+        {
+          "title": "郭德纲西安演出取消",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%A5%BF%E5%AE%89%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "我镜头下的薛之谦演唱会",
