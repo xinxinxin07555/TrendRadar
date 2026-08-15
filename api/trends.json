@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T09:00:20.069322+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-08-15T10:16:00.594366+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             8,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时47分 ~ 09时00分]"
+          "appearance_count": 7,
+          "time_info": "[02时47分 ~ 10时16分]"
         },
         {
           "title": "邓紫棋嘉兴演唱会暴雨中开唱",
@@ -28,8 +29,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时47分 ~ 09时00分]"
+          "appearance_count": 7,
+          "time_info": "[02时47分 ~ 10时16分]"
         },
         {
           "title": "王力宏苏州演唱会",
@@ -40,8 +41,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时47分 ~ 10时16分]"
+        },
+        {
+          "title": "王赫野情商",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%B5%AB%E9%87%8E%E6%83%85%E5%95%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时47分 ~ 09时00分]"
+          "time_info": "[08时59分 ~ 10时16分]"
         },
         {
           "title": "郭德纲西安演出取消",
@@ -53,17 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 05时21分]"
-        },
-        {
-          "title": "王赫野情商",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%B5%AB%E9%87%8E%E6%83%85%E5%95%86&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
         }
       ]
     }
