@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T04:18:24.199326+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-08-17T05:16:32.609108+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时16分]"
         },
         {
           "title": "邓紫棋",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             13,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时16分]"
         },
         {
           "title": "侯明昊深圳演唱会",
@@ -36,11 +37,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时16分]"
         },
         {
           "title": "王源下一站南京见",
@@ -48,22 +50,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 04时18分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时16分]"
         },
         {
           "title": "王源年度最佳内地男歌手",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E5%86%85%E5%9C%B0%E7%94%B7%E6%AD%8C%E6%89%8B%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时18分 ~ 05时16分]"
         }
       ]
     }
