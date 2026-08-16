@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T09:03:14.005082+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-08-16T10:56:26.741101+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 10时56分]"
         },
         {
           "title": "主办方公告：麒麟剧社巡演及郭德纲于谦相声专场两场西安站演出延期，购票观众免手续费退款",
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 10时56分]"
         },
         {
           "title": "陈楚生合肥演唱会",
@@ -40,19 +41,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 09时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 10时56分]"
         },
         {
           "title": "任素汐成都演唱会泪洒舞台",
           "url": "https://www.baidu.com/s?wd=%E4%BB%BB%E7%B4%A0%E6%B1%90%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B3%AA%E6%B4%92%E8%88%9E%E5%8F%B0",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时02分 ~ 09时03分]"
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 10时56分]"
         },
         {
           "title": "王俊凯王源易烊千玺集齐粉发",
