@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:16:32.609108+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-08-17T07:17:00.134011+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 07时17分]"
         },
         {
           "title": "邓紫棋",
@@ -25,11 +25,12 @@
           "ranks": [
             13,
             12,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 07时17分]"
         },
         {
           "title": "侯明昊深圳演唱会",
@@ -38,11 +39,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 07时17分]"
         },
         {
           "title": "王源下一站南京见",
@@ -51,11 +53,12 @@
           "ranks": [
             23,
             30,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时18分 ~ 07时17分]"
         },
         {
           "title": "王源年度最佳内地男歌手",
@@ -63,11 +66,12 @@
           "source": "微博",
           "ranks": [
             28,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[04时18分 ~ 07时17分]"
         }
       ]
     }
