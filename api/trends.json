@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T09:01:45.028199+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-08-17T10:23:50.859311+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,23 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时18分 ~ 10时23分]"
+        },
+        {
+          "title": "侯明昊深圳演唱会",
+          "url": "https://www.douyin.com/hot/2612031",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15,
+            14,
+            22,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[03时18分 ~ 09时01分]"
+          "time_info": "[03时18分 ~ 10时23分]"
         },
         {
           "title": "纽约市长秀中文：演出现场见",
@@ -42,20 +57,6 @@
             12,
             15,
             14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时18分 ~ 07时17分]"
-        },
-        {
-          "title": "侯明昊深圳演唱会",
-          "url": "https://www.douyin.com/hot/2612031",
-          "source": "抖音",
-          "ranks": [
-            16,
-            15,
-            14,
-            22
           ],
           "is_new": false,
           "appearance_count": 6,
